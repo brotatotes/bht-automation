@@ -106,7 +106,7 @@ ENCODING = tiktoken.encoding_for_model("gpt-3.5-turbo")
 
 # Generate Choicest Piece
 # @timeout(10)
-def ask_gpt_choicest_timeout(commentary, verse_ref, choicest_prompt):
+def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt):
     prompt_text = get_prompt(CHOICEST_FOLDER_NAME, choicest_prompt)
     messages = []
 
@@ -128,7 +128,7 @@ def ask_gpt_choicest_timeout(commentary, verse_ref, choicest_prompt):
     model = "gpt-3.5-turbo"
     token_count = sum(len(ENCODING.encode(message["content"])) for message in messages)
     if token_count > 4097:
-        print(f"{verse_ref} *Too many tokens. Using 16k Context instead.*")
+        print(f"ℹ️ {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
         model += "-16k"
 
     try:
@@ -147,15 +147,15 @@ def ask_gpt_choicest_timeout(commentary, verse_ref, choicest_prompt):
     return chat_completion.choices[0].message["content"]
 
 
-def ask_gpt_choicest(commentary, verse_ref, choicest_prompt, tries=0, try_limit=10):
+def ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get choicest. Quitting. ❌")
     
     try:
-        return ask_gpt_choicest_timeout(commentary, verse_ref, choicest_prompt)
+        return ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt)
     except TimeoutError:
         print(f"Attempt {tries} timed out. Trying again.")
-        return ask_gpt_choicest(commentary, verse_ref, choicest_prompt, tries + 1)
+        return ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, tries + 1)
 
 
 def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=False):
@@ -190,7 +190,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                     choicest = f"1. {commentary}"
                 else:
                     while True:
-                        choicest = ask_gpt_choicest(commentary, verse_ref, choicest_prompt)
+                        choicest = ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt)
                         choicest_tokens = set(tokenize(choicest.lower()))
 
                         token_diff_limit = 2
@@ -228,7 +228,7 @@ def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_ch
 
     messages.append({
         "role": "user",
-        "content": f"I'll give you {len(commentator_choicests)} messages. Each will contain quotes from a specific commentator."
+        "content": f"I'll give you {len(commentator_choicests)} messages. Each will contain quotes from a commentator."
     })
 
     for commentator, choicest in commentator_choicests.items():
@@ -430,7 +430,7 @@ if __name__ == '__main__':
 
     start_time = time.time()
 
-    verses = ["Matthew 1:1"]
+    verses = ["1 John 1:1"]
 
     generate_bht_concurrently(verses, ["choicest prompt v2"], ["bht prompt v4"], COMMENTATORS)
 
