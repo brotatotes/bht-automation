@@ -10,6 +10,9 @@ import traceback
 import threading
 import math
 from gensim.utils import tokenize
+import spacy
+import re
+# from bht import BHT
 
 
 # GLOBALS
@@ -21,6 +24,13 @@ OUTPUT_FOLDER = "gpt output"
 CHOICEST_FOLDER_NAME = "choicest"
 BHT_FOLDER_NAME = "bht"
 OPENAI_API_KEY = open('openai-api-key.txt', 'r').read().strip()
+
+# SETUP
+
+openai.api_key = OPENAI_API_KEY
+ENCODING = tiktoken.encoding_for_model("gpt-3.5-turbo")
+nlp = spacy.load("en_core_web_sm") # Load the spaCy English language model
+STOP_WORDS = spacy.lang.en.stop_words.STOP_WORDS # Get the list of English stopwords
 
 # HELPER FUNCTIONS
 
@@ -99,12 +109,10 @@ def get_bht_output_path(choicest_prompt, bht_prompt, book, chapter, verse):
 def get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator):
     return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
-# SETUP
 
-openai.api_key = OPENAI_API_KEY
-ENCODING = tiktoken.encoding_for_model("gpt-3.5-turbo")
 
 # Generate Choicest Piece
+
 # @timeout(10)
 def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt):
     prompt_text = get_prompt(CHOICEST_FOLDER_NAME, choicest_prompt)
@@ -138,7 +146,7 @@ def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt
             # temperature=0.3
         )
     except openai.error.InvalidRequestError:
-        print("*4k didn't work. Trying 16k Context.*")
+        print(f"ℹ️ {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
         chat_completion = openai.ChatCompletion.create(
             model="gpt-3.5-turbo-16k", 
             messages=messages
@@ -213,7 +221,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
 
 # Generate BHT! 
 # @timeout(10)
-def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests):
+def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages):
     if not commentator_choicests:
         print(f"No commentary choicests found for {verse_ref}")
         return ""
@@ -237,28 +245,45 @@ def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_ch
             "content": f"{choicest}"
         })
 
-    chat_completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo", 
-        messages=messages,
-    )
+    messages.extend(extra_messages)
+
+    model = "gpt-3.5-turbo"
+    token_count = sum(len(ENCODING.encode(message["content"])) for message in messages)
+    if token_count > 4097:
+        print(f"ℹ️ {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
+        model += "-16k"
+
+    try:
+        chat_completion = openai.ChatCompletion.create(
+            model=model, 
+            messages=messages,
+            # temperature=0.3
+        )
+    except openai.error.InvalidRequestError:
+        print(f"ℹ️ {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
+        chat_completion = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo-16k", 
+            messages=messages
+        )
 
     return chat_completion.choices[0].message["content"]
 
 
-def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, tries=0, try_limit=10):
+def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get bht. Quitting. ❌")
     
     try:
-        return ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests)
+        return ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages)
     except TimeoutError:
         print(f"Attempt {tries} timed out. Trying again.")
-        return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, tries + 1)
+        return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries + 1)
 
 
 def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force_redo=False):
     for choicest_prompt in choicest_prompts:
         for bht_prompt in bht_prompts:
+            debug_logs = []
             book, chapter, verse = get_book_chapter_verse(verse_ref)
 
             out_path = get_bht_output_path(choicest_prompt, bht_prompt, book, chapter, verse)
@@ -266,7 +291,9 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
             # print(f"🟧 {verse_ref} {bht_prompt}", flush=True)
 
             if not force_redo and os.path.exists(out_path):
-                print(f"✅ {verse_ref} {bht_prompt} File already exists.", flush=True)
+                msg = f"✅ {verse_ref} {bht_prompt} File already exists."
+                debug_logs.append(msg)
+                print(msg)
                 continue
 
             commentator_choicests = get_commentary_choicests(verse_ref, choicest_prompt, commentators)
@@ -274,28 +301,98 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
             for choicest in commentator_choicests.values():
                 choicests_tokens |= set(tokenize(choicest.lower()))
 
-            proportion_from_choicests_limit = 0.7
+            proportion_min_limit = 0.7
+            proportion_max_limit = 0.99
+            max_word_limit = 100
+            min_word_limit = 25
+            extra_messages = []
+            attempts_limit = 5
+            current_attempt = 0
 
-            while True:
-                bht = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentator_choicests)
-                bht_tokens = list(tokenize(bht.lower()))
+            best_bht_content = None
+            best_bht_proportion_percentage = 0
+
+            while current_attempt < attempts_limit:
+                current_attempt += 1
+                bht_content = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentator_choicests, extra_messages)
+
+                # Manually clean BHT.
+                bht_content = bht_content.replace("\"", "") # Remove quotation marks.
+                bht_content = re.sub(r'^[^a-zA-Z]*', '', bht_content) # Remove non-letter characters from beginning.
+
+                bht_tokens = list(tokenize(bht_content.lower()))
                 bht_tokens_set = set(bht_tokens)
-                tokens_not_from_choicests = len(bht_tokens_set - choicests_tokens)
+                tokens_not_from_choicests = len(bht_tokens_set - choicests_tokens - STOP_WORDS)
                 proportion_from_choicests = 1 - tokens_not_from_choicests / len(bht_tokens_set)
                 proportion_from_choicests_rounded_percentage = round(proportion_from_choicests * 100, 2)
 
-                if len(bht_tokens) > 100:
-                    print(f"🔄 {verse_ref} BHT WAS OVER 100 WORDS! ({len(bht_tokens)}) Regenerating.")
-                elif proportion_from_choicests < proportion_from_choicests_limit:
-                    print(f"🔄 {verse_ref} LESS THAN {proportion_from_choicests_limit * 100}% OF BHT WAS FROM QUOTES! ({proportion_from_choicests_rounded_percentage}%) Regenerating.")
+                # Manually check word count and quotes usage.
+                too_many_words = len(bht_tokens) > max_word_limit
+                not_enough_words = len(bht_tokens) < min_word_limit
+                not_enough_from_quotes = proportion_from_choicests < proportion_min_limit
+                too_much_from_quotes = proportion_from_choicests > proportion_max_limit
+                commentator_in_tokens = "commentator" in bht_tokens_set or "commentators" in bht_tokens_set
+
+                needs_another_attempt = too_many_words or not_enough_words or not_enough_from_quotes or too_much_from_quotes or commentator_in_tokens
+
+                # Keep track of best BHT we've seen across all attempts.
+                if (best_bht_content == None or 
+                    (not too_much_from_quotes and not not_enough_words and len(bht_tokens) <= len(best_bht_tokens) and proportion_from_choicests_rounded_percentage >= best_bht_proportion_percentage) or
+                    (not too_many_words and not not_enough_words and not too_much_from_quotes and proportion_from_choicests_rounded_percentage > best_bht_proportion_percentage)):
+                    best_bht_content = bht_content
+                    best_bht_proportion_percentage = proportion_from_choicests_rounded_percentage
+                    best_bht_tokens = bht_tokens
+                    best_bht_tokens_set = bht_tokens_set
+
+                if needs_another_attempt:
+                    extra_messages.append({
+                        "role": "assistant",
+                        "content": bht_content
+                    })
+
+                    complaints = []
+
+                    info_msg = [f"🔄 {verse_ref}"]
+
+                    if too_many_words:
+                        complaints.append(f"Please limit your response to {max_word_limit} words.")
+                        info_msg.append(f"BHT WAS OVER 100 WORDS! ({len(bht_tokens)}).")
+                    elif not_enough_words:
+                        complaints.append(f"Please make sure your response is at least {min_word_limit} words.")
+                        info_msg.append(f"BHT WAS UNDER 20 WORDS! ({len(bht_tokens)}).")
+                    
+                    if not_enough_from_quotes:
+                        complaints.append(f"Please make sure at least {proportion_min_limit * 100}% of the words in your response come from the quotes.")
+                        info_msg.append(f"LESS THAN {proportion_min_limit * 100}% OF BHT WAS FROM QUOTES! ({proportion_from_choicests_rounded_percentage}%).")
+                    elif too_much_from_quotes:
+                        complaints.append(f"Please make sure you are not just copying the quotes.")
+                        info_msg.append(f"MORE THAN {proportion_max_limit * 100}% OF BHT WAS FROM QUOTES! ({proportion_from_choicests_rounded_percentage}%).")
+
+                    if commentator_in_tokens:
+                        complaints.append(f"Please do not use the word 'commentator' in your response.")
+                        info_msg.append(f"'COMMENTATOR' FOUND IN BHT!")
+
+                    info_msg.append("Regenerating.")
+
+                    extra_messages.append({
+                        "role": "user",
+                        "content": ' '.join(complaints)
+                    })
+                    
+                    msg = ' '.join(info_msg)
+                    debug_logs.append(msg)
+                    print(msg)
+
                 else:
                     break
 
             os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
+            debug_logs.append(f"✅ {verse_ref} {bht_prompt} Done!")
+
             with open(out_path, 'w', encoding='utf-8') as out_file:
                 out_file.write(f"# {verse_ref} Commentary Help Text\n\n")
-                out_file.write(f"## BHT:\n{bht}\n\n")
+                out_file.write(f"## BHT:\n{best_bht_content}\n\n")
 
                 out_file.write(f"## Choicest Commentary Quotes:\n")
                 for commentator, choicest in get_commentary_choicests(verse_ref, choicest_prompt, commentators).items():
@@ -303,12 +400,21 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 
                 out_file.write("\n")
 
-                out_file.write(f"## Generation Details\n")
+                out_file.write(f"## Debug Generation Details\n")
                 out_file.write(f"- Choicest Prompt: \"{choicest_prompt}\"\n")
                 out_file.write(f"- BHT Prompt: \"{bht_prompt}\"\n")
                 out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")
+                out_file.write(f"- BHT Word Count: {len(best_bht_tokens)}\n")
+                out_file.write(f"- BHT Commentary Usage: {best_bht_proportion_percentage}%\n")
+                out_file.write(f"- Generate Attempts: {current_attempt} / {attempts_limit}\n")
+                injected_words = sorted(list(best_bht_tokens_set - choicests_tokens))
+                out_file.write(f"- ChatGPT injected words ({len(injected_words)}):\n\t{injected_words}\n")
+                injected_significant_words = sorted(list(best_bht_tokens_set - choicests_tokens - STOP_WORDS))
+                out_file.write(f"- ChatGPT injected words (significant words only) ({len(injected_significant_words)}):\n\t{injected_significant_words}\n")
+                out_file.write(f"### Debug Logs\n")
+                out_file.write('- ' + '\n- '.join(debug_logs))
             
-            print(f"✅ {verse_ref} {bht_prompt} Done! ({len(bht_tokens)} words, {proportion_from_choicests_rounded_percentage}% quotes)", flush=True)
+            print(f"✅ {verse_ref} {bht_prompt} Done! ({len(best_bht_tokens)} words, {best_bht_proportion_percentage}% quotes)", flush=True)
 
             # time.sleep(0.017) # follow rate limits
 
@@ -416,11 +522,12 @@ if __name__ == '__main__':
         # "James",
         # "1 Peter",
         # "2 Peter",
-        "1 John",
+        # "1 John",
         # "2 John",
         # "3 John",
         # "Jude",
         # "Revelation",
+        "1 John 4"
         ]]
     
     verses = []
@@ -430,9 +537,7 @@ if __name__ == '__main__':
 
     start_time = time.time()
 
-    verses = ["1 John 1:1"]
-
-    generate_bht_concurrently(verses, ["choicest prompt v2"], ["bht prompt v4"], COMMENTATORS)
+    generate_bht_concurrently(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
 
     elapsed_time = time.time() - start_time
     print(f"That took {elapsed_time} seconds.")
