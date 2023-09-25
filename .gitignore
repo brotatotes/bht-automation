@@ -4,6 +4,9 @@ openai-api-key.txt
 scrape commentary/commentary_output
 check_choicests.md
 
+# Ignore python compiled bytecode files
+__pycache__/
+
 # Ignore Visual Studio Code settings
 .vscode/
 

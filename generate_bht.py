@@ -11,7 +11,6 @@ import threading
 import math
 from gensim.utils import tokenize
 import spacy
-import re
 from bht import BHT
 
 
@@ -322,9 +321,13 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
             for choicest in commentator_choicests.values():
                 choicests_tokens_set |= set(tokenize(choicest.lower()))
 
-            proportion_limits = (0.7, 0.90)
-            min_proportion_limit, max_proportion_limit = proportion_limits
+            proportion_limits = (0.7, 0.9)
+            strict_proportion_limits = (0.5, 0.9)
+            target_proportion = 0.9
             word_limits = (25, 100)
+            strict_word_limits = (25, 130)
+            target_word_count = 80
+            min_proportion_limit, max_proportion_limit = proportion_limits
             min_word_limit, max_word_limit = word_limits
             extra_messages = []
             attempts_limit = 5
@@ -337,7 +340,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 bht_text = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentator_choicests, extra_messages)
 
                 current_bht = BHT(bht_text)
-                current_bht.init_checks(choicests_tokens_set, STOP_WORDS_SET, word_limits, proportion_limits)
+                current_bht.init_checks(choicests_tokens_set, STOP_WORDS_SET, word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion)
 
                 # Keep track of best BHT we've seen across all attempts.
                 if current_bht > best_bht:
@@ -354,25 +357,29 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 
                     complaints = []
 
-                    info_msg = [f"🔄 {verse_ref} (Attempt {current_attempt}, {current_bht.word_count} words, {current_bht.proportion_percentage}% quotes)"]
+                    info_msg = [f"🔄 {verse_ref} (attempt {current_attempt}, {current_bht.word_count} words, {current_bht.proportion_percentage}% quotes, quality score: {current_bht.content_score})"]
 
                     if current_bht.too_many_words:
                         complaints.append(f"Please limit your response to {max_word_limit} words.")
-                        info_msg.append(f"BHT WAS OVER 100 WORDS!")
+                        info_msg.append(f"\n\t- BHT WAS OVER 100 WORDS!")
                     elif current_bht.not_enough_words:
                         complaints.append(f"Please make sure your response is at least {min_word_limit} words.")
-                        info_msg.append(f"BHT WAS UNDER {min_word_limit} WORDS!")
+                        info_msg.append(f"\n\t- BHT WAS UNDER {min_word_limit} WORDS!")
                     
                     if current_bht.not_enough_from_quotes:
                         complaints.append(f"Please make sure at least {min_proportion_limit * 100}% of the words in your response come from the quotes.")
-                        info_msg.append(f"LESS THAN {min_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
+                        info_msg.append(f"\n\t- LESS THAN {min_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
                     elif current_bht.too_much_from_quotes:
                         complaints.append(f"Please make sure you are not just copying the quotes.")
-                        info_msg.append(f"OVER {max_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
+                        info_msg.append(f"\n\t- OVER {max_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
 
                     if current_bht.commentator_in_tokens:
                         complaints.append(f"Please do not use the word 'commentator' in your response.")
-                        info_msg.append(f"'COMMENTATOR' FOUND IN BHT!")
+                        info_msg.append(f"\n\t- 'COMMENTATOR(S)' FOUND IN BHT!")
+
+                    if current_bht.list_detected:
+                        complaints.append(f"Please do not provide any kind of list. Please make sure your response is a short paragraph of sentences.")
+                        info_msg.append(f"\n\t- LIST FORMAT DETECTED!")
 
                     extra_messages.append({
                         "role": "user",
@@ -404,6 +411,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")
                 out_file.write(f"- BHT Word Count: {best_bht.word_count}\n")
                 out_file.write(f"- BHT Commentary Usage: {best_bht.proportion_percentage}%\n")
+                out_file.write(f"- BHT Quality Score: {best_bht.content_score}\n")
                 out_file.write(f"- Generate Attempts: {current_attempt} / {attempts_limit}\n")
                 out_file.write(f"- ChatGPT injected words ({len(best_bht.injected_words)}):\n\t{best_bht.injected_words}\n")
                 out_file.write(f"- ChatGPT injected words (significant words only) ({len(best_bht.injected_significant_words)}):\n\t{best_bht.injected_significant_words}\n")
@@ -411,7 +419,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 out_file.write(f"### Logs\n")
                 out_file.write('- ' + '\n- '.join(debug_logs))
             
-            print(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes)")
+            print(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes, quality score: {current_bht.content_score})")
 
             # time.sleep(0.017) # follow rate limits
 
@@ -525,7 +533,10 @@ if __name__ == '__main__':
         # "3 John",
         # "Jude",
         # "Revelation",
-        "Romans 8", "1 John 1", "John 3", "Ephesians 1"
+
+        # "Romans 8", "1 John 1", 
+        "John 3", 
+        # "Ephesians 1"
         ]]
     
     verses = []
