@@ -1,7 +1,7 @@
 # Ephesians 1:14 Commentary Help Text
 
 ## BHT:
-The Holy Spirit is given to us as a pledge, a promise ensuring that we will receive the complete inheritance of eternal life. He is the first payment, a foretaste of the glory and happiness that awaits us. This seal of the Spirit is not temporary but remains in the heart as a perpetual presence. He guarantees our perseverance and security in Christ, abiding with us until we fully experience the joy and freedom of our redemption. All of this is done to the praise and honor of God's glorious attributes, reflecting His wisdom, power, and mercy.
+God's seal of the Holy Spirit is both a pledge and a foretaste of our heavenly inheritance. This seal guarantees that the church, redeemed by Christ's blood, will be fully delivered from sin and sorrow and brought into eternal glory. The indwelling of the Spirit is a constant presence, assuring us of His grace and guaranteeing our perseverance as saints. All of this points to the glorious wisdom, power, and mercy of God, worthy of our praise.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -45,14 +45,14 @@ The Holy Spirit is given to us as a pledge, a promise ensuring that we will rece
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 73.85%
-- BHT Quality Score: 78.15384615384615
+- BHT Word Count: 79
+- BHT Commentary Usage: 80.0%
+- BHT Quality Score: 88.99999999999999
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (19):
-	['abiding', 'attributes', 'awaits', 'but', 'done', 'ensuring', 'experience', 'freedom', 'guarantees', 'honor', 'joy', 'perpetual', 'presence', 'promise', 'receive', 'reflecting', 'remains', 'seal', 'temporary']
-- ChatGPT injected words (significant words only) (17):
-	['abiding', 'attributes', 'awaits', 'ensuring', 'experience', 'freedom', 'guarantees', 'honor', 'joy', 'perpetual', 'presence', 'promise', 'receive', 'reflecting', 'remains', 'seal', 'temporary']
+- ChatGPT injected words (12):
+	['assuring', 'brought', 'by', 'constant', 'guaranteeing', 'guarantees', 'indwelling', 'points', 'presence', 'redeemed', 'seal', 'worthy']
+- ChatGPT injected words (significant words only) (11):
+	['assuring', 'brought', 'constant', 'guaranteeing', 'guarantees', 'indwelling', 'points', 'presence', 'redeemed', 'seal', 'worthy']
 
 ### Logs
-- ✅ Ephesians 1:14 bht prompt v5 (98 words, 73.85% quotes)
+- ✅ Ephesians 1:14 bht prompt v5 (79 words, 80.0% quotes)

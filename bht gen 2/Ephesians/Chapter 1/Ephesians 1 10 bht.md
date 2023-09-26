@@ -1,7 +1,7 @@
 # Ephesians 1:10 Commentary Help Text
 
 ## BHT:
-In the Gospel times, a new dispensation began in which God's plan encompasses all events from before the foundation of the world to the completion of all times. This plan aims to gather all things together in Christ, reconciling all things to Himself, and uniting the kingdoms of heaven and earth under one harmonious and loving head. Through Christ, all creatures are brought back to their proper condition of being close to God, establishing a restored unity and a redeemed creation.
+In the grand plan of salvation, encompassing the Gospel times, God's purpose is to gather and reconcile all creation in Christ. From the foundation of the world, the divine plan stretches to unite heaven and earth under one harmonious kingdom. Through Christ, all things are brought back to their proper condition, in perfect unity with God. Human presumption should submit to God's providence in understanding the succession of events. By gathering all things in His body, Christ establishes actual harmony between heaven and earth, uniting angels and men in the Lord.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -45,14 +45,14 @@ In the Gospel times, a new dispensation began in which God's plan encompasses al
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 83.64%
-- BHT Quality Score: 84.36363636363635
+- BHT Word Count: 93
+- BHT Commentary Usage: 85.71%
+- BHT Quality Score: 71.28571428571428
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (11):
-	['aims', 'being', 'completion', 'encompasses', 'establishing', 'harmonious', 'loving', 'reconciling', 'restored', 'through', 'uniting']
+- ChatGPT injected words (10):
+	['divine', 'encompassing', 'establishes', 'grand', 'harmonious', 'stretches', 'submit', 'through', 'understanding', 'uniting']
 - ChatGPT injected words (significant words only) (9):
-	['aims', 'completion', 'encompasses', 'establishing', 'harmonious', 'loving', 'reconciling', 'restored', 'uniting']
+	['divine', 'encompassing', 'establishes', 'grand', 'harmonious', 'stretches', 'submit', 'understanding', 'uniting']
 
 ### Logs
-- ✅ Ephesians 1:10 bht prompt v5 (82 words, 83.64% quotes)
+- ✅ Ephesians 1:10 bht prompt v5 (93 words, 85.71% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 1:8 Commentary Help Text
 
 ## BHT:
-Through the abundant grace of God manifested in the Gospel, we are granted a living knowledge of His thoughts and ways. This wisdom and prudence enlighten our understanding of our earthly life in the context of God's eternal perspective. The Gospel of God's grace surpasses any claims of human wisdom or philosophy, serving as a declaration of His free grace in the salvation, justification, and forgiveness of sinners. It is through this grace that believers are transformed and empowered to know and fulfill God's will. The riches of His grace are lavishly poured out and enable us to live in alignment with His divine purpose.
+In the abundant grace of God, His wisdom is made clear in the plan of redemption and forgiveness. The Gospel is the manifestation of this wisdom and it serves to cultivate wisdom and prudence within us, enabling us to understand and fulfill God's will. It is crucial to recognize the wisdom and prudence of God in the Gospel, for they have the power to transform our lives and guide us in the ways of righteousness.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -48,24 +48,17 @@ Through the abundant grace of God manifested in the Gospel, we are granted a liv
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 108
-- BHT Commentary Usage: 72.73%
-- BHT Quality Score: 69.27272727272727
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (21):
-	['alignment', 'any', 'are', 'claims', 'context', 'divine', 'empowered', 'enable', 'enlighten', 'eternal', 'fulfill', 'granted', 'human', 'lavishly', 'live', 'or', 'perspective', 'philosophy', 'serving', 'surpasses', 'transformed']
-- ChatGPT injected words (significant words only) (18):
-	['alignment', 'claims', 'context', 'divine', 'empowered', 'enable', 'enlighten', 'eternal', 'fulfill', 'granted', 'human', 'lavishly', 'live', 'perspective', 'philosophy', 'serving', 'surpasses', 'transformed']
+- BHT Word Count: 76
+- BHT Commentary Usage: 71.43%
+- BHT Quality Score: 94.57142857142857
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (15):
+	['crucial', 'cultivate', 'enabling', 'fulfill', 'guide', 'have', 'lives', 'manifestation', 'power', 'recognize', 'serves', 'they', 'transform', 'understand', 'within']
+- ChatGPT injected words (significant words only) (12):
+	['crucial', 'cultivate', 'enabling', 'fulfill', 'guide', 'lives', 'manifestation', 'power', 'recognize', 'serves', 'transform', 'understand']
 
 ### Logs
-- 🔄 Ephesians 1:8 (attempt 1, 138 words, 86.3% quotes, quality score: 25.698630136986296) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:8 (attempt 2, 112 words, 77.42% quotes, quality score: 60.58064516129032) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:8 (attempt 3, 108 words, 72.73% quotes, quality score: 69.27272727272727) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:8 (attempt 4, 112 words, 76.19% quotes, quality score: 61.80952380952381) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:8 (attempt 5, 108 words, 76.92% quotes, quality score: 65.07692307692308) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:8 bht prompt v5 (108 words, 72.73% quotes)
+- 🔄 Ephesians 1:8 (attempt 1, 90 words, 68.75% quotes, quality score: 88.75) 
+	- 'COMMENTATOR(S)' FOUND IN BHT! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 1:8 bht prompt v5 (76 words, 71.43% quotes)

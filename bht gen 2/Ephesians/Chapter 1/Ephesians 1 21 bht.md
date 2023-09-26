@@ -1,7 +1,7 @@
 # Ephesians 1:21 Commentary Help Text
 
 ## BHT:
-Christ, both as God and as man, holds supreme authority over all beings, including demons, angels, and earthly rulers. His power extends over all realms, from hell to heaven, and from present to future. No name or title can surpass the exaltation of Jesus, whose grandeur transcends every created order. Even those who are unknown to us now will ultimately be subject to the sovereignty of Christ. Such is the greatness and preeminence of our Lord, who reigns above all.
+Christ's authority extends far above all principality, authority, power, and dominion. He is the King of kings and Lord of lords, exalted above every name and title conceivable. His wisdom surpasses all, and He reigns over all ranks of creatures, no matter how exalted. The glory of men and angels pales in comparison to the unmatched splendor of Christ. His dominion encompasses the present world and the future life, making all things subject to His sovereignty. From the heavenly realms to earthly rulers, there is no authority that does not bow before the majestic power and authority of Christ.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -45,14 +45,16 @@ Christ, both as God and as man, holds supreme authority over all beings, includi
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 66.67%
-- BHT Quality Score: 96.66666666666669
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (29):
-	['beings', 'both', 'created', 'earthly', 'exaltation', 'extends', 'grandeur', 'greatness', 'holds', 'including', 'no', 'now', 'order', 'our', 'preeminence', 'realms', 'reigns', 'rulers', 'sovereignty', 'such', 'supreme', 'surpass', 'title', 'transcends', 'ultimately', 'unknown', 'us', 'whose', 'will']
-- ChatGPT injected words (significant words only) (21):
-	['beings', 'created', 'earthly', 'exaltation', 'extends', 'grandeur', 'greatness', 'holds', 'including', 'order', 'preeminence', 'realms', 'reigns', 'rulers', 'sovereignty', 'supreme', 'surpass', 'title', 'transcends', 'ultimately', 'unknown']
+- BHT Word Count: 100
+- BHT Commentary Usage: 68.75%
+- BHT Quality Score: 78.75
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (24):
+	['before', 'bow', 'comparison', 'does', 'earthly', 'encompasses', 'extends', 'heavenly', 'how', 'majestic', 'making', 'matter', 'no', 'pales', 'realms', 'reigns', 'rulers', 's', 'sovereignty', 'splendor', 'surpasses', 'things', 'title', 'unmatched']
+- ChatGPT injected words (significant words only) (20):
+	['bow', 'comparison', 'earthly', 'encompasses', 'extends', 'heavenly', 'majestic', 'making', 'matter', 'pales', 'realms', 'reigns', 'rulers', 's', 'sovereignty', 'splendor', 'surpasses', 'things', 'title', 'unmatched']
 
 ### Logs
-- ✅ Ephesians 1:21 bht prompt v5 (80 words, 66.67% quotes)
+- 🔄 Ephesians 1:21 (attempt 1, 101 words, 64.79% quotes, quality score: 73.7887323943662) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 1:21 bht prompt v5 (100 words, 68.75% quotes)

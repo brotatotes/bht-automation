@@ -1,7 +1,7 @@
 # Ephesians 1:7 Commentary Help Text
 
 ## BHT:
-The verse reminds us that our redemption has been secured through the blood of Christ, which is the price paid for our deliverance from sin and its consequences. This redemption includes the freedom and forgiveness of sins, as well as the glorious inheritance and eternal life that awaits us as children of God. The term forgiveness of sins entails not only the release from the penalty of sin, but also the removal of its pollution and the restoration of a right relationship with God. This redemption is a testament to the abundant grace and mercy of God, which is poured out richly upon us.
+Through the blood of Christ, our redemption has been secured, freeing us from the guilt and power of sin. It is through the work and suffering of Christ that we have obtained this great benefit. This redemption is granted to us according to the abundant overflowings of God's grace, revealing the immeasurable depth of His mercy and favor towards us.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -50,24 +50,14 @@ The verse reminds us that our redemption has been secured through the blood of C
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 104
-- BHT Commentary Usage: 76.19%
-- BHT Quality Score: 69.80952380952381
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (17):
-	['also', 'awaits', 'entails', 'freedom', 'glorious', 'poured', 'relationship', 'release', 'reminds', 'removal', 'restoration', 'richly', 'secured', 'term', 'testament', 'upon', 'verse']
-- ChatGPT injected words (significant words only) (15):
-	['awaits', 'entails', 'freedom', 'glorious', 'poured', 'relationship', 'release', 'reminds', 'removal', 'restoration', 'richly', 'secured', 'term', 'testament', 'verse']
+- BHT Word Count: 61
+- BHT Commentary Usage: 79.07%
+- BHT Quality Score: 71.93023255813954
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (10):
+	['depth', 'freeing', 'granted', 'great', 'immeasurable', 'revealing', 'secured', 'suffering', 'towards', 'work']
+- ChatGPT injected words (significant words only) (9):
+	['depth', 'freeing', 'granted', 'great', 'immeasurable', 'revealing', 'secured', 'suffering', 'work']
 
 ### Logs
-- 🔄 Ephesians 1:7 (attempt 1, 104 words, 84.06% quotes, quality score: 61.94202898550725) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:7 (attempt 2, 107 words, 75.71% quotes, quality score: 67.28571428571428) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:7 (attempt 3, 104 words, 76.19% quotes, quality score: 69.80952380952381) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:7 (attempt 4, 103 words, 78.12% quotes, quality score: 68.875) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:7 (attempt 5, 109 words, 73.02% quotes, quality score: 67.98412698412697) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:7 bht prompt v5 (104 words, 76.19% quotes)
+- ✅ Ephesians 1:7 bht prompt v5 (61 words, 79.07% quotes)

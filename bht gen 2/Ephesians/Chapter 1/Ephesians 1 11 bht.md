@@ -1,7 +1,7 @@
 # Ephesians 1:11 Commentary Help Text
 
 ## BHT:
-We have been made to have an inheritance in Christ, which is the glorious inheritance of heaven obtained through faith. This inheritance is to the praise of God's glory and is not limited to a select few, but available to all who believe. Through His infinite wisdom and sovereign will, God predestined us for this purpose, orchestrating all things according to His perfect plan. His divine agency is displayed throughout creation, and we can trust that He will do all things well. His purpose and will are unchangeable, flowing from the rectitude of His nature.
+In Christ, we have received an inheritance, becoming partakers of the glorious heavenly Canaan. This inheritance was predestined according to God's purpose, which is not arbitrary but flows from the wisdom and will of the one who orchestrates all things according to his own perfect plan. Our inheritance is like the land of Canaan, which was allotted by lot to the children of Israel, highlighting the certainty and divine arrangement of God's promises. His predestination is rooted in his sovereign wisdom, ensuring that all things work together for the good of those who believe in him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -49,16 +49,16 @@ We have been made to have an inheritance in Christ, which is the glorious inheri
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 84.62%
-- BHT Quality Score: 69.38461538461539
+- BHT Word Count: 98
+- BHT Commentary Usage: 75.76%
+- BHT Quality Score: 76.24242424242424
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (15):
-	['are', 'available', 'displayed', 'divine', 'faith', 'few', 'limited', 'orchestrating', 'plan', 'select', 'through', 'throughout', 'trust', 'unchangeable', 'us']
-- ChatGPT injected words (significant words only) (10):
-	['available', 'displayed', 'divine', 'faith', 'limited', 'orchestrating', 'plan', 'select', 'trust', 'unchangeable']
+- ChatGPT injected words (19):
+	['allotted', 'arrangement', 'becoming', 'certainty', 'divine', 'ensuring', 'flows', 'good', 'highlighting', 'like', 'orchestrates', 'partakers', 'plan', 'promises', 'received', 'rooted', 'those', 'together', 'work']
+- ChatGPT injected words (significant words only) (16):
+	['allotted', 'arrangement', 'certainty', 'divine', 'ensuring', 'flows', 'good', 'highlighting', 'like', 'orchestrates', 'partakers', 'plan', 'promises', 'received', 'rooted', 'work']
 
 ### Logs
-- 🔄 Ephesians 1:11 (attempt 1, 109 words, 88.41% quotes, quality score: 52.59420289855072) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:11 bht prompt v5 (96 words, 84.62% quotes)
+- 🔄 Ephesians 1:11 (attempt 1, 79 words, 93.1% quotes, quality score: 75.89655172413794) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- ✅ Ephesians 1:11 bht prompt v5 (98 words, 75.76% quotes)

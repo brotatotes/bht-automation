@@ -1,7 +1,7 @@
 # Ephesians 1:15 Commentary Help Text
 
 ## BHT:
-Paul commends the Ephesian believers for their faith and love, which he had heard about through reports. Their faith is not superficial, but a deep and personal relationship with Christ, encompassing a complete dependence on Him. Their love extends beyond the boundaries of the Christian community, embracing all people. This love is fervent, genuine, and active, displaying the evidence of genuine conversion. Faith and love are inseparable qualities that go hand in hand, always present in those who possess them, and cannot be hidden. Their faith and love serve as a testimony to the Ephesian church and encourage their spiritual growth.
+Upon learning of the believers' faith and love, it becomes evident that these two graces are inseparable and always present in the same individuals. The grace of faith is characterized by a deep communion with Christ, embracing His glory and relying on Him completely. Love, on the other hand, extends to all believers, regardless of their differences. It is a genuine, fervent, and tireless love that serves as evidence of true regeneration. This combination of faith and love is not something that can go unnoticed, for it is a tangible manifestation of a genuine relationship with God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -42,25 +42,16 @@ Paul commends the Ephesian believers for their faith and love, which he had hear
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 101
-- BHT Commentary Usage: 62.5%
-- BHT Quality Score: 71.5
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (31):
-	['as', 'beyond', 'boundaries', 'christ', 'church', 'commends', 'community', 'complete', 'conversion', 'deep', 'dependence', 'displaying', 'encompassing', 'encourage', 'ephesian', 'extends', 'hand', 'hidden', 'people', 'personal', 'possess', 'present', 'qualities', 'relationship', 'reports', 'serve', 'spiritual', 'superficial', 'testimony', 'through', 'who']
-- ChatGPT injected words (significant words only) (27):
-	['boundaries', 'christ', 'church', 'commends', 'community', 'complete', 'conversion', 'deep', 'dependence', 'displaying', 'encompassing', 'encourage', 'ephesian', 'extends', 'hand', 'hidden', 'people', 'personal', 'possess', 'present', 'qualities', 'relationship', 'reports', 'serve', 'spiritual', 'superficial', 'testimony']
+- BHT Word Count: 97
+- BHT Commentary Usage: 66.67%
+- BHT Quality Score: 79.66666666666669
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (27):
+	['as', 'becomes', 'can', 'characterized', 'christ', 'combination', 'communion', 'completely', 'deep', 'differences', 'evident', 'extends', 'hand', 'individuals', 'learning', 'manifestation', 'other', 'present', 'regardless', 'relationship', 'relying', 'serves', 'something', 'tangible', 'tireless', 'true', 'unnoticed']
+- ChatGPT injected words (significant words only) (22):
+	['characterized', 'christ', 'combination', 'communion', 'completely', 'deep', 'differences', 'evident', 'extends', 'hand', 'individuals', 'learning', 'manifestation', 'present', 'regardless', 'relationship', 'relying', 'serves', 'tangible', 'tireless', 'true', 'unnoticed']
 
 ### Logs
-- 🔄 Ephesians 1:15 (attempt 1, 185 words, 57.69% quotes, quality score: -17.307692307692307) 
-	- BHT WAS OVER 100 WORDS! 
+- 🔄 Ephesians 1:15 (attempt 1, 25 words, 86.36% quotes, quality score: 28.63636363636363) 
 	- LIST FORMAT DETECTED!
-- 🔄 Ephesians 1:15 (attempt 2, 103 words, 61.64% quotes, quality score: 68.64383561643837) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:15 (attempt 3, 109 words, 60.29% quotes, quality score: 61.29411764705884) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:15 (attempt 4, 101 words, 62.5% quotes, quality score: 71.5) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:15 (attempt 5, 106 words, 57.14% quotes, quality score: 61.142857142857146) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:15 bht prompt v5 (101 words, 62.5% quotes)
+- ✅ Ephesians 1:15 bht prompt v5 (97 words, 66.67% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 1:18 Commentary Help Text
 
 ## BHT:
-When the eyes of your heart are enlightened, the understanding is expanded to see the profound truths of the faith. The heart, serving as the core of life and the fountain of thoughts, becomes awakened to the beauty and glory of Christ as a Savior. Through the Holy Spirit's work, profound revelations of truth are made known, leading to a deeper understanding of sin's gravity and the insufficiency of our own righteousness. The hope of God's calling becomes evident, encompassing the blessings of eternal happiness and the grace of hope itself. Ultimately, this enlightenment opens our hearts to the richness of God's glorious inheritance in the saints.
+The eyes of our understanding, enlightened by the Holy Spirit, enable us to perceive the profound truths of God. Through this illumination, we come to recognize the depths of sin, the insufficiency of our own righteousness, and the glorious sufficiency of Christ as our Savior. It is with this understanding that we begin to grasp the hope embedded in God's calling. This hope may encompass the eternal happiness we yearn for, the unshakeable foundation of Christ, or the transformative grace of hope itself. In God's inheritance, we discover boundless riches and the resplendent glory that He has prepared for His saints.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -45,25 +45,25 @@ When the eyes of your heart are enlightened, the understanding is expanded to se
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 111
-- BHT Commentary Usage: 76.12%
-- BHT Quality Score: 62.88059701492537
+- BHT Word Count: 103
+- BHT Commentary Usage: 70.15%
+- BHT Quality Score: 76.8507462686567
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (19):
-	['awakened', 'becomes', 'deeper', 'encompassing', 'enlightenment', 'evident', 'expanded', 'gravity', 'hearts', 'itself', 'known', 'leading', 'profound', 'revelations', 'richness', 'savior', 'serving', 'through', 'ultimately']
-- ChatGPT injected words (significant words only) (16):
-	['awakened', 'deeper', 'encompassing', 'enlightenment', 'evident', 'expanded', 'gravity', 'hearts', 'known', 'leading', 'profound', 'revelations', 'richness', 'savior', 'serving', 'ultimately']
+- ChatGPT injected words (22):
+	['begin', 'boundless', 'come', 'depths', 'discover', 'embedded', 'enable', 'encompass', 'grasp', 'illumination', 'itself', 'perceive', 'prepared', 'profound', 'recognize', 'resplendent', 'savior', 'sufficiency', 'through', 'transformative', 'unshakeable', 'yearn']
+- ChatGPT injected words (significant words only) (20):
+	['begin', 'boundless', 'come', 'depths', 'discover', 'embedded', 'enable', 'encompass', 'grasp', 'illumination', 'perceive', 'prepared', 'profound', 'recognize', 'resplendent', 'savior', 'sufficiency', 'transformative', 'unshakeable', 'yearn']
 
 ### Logs
-- 🔄 Ephesians 1:18 (attempt 1, 133 words, 97.62% quotes, quality score: 19.38095238095238) 
+- 🔄 Ephesians 1:18 (attempt 1, 131 words, 90.79% quotes, quality score: 28.210526315789465) 
 	- BHT WAS OVER 100 WORDS! 
 	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- 🔄 Ephesians 1:18 (attempt 2, 106 words, 88.24% quotes, quality score: 55.76470588235294) 
+- 🔄 Ephesians 1:18 (attempt 2, 108 words, 73.91% quotes, quality score: 68.08695652173913) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:18 (attempt 3, 113 words, 75.36% quotes, quality score: 61.63768115942028) 
+- 🔄 Ephesians 1:18 (attempt 3, 115 words, 74.29% quotes, quality score: 60.71428571428571) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:18 (attempt 4, 111 words, 76.12% quotes, quality score: 62.88059701492537) 
+- 🔄 Ephesians 1:18 (attempt 4, 106 words, 73.91% quotes, quality score: 70.08695652173913) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:18 (attempt 5, 119 words, 63.51% quotes, quality score: 54.513513513513516) 
+- 🔄 Ephesians 1:18 (attempt 5, 103 words, 70.15% quotes, quality score: 76.8507462686567) 
 	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:18 bht prompt v5 (111 words, 76.12% quotes)
+- ✅ Ephesians 1:18 bht prompt v5 (103 words, 70.15% quotes)

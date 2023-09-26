@@ -1,7 +1,7 @@
 # Ephesians 1:17 Commentary Help Text
 
 ## BHT:
-In order to know and understand more about the hope of His calling, it is crucial for Christians to be enlightened by the Father, the God and Father of our Lord Jesus Christ, who is the Father of infinite glory. The Spirit, known as the Spirit of wisdom and revelation, plays a significant role in imparting wisdom and revealing the hidden truths of God. With the Spirit's guidance, believers can grow in knowledge and love, continuously exploring the unfathomable depths of God's wisdom and grace.
+The Father, who is the glorious Father, radiating infinite glory through His Son Jesus Christ, desires to give you the Spirit of wisdom and revelation. This Spirit, who is the Spirit of promise, is also the Spirit of wisdom and revelation, illuminating the minds of believers with the knowledge of salvation and the deep truths of God. Through the Spirit's work, we can grow in our understanding and knowledge of Him, receiving the wisdom and revelation that leads to true spiritual enlightenment.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -50,14 +50,14 @@ In order to know and understand more about the hope of His calling, it is crucia
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 75.0%
-- BHT Quality Score: 88.0
+- BHT Word Count: 83
+- BHT Commentary Usage: 81.63%
+- BHT Quality Score: 85.36734693877551
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (16):
-	['about', 'can', 'continuously', 'crucial', 'depths', 'exploring', 'grow', 'guidance', 'imparting', 'known', 'order', 'plays', 'role', 'significant', 'understand', 'unfathomable']
-- ChatGPT injected words (significant words only) (14):
-	['continuously', 'crucial', 'depths', 'exploring', 'grow', 'guidance', 'imparting', 'known', 'order', 'plays', 'role', 'significant', 'understand', 'unfathomable']
+- ChatGPT injected words (11):
+	['can', 'desires', 'enlightenment', 'grow', 'illuminating', 'minds', 'radiating', 'receiving', 'son', 'through', 'understanding']
+- ChatGPT injected words (significant words only) (9):
+	['desires', 'enlightenment', 'grow', 'illuminating', 'minds', 'radiating', 'receiving', 'son', 'understanding']
 
 ### Logs
-- ✅ Ephesians 1:17 bht prompt v5 (87 words, 75.0% quotes)
+- ✅ Ephesians 1:17 bht prompt v5 (83 words, 81.63% quotes)

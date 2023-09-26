@@ -1,7 +1,7 @@
 # Ephesians 1:22 Commentary Help Text
 
 ## BHT:
-Christ is the head over the Church, providing it with guidance, government, life, and influence. Every member of the Church is closely connected to him, receiving a continuous and effective flow of activity, growth, and strength. This relationship is comparable to the connection between a body and its head in the physical realm, highlighting the integral role that Christ plays in the functioning and well-being of the Church. Through this unique bond with Christ, the Church receives abundant blessings and benefits.
+Christ is described as the head over all things to the Church, which signifies His authority and influence in guiding and governing it. The Church, being His body, is filled by Him, exemplifying the close relationship between Christ and His people. This gift of headship is a valuable and excellent one, bestowed freely by God, and has a profound impact on the Church. The unity and vitality of the Church depend on the intimate connection between Christ as the head and believers as His body, as they receive continual communication and strength from Him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -50,16 +50,16 @@ Christ is the head over the Church, providing it with guidance, government, life
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 59.26%
-- BHT Quality Score: 87.25925925925927
+- BHT Word Count: 94
+- BHT Commentary Usage: 70.69%
+- BHT Quality Score: 85.3103448275862
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (25):
-	['abundant', 'benefits', 'between', 'blessings', 'bond', 'closely', 'comparable', 'connected', 'connection', 'continuous', 'effective', 'flow', 'functioning', 'highlighting', 'integral', 'plays', 'providing', 'realm', 'receives', 'receiving', 'relationship', 'role', 'through', 'unique', 'well']
-- ChatGPT injected words (significant words only) (22):
-	['abundant', 'benefits', 'blessings', 'bond', 'closely', 'comparable', 'connected', 'connection', 'continuous', 'effective', 'flow', 'functioning', 'highlighting', 'integral', 'plays', 'providing', 'realm', 'receives', 'receiving', 'relationship', 'role', 'unique']
+- ChatGPT injected words (20):
+	['believers', 'bestowed', 'between', 'close', 'connection', 'depend', 'described', 'exemplifying', 'freely', 'governing', 'guiding', 'has', 'impact', 'intimate', 'profound', 'receive', 'relationship', 'signifies', 'they', 'vitality']
+- ChatGPT injected words (significant words only) (17):
+	['believers', 'bestowed', 'close', 'connection', 'depend', 'described', 'exemplifying', 'freely', 'governing', 'guiding', 'impact', 'intimate', 'profound', 'receive', 'relationship', 'signifies', 'vitality']
 
 ### Logs
-- 🔄 Ephesians 1:22 (attempt 1, 74 words, 70.83% quotes, quality score: 93.16666666666667) 
-	- 'COMMENTATOR(S)' FOUND IN BHT!
-- ✅ Ephesians 1:22 bht prompt v5 (82 words, 59.26% quotes)
+- 🔄 Ephesians 1:22 (attempt 1, 95 words, 71.7% quotes, quality score: 83.30188679245282) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 1:22 bht prompt v5 (94 words, 70.69% quotes)

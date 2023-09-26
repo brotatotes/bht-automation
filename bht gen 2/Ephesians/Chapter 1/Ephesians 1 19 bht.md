@@ -1,7 +1,7 @@
 # Ephesians 1:19 Commentary Help Text
 
 ## BHT:
-The verse talks about the exceeding greatness of God's power towards those who believe. This power is evident in the work of conversion and faith, which is described as a creation, resurrection, regeneration, and transformation. It is through God's almighty power that dead souls are quickened and preserved in spiritual life. This power is on the same level as the power exerted in raising Christ from the dead, for nothing less would suffice. Believers should recognize, acknowledge, and give glory to God for the strength of His power that is displayed in their lives.
+The work of conversion and faith requires almighty power, as it involves a creation, a resurrection from the dead, a regeneration, and a transformation. This work of faith is solely attributed to the exceeding greatness of divine power, which is displayed in supporting and delivering believers, helping them in their obedience, and ensuring their final perseverance. Just as God raised Christ from the dead by His almighty power, the same power is exerted towards and upon believers, showcasing the magnitude of His strength.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -48,16 +48,14 @@ The verse talks about the exceeding greatness of God's power towards those who b
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 86.15%
-- BHT Quality Score: 67.84615384615384
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (13):
-	['about', 'described', 'evident', 'give', 'level', 'lives', 'preserved', 'quickened', 'recognize', 'talks', 'those', 'through', 'verse']
-- ChatGPT injected words (significant words only) (9):
-	['described', 'evident', 'level', 'lives', 'preserved', 'quickened', 'recognize', 'talks', 'verse']
+- BHT Word Count: 83
+- BHT Commentary Usage: 84.91%
+- BHT Quality Score: 82.0943396226415
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (9):
+	['attributed', 'ensuring', 'helping', 'involves', 'just', 'obedience', 'requires', 'showcasing', 'solely']
+- ChatGPT injected words (significant words only) (8):
+	['attributed', 'ensuring', 'helping', 'involves', 'obedience', 'requires', 'showcasing', 'solely']
 
 ### Logs
-- 🔄 Ephesians 1:19 (attempt 1, 61 words, 95.24% quotes, quality score: 55.76190476190476) 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 1:19 bht prompt v5 (96 words, 86.15% quotes)
+- ✅ Ephesians 1:19 bht prompt v5 (83 words, 84.91% quotes)

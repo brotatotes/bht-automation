@@ -1,7 +1,7 @@
 # Ephesians 1:16 Commentary Help Text
 
 ## BHT:
-In my prayers, I cease not to give thanks for you. It is important to note that it was not by their power or will, but by the grace of God that the Ephesians had faith and love. Therefore, I give thanks to God for these gifts bestowed upon them. I continually mention them in my prayers, showing that I am a person dedicated to prayer and seeking the advancement of others. This example should also encourage them to practice these duties themselves, knowing that I pray for all churches in the same manner.
+Paul expresses his unwavering commitment to praying for the Ephesians, emphasizing his persistent and continuous dedication to bringing their needs before God. This prayerful devotion is fueled by his deep appreciation for their faith and love—a reminder that these virtues are not of their own making, but divine gifts. In his prayers, Paul encompasses not only gratitude but also a desire for their ongoing spiritual growth and progress. His example serves to inspire the Ephesians to cultivate a similar spirit of thanksgiving and intercession for one another, mirroring his care for all the churches.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -42,14 +42,14 @@ In my prayers, I cease not to give thanks for you. It is important to note that 
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 82.54%
-- BHT Quality Score: 73.46031746031746
+- BHT Word Count: 95
+- BHT Commentary Usage: 55.88%
+- BHT Quality Score: 70.88235294117648
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (14):
-	['advancement', 'am', 'continually', 'dedicated', 'encourage', 'important', 'knowing', 'manner', 'note', 'pray', 'seeking', 'showing', 'these', 'this']
-- ChatGPT injected words (significant words only) (11):
-	['advancement', 'continually', 'dedicated', 'encourage', 'important', 'knowing', 'manner', 'note', 'pray', 'seeking', 'showing']
+- ChatGPT injected words (35):
+	['another', 'appreciation', 'before', 'bringing', 'care', 'commitment', 'continuous', 'cultivate', 'dedication', 'deep', 'desire', 'devotion', 'divine', 'emphasizing', 'encompasses', 'expresses', 'fueled', 'gratitude', 'growth', 'inspire', 'intercession', 'mirroring', 'needs', 'one', 'ongoing', 'persistent', 'prayerful', 'reminder', 'serves', 'similar', 'spirit', 'these', 'this', 'unwavering', 'virtues']
+- ChatGPT injected words (significant words only) (30):
+	['appreciation', 'bringing', 'care', 'commitment', 'continuous', 'cultivate', 'dedication', 'deep', 'desire', 'devotion', 'divine', 'emphasizing', 'encompasses', 'expresses', 'fueled', 'gratitude', 'growth', 'inspire', 'intercession', 'mirroring', 'needs', 'ongoing', 'persistent', 'prayerful', 'reminder', 'serves', 'similar', 'spirit', 'unwavering', 'virtues']
 
 ### Logs
-- ✅ Ephesians 1:16 bht prompt v5 (94 words, 82.54% quotes)
+- ✅ Ephesians 1:16 bht prompt v5 (95 words, 55.88% quotes)

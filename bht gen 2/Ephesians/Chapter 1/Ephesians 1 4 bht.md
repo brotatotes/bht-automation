@@ -1,7 +1,7 @@
 # Ephesians 1:4 Commentary Help Text
 
 ## BHT:
-The election mentioned in these commentaries refers to God's eternal purpose of choosing believers in Christ. This choice, made before the foundation of the world, is a manifestation of God's sovereign grace, not based on human merit. Its goal is for believers to be holy and blameless before God, restoring the love relationship that was lost in the Fall. This understanding emphasizes the central role of Christ in God's redemptive plan and highlights the divine source and purpose of election.
+God's choice is not limited to a specific group, but extends to both Jews and Gentiles who have faith in Christ. His selection of believers is a demonstration of His grace and sovereignty. This divine election was made before the foundation of the world and is rooted in His foreknowledge. Furthermore, the purpose of this choice is to bring about holiness and blamelessness in believers, a standard that can only be achieved through God's love. This concept of God's electing grace is also reflected in other passages of Scripture, such as 1 Peter 1:2.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -51,18 +51,16 @@ The election mentioned in these commentaries refers to God's eternal purpose of 
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 70.91%
-- BHT Quality Score: 96.09090909090908
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (18):
-	['based', 'central', 'commentaries', 'emphasizes', 'goal', 'highlights', 'human', 'its', 'manifestation', 'mentioned', 'on', 'plan', 'refers', 'relationship', 'restoring', 'role', 'sovereign', 'understanding']
-- ChatGPT injected words (significant words only) (16):
-	['based', 'central', 'commentaries', 'emphasizes', 'goal', 'highlights', 'human', 'manifestation', 'mentioned', 'plan', 'refers', 'relationship', 'restoring', 'role', 'sovereign', 'understanding']
+- BHT Word Count: 95
+- BHT Commentary Usage: 69.84%
+- BHT Quality Score: 84.84126984126985
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (26):
+	['about', 'achieved', 'also', 'blamelessness', 'bring', 'concept', 'demonstration', 'electing', 'extends', 'faith', 'foreknowledge', 'furthermore', 'group', 'limited', 'only', 'other', 'passages', 'reflected', 'rooted', 'scripture', 'selection', 'specific', 'standard', 'such', 'through', 'who']
+- ChatGPT injected words (significant words only) (19):
+	['achieved', 'blamelessness', 'bring', 'concept', 'demonstration', 'electing', 'extends', 'faith', 'foreknowledge', 'furthermore', 'group', 'limited', 'passages', 'reflected', 'rooted', 'scripture', 'selection', 'specific', 'standard']
 
 ### Logs
-- 🔄 Ephesians 1:4 (attempt 1, 28 words, 83.33% quotes, quality score: 34.66666666666666) 
+- 🔄 Ephesians 1:4 (attempt 1, 60 words, 84.09% quotes, quality score: 65.9090909090909) 
 	- LIST FORMAT DETECTED!
-- 🔄 Ephesians 1:4 (attempt 2, 106 words, 71.43% quotes, quality score: 72.57142857142857) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:4 bht prompt v5 (83 words, 70.91% quotes)
+- ✅ Ephesians 1:4 bht prompt v5 (95 words, 69.84% quotes)

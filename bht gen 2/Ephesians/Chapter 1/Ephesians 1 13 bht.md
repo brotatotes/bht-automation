@@ -1,7 +1,7 @@
 # Ephesians 1:13 Commentary Help Text
 
 ## BHT:
-By the Holy Spirit of promise, you Gentile Christians were sealed with the assurance and full impression of God's image on your souls. This sealing signifies both the holy nature and operations of the Spirit, as well as the promised inheritance that is granted to all the children of God. Through this seal, you have the full assurance of receiving all the promises, encompassing both temporal and eternal blessings.
+Believers, both Jews and Gentiles, have a part in Christ, as the gospel is not exclusive but inclusive. The sealing of the Holy Spirit is a result of their faith, confirming the favor of God upon them. The gospel, being the word of truth, is certain and trustworthy, leaving no room for doubt or deception. The sealing work of the Spirit goes beyond initial belief, bringing a full assurance of the promises and a complete transformation of the believer's soul.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -49,14 +49,14 @@ By the Holy Spirit of promise, you Gentile Christians were sealed with the assur
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 70
-- BHT Commentary Usage: 85.11%
-- BHT Quality Score: 74.89361702127658
+- BHT Word Count: 81
+- BHT Commentary Usage: 69.64%
+- BHT Quality Score: 98.64285714285714
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (9):
-	['blessings', 'encompassing', 'eternal', 'granted', 's', 'signifies', 'temporal', 'through', 'well']
-- ChatGPT injected words (significant words only) (7):
-	['blessings', 'encompassing', 'eternal', 'granted', 's', 'signifies', 'temporal']
+- ChatGPT injected words (21):
+	['being', 'belief', 'believer', 'believers', 'beyond', 'bringing', 'complete', 'confirming', 'deception', 'exclusive', 'goes', 'inclusive', 'initial', 'leaving', 'room', 's', 'soul', 'them', 'transformation', 'trustworthy', 'upon']
+- ChatGPT injected words (significant words only) (17):
+	['belief', 'believer', 'believers', 'bringing', 'complete', 'confirming', 'deception', 'exclusive', 'goes', 'inclusive', 'initial', 'leaving', 'room', 's', 'soul', 'transformation', 'trustworthy']
 
 ### Logs
-- ✅ Ephesians 1:13 bht prompt v5 (70 words, 85.11% quotes)
+- ✅ Ephesians 1:13 bht prompt v5 (81 words, 69.64% quotes)

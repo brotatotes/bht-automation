@@ -1,7 +1,7 @@
 # Ephesians 1:12 Commentary Help Text
 
 ## BHT:
-The passage highlights the anticipation of Jewish-Christians in the arrival of the Christ, as they hoped for the consolation of Israel. This widespread hope counters the objection that only a few believed. Their hope was grounded in their faith in the Messiah, which served as the foundation for their confidence. By believing in Christ, they not only found salvation but also became participants in the same privileges as other believers. Together, they praised and glorified God for His grace and goodness, attributing all to His favor and acknowledging His desire to be glorified through acts of goodness.
+As Jewish-Christians, we were those who had before hoped in the Christ, eagerly awaiting His coming as the consolation of Israel. Our hope and trust in the Savior form the foundation of our faith. Through Him, we become vessels of God's mercy, illustrating His glory. Believers are not only elected to salvation but also appointed by God to walk in holiness. Like the apostle Paul and other Jews, we were among those who first believed in Christ before the Gentiles. It is our responsibility to praise and glorify God, recognizing that His grace is the source of everything, not our own efforts.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -48,18 +48,24 @@ The passage highlights the anticipation of Jewish-Christians in the arrival of t
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 70.77%
-- BHT Quality Score: 81.23076923076923
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (23):
-	['acknowledging', 'acts', 'anticipation', 'arrival', 'attributing', 'believers', 'believing', 'confidence', 'counters', 'desire', 'faith', 'favor', 'grounded', 'highlights', 'other', 'participants', 'passage', 'praised', 'served', 'this', 'through', 'together', 'widespread']
-- ChatGPT injected words (significant words only) (19):
-	['acknowledging', 'acts', 'anticipation', 'arrival', 'attributing', 'believers', 'believing', 'confidence', 'counters', 'desire', 'faith', 'favor', 'grounded', 'highlights', 'participants', 'passage', 'praised', 'served', 'widespread']
+- BHT Word Count: 104
+- BHT Commentary Usage: 83.1%
+- BHT Quality Score: 62.901408450704224
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (18):
+	['among', 'awaiting', 'believers', 'eagerly', 'efforts', 'everything', 'faith', 'form', 'illustrating', 'it', 'other', 'recognizing', 'responsibility', 'savior', 'source', 'through', 'trust', 'were']
+- ChatGPT injected words (significant words only) (12):
+	['awaiting', 'believers', 'eagerly', 'efforts', 'faith', 'form', 'illustrating', 'recognizing', 'responsibility', 'savior', 'source', 'trust']
 
 ### Logs
-- 🔄 Ephesians 1:12 (attempt 1, 74 words, 78.0% quotes, quality score: 86.0) 
-	- LIST FORMAT DETECTED!
-- 🔄 Ephesians 1:12 (attempt 2, 110 words, 67.61% quotes, quality score: 67.60563380281691) 
+- 🔄 Ephesians 1:12 (attempt 1, 96 words, 93.22% quotes, quality score: 60.77966101694915) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- 🔄 Ephesians 1:12 (attempt 2, 108 words, 87.67% quotes, quality score: 54.328767123287676) 
 	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:12 bht prompt v5 (98 words, 70.77% quotes)
+- 🔄 Ephesians 1:12 (attempt 3, 104 words, 83.1% quotes, quality score: 62.901408450704224) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:12 (attempt 4, 104 words, 83.1% quotes, quality score: 62.901408450704224) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:12 (attempt 5, 104 words, 83.1% quotes, quality score: 62.901408450704224) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 1:12 bht prompt v5 (104 words, 83.1% quotes)

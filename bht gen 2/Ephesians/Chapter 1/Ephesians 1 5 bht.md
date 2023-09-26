@@ -1,7 +1,7 @@
 # Ephesians 1:5 Commentary Help Text
 
 ## BHT:
-We have been chosen and predestined by God to be adopted as His sons, a position of great honor and privilege. This adoption is not based on our own merit or worthiness, but solely by the grace and love of God. It is a divine act of predestination according to His good pleasure and will. Through our faith in Christ, we are partakers of the divine nature and have the assurance of our inheritance. This is all in accordance with His ultimate purpose and plan for our lives.
+God has predestined us to be adopted as his sons, meaning that he has planned for all who believe in him to become part of his spiritual family. This adoption is not based on our worthiness, but solely on God's grace and love towards us. It is by his free and unchangeable will that he has chosen to bless those who have faith in Christ and make them joint-heirs with him. This was all part of God's divine plan and purpose for our lives.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -49,14 +49,14 @@ We have been chosen and predestined by God to be adopted as His sons, a position
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 77.05%
-- BHT Quality Score: 84.95081967213115
+- BHT Word Count: 87
+- BHT Commentary Usage: 80.33%
+- BHT Quality Score: 82.67213114754098
 - Generate Attempts: 1 / 5
 - ChatGPT injected words (16):
-	['accordance', 'adopted', 'based', 'been', 'faith', 'great', 'honor', 'lives', 'merit', 'own', 'plan', 'position', 'predestined', 'privilege', 'solely', 'worthiness']
-- ChatGPT injected words (significant words only) (14):
-	['accordance', 'adopted', 'based', 'faith', 'great', 'honor', 'lives', 'merit', 'plan', 'position', 'predestined', 'privilege', 'solely', 'worthiness']
+	['adopted', 'based', 'bless', 'faith', 'lives', 'make', 'meaning', 'part', 'plan', 'planned', 'predestined', 'solely', 'them', 'towards', 'unchangeable', 'worthiness']
+- ChatGPT injected words (significant words only) (12):
+	['adopted', 'based', 'bless', 'faith', 'lives', 'meaning', 'plan', 'planned', 'predestined', 'solely', 'unchangeable', 'worthiness']
 
 ### Logs
-- ✅ Ephesians 1:5 bht prompt v5 (88 words, 77.05% quotes)
+- ✅ Ephesians 1:5 bht prompt v5 (87 words, 80.33% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 1:20 Commentary Help Text
 
 ## BHT:
-The resurrection of Christ displays divine power, not only in his bodily resurrection, but also in the spiritual resurrection of believers. Christ's role in raising his own body showcases his power as God. This same power is evident in the conversion of believers, which can be likened to a resurrection. By looking to Christ as a mirror, believers can see the immeasurable greatness of God's power and the glorious treasures of his grace. The resurrection of Christ is a clear demonstration of God's power, urging believers to acknowledge and appreciate the magnitude of His work in their lives.
+The raising of Christ is not only a guarantee of our future bodily resurrection, but it also has a spiritual power that impacts believers in the present. Just as God exerted His power to raise Jesus from the dead, He also works powerfully in the conversion and faith of believers. This display of power is a reflection of the immeasurable greatness of God's power and the treasures of divine grace available to us. By fixating our gaze on Christ, we can see the work of God's power and the transformation He brings, finding hope and reassurance in the resurrection power that awaits us.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -44,24 +44,24 @@ The resurrection of Christ displays divine power, not only in his bodily resurre
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 101
-- BHT Commentary Usage: 72.22%
-- BHT Quality Score: 76.77777777777777
+- BHT Word Count: 105
+- BHT Commentary Usage: 67.69%
+- BHT Quality Score: 72.69230769230771
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (19):
-	['acknowledge', 'also', 'appreciate', 'be', 'believers', 'bodily', 'clear', 'demonstration', 'displays', 'evident', 'likened', 'lives', 'looking', 'magnitude', 'role', 'same', 'showcases', 'their', 'urging']
-- ChatGPT injected words (significant words only) (15):
-	['acknowledge', 'appreciate', 'believers', 'bodily', 'clear', 'demonstration', 'displays', 'evident', 'likened', 'lives', 'looking', 'magnitude', 'role', 'showcases', 'urging']
+- ChatGPT injected words (23):
+	['also', 'available', 'awaits', 'believers', 'bodily', 'brings', 'display', 'finding', 'fixating', 'future', 'gaze', 'guarantee', 'hope', 'impacts', 'jesus', 'just', 'powerfully', 'present', 'raise', 'reassurance', 'reflection', 'transformation', 'works']
+- ChatGPT injected words (significant words only) (21):
+	['available', 'awaits', 'believers', 'bodily', 'brings', 'display', 'finding', 'fixating', 'future', 'gaze', 'guarantee', 'hope', 'impacts', 'jesus', 'powerfully', 'present', 'raise', 'reassurance', 'reflection', 'transformation', 'works']
 
 ### Logs
-- 🔄 Ephesians 1:20 (attempt 1, 129 words, 61.76% quotes, quality score: 42.76470588235295) 
+- 🔄 Ephesians 1:20 (attempt 1, 170 words, 65.56% quotes, quality score: 5.555555555555561) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 2, 104 words, 62.5% quotes, quality score: 68.5) 
+- 🔄 Ephesians 1:20 (attempt 2, 104 words, 66.67% quotes, quality score: 72.66666666666669) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 3, 101 words, 72.22% quotes, quality score: 76.77777777777777) 
+- 🔄 Ephesians 1:20 (attempt 3, 105 words, 67.69% quotes, quality score: 72.69230769230771) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 4, 105 words, 61.02% quotes, quality score: 66.01694915254237) 
+- 🔄 Ephesians 1:20 (attempt 4, 102 words, 64.06% quotes, quality score: 72.0625) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 5, 114 words, 60.61% quotes, quality score: 56.60606060606061) 
+- 🔄 Ephesians 1:20 (attempt 5, 106 words, 66.18% quotes, quality score: 70.17647058823529) 
 	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:20 bht prompt v5 (101 words, 72.22% quotes)
+- ✅ Ephesians 1:20 bht prompt v5 (105 words, 67.69% quotes)

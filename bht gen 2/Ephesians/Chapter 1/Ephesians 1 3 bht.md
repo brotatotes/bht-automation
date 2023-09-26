@@ -1,7 +1,7 @@
 # Ephesians 1:3 Commentary Help Text
 
 ## BHT:
-The verse highlights the praise offered to God, the Father of our Lord Jesus Christ, expressing gratitude for His blessings. These blessings encompass the grace experienced by both the writers and readers, summarizing the Gospel of God's grace. The blessings are not limited to mere words, but are acts of God bestowed upon believers. These spiritual blessings are heavenly in nature and are poured out on those who are holy and faithful. They arise from God's everlasting counsel and demonstrate His eternal purpose for the salvation of humanity.
+Blessed be the God and Father of our Lord Jesus Christ, begins one of St. Paul's Epistles, expressing gratitude and acknowledging the grace experienced by both the writer and the readers. God, who is also the Father, has blessed us with all the blessings of the Spirit in heavenly places. The blessings bestowed upon us by God are not mere words but real acts that stem from his everlasting counsel and grace. These blessings are spiritual and of eternal significance, bringing us closer to God who is the author and giver of all blessings.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -51,16 +51,16 @@ The verse highlights the praise offered to God, the Father of our Lord Jesus Chr
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 81.97%
-- BHT Quality Score: 78.0327868852459
+- BHT Word Count: 95
+- BHT Commentary Usage: 85.48%
+- BHT Quality Score: 69.51612903225806
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (12):
-	['arise', 'bestowed', 'demonstrate', 'encompass', 'expressing', 'highlights', 'humanity', 'limited', 'offered', 'summarizing', 'these', 'verse']
-- ChatGPT injected words (significant words only) (11):
-	['arise', 'bestowed', 'demonstrate', 'encompass', 'expressing', 'highlights', 'humanity', 'limited', 'offered', 'summarizing', 'verse']
+- ChatGPT injected words (10):
+	['acknowledging', 'begins', 'bestowed', 'bringing', 'closer', 'expressing', 'significance', 'stem', 'these', 'writer']
+- ChatGPT injected words (significant words only) (9):
+	['acknowledging', 'begins', 'bestowed', 'bringing', 'closer', 'expressing', 'significance', 'stem', 'writer']
 
 ### Logs
-- 🔄 Ephesians 1:3 (attempt 1, 100 words, 83.33% quotes, quality score: 66.66666666666666) 
-	- 'COMMENTATOR(S)' FOUND IN BHT!
-- ✅ Ephesians 1:3 bht prompt v5 (90 words, 81.97% quotes)
+- 🔄 Ephesians 1:3 (attempt 1, 130 words, 80.52% quotes, quality score: 39.480519480519476) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 1:3 bht prompt v5 (95 words, 85.48% quotes)

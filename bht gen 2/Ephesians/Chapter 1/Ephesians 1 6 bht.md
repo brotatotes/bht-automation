@@ -1,7 +1,7 @@
 # Ephesians 1:6 Commentary Help Text
 
 ## BHT:
-The free and glorious love of God is the foundation of His predestination and adoption, where His grace is on full display. We are accepted in Christ, clothed in His righteousness, and our praise and gratitude for His mercy and redemption should resound. Our acceptance and salvation are solely based on His love, and for this, we have every reason to give thanks and praise.
+God's purpose in predestining us to adoption is to showcase the glory, majesty, and kindness of His grace, deserving praise from all creatures. Through His grace, we are accepted and embraced, experiencing the love of the Beloved, who is Christ. This doctrine of predestination and election lays the foundation for adoring gratitude and praise. We have abundant reasons to be thankful for God's redeeming love, mercy, and the blessings poured upon us. His grace is evident in the predestination to adoption, revealing the splendor of His grace. We learn to praise God for both His actions and His attributes.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -44,14 +44,25 @@ The free and glorious love of God is the foundation of His predestination and ad
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 65
-- BHT Commentary Usage: 81.4%
-- BHT Quality Score: 73.60465116279069
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (14):
-	['based', 'clothed', 'display', 'every', 'full', 'give', 'have', 'reason', 'resound', 'salvation', 'should', 'solely', 'thanks', 'where']
-- ChatGPT injected words (significant words only) (8):
-	['based', 'clothed', 'display', 'reason', 'resound', 'salvation', 'solely', 'thanks']
+- BHT Word Count: 101
+- BHT Commentary Usage: 74.58%
+- BHT Quality Score: 74.42372881355932
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (19):
+	['actions', 'attributes', 'blessings', 'both', 'deserving', 'evident', 'experiencing', 'from', 'have', 'kindness', 'poured', 'predestining', 'purpose', 'reasons', 'redeeming', 'revealing', 'showcase', 'thankful', 'through']
+- ChatGPT injected words (significant words only) (15):
+	['actions', 'attributes', 'blessings', 'deserving', 'evident', 'experiencing', 'kindness', 'poured', 'predestining', 'purpose', 'reasons', 'redeeming', 'revealing', 'showcase', 'thankful']
 
 ### Logs
-- ✅ Ephesians 1:6 bht prompt v5 (65 words, 81.4% quotes)
+- 🔄 Ephesians 1:6 (attempt 1, 156 words, 73.75% quotes, quality score: 20.249999999999993) 
+	- BHT WAS OVER 100 WORDS! 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Ephesians 1:6 (attempt 2, 101 words, 74.58% quotes, quality score: 74.42372881355932) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:6 (attempt 3, 103 words, 75.86% quotes, quality score: 71.13793103448276) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:6 (attempt 4, 109 words, 73.44% quotes, quality score: 67.5625) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:6 (attempt 5, 106 words, 79.69% quotes, quality score: 64.3125) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 1:6 bht prompt v5 (101 words, 74.58% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 1:23 Commentary Help Text
 
 ## BHT:
-The church of Christ is a living organism, united under His headship. It is not a mere metaphor, but a genuine body that completes and fills up His power and glory. Through His indwelling presence, the church becomes the fullest representation of His divine life. The church is the receptacle of His gifts and graces, and He desires to be united with her, recognizing her as essential to His own completeness. His presence fills all things, making the church the ultimate recipient of His fulness. This highlights the high honor bestowed upon the church as the mystical body of Christ.
+The Church is not merely a symbol but a living organism, with Christ as its head. It is the receptacle of His abundant gifts and graces, representing His divine life. Christ fills all things and desires to be united with the Church, finding completion in its members. The Church is the honor and fulfillment of Christ, as it is through the Church that His fullness is revealed and experienced. This unity and completeness of the Church highlight its significance and role in manifesting the glory of Christ in the world.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -45,18 +45,17 @@ The church of Christ is a living organism, united under His headship. It is not 
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 72.13%
-- BHT Quality Score: 77.86885245901638
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (22):
-	['becomes', 'bestowed', 'completeness', 'completes', 'essential', 'genuine', 'headship', 'her', 'high', 'highlights', 'indwelling', 'making', 'mere', 'metaphor', 'own', 'presence', 'recipient', 'recognizing', 'representation', 'through', 'ultimate', 'upon']
-- ChatGPT injected words (significant words only) (17):
-	['bestowed', 'completeness', 'completes', 'essential', 'genuine', 'headship', 'high', 'highlights', 'indwelling', 'making', 'mere', 'metaphor', 'presence', 'recipient', 'recognizing', 'representation', 'ultimate']
+- BHT Word Count: 90
+- BHT Commentary Usage: 71.7%
+- BHT Quality Score: 88.30188679245282
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (17):
+	['abundant', 'completeness', 'experienced', 'finding', 'fulfillment', 'highlight', 'its', 'manifesting', 'members', 'representing', 'revealed', 'role', 'significance', 'symbol', 'through', 'unity', 'world']
+- ChatGPT injected words (significant words only) (15):
+	['abundant', 'completeness', 'experienced', 'finding', 'fulfillment', 'highlight', 'manifesting', 'members', 'representing', 'revealed', 'role', 'significance', 'symbol', 'unity', 'world']
 
 ### Logs
-- 🔄 Ephesians 1:23 (attempt 1, 114 words, 74.65% quotes, quality score: 61.352112676056336) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:23 (attempt 2, 115 words, 75.36% quotes, quality score: 59.63768115942028) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:23 bht prompt v5 (100 words, 72.13% quotes)
+- 🔄 Ephesians 1:23 (attempt 1, 122 words, 81.25% quotes, quality score: 46.75) 
+	- BHT WAS OVER 100 WORDS! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 1:23 bht prompt v5 (90 words, 71.7% quotes)
