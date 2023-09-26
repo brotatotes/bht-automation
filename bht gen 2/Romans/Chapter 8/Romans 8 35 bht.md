@@ -1,11 +1,11 @@
 # Romans 8:35 Commentary Help Text
 
 ## BHT:
-The love of Christ, which is unshakeable and unfailing, is our anchor even in the face of trials and tribulations. It is not our love for Him, but His love for us that remains constant. No matter what challenges we may face, whether affliction, distress, or any adversities, nothing can separate us from His love. Our confidence should not waver, for even in the midst of darkness, God's favor shines through, ensuring that we are never alone nor abandoned. Therefore, let us stand firm in the faith, knowing that God's love for us is unchanging and everlasting.
+The assurance we have in the love of Christ is not based on our own love for Him, but rather on His unwavering love for us. No matter what difficulties or challenges we face, they cannot separate us from the protection and care of Christ. Even in the face of affliction and distress, we can find comfort in knowing that these trials do not diminish Christ's love for us. He is fully aware of our circumstances and has the ability to deliver us from them, if He deems it best.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "Who (i.e. what) shall separate us from the love of Christ?" 
+1. "But the difficulty of it lies in consistently interpreting Romans 8:37, where not our endurance in love to Him, but our victory by means of His love to us, is alleged." 
 2. "The second, as maintained by Beza, Grot., Est., al., Thol., Reiche, Meyer, De Wette, appears to me the only tenable sense of the words." 
 3. "And finally he expresses his persuasion that no created thing shall ever separate us from that love, i.e. shall ever be able to pluck us out of the Father’s hand."
 
@@ -15,14 +15,14 @@ The love of Christ, which is unshakeable and unfailing, is our anchor even in th
 3. "The apostle says not 'What,' but 'Who,' just as if all creatures and all afflictions were so many gladiators taking arms against the Christians."
 
 ### Albert Barnes:
-1. "Who shall separate us - That is, finally or entirely separate us. This is a new argument of the apostle, showing his strong confidence in the safety of the Christian."
-2. "The love which Christians have for their Redeemer is so strong, that it will surmount and survive all opposition and all trials."
-3. "The argument, therefore, is drawn from the strong love of a Christian to his Saviour; and from the assurance that nothing would be able to separate him from that love."
+1. "The reason for so understanding the expression is, that it is not conceivable how afflictions, etc. should have any tendency to alienate Christ’s love 'from us;' but their supposed tendency to alienate 'our love' from him might be very strong."
+2. "Indeed the whole of this passage proceeds, in its triumphing strain, on the ground of what God and Christ have done 'for us,' and not on the ground of anything belonging to us."
+3. "The fact is, that the more painful the trials to which they are exposed on his account, the more strong and unwavering is their love to him, and their confidence in his ability to save."
 
 ### John Calvin:
 1. "That whatever happens, we ought to stand firm in this faith, — that God, who once in his love embraced us, never ceases to care for us."
 2. "For as clouds, though they obscure the clear brightness of the sun, do not yet wholly deprive us of its light; so God, in adversities, sends forth through the darkness the rays of his favor, lest temptations should overwhelm us with despair."
-3. "In no adversities ought our confidence to be shaken as to this truth — that when God is propitious, nothing can be adverse to us."
+3. "The meaning is, — that in no adversities ought our confidence to be shaken as to this truth — that when God is propitious, nothing can be adverse to us."
 
 ### Philip Schaff:
 1. "Christ’s love to us, rather than our love to Him, or even our sense of His love to us."
@@ -30,13 +30,14 @@ The love of Christ, which is unshakeable and unfailing, is our anchor even in th
 3. "In our day the dangers are different, but none the less real and quite as often disturbing our sense of Christ’s love to us."
 
 ### John Gill:
-1. "By 'the love of Christ' is not meant the saints' love to Christ, but his love to them."
-2. "Nothing more effectually serves such purposes, than the love of Christ."
-3. "This is the bond of union to Christ; and the union which is made by it is exceeding near and close; it is real; perfect, and indissoluble, nothing can separate from it."
+1. "By 'the love of Christ' is not meant the saints' love to Christ, but his love to them...this is never called the love of Christ."
+2. "The separation here interrogated is not of Christ from us, but of us from him...nothing can separate from it."
+3. "Not tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword...cannot separate from the love of Christ."
 
 ### John Wesley:
-1. "Who shall separate us from the love of Christ — Toward us? Shall affliction or distress..." 
-2. "He proceeds in order, from less troubles to greater: can any of these separate us from his protection in it; and, if he sees good, deliverance from it?"
+1. "Who shall separate us from the love of Christ...can any of these separate us from his protection in it?" 
+2. "Shall affliction or distress - He proceeds in order, from less troubles to greater." 
+3. "...and, if he sees good, deliverance from it?"
 
 
 ## Debug Info
@@ -44,20 +45,14 @@ The love of Christ, which is unshakeable and unfailing, is our anchor even in th
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 99
-- BHT Commentary Usage: 72.73%
-- BHT Quality Score: 63.72727272727273
-- Generate Attempts: 4 / 5
-- ChatGPT injected words (21):
-	['abandoned', 'alone', 'anchor', 'challenges', 'constant', 'ensuring', 'everlasting', 'face', 'knowing', 'let', 'matter', 'may', 'midst', 'remains', 'shines', 'tribulations', 'unchanging', 'unfailing', 'unshakeable', 'waver', 'whether']
-- ChatGPT injected words (significant words only) (18):
-	['abandoned', 'anchor', 'challenges', 'constant', 'ensuring', 'everlasting', 'face', 'knowing', 'let', 'matter', 'midst', 'remains', 'shines', 'tribulations', 'unchanging', 'unfailing', 'unshakeable', 'waver']
+- BHT Word Count: 91
+- BHT Commentary Usage: 75.41%
+- BHT Quality Score: 74.40983606557376
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (17):
+	['aware', 'based', 'best', 'challenges', 'circumstances', 'comfort', 'deems', 'deliver', 'difficulties', 'diminish', 'face', 'find', 'fully', 'has', 'knowing', 'matter', 'own']
+- ChatGPT injected words (significant words only) (15):
+	['aware', 'based', 'best', 'challenges', 'circumstances', 'comfort', 'deems', 'deliver', 'difficulties', 'diminish', 'face', 'find', 'fully', 'knowing', 'matter']
 
 ### Logs
-- 🔄 Romans 8:35 (attempt 1, 118 words, 88.24% quotes, quality score: 60.23529411764705) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:35 (attempt 2, 105 words, 87.1% quotes, quality score: 72.09677419354838) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:35 (attempt 3, 104 words, 85.71% quotes, quality score: 71.71428571428572) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Romans 8:35 bht prompt v5 (99 words, 72.73% quotes)
+- ✅ Romans 8:35 bht prompt v5 (91 words, 75.41% quotes)

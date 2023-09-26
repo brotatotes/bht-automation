@@ -1,47 +1,48 @@
 # Romans 8:17 Commentary Help Text
 
 ## BHT:
-The inheritance that God will give us is a great one, just as He has given a great inheritance to His Son. In order to partake in this inheritance, we must willingly and cheerfully suffer with Christ, for the sake of righteousness. This is an important reminder for us in our journey towards receiving the glorious inheritance that God has prepared for His children.
+As children and heirs of God, we are not just ordinary beneficiaries, but joint heirs with Christ. This means that we share in the same privileges and rights that He does. Our inheritance is vast, encompassing all things that belong to Christ. However, this inheritance is not obtained without cost. We must be willing to suffer with Christ, willingly enduring afflictions and trials for His sake. Through these sufferings, which serve to purify and prepare us, we are being shaped into the likeness of Christ and will ultimately be glorified together with Him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The dignity of the inheritance is shown by its being God's possession, and by its being the possession of the Firstborn of God."
-2. "In the joint-heirship we must not bring out this point, that Christ is the rightful Heir, who shares His inheritance with the other children of God: it is as adoptive children that they get the inheritance, and Christ is so far only the means of it, as He gives them power to become sons of God."
-3. "If at least we are suffering with Him, that we may also be glorified with Him: i.e. 'if (provided that) we are found in that course of participation in Christ's sufferings, whose aim and end, as that of His sufferings, is to be glorified as He was, and with Him.'"
+1. "if children, also heirs...heirs of God...and joint-heirs with Christ...the redeemed equal to Christ...Christ's possessions, theirs...the joint-heirship...Christ is the means of it, as He gives them power to become sons of God"
+2. "if (provided that) we are found in that course of participation in Christ's sufferings, whose aim and end, as that of His sufferings, is to be glorified as He was, and with Him"
+3. "the complete and glorious triumph of God's elect, through sufferings and by hope, and the blessed renovation of all things in and by their glorification"
 
 ### Jamieson-Fausset-Brown:
-1. "heirs also." heirs of God—of our Father's kingdom.
-2. "joint-heirs with Christ—as the "First-born among many brethren" and as "Heir of all things."
-3. "This necessity of conformity to Christ in suffering in order to participate in His glory, is taught alike by Christ Himself and by His apostles."
+1. "heirs also." heirs of God—of our Father's kingdom. 
+2. joint-heirs with Christ—as the "First-born among many brethren" (Romans 8:29), and as "Heir of all things" (Hebrews 1:2). 
+3. provided we be suffering with Him. that we may be also glorified together—with Him. This necessity of conformity to Christ in suffering in order to participate in His glory, is taught alike by Christ Himself and by His apostles (John 12:24-26; Matthew 16:24; Matthew 16:25; 2 Timothy 2:12).
 
 ### Albert Barnes:
-1. "An adopted son comes in for a part of the inheritance."
-2. "This is an honor infinitely higher than to be heir to the most princely earthly inheritance; or than to be the adopted son of the most magnificent earthly monarch."
-3. "If united in the same kind of sufferings, there is propriety in being united in destiny beyond the scenes of all suffering, the kingdom of blessedness and love."
+1. "The meaning here is, that if we sustain the relation of sons to God, that we shall be treated as such, and admitted to share his favors."
+2. "This expression means that we shall be partakers of that inheritance which God confers on his people. That inheritance is his favor here, and eternal life hereafter."
+3. "If we suffer in his cause; bear afflictions as he did; are persecuted and tried for the same thing; and thus show that we are united to him."
 
 ### Marvin Vincent:
-1. "Roman law made all children, including adopted ones, equal heritors."
+1. "Joint-heirs. Roman law made all children, including adopted ones, equal heritors."
 2. "The Roman law was naturally in Paul's mind, and suits the context, where adoption is the basis of inheritance."
-3. "Mere suffering does not fulfill the condition. It is suffering with Christ."
+3. "If so be, as is really the case. Suffer with Him. Mere suffering does not fulfill the condition. It is suffering with Christ."
 
 ### John Calvin:
-1. "He then intimates what sort of inheritance it is — that it is heavenly, and therefore incorruptible and eternal, such as Christ possesses; and his possession of it takes away all uncertainty."
-2. "It is a commendation of the excellency of this inheritance, that we shall partake of it in common with the only-begotten Son of God."
+1. "It is for children that inheritance is appointed: since God then has adopted us as his children, he has at the same time ordained an inheritance for us."
+2. "He intimates what sort of inheritance it is — that it is heavenly, and therefore incorruptible and eternal, such as Christ possesses."
 3. "We are co-heirs with Christ, provided, in entering on our inheritance, we follow him in the same way in which he has gone before."
 
 ### Philip Schaff:
-1. "The kingdom of glory is their inheritance. 'As He Himself will be all in all, so shall His children receive with Him, in His Son, everything for an inheritance'" (Lange).
-2. "The Roman law made all children (adopted ones included) equal heritors; but the Jewish law gave a double portion to the eldest son. Hence a discussion has arisen as to the exact reference in this clause. The Roman law would be naturally in the Apostle’s mind when addressing Romans, and suits the context, where adopted sonship is the basis of inheritance. The other view emphasizes the mediation of Christ, through whom we inherit" (Commentary on Romans 8:17).
-3. "'He who would be Christ’s brother and joint-heir, must bear in mind to be also a joint-martyr and joint-sufferer; not feeling Christ’s sufferings and shame after Him, but with Him'" (Luther).
+1. "The kingdom of glory is their inheritance."
+2. "The sufferings are needed to prepare us for the glory."
+3. "His sufferings were penal, ours are purifying; His glory was His own, ours is a gift of grace."
 
 ### John Gill:
-1. "Children, whether natural or adopted, are heirs to their parents."
-2. "He not only makes them his heirs, but he himself is their inheritance and portion."
-3. "The saints shall be glorified together; their sufferings lie in the way to glory, and glory is and will be the end of their sufferings."
+1. "Children, whether natural or adopted, are heirs to their parents, and according to the Roman laws, which some think the apostle here respects..."
+2. "He not only makes them his heirs, but he himself is their inheritance and portion; they are heirs of all things which are his..."
+3. "...they shall be glorified together; not with his essential glory, nor with his mediatorial glory, but with that glory which his Father has given him for them."
 
 ### John Wesley:
-1. "Joint heirs – That we may know it is a great inheritance which God will give us for he hath given a great one to his Son."
-2. "If we suffer with him – Willingly and cheerfully, for righteousness' sake. This is a new proposition, referring to what follows."
+1. "Joint heirs — That we may know it is a great inheritance which God will give us for he hath given a great one to his Son."
+2. "If we suffer with him — Willingly and cheerfully, for righteousness' sake."
+3. "This is a new proposition, referring to what follows."
 
 
 ## Debug Info
@@ -49,14 +50,18 @@ The inheritance that God will give us is a great one, just as He has given a gre
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 64
-- BHT Commentary Usage: 86.67%
-- BHT Quality Score: 80.66666666666667
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (8):
-	['glorious', 'important', 'journey', 'just', 'prepared', 'receiving', 'reminder', 'towards']
-- ChatGPT injected words (significant words only) (6):
-	['glorious', 'important', 'journey', 'prepared', 'receiving', 'reminder']
+- BHT Word Count: 93
+- BHT Commentary Usage: 75.0%
+- BHT Quality Score: 72.0
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (24):
+	['being', 'belong', 'beneficiaries', 'cost', 'encompassing', 'enduring', 'however', 'into', 'just', 'likeness', 'must', 'obtained', 'ordinary', 'privileges', 'purify', 'rights', 'serve', 'shaped', 'these', 'trials', 'ultimately', 'vast', 'willing', 'without']
+- ChatGPT injected words (significant words only) (17):
+	['belong', 'beneficiaries', 'cost', 'encompassing', 'enduring', 'likeness', 'obtained', 'ordinary', 'privileges', 'purify', 'rights', 'serve', 'shaped', 'trials', 'ultimately', 'vast', 'willing']
 
 ### Logs
-- ✅ Romans 8:17 bht prompt v5 (64 words, 86.67% quotes)
+- 🔄 Romans 8:17 (attempt 1, 115 words, 77.14% quotes, quality score: 52.142857142857146) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Romans 8:17 (attempt 2, 110 words, 75.36% quotes, quality score: 55.36231884057971) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Romans 8:17 bht prompt v5 (93 words, 75.0% quotes)

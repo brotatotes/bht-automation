@@ -1,46 +1,47 @@
 # Romans 8:6 Commentary Help Text
 
 ## BHT:
-The mind of the flesh is death, not just physical, but in the largest sense, extending to eternity. Conversely, the mind of the Spirit is life and peace, seeking the feelings and views produced by the Holy Spirit. Possessing and cultivating the graces of the spirit is the design of our existence and the path to happiness. Being carnally minded involves fleshly thinking and striving, while being spiritually minded is the pursuit of spiritual objects, which brings life and peace. Carnally mindedness brings death upon the saints, but the spiritually minded are alive, lively in grace and duty, and characterized by peace.
+To be carnally minded is to be devoted to the corrupt passions of the flesh, resulting in condemnation and death. It involves following the inclinations and pursuits of the flesh, which ultimately leads to a state of spiritual death. In contrast, to be spiritually minded is to seek the things produced by the Holy Spirit. This pursuit brings life and peace, as it is characterized by the pursuit of spiritual objects and the guidance of the Holy Spirit. The spiritual mind is marked by a discernment for spiritual matters and a longing for them. This mindset brings about a sense of peace, happiness, and fulfillment.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "For the mind of the flesh is death, not merely physical or mere unhappiness, but as in Romans 8:2, in the largest sense, extending to eternity."
-2. "The mind of the Spirit is life and peace, in the largest sense, as above."
-3. "The peace of the Spirit being a blessed contrast to the tumult of the fleshly lusts, even in this life."
+1. "The mind of the flesh is death...in the largest sense, extending to eternity."
+2. "The mind of the Spirit is life and peace...the peace of the Spirit being a blessed contrast to the tumult of the fleshly lusts, even in this life."
+3. "The spiritual man cannot mind the things of the flesh, because such mind is death."
 
 ### Jamieson-Fausset-Brown:
-1. "For—a mere particle of transition here [THOLUCK], like 'but' or 'now.'"
-2. "To be carnally minded...the pursuit of fleshly ends.">
-3. "To be spiritually minded...the pursuit of spiritual objects...is life and peace."
+1. "the pursuit of fleshly ends." 
+2. "carrying death into its bosom" 
+3. "the pursuit of spiritual objects...is life and peace"
 
 ### Albert Barnes:
-1. "The expression is one of great energy, and shows that it not only leads to death, or leads to misery, but that it is death itself; there is woe and condemnation in the very act and purpose of being supremely devoted to the corrupt passions."
-2. "To be spiritually minded is to seek those feelings and views which the Holy Spirit produces, and to follow his leadings."
-3. "For to possess and cultivate the graces of the spirit, to be led where he would guide us, is the design of our existence, and is the only path of happiness."
+1. "To follow the inclinations of the flesh...leads us to condemnation and death."
+2. "There is woe and condemnation in the very act and purpose of being supremely devoted to the corrupt passions."
+3. "To be spiritually minded is to seek those feelings and views which the Holy Spirit produces, and to follow his leadings."
 
 ### Marvin Vincent:
-1. "To be carnally minded...fleshly thinking and striving."
+1. "Fleshly thinking and striving."
+2. "The mind of the Spirit."
 
 ### John Calvin:
-1. "...το φρονημα of Paul is the same with what Moses calls the imagination (figmentum — devising) of the heart..."
-2. "This passage deserves special notice; for we hence learn, that we, while following the course of nature, rush headlong into death..."
-3. "The minding of the Spirit he calls life, for it is life-giving, or leads to life; and by peace he designates, after the manner of the Hebrews, every kind of happiness..."
+1. "Thus by stating the contrary effect, he proves, that they cannot be partakers of the favor of Christ, who abide in the flesh, for through the whole course of their life they proceed and hasten unto death."
+2. "But he immediately adds another clause, to teach us, that if anything in us tends to life, it is what the Spirit produces; for no spark of life proceeds from our flesh."
+3. "The minding of the Spirit he calls life, for it is life-giving, or leads to life; and by peace he designates, after the manner of the Hebrews, every kind of happiness; for whatever the Spirit of God works in us tends to our felicity."
 
 ### Philip Schaff:
-1. "The word 'mind' corresponds with the verb 'mind' in the last verse; it is that which embodies the thinking, caring, striving; the disposition, we might call it."
-2. "Death is here conceived of as present...not merely as a result, but as a characteristic mark, an immanent definition of the carnal mind."
+1. "The word ‘mind’ corresponds with the verb ‘mind’ in the last verse; it is that which embodies the thinking, caring, striving; the disposition, we might call it."
+2. "‘Death is here conceived of as present...not merely as a result, but as a characteristic mark, an immanent definition of the carnal mind’ (Philippi)."
 3. "Here also the Holy Spirit; the minding, striving, which comes from the Holy Spirit."
 
 ### John Gill:
-1. "Carnal mindedness, so far as it prevails in the saints, brings a death upon them." 
-2. "Spiritually minded men are the only living persons in a spiritual sense...they are not only alive, but lively in the exercise of grace and discharge of duty."
-3. "Such men are also of peaceable dispositions in commonwealths, in neighbourhoods, in families, and churches; induced thereunto by the noblest arguments; and their end will be peace, which will be perfect and eternal."
+1. "The phrase the apostle here uses, includes the best part of corrupt man; the mind, the understanding, the judgment, the will, the affections, the thoughts, the reason, and reasonings of man..."
+2. "This wisdom of the flesh, or carnal mindedness, 'is death'; not that it is conversant about death; or that such persons are thoughtful of it, endeavour to make it familiar to them; or are desirous of it, and esteem it as a privilege; this only spiritually minded men do: but the sense is, that this issues in death; death is not the object, but the end of carnal mindedness..."
+3. "But spiritually minded men are evidently living persons; they have a spiritual discerning of spiritual things; they breathe after them, savour and relish them; they talk of spiritual things, and walk in a spiritual manner..."
 
 ### John Wesley:
-1. "To be carnally minded... Is death."
-2. "But to be spiritually minded... Is life."
-3. "And attended with peace."
+1. "To be carnally minded...Is death - The sure mark of spiritual death, and the way to death everlasting."
+2. "But to be spiritually minded...Is life - A sure mark of spiritual life, and the way to life everlasting."
+3. "And attended with peace - The peace of God, which is the foretaste of life everlasting; and peace with God, opposite to the enmity mentioned in the next verse."
 
 
 ## Debug Info
@@ -48,24 +49,24 @@ The mind of the flesh is death, not just physical, but in the largest sense, ext
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 102
-- BHT Commentary Usage: 87.93%
-- BHT Quality Score: 75.93103448275862
+- BHT Word Count: 105
+- BHT Commentary Usage: 71.43%
+- BHT Quality Score: 56.42857142857143
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (8):
-	['characterized', 'conversely', 'cultivating', 'involves', 'just', 'possessing', 'produced', 'seeking']
-- ChatGPT injected words (significant words only) (7):
-	['characterized', 'conversely', 'cultivating', 'involves', 'possessing', 'produced', 'seeking']
+- ChatGPT injected words (16):
+	['brings', 'characterized', 'discernment', 'following', 'fulfillment', 'guidance', 'involves', 'longing', 'marked', 'matters', 'mindset', 'produced', 'pursuits', 'resulting', 'state', 'ultimately']
+- ChatGPT injected words (significant words only) (16):
+	['brings', 'characterized', 'discernment', 'following', 'fulfillment', 'guidance', 'involves', 'longing', 'marked', 'matters', 'mindset', 'produced', 'pursuits', 'resulting', 'state', 'ultimately']
 
 ### Logs
-- 🔄 Romans 8:6 (attempt 1, 138 words, 84.62% quotes, quality score: 36.61538461538461) 
+- 🔄 Romans 8:6 (attempt 1, 137 words, 78.38% quotes, quality score: 31.378378378378375) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:6 (attempt 2, 102 words, 87.93% quotes, quality score: 75.93103448275862) 
+- 🔄 Romans 8:6 (attempt 2, 114 words, 67.21% quotes, quality score: 43.21311475409837) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:6 (attempt 3, 105 words, 77.61% quotes, quality score: 62.61194029850746) 
+- 🔄 Romans 8:6 (attempt 3, 109 words, 71.67% quotes, quality score: 52.666666666666664) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:6 (attempt 4, 107 words, 85.07% quotes, quality score: 68.07462686567165) 
+- 🔄 Romans 8:6 (attempt 4, 105 words, 71.43% quotes, quality score: 56.42857142857143) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:6 (attempt 5, 102 words, 78.12% quotes, quality score: 66.125) 
+- 🔄 Romans 8:6 (attempt 5, 102 words, 65.45% quotes, quality score: 53.45454545454545) 
 	- BHT WAS OVER 100 WORDS!
-- ✅ Romans 8:6 bht prompt v5 (102 words, 87.93% quotes)
+- ✅ Romans 8:6 bht prompt v5 (105 words, 71.43% quotes)

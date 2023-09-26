@@ -1,37 +1,37 @@
 # Romans 8:31 Commentary Help Text
 
 ## BHT:
-What answer can we find to the array of God's merciful acts of love towards believers? If God is for us, who could possibly be against us? God's support is proven through His foreknowledge, predestination, calling, justifying, and glorifying of us. No enemy can prevail against us if we have the assurance that God is resolved and engaged to bring us through every trial. With this truth, we find strong consolation. The power to injure or destroy us has been taken away. We can rest in the knowledge that God is mighty enough to defend and save us from all kinds of enemies. (94 words)
+The verse reminds us of the unstoppable power of God's love and grace towards believers. The emphasis is placed on the immeasurable blessings bestowed upon us and the unwavering support that God provides. Nothing can stand against those whom God is for, as He freely gives us all things. Even in the face of trials and tribulations, we are assured that nothing can separate us from the love of Christ who died for us.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "What then shall we say to these things (what answer can the hesitating or discouraged find to this array of the merciful acts of God’s love on behalf of the believer)?" 
-2. "If God is for us (and this He has been proved to be, Romans 8:28-30, in having foreknown, predestinated, called, justified, glorified us), who (is) against us?"
+1. "What answer can the hesitating or discouraged find to this array of the merciful acts of God’s love on behalf of the believer?"
+2. "If God is for us, who is against us?"
 
 ### Jamieson-Fausset-Brown:
-1. "We can no farther go, think, wish" [BENGEL].
-2. "If God be resolved and engaged to bring us through, all our enemies must be His; and 'Who would set the briers and thorns against Him in battle? He would go through them. He would burn them together'" (Romans 8:34-). 
-3. "What strong consolation is here!"
+1. "We can no farther go, think, wish" [BENGEL]. 
+2. "This whole passage...strikes all thoughtful interpreters and readers..." 
+3. "If God be resolved and engaged to bring us through, all our enemies must be His; and 'Who would set the briers and thorns against Him in battle? He would go through them. He would burn them together' (Romans 8:34-)"
 
 ### Albert Barnes:
-1. "What shall we then say ... - What fairly follows from the facts stated? or what conclusion shall we draw in regard to the power of the Christian religion to support us in our trials from the considerations which have been stated?"
-2. "If God be for us - Be on outside, or is our friend, as he has shown himself to be by adopting us Romans 8:15, by granting to us his Spirit Romans 8:16-17, Romans 8:26-27, and by his gracious purpose to save us, Romans 8:29-30)."
-3. "Who can be against us? - Who can injure or destroy us? Sinners may be against us, and so may the great enemy of our souls, but their power to destroy us is taken away. God is more mighty than all our foes; and he can defend and save us; see Psalms 118:6. 'The Lord is on my side; I will not fear what man can do unto me.'"
+1. "What conclusion shall we draw in regard to the power of the Christian religion to support us in our trials from the considerations which have been stated?"
+2. "If God be for us... Who can be against us?"
+3. "The proposition advanced in this verse, Paul proceeds to illustrate by various specifications, which continue to the end of the chapter."
 
 ### John Calvin:
-1. "The faithful ought to be furnished when adversities urge them to despond."
-2. "Paul loudly exclaims, that a deeper principle ought to be inquired after."
-3. "He promises a victory over all kinds of enemies."
+1. "But Paul loudly exclaims, that a deeper principle ought to be inquired after, and that they reason absurdly who confine themselves to the sad spectacle of our present warfare."
+2. "He does not, however, mean, that nothing shall oppose us; but he promises a victory over all kinds of enemies."
+3. "For except we have God propitious to us, though all things should smile on us, yet no sure confidence can be attained: but, on the other hand, his favor alone is a sufficient solace in every sorrow, a protection sufficiently strong against all the storms of adversities."
 
 ### Philip Schaff:
 1. "What we should say is to echo the language of the rest of the chapter, which presents in glowing language the certainty of salvation as based upon the acts of God’s love in the facts of redemption."
-2. "That God is for us, has already been shown (Romans 8:29-30); there is but one answer."
+2. "That God is for us, has already been shown; there is but one answer."
 3. "But it is easier to accept the logic and admire the rhetoric of the passage, than to take the proper encouragement from it."
 
 ### John Gill:
-1. "They [the blessings of God] are a complete set of blessings, wanting nothing; nor can the greatness of them be fully expressed, or the freeness of God's grace displayed in them, sufficiently declared."
-2. "What remains for us to do, but to be thankful for them, and glory in them?"
-3. "If God be for us... He is so for them, and on their side, as that he will certainly save them."
+1. "They are a complete set of blessings, wanting nothing; nor can the greatness of them be fully expressed, or the freeness of God's grace displayed in them, sufficiently declared."
+2. "[...], the free, sovereign, unchangeable, and everlasting love of God, in providing and bestowing such benefits; and the certainty of salvation, which is infallibly secured hereby."
+3. "Who can be against us? None can be against them. There are some that cannot possibly be against them; if Jehovah the Father is not against them, the Son cannot be against them, nor the Spirit; good angels cannot be against them, so far from it, that they rejoice at their good, minister to them, and are a guard about them; the law cannot be against them, because it is fulfilled in them; nor justice, because it is satisfied, and all its demands answered."
 
 ### John Wesley:
 1. "If God be for us, who can be against us?"
@@ -44,27 +44,21 @@ What answer can we find to the array of God's merciful acts of love towards beli
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 106
-- BHT Commentary Usage: 80.28%
-- BHT Quality Score: 64.28169014084507
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (19):
-	['assurance', 'believers', 'calling', 'could', 'enough', 'every', 'foreknowledge', 'glorifying', 'justifying', 'knowledge', 'possibly', 'predestination', 'prevail', 'proven', 'towards', 'trial', 'truth', 'with', 'words']
+- BHT Word Count: 75
+- BHT Commentary Usage: 73.08%
+- BHT Quality Score: 78.07692307692308
+- Generate Attempts: 4 / 5
+- ChatGPT injected words (18):
+	['assured', 'believers', 'bestowed', 'emphasis', 'even', 'face', 'gives', 'immeasurable', 'placed', 'provides', 'reminds', 'stand', 'those', 'towards', 'tribulations', 'unstoppable', 'unwavering', 'whom']
 - ChatGPT injected words (significant words only) (14):
-	['assurance', 'believers', 'calling', 'foreknowledge', 'glorifying', 'justifying', 'knowledge', 'possibly', 'predestination', 'prevail', 'proven', 'trial', 'truth', 'words']
+	['assured', 'believers', 'bestowed', 'emphasis', 'face', 'gives', 'immeasurable', 'placed', 'provides', 'reminds', 'stand', 'tribulations', 'unstoppable', 'unwavering']
 
 ### Logs
-- 🔄 Romans 8:31 (attempt 1, 172 words, 75.24% quotes, quality score: -6.7619047619047645) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:31 (attempt 2, 106 words, 80.28% quotes, quality score: 64.28169014084507) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Romans 8:31 (attempt 3, 105 words, 64.06% quotes, quality score: 49.0625) 
+- 🔄 Romans 8:31 (attempt 1, 70 words, 73.58% quotes, quality score: 73.58490566037736) 
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- 🔄 Romans 8:31 (attempt 2, 105 words, 58.57% quotes, quality score: 43.57142857142856) 
 	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 70.0% OF BHT WAS FROM QUOTES!
-- 🔄 Romans 8:31 (attempt 4, 107 words, 61.04% quotes, quality score: 44.038961038961034) 
-	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 70.0% OF BHT WAS FROM QUOTES!
-- 🔄 Romans 8:31 (attempt 5, 113 words, 61.33% quotes, quality score: 38.33333333333333) 
-	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 70.0% OF BHT WAS FROM QUOTES!
-- ✅ Romans 8:31 bht prompt v5 (106 words, 80.28% quotes)
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- 🔄 Romans 8:31 (attempt 3, 95 words, 60.0% quotes, quality score: 55.0) 
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- ✅ Romans 8:31 bht prompt v5 (75 words, 73.08% quotes)
