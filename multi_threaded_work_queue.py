@@ -24,7 +24,7 @@ class MultiThreadedWorkQueue:
                 retries += 1
                 print(f"❗An error occurred: {e}\n\t{args}")
                 # print(traceback.format_exc()) # debugging.
-                wait_time = 2 ** retries # exponential backoff.
+                wait_time = 2.5 ** retries # exponential backoff.
                 print(f"Try # {retries} Retrying in {wait_time} seconds...")
                 time.sleep(wait_time)
 

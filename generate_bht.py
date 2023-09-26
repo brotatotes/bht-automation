@@ -114,7 +114,7 @@ def get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator)
 # Generate Choicest Piece
 
 # @timeout(10)
-def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt):
+def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt, extra_messages):
     prompt_text = get_prompt(CHOICEST_FOLDER_NAME, choicest_prompt)
     messages = []
 
@@ -132,6 +132,8 @@ def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt
         "role": "user",
         "content": commentary
     })
+
+    messages.extend(extra_messages)
 
     model = "gpt-3.5-turbo"
     token_count = sum(len(ENCODING.encode(message["content"])) for message in messages)
@@ -156,15 +158,15 @@ def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt
     return chat_completion.choices[0].message["content"]
 
 
-def ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, tries=0, try_limit=10):
+def ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get choicest. Quitting. ❌")
     
     try:
-        return ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt)
+        return ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
     except TimeoutError:
         print(f"Attempt {tries} timed out. Trying again.")
-        return ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, tries + 1)
+        return ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries + 1, try_limit)
 
 
 def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=False):
@@ -195,11 +197,13 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
 
                 commentary_length_limit = 15
 
+                extra_messages = []
+
                 if len(commentary_tokens_set) < commentary_length_limit:
                     choicest = f"1. {commentary}"
                 else:
                     while True:
-                        choicest = ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt)
+                        choicest = ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
                         choicest = choicest.replace('\n\n', '\n')
                         choicest_tokens = list(tokenize(choicest.lower()))
                         choicest_tokens_set = set(choicest_tokens)
@@ -215,16 +219,28 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                         if not too_many_diffs and not too_long:
                             break
                         else:
+                            extra_messages.append({
+                                "role": "assistant",
+                                "content": choicest
+                            })
+
+                            complaints = []
+
                             info_msg = [f"🔄 {verse_ref} {commentator}"]
                             info_msg.append(f"({diffs} injected words, {word_count} words)")
 
                             if too_many_diffs:
                                 info_msg.append(f"MORE THAN {token_diff_limit} INJECTED WORDS!")
+                                complaints.append(f"Please only copy quotes from the original commentary. Do not add any of your own words.")
 
                             if too_long:
                                 info_msg.append(f"MORE THAN {word_count_limit} WORDS!")
+                                complaints.append(f"Please do not exceed {word_count_limit} words.")
 
-                            
+                            extra_messages.append({
+                                "role": "user",
+                                "content": ' '.join(complaints)
+                            })
                             print(' '.join(info_msg))
 
 
@@ -475,7 +491,7 @@ if __name__ == '__main__':
         # "1 Corinthians",
         # "2 Corinthians",
         # "Galatians",
-        # "Ephesians",
+        "Ephesians",
         # "Philippians",
         # "Colossians",
         # "1 Thessalonians",
@@ -497,7 +513,7 @@ if __name__ == '__main__':
         # "Romans 8", 
         # "1 John 1", 
         # "John 3", 
-        "Ephesians 1",
+        # "Ephesians 1",
         # "John 17:3"
         ]]
     
