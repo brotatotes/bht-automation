@@ -1,42 +1,42 @@
 # John 3:31 Commentary Help Text
 
 ## BHT:
-He that is of the earth, a mere man of earthly origin, has a spirit and speech that reflect his earthly nature. It is possible that the concluding words of the chapter are not the words of the Baptist, but rather those of the evangelist.
+The verse reminds us of the contrast between the one who comes from above, representing the Messiah's divine origin, and the one who is of the earth, referring to a mere human. The one who comes from above speaks with authority and power, reflecting the eternal and divine nature of their message. In contrast, the one who is of the earth speaks from a limited and temporary perspective. The verse highlights the unique position of the one who comes from above, surpassing all others in their authority and ability to reveal truth.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The sentiments of the following verses seem to them not to be congruous with the time and position of the Baptist."
-2. "The diction and sentiments of the following verses are so entirely in the style of our Evangelist."
+2. "And there is nothing inconsistent with what the Lord himself says of the Baptist in these verses."
 3. "His power and His words are not from below, temporary, limited; but are divine and inexhaustible."
 
 ### Jamieson-Fausset-Brown:
-1. "The Master 'cometh from above'—descending from His proper element, the region of those 'heavenly things' which He came to reveal."
-2. "The servants, on the contrary, springing of earth, are of the earth, and their testimony, even though divine in authority, partakes necessarily of their own earthiness."
-3. "It is impossible for a sharper line of distinction to be drawn between Christ and all human teachers, even when divinely commissioned and speaking by the power of the Holy Ghost."
+1. "He that, c.—Here is the reason why He must increase while all human teachers must decrease."
+2. "The Master 'cometh from above'—descending from His proper element, the region of those 'heavenly things' which He came to reveal, and so, although mingling with men and things on the earth, is not 'of the earth,' either in Person or Word."
+3. "The words of prophets and apostles are undeniable and most precious truth but in the words of Christ we hear a voice as from the excellent Glory, the Eternal Word making Himself heard in our own flesh."
 
 ### Albert Barnes:
 1. "He that cometh from above - The Messiah, represented as coming down from heaven."
-2. "Is above all - In nature, rank, and authority. 'Is superior to all prophets' Hebrews 1:1-2; 'to all angels' Hebrews 1:4-14, 'and is over all the universe as its sovereign Lord,' Romans 9:5; Ephesians 1:21-22; Colossians 1:15-19; 1 Corinthians 15:25."
-3. "He that is of the earth - He who has no higher nature than the human nature. The prophets, apostles, and John were men like others, born in the same way, and sinking, like others, to the dust."
+2. "Is above all - In nature, rank, and authority. 'Is superior to all prophets,' 'to all angels,' and 'is over all the universe as its sovereign Lord'."
+3. "Speaketh of the earth - His teaching is inferior to that of him who comes from heaven. It is comparatively obscure and imperfect, not full and clear, like the teaching of him who is from above."
 
 ### John Calvin:
-1. "He who cometh from above...compares him to a king or distinguished general, who, speaking from his lofty seat, ought to be heard with reverence for his authority..."
-2. "...he who is of earth gives evidence of his descent, and remains in an earthly rank according to the condition of his nature."
-3. "Christ, therefore, wishes to be acknowledged in his ministers, but in such a manner that he may remain the only Lord, and that they may be satisfied with the rank of servants; but especially when a comparison is made, he wishes to be so distinguished that he alone may be exalted."
+1. "He who cometh from above...shows that it is enough for himself to speak from the lowest footstool of Christ." 
+2. "He who is of earth gives evidence of his descent, and remains in an earthly rank according to the condition of his nature." 
+3. "It is peculiar to Christ alone to speak from above, because he came from heaven...he wishes to be so distinguished that he alone may be exalted."
 
 ### Philip Schaff:
-1. "'He that cometh from above' and 'He that cometh out of heaven' are clearly the same as 'He that came down out of heaven' (John 3:13), and all three expressions are designations of Jesus."
-2. "There is but One who thus 'cometh from above' (though many others have received their mission from above), and He therefore is above all."
+1. "He that cometh from above is above all: he that is out of the earth is out of the earth, and out of the earth he speaketh."
+2. "There is but One who thus ‘cometh from above’, and He therefore is above all."
 3. "In comparison with Him, every other prophet or teacher has his origin out of the earth; and as is his origin, so is his nature, so is his utterance."
 
 ### John Gill:
-1. "He came from heaven in his divine person, not by change of place, but by assumption of human nature."
-2. "He is above all; above John, the prophets, even above all the angels in heaven."
-3. "Men naturally mind earthly things; and it is owing to the Spirit and grace of God if they mind spiritual things."
+1. "He came from heaven in his divine person, not by change of place, he being God immense and infinite, but by assumption of human nature."
+2. "All glory is to be given him; no honour is to be envied him, or detracted from him."
+3. "He that cometh from heaven is above all; men and angels, in the dignity of his person; and all prophets and teachers, in the excellency of his doctrine, and manner of delivering it."
 
 ### John Wesley:
 1. "He that is of the earth — A mere man; of earthly original, has a spirit and speech answerable to it."
-2. "It is not improbable, that what is added, to the end of the chapter, are the words of the evangelist, not the Baptist."
+
 
 
 ## Debug Info
@@ -44,14 +44,17 @@ He that is of the earth, a mere man of earthly origin, has a spirit and speech t
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 45
-- BHT Commentary Usage: 90.0%
-- BHT Quality Score: 65.0
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (4):
-	['concluding', 'possible', 'rather', 'reflect']
-- ChatGPT injected words (significant words only) (3):
-	['concluding', 'possible', 'reflect']
+- BHT Word Count: 93
+- BHT Commentary Usage: 70.21%
+- BHT Quality Score: 67.2127659574468
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (18):
+	['ability', 'between', 'contrast', 'highlights', 'message', 'others', 'perspective', 'referring', 'reflecting', 'reminds', 'representing', 's', 'speaks', 'surpassing', 'their', 'unique', 'us', 'verse']
+- ChatGPT injected words (significant words only) (14):
+	['ability', 'contrast', 'highlights', 'message', 'perspective', 'referring', 'reflecting', 'reminds', 'representing', 's', 'speaks', 'surpassing', 'unique', 'verse']
 
 ### Logs
-- ✅ John 3:31 bht prompt v5 (45 words, 90.0% quotes)
+- 🔄 John 3:31 (attempt 1, 56 words, 72.73% quotes, quality score: 58.72727272727273) 
+	- 'COMMENTATOR(S)' FOUND IN BHT! 
+	- LIST FORMAT DETECTED!
+- ✅ John 3:31 bht prompt v5 (93 words, 70.21% quotes)

@@ -1,7 +1,7 @@
 # John 3:16 Commentary Help Text
 
 ## BHT:
-In this verse, we witness the remarkable love of God for humanity. God's desire for the happiness and salvation of all sinners is evident. This love surpasses our understanding and is unlike the limited view of gods in paganism. Through Christ, God offered the ultimate sacrifice, His only Son, to save the world from eternal destruction. Through faith in Him, we can obtain everlasting life and be rescued from perdition. This gift demonstrates the immense depth and fervor of God's love for us.
+God's love for the world is a reflection of his immense compassion and desire for the happiness of all humanity. It is not a mere approval of their conduct, but a selfless act of benevolence. This love stands in stark contrast to the gods of pagan religions who do not offer assurance of forgiveness and salvation. Through the gift of his Son, God demonstrates his unconditional and unmerited love, going beyond the boundaries of race or religion. This love is offered freely to all who believe, promising them everlasting life and the assurance of grace.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -11,13 +11,13 @@ In this verse, we witness the remarkable love of God for humanity. God's desire 
 
 ### Jamieson-Fausset-Brown:
 1. "What proclamation of the Gospel has been so oft on the lips of missionaries and preachers in every age since it was first uttered?"
-2. "What has sent such thrilling sensations through millions of mankind?"
+2. "The immense 'LOVE OF GOD' to that perishing world, measurable only, and conceivable only, by the gift which it drew forth from Him."
 3. "How would Nicodemus' narrow Judaism become invisible in the blaze of this Sun of righteousness seen rising on 'the world' with healing in His wings!"
 
 ### Albert Barnes:
-1. "God hates wickedness, but he still desires the Happiness of those who are sinful. 'He hates the sin, but loves the sinner.'"
-2. "A parent may love his child and desire his welfare, and yet be strongly opposed to the conduct of that child."
-3. "This is the highest expression of love of which we can conceive. A parent who should give up his only son to die for others who are guilty - if this could or might be done - would show higher love than could be manifested in any other way."
+1. "For God so loved - This does not mean that God approved the conduct of men, but that he had benevolent feelings toward them, or was 'earnestly desirous' of their happiness."
+2. "When we approve the conduct of another, this is the love of complacency; when we desire simply their happiness, this is the love of benevolence."
+3. "His love for the world, or for all mankind, in giving his Son, was shown by these circumstances: That he gave - It was a free and unmerited gift. Man had no claim... It was the mere movement of love; the expression of eternal compassion, and of a desire, that sinners should not perish forever."
 
 ### Marvin Vincent:
 1. "This attitude of God toward the world is in suggestive contrast with that in which the gods of paganism are represented."
@@ -25,24 +25,24 @@ In this verse, we witness the remarkable love of God for humanity. God's desire 
 3. "Human life is a life without the certainty of grace."
 
 ### John Calvin:
-1. "For God so loved the world. Christ opens up the first cause, and, as it were, the source of our salvation, and he does so, that no doubt may remain; for our minds cannot find calm repose, until we arrive at the unmerited love of God."
-2. "And this is still more clear from what follows; for he adds, that God gave his Son to men, that they may not perish. Hence it follows that, until Christ bestow his aid in rescuing the lost, all are destined to eternal destruction."
-3. "The word only-begotten is emphatic, to magnify the fervor of the love of God towards us. For as men are not easily convinced that God loves them, in order to remove all doubt, he has expressly stated that we are so very dear to God that, on our account, he did not even spare his only-begotten Son."
+1. "Scripture everywhere extols his pure and unmingled mercy, which sets aside all merits."
+2. "He loved us while we were still enemies by sin...where sin reigns, we shall find nothing but the wrath of God, which draws death along with it."
+3. "For as men are not easily convinced that God loves them, in order to remove all doubt, he has expressly stated that we are so very dear to God that, on our account, he did not even spare his only-begotten Son."
 
 ### Philip Schaff:
-1. "The Son of man is the Son of God, the only begotten Son; the one term expresses His fitness for the work, the other points to His dignity and to the greatness of the Father’s love."
-2. "The universality of the blessing is marked with twofold emphasis; designed, not for Israel only, but for the whole world, it is the actual possession of every believer."
-3. "The Divine purpose is presented under two aspects, not one only; it is that the believer may be saved from perdition, and may now possess eternal life."
+1. "Whatever remains still hidden, so much as this is certain, that the humiliation and exaltation of Him who came down out of heaven were the expression of God’s love to the whole world."
+2. "The Son of man is the Son of God... the one term expresses His fitness for the work, the other points to His dignity and to the greatness of the Father’s love."
+3. "The universality of the blessing is marked with twofold emphasis; designed, not for Israel only, but for the whole world, it is the actual possession of every believer."
 
 ### John Gill:
 1. "God has so loved the Gentiles, as well as the Jews, that he gave his only begotten Son; to, and for them, as well as for the Jews; to be a covenant of the people, the Gentiles, the Saviour of them, and a sacrifice for them; a gift which is a sufficient evidence of his love to them."
-2. "Whosoever believeth in him, whether Jew or Gentile, should not perish, but have everlasting life."
-3. "The gift of his Son: nor is Christ God's gift to every one; for to whomsoever he gives his Son, he gives all things freely with him; which is not the case of every man."
+2. "It being a large and comprehensive one, an irreversible and unspeakable one; no other than his own Son by nature, of the same essence, perfections, and glory with him; begotten by him in a way inconceivable and expressible by mortals."
+3. "Whosoever believeth in him, whether Jew or Gentile, should not perish, but have everlasting life."
 
 ### John Wesley:
-1. "Whosoever believeth on him — With that faith which worketh by love, and hold fast the beginning of his confidence steadfast to the end."
-2. "God so loved the world — That is, all men under heaven; even those that despise his love, and will for that cause finally perish."
-3. "He gave his only Son — Truly and seriously. And the Son of God gave himself, Galatians 4:4, truly and seriously."
+1. "Yea, and this was the very design of God's love in sending him into the world."
+2. "Whosoever believeth on him — With that faith which worketh by love, and hold fast the beginning of his confidence steadfast to the end."
+3. "God so loved the world — That is, all men under heaven; even those that despise his love, and will for that cause finally perish."
 
 
 ## Debug Info
@@ -50,25 +50,19 @@ In this verse, we witness the remarkable love of God for humanity. God's desire 
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 67.24%
-- BHT Quality Score: 72.24137931034483
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (19):
-	['demonstrates', 'depth', 'evident', 'humanity', 'immense', 'limited', 'obtain', 'offered', 'remarkable', 'rescued', 'save', 'sinners', 'surpasses', 'ultimate', 'understanding', 'unlike', 'verse', 'view', 'witness']
-- ChatGPT injected words (significant words only) (19):
-	['demonstrates', 'depth', 'evident', 'humanity', 'immense', 'limited', 'obtain', 'offered', 'remarkable', 'rescued', 'save', 'sinners', 'surpasses', 'ultimate', 'understanding', 'unlike', 'verse', 'view', 'witness']
+- BHT Word Count: 96
+- BHT Commentary Usage: 68.25%
+- BHT Quality Score: 62.25396825396825
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (23):
+	['act', 'approval', 'believe', 'beyond', 'boundaries', 'demonstrates', 'do', 'freely', 'going', 'humanity', 'offer', 'offered', 'pagan', 'promising', 'race', 'reflection', 'religion', 'religions', 'selfless', 'stands', 'stark', 'through', 'unconditional']
+- ChatGPT injected words (significant words only) (20):
+	['act', 'approval', 'believe', 'boundaries', 'demonstrates', 'freely', 'going', 'humanity', 'offer', 'offered', 'pagan', 'promising', 'race', 'reflection', 'religion', 'religions', 'selfless', 'stands', 'stark', 'unconditional']
 
 ### Logs
-- 🔄 John 3:16 (attempt 1, 121 words, 73.24% quotes, quality score: 42.23943661971831) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 John 3:16 (attempt 2, 85 words, 67.24% quotes, quality score: 72.24137931034483) 
-	- LESS THAN 70.0% OF BHT WAS FROM QUOTES!
-- 🔄 John 3:16 (attempt 3, 85 words, 67.24% quotes, quality score: 72.24137931034483) 
-	- LESS THAN 70.0% OF BHT WAS FROM QUOTES!
-- 🔄 John 3:16 (attempt 4, 107 words, 75.36% quotes, quality score: 58.36231884057971) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 John 3:16 (attempt 5, 111 words, 64.29% quotes, quality score: 43.28571428571428) 
+- 🔄 John 3:16 (attempt 1, 116 words, 96.05% quotes, quality score: 57.94736842105264) 
 	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 70.0% OF BHT WAS FROM QUOTES!
-- ✅ John 3:16 bht prompt v5 (85 words, 67.24% quotes)
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- 🔄 John 3:16 (attempt 2, 96 words, 97.14% quotes, quality score: 76.85714285714286) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- ✅ John 3:16 bht prompt v5 (96 words, 68.25% quotes)

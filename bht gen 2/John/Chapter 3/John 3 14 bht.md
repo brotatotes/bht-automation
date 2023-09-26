@@ -1,23 +1,23 @@
 # John 3:14 Commentary Help Text
 
 ## BHT:
-Jesus warns the Jews that even the testimony of the Scriptures will be taken from them, just as the Israelites were eventually deprived of the uplifting serpent. Jesus likens the removal of their witness to the brazen serpent, which was taken down after serving its purpose. Just as Moses was a witness to the Israelites, Jesus is a witness to his own works and words.
+As the divine commentary explains, the witness being taken away in an ignominious manner is a clear reference to the sufferings and death of Christ. This event was symbolically portrayed in Numbers 21:8,9, where the copper serpent was lifted up on a pole, effectively giving light to the camp of Israel. Just as the serpent was honored in its exaltation, so was Christ honored in His crucifixion, which would ultimately serve as a powerful testimony and a means of salvation for all who would believe.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
 1. "The comparison lies between the exalted serpent of brass, and the exalted Son of Man. The brazen serpent sets forth the Redeemer."
-2. "The brazen serpent was made in the likeness of the serpents which had bitten them. It represented to the children of Israel the poison which had gone through their frames, and it was hung up there on the banner-staff, as a trophy, to show them that for the poison, there was healing; that the plague had been overcome."
-3. "In it, there was no poison; only the likeness of it. Now was not the Lord Jesus made ἐν ὁμοιώματι σαρκὸς ἁμαρτίας? Was not He made 'Sin for us, who knew no sin' (2Co 5:21)? Did not He, on His Cross, make an open show of, and triumph over, the Enemy, so that it was as if the Enemy himself had been nailed to that Cross?"
+2. "The 'serpent' is in Scripture symbolism, the devil... So sin, the poison of the devil, being instilled into our nature, that nature has become a poisoned nature, a flesh of sin."
+3. "In it [the brazen serpent], there was no poison; only the likeness of it. Now was not the Lord Jesus made in the likeness of sin? Was not He made 'Sin for us, who knew no sin'?"
 
 ### Jamieson-Fausset-Brown:
-1. "The crucifixion of Messiah is twice after this veiled under the same lively term—"uplifting," John 8:28, John 12:32; John 12:33."
-2. "But as the uplifted serpent had none of the venom of which the serpent-bitten people were dying, so while the whole human family were perishing of the deadly wound inflicted on it by the old serpent, 'the Second Man,' who arose over humanity with healing in His wings, was without spot or wrinkle, or any such thing."
-3. "As one simple look at the serpent, however distant and however weak, brought an instantaneous cure, even so, real faith in the Lord Jesus, however tremulous, however distant—be it but real faith—brings certain and instant healing to the perishing soul."
+1. "Stung by serpents, by a serpent they are healed. By 'fiery serpents' bitten—serpents, probably, with skin spotted fiery red [KURTZ]—the instrument of cure is a serpent of brass or copper, having at a distance the same appearance."
+2. "In both cases the remedy is conspicuously displayed; in the one case on a pole, in the other on the cross, to 'draw all men unto Him' (John 12:32)."
+3. "Both methods are stumbling to human reason. What, to any thinking Israelite, could seem more unlikely than that a deadly poison should be dried up in his body by simply looking on a reptile of brass? Such a stumbling-block to the Jews and to the Greeks foolishness was faith in the crucified Nazarene as a way of deliverance from eternal perdition."
 
 ### Albert Barnes:
-1. "Men are sinners. There is no cure by human means for the maladies of the soul; and as the people who were bitten might look on the image of the serpent and be healed, so may sinners look to the Saviour and be cured of the moral maladies of our nature."
-2. "Lifted up - Erected on a pole. Placed on high, So that it might be seen by the people."
-3. "Even so - In a similar manner and with a similar design. He here refers, doubtless, to his own death."
+1. "Men are sinners. There is no cure by human means for the maladies of the soul."
+2. "As the people who were bitten might look on the image of the serpent and be healed, so may sinners look to the Saviour and be cured of the moral maladies of our nature."
+3. "Must - It is proper; necessary; indispensable, if men are saved."
 
 ### Marvin Vincent:
 1. "Must signifies the eternal necessity in the divine counsels."
@@ -25,18 +25,18 @@ Jesus warns the Jews that even the testimony of the Scriptures will be taken fro
 3. "It is characteristic of John to blend the two ideas of Christ's passion and glory."
 
 ### John Calvin:
-1. "To be lifted up means to be placed in a lofty and elevated situation, so as to be exhibited to the view of all. This was done by the preaching of the Gospel...by the doctrine of the Gospel, that all who look at him by faith may obtain salvation."
-2. "Hence it ought to be inferred that Christ is clearly exhibited to us in the Gospel, in order that no man may complain of obscurity; and that this manifestation is common to all, and that faith has its own look, by which it perceives him as present."
-3. "As it was only the outward appearance of a serpent, but contained nothing within that was pestilential or venomous, so Christ clothed himself with the form of sinful flesh, which yet was pure and free from all sin, that he might cure in us the deadly wound of sin."
+1. "He explains more clearly why he said that it is he alone to whom heaven is opened; namely, that he brings to heaven all who are only willing to follow him as their guide; for he testifies that he will be openly and publicly manifested to all, that he may diffuse his power over men of every class."
+2. "The simple meaning of the words therefore is, that, by the preaching of the Gospel, Christ was to be raised on high, like a standard to which the eyes of all would be directed."
+3. "Hence it ought to be inferred that Christ is clearly exhibited to us in the Gospel, in order that no man may complain of obscurity; and that this manifestation is common to all, and that faith has its own look, by which it perceives him as present."
 
 ### John Gill:
-1. "There is, in many things, an agreement between this serpent, and Jesus Christ."
-2. "This may denote the meanness of Christ in his human nature, in his birth and parentage, and place of education and converse."
-3. "As brass is a shining metal, and might be chosen for the serpent in the wilderness to be made of, that by the luster of it the eyes of the Israelites might be attracted and directed to it, who were at the greatest distance in the camp; so it may be expressive of the glory of Christ, as the only begotten of the Father, and who is the brightness of his Father's glory."
+1. "There is, in many things, an agreement between this serpent, and Jesus Christ: as in the matter of it, it was a brazen serpent... this may denote the meanness of Christ in his human nature, in his birth and parentage, and place of education and converse; and especially in his crucifixion and death."
+2. "The comparison between the serpent Moses lifted up, and Christ, may be observed in the form of it... so Christ was sent, in the likeness of sinful flesh, and was found in fashion as a man, as a sinful man, but was without sin, and was perfectly holy."
+3. "And whereas brass is both a strong and durable metal, it may signify the strength of Christ, who is the mighty God, and mighty to save; and his duration, as a Saviour, being the same today, yesterday, and for ever."
 
 ### John Wesley:
 1. "And even this single witness will soon be taken from you; yea, and in a most ignominious manner."
-2. "And as Moses..."
+2. "Numbers 21:8,9."
 
 
 ## Debug Info
@@ -44,14 +44,16 @@ Jesus warns the Jews that even the testimony of the Scriptures will be taken fro
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 65
-- BHT Commentary Usage: 72.09%
-- BHT Quality Score: 67.09302325581395
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (14):
-	['deprived', 'down', 'eventually', 'jews', 'just', 'likens', 'purpose', 'removal', 'scriptures', 'serving', 'testimony', 'warns', 'words', 'works']
-- ChatGPT injected words (significant words only) (12):
-	['deprived', 'eventually', 'jews', 'likens', 'purpose', 'removal', 'scriptures', 'serving', 'testimony', 'warns', 'words', 'works']
+- BHT Word Count: 84
+- BHT Commentary Usage: 66.67%
+- BHT Quality Score: 72.66666666666667
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (22):
+	['away', 'believe', 'camp', 'clear', 'commentary', 'effectively', 'event', 'exaltation', 'giving', 'honored', 'israel', 'just', 'light', 'portrayed', 'powerful', 'salvation', 'serve', 'sufferings', 'symbolically', 'testimony', 'ultimately', 'where']
+- ChatGPT injected words (significant words only) (20):
+	['away', 'believe', 'camp', 'clear', 'commentary', 'effectively', 'event', 'exaltation', 'giving', 'honored', 'israel', 'light', 'portrayed', 'powerful', 'salvation', 'serve', 'sufferings', 'symbolically', 'testimony', 'ultimately']
 
 ### Logs
-- ✅ John 3:14 bht prompt v5 (65 words, 72.09% quotes)
+- 🔄 John 3:14 (attempt 1, 43 words, 62.5% quotes, quality score: 35.5) 
+	- LIST FORMAT DETECTED!
+- ✅ John 3:14 bht prompt v5 (84 words, 66.67% quotes)

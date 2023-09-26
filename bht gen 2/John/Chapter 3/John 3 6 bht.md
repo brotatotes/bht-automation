@@ -1,52 +1,48 @@
 # John 3:6 Commentary Help Text
 
 ## BHT:
-Man, by his natural birth, is carnal and corrupted, unable to discern spiritual things. Therefore, there is a necessity for him to be born again through the grace of the Spirit, becoming a spiritual man. This new birth, by the Spirit of God, enables a person to discern and judge all things of a spiritual nature and be fit to partake in spiritual ordinances and privileges. The contrast is clear between the mere flesh, which is void of the Spirit and even hostile towards it, and the spiritual nature that is heavenly, divine, and reflects its divine Author.
+Jesus answers Nicodemus's hypothetical question about entering the mother's womb a second time by emphasizing the need for a spiritual birth. He explains that the natural birth is a physical one, but the new birth is a spiritual one. This new birth is brought about by the Spirit of God and is characterized by a transformation from a natural, carnal state to a spiritual state. It is through this new birth that individuals become holy and can enter the spiritual kingdom of God. One cannot have evidence of being born again unless they live a holy life, reflecting the work of the Spirit within them.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The neuter denotes not only the universal application of this truth, but...the very first beginnings of life in the embryo, before sex can be predicated."
-2. "The Lord here answers Nicodemus's hypothetical question...by telling him that even could it be so, it would not accomplish the birth of which He speaks."
-3. "In this σάρξ is included every part of that which is born after the ordinary method of generation: even the spirit of man, which, receptive as it is of the Spirit of God, is yet in the natural birth dead, sunk in trespasses and sins, and in a state of wrath."
+1. "The Lord here answers Nicodemus’s hypothetical question of John 3:4, by telling him that even could it be so, it would not accomplish the birth of which He speaks."
+2. "In this σάρξ is included every part of that which is born after the ordinary method of generation: even the spirit of man, which, receptive as it is of the Spirit of God, is yet in the natural birth dead, sunk in trespasses and sins, and in a state of wrath."
+3. "But when the man is born again of the Spirit...then just as flesh generates flesh, so spirit generates spirit, after its own image...and since the Kingdom of God is a spiritual kingdom, such only who are so born can enter into it."
 
 ### Jamieson-Fausset-Brown:
-1. "That which is born carries within itself the nature of that which begat it."
-2. "Not the mere material body, but all that comes into the world by birth, the entire man."
-3. "Though a man 'could enter a second time into his mother's womb and be born,' he would be no nearer this 'new birth' than before."
+1. "That which is begotten carries within itself the nature of that which begat it."
+2. "Not the mere material body, but all that comes into the world by birth, the entire man; yet not humanity simply, but in its corrupted, depraved condition, in complete subjection to the law of the fall."
+3. "So that though a man 'could enter a second time into his mother's womb and be born,' he would be no nearer this 'new birth' than before."
 
 ### Albert Barnes:
-1. "That which is born of the flesh" he evidently intends man as he is by nature, in the circumstances of his natural birth.
-2. "Is flesh" here is used as meaning "corrupt, defiled, sinful."
-3. "Is born of the Spirit" - Of the Spirit of God, or by the agency of the Holy Spirit.
-4. "Is spiritual, 'like' the spirit, that is, holy, pure."
-5. "All men are by nature sinful."
-6. "None are renewed but by the Spirit of God."
-7. "The effect of the new birth is to make men holy."
-8. "No man can have evidence that he is born again who is not holy, and just in proportion as he becomes pure in his life will be the evidence that he is born of the Spirit."
+1. "By 'that which is born of the flesh' he evidently intends man as he is by nature, in the circumstances of his natural birth."
+2. "The 'flesh' in the Scriptures is often used to denote the sinful propensities and passions of our nature, as those propensities are supposed to have their seat in the animal nature."
+3. "Here we learn: 1. That all men are by nature sinful. 2. That none are renewed but by the Spirit of God. 3. That the effect of the new birth is to make men holy. 4. And, that no man can have evidence that he is born again who is not holy, and just in proportion as he becomes pure in his life will be the evidence that he is born of the Spirit."
 
 ### Marvin Vincent:
-1. "The aorist tense (3, 4, 5, 7), marks the fact of birth; the perfect (as here), the state of that which has been born..."
-2. "John uses the word sarx generally, to express humanity under the conditions of this life...with sometimes a more definite hint at the sinful and fallible nature of humanity."
-3. "The Holy Spirit of God, or the principle of life which He imparts...Spirit and flesh are the distinguishing principles, the one of the heavenly, the other of the earthly economy."
+1. "Strictly, that which hath been born, and consequently is now before us as born."
+2. "John uses the word sarx generally, to express humanity under the conditions of this life."
+3. "Spirit and flesh are the distinguishing principles, the one of the heavenly, the other of the earthly economy."
 
 ### John Calvin:
-1. "For he takes for granted, that we cannot enter into the kingdom of God unless we are spiritual."
-2. "Christ therefore declares that our understanding and reason is corrupted, because it is carnal, and that all the affections of the heart are wicked and reprobate, because they too are carnal."
-3. "Thus in the whole of our nature there remains not a drop of uprightness. Hence it is evident that we must be formed by the second birth, that we may be fitted for the kingdom of God."
+1. "We cannot enter into the kingdom of God unless we are spiritual."
+2. "Christ declares that our understanding and reason is corrupted because it is carnal, and that all the affections of the heart are wicked and reprobate because they too are carnal."
+3. "The meaning of Christ's words is that as a man is born only carnal from the womb of his mother, he must be formed anew by the Spirit, that he may begin to be spiritual."
 
 ### Philip Schaff:
-1. "The necessity of a new birth is enforced, and the 'cannot' of John 3:3 explained."
-2. "The contrast is between the natural and the spiritual birth."
-3. "The spiritual life of the kingdom of God can only come from the new spiritual principle."
+1. "Thus the necessity of a new birth is enforced, and the ‘cannot’ of John 3:3 explained."
+2. "It is not easy to say whether ‘flesh,’ as here used, definitely indicates the sinful principles of human nature, or only that which is outward, material, not spiritual but merely natural."
+3. "Is the reference to the Holy Spirit Himself, who imparts the principle of the new life, or to the principle which He imparts, the principle just spoken of in John 3:5, ‘of water and spirit’?"
 
 ### John Gill:
-1. "Man by his natural birth, and as he is born according to the flesh of his natural parents, is a mere natural man; that is, he is carnal and corrupt, and cannot discern spiritual things." 
+1. "Man by his natural birth, and as he is born according to the flesh of his natural parents, is a mere natural man; that is, he is carnal and corrupt, and cannot discern spiritual things."
 2. "And therefore there is a necessity of his being born again, or of the grace of the Spirit, and of his becoming a spiritual man."
 3. "A man that is regenerated by the Spirit of God, and the efficacy of his grace, is a spiritual man; he can discern and judge all things of a spiritual nature; he is a fit person to be admitted to spiritual ordinances and privileges."
 
 ### John Wesley:
-1. "Mere flesh, void of the Spirit, yea, at enmity with it."
-2. "Is spiritual, heavenly, divine, like its Author."
+1. "Mere flesh, void of the Spirit."
+2. "At enmity with it."
+3. "Is spiritual, heavenly, divine, like its Author."
 
 
 ## Debug Info
@@ -54,14 +50,25 @@ Man, by his natural birth, is carnal and corrupted, unable to discern spiritual 
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 89.83%
-- BHT Quality Score: 81.83050847457628
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (8):
-	['clear', 'enables', 'hostile', 'partake', 'reflects', 'through', 'towards', 'unable']
-- ChatGPT injected words (significant words only) (6):
-	['clear', 'enables', 'hostile', 'partake', 'reflects', 'unable']
+- BHT Word Count: 107
+- BHT Commentary Usage: 79.37%
+- BHT Quality Score: 62.36507936507937
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (18):
+	['about', 'become', 'brought', 'characterized', 'emphasizing', 'entering', 'explains', 'for', 'individuals', 'jesus', 'live', 'need', 'physical', 'reflecting', 'them', 'through', 'transformation', 'work']
+- ChatGPT injected words (significant words only) (13):
+	['brought', 'characterized', 'emphasizing', 'entering', 'explains', 'individuals', 'jesus', 'live', 'need', 'physical', 'reflecting', 'transformation', 'work']
 
 ### Logs
-- ✅ John 3:6 bht prompt v5 (98 words, 89.83% quotes)
+- 🔄 John 3:6 (attempt 1, 55 words, 97.14% quotes, quality score: 67.85714285714286) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES! 
+	- LIST FORMAT DETECTED!
+- 🔄 John 3:6 (attempt 2, 75 words, 90.91% quotes, quality score: 94.0909090909091) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- 🔄 John 3:6 (attempt 3, 128 words, 72.0% quotes, quality score: 34.0) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 John 3:6 (attempt 4, 114 words, 81.82% quotes, quality score: 57.81818181818181) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 John 3:6 (attempt 5, 107 words, 79.37% quotes, quality score: 62.36507936507937) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ John 3:6 bht prompt v5 (107 words, 79.37% quotes)

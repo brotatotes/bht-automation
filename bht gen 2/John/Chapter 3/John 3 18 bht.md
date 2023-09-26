@@ -1,22 +1,22 @@
 # John 3:18 Commentary Help Text
 
 ## BHT:
-Those who have placed their trust in Jesus are not condemned and are justified before God. The mention of the name of the only-begotten Son of God may imply the greatness and magnificence of this person. By believing in Jesus, believers are acquitted and saved through the person himself, who offers redemption and salvation from condemnation.
+Those who trust in Him are no longer under the guilty verdict of sin; they are acquitted and justified before God. The significance of the name of the only-begotten Son of God implies the greatness and magnificence of the person spoken of. On the other hand, those who do not believe in Him are already in a state of condemnation because they have not placed their faith in the name of the Son of God.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "εἰς giving more the direction of the belief towards, and its resting upon, Jesus as the Saviour."
-2. "God has provided a remedy for the deadly bite of sin; this remedy the man has not accepted, not taken: he must then perish in his sins: he is already judged and sentenced."
-3. "The perfect implies more than ‘that faith is a definite act in time’; it sets before us the deliberate choice of the man, q. d. ‘he hath not chosen to believe’: see 2 Thessalonians 2:11-12."
+1. "God has provided a remedy for the deadly bite of sin; this remedy the man has not accepted, not taken: he must then perish in his sins: he is already judged and sentenced." 
+2. "The perfect implies more than ‘that faith is a definite act in time’... it sets before us the deliberate choice of the man, q. d. ‘he hath not chosen to believe’."
+3. "That name was Ἰησοῦς, αὐτὸς γὰρ σώσει τὸν λαὸν αὐτοῦ ἀπὸ τῶν ἁμαρτιῶν αὐτῶν."
 
 ### Jamieson-Fausset-Brown:
-1. "Having immediately on his believing, 'passed from death unto life' (John 5:24)."
-2. "Rejecting the one way of deliverance from that 'condemnation' which God gave His Son to remove, and so wilfully remaining condemned."
+1. "Having, immediately on his believing, 'passed from death unto life' (John 5:24)." 
+2. "Rejecting the one way of deliverance from that 'condemnation' which God gave His Son to remove, and so willfully remaining condemned."
 
 ### Albert Barnes:
-1. "He that believeth - He that has confidence in him; that relies on him; that trusts to his merits and promises for salvation."
-2. "When a sinner believes on Jesus, he trusts in him, as having died in his place, and God having accepted the offering which Christ made in our stead, as being an equivalent for our sufferings in hell, there is now no further condemnation."
-3. "All people are by nature condemned. There is but one way to be delivered from this state by believing on the Son of God. Those who do not believe or remain in that state are still condemned, for they have not embraced the only way in which they can be freed from it."
+1. "He that has confidence in him; that relies on him; that trusts to his merits and promises for salvation."
+2. "God pardons sin, and delivers us from deserved punishment, because we believe on him."
+3. "There is but one way of being delivered from this state by believing on the Son of God. They who do not believe or remain in that state are still condemned."
 
 ### Marvin Vincent:
 1. "Unbelief, in separating from Christ, implies judgment."
@@ -25,7 +25,7 @@ Those who have placed their trust in Jesus are not condemned and are justified b
 ### John Calvin:
 1. "When he so frequently and so earnestly repeats, that all believers are beyond danger of death, we may infer from it the great necessity of firm and assured confidence, that the conscience may not be kept perpetually in a state of trembling and alarm."
 2. "He means that believers are safe from the fear of condemnation."
-3. "For all who reject the life given to them in Christ, there remains nothing but death, since life consists in nothing else than in faith."
+3. "He directs his discourse against those who deliberately and maliciously extinguish the light which God had kindled."
 
 ### Philip Schaff:
 1. "He that abides in faith in Christ abides in a state to which judging belongs not; whilst the faith remains, the idea of judgment is excluded, for the believer is one with the Lord in whom he has placed his trust."
@@ -33,9 +33,9 @@ Those who have placed their trust in Jesus are not condemned and are justified b
 3. "The great idea of the Gospel, the division of all men into two classes severed from each other, is very clearly presented here; but no unchangeable division is thought of. The separation is the result of deliberate choice; and whilst the choice is adhered to, the severance abides."
 
 ### John Gill:
-1. "A believer is openly in Christ; and there is no condemnation to those that are in him."
-2. "His death is a security to them from all condemnation: and they are delivered by him from the curse and condemnation of the law."
-3. "He remains under the sentence of condemnation passed in Adam upon him; the law accuses him, and pronounces him guilty before God; he is under the curse of it, and it is a ministration of condemnation and death to him."
+1. "He that believeth on him is not condemned...there is no condemnation to those that are in him."
+2. "They are delivered by him from the curse and condemnation of the law: and having in conversion openly passed from death to life, they shall never enter into condemnation."
+3. "But he that believeth not is condemned already...because he hath not believed in the name of the only begotten Son of God;...such that do not believe in him, must be damned."
 
 ### John Wesley:
 1. "He that believeth on him is not condemned — Is acquitted, is justified before God."
@@ -48,14 +48,14 @@ Those who have placed their trust in Jesus are not condemned and are justified b
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 57
-- BHT Commentary Usage: 82.5%
-- BHT Quality Score: 69.5
+- BHT Word Count: 76
+- BHT Commentary Usage: 84.44%
+- BHT Quality Score: 90.44444444444444
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (9):
-	['greatness', 'imply', 'magnificence', 'mention', 'offers', 'redemption', 'saved', 'their', 'through']
+- ChatGPT injected words (10):
+	['greatness', 'guilty', 'hand', 'have', 'longer', 'magnificence', 'significance', 'their', 'under', 'verdict']
 - ChatGPT injected words (significant words only) (7):
-	['greatness', 'imply', 'magnificence', 'mention', 'offers', 'redemption', 'saved']
+	['greatness', 'guilty', 'hand', 'longer', 'magnificence', 'significance', 'verdict']
 
 ### Logs
-- ✅ John 3:18 bht prompt v5 (57 words, 82.5% quotes)
+- ✅ John 3:18 bht prompt v5 (76 words, 84.44% quotes)

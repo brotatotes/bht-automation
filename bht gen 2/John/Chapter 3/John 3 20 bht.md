@@ -1,36 +1,36 @@
 # John 3:20 Commentary Help Text
 
 ## BHT:
-Every person who lives a life filled with evil hates the light of Christ and His Gospel because they expose and convict them of their wicked deeds. They refuse to come to the light, to hear Christ's preaching and attend to the Gospel, in fear that their evil deeds will be brought into the open and they will be reproved and advised to change.
+People who live sinful lives despise Christ and his teachings because they expose and condemn their evil actions. They avoid coming to Christ and hearing the Gospel because they fear their sinful deeds will be exposed and they will be held accountable. They refuse to come into the light of truth because they do not want their sinful deeds to be revealed and rebuked, as they are unwilling to give them up.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The φῶς is not here ‘the common light of day,’ nor light in general: but as before, the Light; i.e. the Lord Jesus, and His salvation."
-2. "There is here a difference between φαῦλα πράσσειν, and ποιεῖν τὴν ἀλήθειαν, which is too remarkable to be passed over."
-3. "He who πράσσει, has nothing but his πρᾶγμα, which is an event, a thing of the past, a source to him only of condemnation, for he has nothing to show for it, for it is also φαῦλον, worthless; whereas he that ποιεῖ, has his ποίημα, he has abiding fruit; his works do follow him."
+1. "The φῶς is not here 'the common light of day,' nor light in general: but as before, the Light; i.e. the Lord Jesus, and His salvation."
+2. "He who πράσσει, has nothing but his πρᾶγμα, which is an event, a thing of the past, a source to him only of condemnation, for he has nothing to show for it, for it is also φαῦλον, worthless; whereas he that ποιεῖ, has his ποίημα, he has abiding fruit; his works do follow him."
+3. "There may possibly be a hint [in the mention of σκότος Joh 3:19] at the coming by night of Nicodemus, but surely only by a distant implication. He might gather this from what was said, that it would have been better for him to make open confession of Jesus; but we can hardly say that our Lord reproves him for coming even as he did."
 
 ### Jamieson-Fausset-Brown:
 1. 20. reproved—by detection.
 
 ### Albert Barnes:
-1. "They choose to practice their deeds of wickedness in darkness. They are afraid of the light because they could be easily detected."
-2. "He hates the gospel, for it condemns his conduct, and his conscience would trouble him if it were enlightened."
-3. "The gospel would make his wickedness manifest, and his conscience would condemn him."
+1. "Hateth the light - This is true of all wicked men. They choose to practice their deeds of wickedness in darkness. They are afraid of the light, because they could be easily detected."
+2. "To 'reprove' here means not only to 'detect' or make manifest, but also includes the idea of 'condemnation' when his deeds are detected. The gospel would make his wickedness manifest, and his conscience would condemn him."
+3. "That men by nature 'hate' the gospel. No man who is a sinner loves it; and no man by nature is disposed to come to it, any more than an adulterer or thief is disposed to come to the daylight, and do his deeds of wickedness there."
 
 ### Marvin Vincent:
 1. "Evil, therefore, considered on the side of worthlessness."
-2. "The different meanings unite in the word convict. Conviction is the result of examination, testing, argument."
-3. "The man is thus convicted of sin, of right, and of judgment."
+2. "To bring to light or expose by conviction."
+3. "The test exposes and demonstrates the error, and refutes it, thus convincing, convicting, and rebuking the subject of it."
 
 ### John Calvin:
-1. "The light is hateful to them for no other reason than because they are wicked and desire to conceal their sins."
-2. "By rejecting the remedy, they may be said purposely to cherish the ground of their condemnation."
+1. "The meaning is, that the light is hateful to them for no other reason than because they are wicked and desire to conceal their sins." 
+2. "By rejecting the remedy, they may be said purposely to cherish the ground of their condemnation." 
 3. "They abhor and shun the light, that they may more freely flatter themselves in darkness."
 
 ### Philip Schaff:
 1. "The universal law is, that he who committeth evil hateth the light."
 2. "Every one whose life is thus evil knows that in the presence of the light he must stand self-condemned."
-3. "The works are looked on as of themselves the criminals; they will be self-convicted, self-condemned."
+3. "The works are looked on as of themselves the criminals they will be self-convicted, self-condemned."
 
 ### John Gill:
 1. "Every man, the series of whose life and conversation is evil, hates Christ and his Gospel, cause they make manifest his evil deeds, convict him of them, and rebuke him for them."
@@ -43,14 +43,14 @@ Every person who lives a life filled with evil hates the light of Christ and His
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 65
-- BHT Commentary Usage: 74.42%
-- BHT Quality Score: 69.41860465116278
+- BHT Word Count: 72
+- BHT Commentary Usage: 59.57%
+- BHT Quality Score: 61.574468085106375
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (12):
-	['change', 'come', 'expose', 'fear', 'filled', 'into', 'lives', 'open', 'person', 'preaching', 'refuse', 's']
-- ChatGPT injected words (significant words only) (11):
-	['change', 'come', 'expose', 'fear', 'filled', 'lives', 'open', 'person', 'preaching', 'refuse', 's']
+- ChatGPT injected words (22):
+	['accountable', 'actions', 'avoid', 'despise', 'exposed', 'fear', 'give', 'hearing', 'held', 'into', 'live', 'lives', 'people', 'rebuked', 'refuse', 'revealed', 'sinful', 'teachings', 'truth', 'unwilling', 'up', 'want']
+- ChatGPT injected words (significant words only) (19):
+	['accountable', 'actions', 'avoid', 'despise', 'exposed', 'fear', 'hearing', 'held', 'live', 'lives', 'people', 'rebuked', 'refuse', 'revealed', 'sinful', 'teachings', 'truth', 'unwilling', 'want']
 
 ### Logs
-- ✅ John 3:20 bht prompt v5 (65 words, 74.42% quotes)
+- ✅ John 3:20 bht prompt v5 (72 words, 59.57% quotes)
