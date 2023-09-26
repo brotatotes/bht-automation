@@ -27,8 +27,10 @@ class MultiThreadedWorkQueue:
                 wait_time = 2 ** retries # exponential backoff.
                 print(f"Try # {retries} Retrying in {wait_time} seconds...")
                 time.sleep(wait_time)
+
         if not successful:
-            print(f"❌ Failed {retries} times. Quitting. ❌\n\t{args}")
+            print(f"❌ Failed {retries} times. Adding to end of queue to try again later. ❌\n\t{args}")
+            self.add_task(func, args)
 
 
     def worker(self):
