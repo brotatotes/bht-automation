@@ -1,7 +1,7 @@
 # Ephesians 6:17 Commentary Help Text
 
 ## BHT:
-The helmet of salvation is a vital piece of armor that protects the head. It is not just a mere hope, but a confident hope that brings no shame or disappointment. The word of God, which is likened to a two-edged sword, serves as both an offensive and defensive weapon. It convicts of sin and cuts down all human pride. Armed with the helmet of salvation and the sword of the Spirit, we are equipped to defend ourselves against falsehoods and boldly proclaim the mystery of the gospel with confidence and freedom.
+The helmet of salvation protects the head, defending the soul with a firm hope that shields against disappointment. The sword of the Spirit, the word of God, is a potent weapon for the Christian, capable of both attacking and parrying the enemy. It is a vital offensive tool given by the Spirit, made and wielded by the Spirit. The Bible, particularly the New Testament, has long been the primary weapon in the Christian's warfare throughout history, making it the sword of the Spirit. The simple declarations of Scripture safeguard us against false doctrines and temptations, proving more effective than worldly philosophies.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -30,6 +30,11 @@ The helmet of salvation is a vital piece of armor that protects the head. It is 
 1. "The head is protected by the best helmet, when, elevated by hope, we look up towards heaven to that salvation which is promised."
 
 
+### Philip Schaff:
+1. "The Christian’s helmet is ‘salvation,’ i.e., the fact that he is saved, salvation appropriated by faith... This protects the head, and enables the Christian to face the adversary."
+2. "It is the one offensive weapon, the short sword for close combat. It is from the Spirit, made by the Spirit... It is also the weapon which the Spirit uses."
+3. "The Bible, especially the New Testament, has been the one great weapon of attack in the Christian warfare for centuries; hence we may believe that, so far as we are concerned, it is the sword of the Spirit, the word of God, here proffered as our weapon."
+
 ### Archibald T. Robertson:
 1. "The helmet of salvation... late word... in Polybius, LXX, 1 Thessalonians 5:8; Ephesians 6:17 alone in N.T." 
 2. "The sword given by the Spirit to be wielded as offensive weapon (the others defensive) by the Christian is the word of God."
@@ -50,17 +55,25 @@ The helmet of salvation is a vital piece of armor that protects the head. It is 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 80.95%
-- BHT Quality Score: 76.04761904761904
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (13):
-	['boldly', 'confidence', 'confident', 'equipped', 'falsehoods', 'freedom', 'human', 'just', 'likened', 'mere', 'pride', 'proclaim', 'protects']
-- ChatGPT injected words (significant words only) (12):
-	['boldly', 'confidence', 'confident', 'equipped', 'falsehoods', 'freedom', 'human', 'likened', 'mere', 'pride', 'proclaim', 'protects']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 102
+- BHT Commentary Usage: 73.13%
+- BHT Quality Score: 74.86567164179104
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (21):
+	['attacking', 'capable', 'defending', 'effective', 'firm', 'history', 'long', 'making', 'more', 'parrying', 'particularly', 'philosophies', 'potent', 'primary', 'proving', 'safeguard', 'shields', 'throughout', 'tool', 'us', 'worldly']
+- ChatGPT injected words (significant words only) (18):
+	['attacking', 'capable', 'defending', 'effective', 'firm', 'history', 'long', 'making', 'parrying', 'particularly', 'philosophies', 'potent', 'primary', 'proving', 'safeguard', 'shields', 'tool', 'worldly']
 
 ### Logs
-- 🔄 Ephesians 6:17 (attempt 1, 113 words, 82.35% quotes, quality score: 54.64705882352941) 
+- 🔄 Ephesians 6:17 (attempt 1, 237 words, 78.99% quotes, quality score: -65.99159663865547) 
 	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 6:17 bht prompt v5 (93 words, 80.95% quotes)
+- 🔄 Ephesians 6:17 (attempt 2, 108 words, 76.56% quotes, quality score: 65.4375) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 6:17 (attempt 3, 102 words, 73.13% quotes, quality score: 74.86567164179104) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 6:17 (attempt 4, 105 words, 73.13% quotes, quality score: 71.86567164179104) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 6:17 (attempt 5, 114 words, 75.0% quotes, quality score: 60.99999999999999) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 6:17 bht prompt v5 (102 words, 73.13% quotes)

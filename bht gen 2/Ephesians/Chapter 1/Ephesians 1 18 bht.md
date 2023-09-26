@@ -1,7 +1,7 @@
 # Ephesians 1:18 Commentary Help Text
 
 ## BHT:
-The eyes of our understanding, enlightened by the Holy Spirit, enable us to perceive the profound truths of God. Through this illumination, we come to recognize the depths of sin, the insufficiency of our own righteousness, and the glorious sufficiency of Christ as our Savior. It is with this understanding that we begin to grasp the hope embedded in God's calling. This hope may encompass the eternal happiness we yearn for, the unshakeable foundation of Christ, or the transformative grace of hope itself. In God's inheritance, we discover boundless riches and the resplendent glory that He has prepared for His saints.
+The eyes of your understanding being enlightened by His Spirit, we discern the exceeding sinfulness of sin, the insufficiency of our own righteousness, and the beauty, glory, and suitableness of Christ as a Savior. By this illumination, we know the hope of His calling, experiencing and delighting in the blessings God has called us to hope for. We also grasp the riches and glory of the inheritance prepared for His saints – an immense and blessed treasure. Through the opening and enlightening of our understanding, we are enabled to see and embrace these profound truths and realities.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The eyes of our understanding, enlightened by the Holy Spirit, enable us to perc
 2. "A comparison, suggested by its excellence, reminds us how unfit we are to receive this elevated knowledge..."
 3. "But the splendid encomiums which he pronounces on faith convey to us also this instruction, that it is so admirable a work and gift of God, that no language can do justice to its excellence."
 
+### Philip Schaff:
+1. "The result of the gift of the 'spirit of wisdom and revelation' is intellectual as well as moral."
+2. "This 'hope' results from God's calling us, the call is the efficient cause of the hope."
+3. "The 'inheritance' is not God's inheriting the saints, but what they inherit from Him, namely, eternal life, heirship in the Christ; this God gives, hence 'His.'"
+
 ### Archibald T. Robertson:
 1. "A beautiful figure, the heart regarded as having eyes looking out toward Christ."
 2. "When the Holy Spirit opens the eyes of the heart, one will be able to see all these great truths."
@@ -44,26 +49,17 @@ The eyes of our understanding, enlightened by the Holy Spirit, enable us to perc
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 103
-- BHT Commentary Usage: 70.15%
-- BHT Quality Score: 76.8507462686567
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (22):
-	['begin', 'boundless', 'come', 'depths', 'discover', 'embedded', 'enable', 'encompass', 'grasp', 'illumination', 'itself', 'perceive', 'prepared', 'profound', 'recognize', 'resplendent', 'savior', 'sufficiency', 'through', 'transformative', 'unshakeable', 'yearn']
-- ChatGPT injected words (significant words only) (20):
-	['begin', 'boundless', 'come', 'depths', 'discover', 'embedded', 'enable', 'encompass', 'grasp', 'illumination', 'perceive', 'prepared', 'profound', 'recognize', 'resplendent', 'savior', 'sufficiency', 'transformative', 'unshakeable', 'yearn']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 96
+- BHT Commentary Usage: 80.95%
+- BHT Quality Score: 73.04761904761904
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (13):
+	['blessed', 'delighting', 'embrace', 'enabled', 'experiencing', 'grasp', 'illumination', 'opening', 'prepared', 'profound', 'realities', 'savior', 'through']
+- ChatGPT injected words (significant words only) (12):
+	['blessed', 'delighting', 'embrace', 'enabled', 'experiencing', 'grasp', 'illumination', 'opening', 'prepared', 'profound', 'realities', 'savior']
 
 ### Logs
-- 🔄 Ephesians 1:18 (attempt 1, 131 words, 90.79% quotes, quality score: 28.210526315789465) 
-	- BHT WAS OVER 100 WORDS! 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- 🔄 Ephesians 1:18 (attempt 2, 108 words, 73.91% quotes, quality score: 68.08695652173913) 
+- 🔄 Ephesians 1:18 (attempt 1, 108 words, 85.71% quotes, quality score: 56.28571428571428) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:18 (attempt 3, 115 words, 74.29% quotes, quality score: 60.71428571428571) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:18 (attempt 4, 106 words, 73.91% quotes, quality score: 70.08695652173913) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:18 (attempt 5, 103 words, 70.15% quotes, quality score: 76.8507462686567) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:18 bht prompt v5 (103 words, 70.15% quotes)
+- ✅ Ephesians 1:18 bht prompt v5 (96 words, 80.95% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 3:6 Commentary Help Text
 
 ## BHT:
-In Christ Jesus, the gentiles are made fellow heirs with the Jews, sharing in the inheritance of God. They are part of the same body under Christ as the head, and they are joint-partakers of the promise through the communion of the Holy Spirit. This passage alludes to the Trinity, emphasizing the unity and equality among believers in the context of God's covenant relationship with his people. The rare and unique words used in this passage highlight the special nature of this inclusion and the blessings received through faith in Christ.
+That the Gentiles should be joint-heirs with the Jews, entitled to the same privileges and blessings of salvation, is a hidden truth that is revealed in Christ Jesus. As fellow-heirs, they belong to the family of God and are part of the same body, with Christ as the head. They are also joint-partakers of the promise through the communion of the Holy Spirit. This unity and inclusion of the Gentiles in God's plan of salvation is a testament to the power of the gospel and the grace of God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -18,6 +18,14 @@ In Christ Jesus, the gentiles are made fellow heirs with the Jews, sharing in th
 1. "Fellow - heirs - of the same body - partakers." 
 2. "The second of these words occurs only here; the third only here and ch. 5 7." 
 3. "They are strange to classical Greek."
+
+### Philip Schaff:
+1. "That the Gentiles are... a secret fact" - Alford
+2. "Fellow-heirs... with the Jews... belonging to the family of God"
+3. "Fellow members and fellow partakers of the promise... the same privileges... the promise"
+4. "In Christ Jesus... the objective ground of their heirship"
+5. "Through the gospel... the means by which these privileges are appropriated"
+6. "To understand the gospel is our aim, not to be the organ of a new revelation."
 
 ### Archibald T. Robertson:
 1. "Fellow-heirs (συνκληρονομα). Late and rare (Philo, inscriptions and papyri). See also Romans 8:17."
@@ -39,17 +47,15 @@ In Christ Jesus, the gentiles are made fellow heirs with the Jews, sharing in th
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 93
-- BHT Commentary Usage: 73.68%
-- BHT Quality Score: 83.3157894736842
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (18):
-	['alludes', 'among', 'believers', 'context', 'emphasizing', 'equality', 'faith', 'highlight', 'inclusion', 'nature', 'part', 'passage', 'received', 'relationship', 'sharing', 'unique', 'unity', 'used']
-- ChatGPT injected words (significant words only) (15):
-	['alludes', 'believers', 'context', 'emphasizing', 'equality', 'faith', 'highlight', 'inclusion', 'nature', 'passage', 'received', 'relationship', 'sharing', 'unique', 'unity']
+- BHT Commentary Usage: 82.35%
+- BHT Quality Score: 74.6470588235294
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (10):
+	['belong', 'hidden', 'inclusion', 'part', 'plan', 'power', 'revealed', 'testament', 'truth', 'unity']
+- ChatGPT injected words (significant words only) (9):
+	['belong', 'hidden', 'inclusion', 'plan', 'power', 'revealed', 'testament', 'truth', 'unity']
 
 ### Logs
-- 🔄 Ephesians 3:6 (attempt 1, 80 words, 75.93% quotes, quality score: 94.07407407407406) 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 3:6 bht prompt v5 (93 words, 73.68% quotes)
+- ✅ Ephesians 3:6 bht prompt v5 (93 words, 82.35% quotes)

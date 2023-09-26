@@ -1,7 +1,7 @@
 # Ephesians 3:16 Commentary Help Text
 
 ## BHT:
-Believers are called to seek strength and fortitude from God's inexhaustible abundance, which is according to the richness of His glory. This strength enables them to endure trials, perform their duties, and glorify His name. It is through the Holy Spirit that believers are empowered in the depths of their inner being. The inner man, the very essence of our moral and conscious self, needs constant invigoration and daily grace to navigate the challenges of life. It is through the Spirit's work in us that we grow, gain understanding, and experience the transformative power of God's love.
+According to the riches of His glory, believers are called to be strengthened by God's abundant and inexhaustible grace, as Paul prays fervently for their inner man to be empowered. This strength, bestowed by the Holy Spirit, goes beyond physical capacities and reaches into the depths of the soul. Through this divine strengthening, believers can gain a deeper understanding of the immeasurable love of Christ, ultimately leading to the fullness of God. It is through the Spirit's work that believers can receive the necessary strength and guidance to navigate trials, resist temptation, and grow in their faith.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Believers are called to seek strength and fortitude from God's inexhaustible abu
 2. "The increase, as well as the commencement, of everything good in us, comes from the Holy Spirit."
 3. "The prayer of Paul, that the saints may be strengthened, does not mean that they may be eminent and flourishing in the world, but that, with respect to the kingdom of God, their minds may be made strong by Divine power."
 
+### Philip Schaff:
+1. "The word 'that' means 'in order that,' but after verbs of praying, etc., in the New Testament, it is used to introduce the purport and purpose of the petition."
+2. "The giving prayed for was in proportion to the fulness of God's perfections ('glory')."
+3. "The strength prayed for was such that it reached to the inner man: this was its constant aim."
+
 ### Archibald T. Robertson:
 1. "Nowhere does Paul sound such depths of spiritual emotion or rise to such heights of spiritual passion as here."
 2. "The whole seems to be coloured with 'the riches of His glory.'"
@@ -48,15 +53,17 @@ Believers are called to seek strength and fortitude from God's inexhaustible abu
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 69.7%
-- BHT Quality Score: 79.6969696969697
-- Generate Attempts: 1 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 99
+- BHT Commentary Usage: 68.12%
+- BHT Quality Score: 79.11594202898551
+- Generate Attempts: 2 / 5
 - ChatGPT injected words (25):
-	['being', 'called', 'challenges', 'constant', 'daily', 'empowered', 'enables', 'endure', 'experience', 'fortitude', 'gain', 'grow', 'invigoration', 'navigate', 'our', 'richness', 's', 'seek', 'self', 'through', 'transformative', 'understanding', 'very', 'we', 'work']
-- ChatGPT injected words (significant words only) (20):
-	['called', 'challenges', 'constant', 'daily', 'empowered', 'enables', 'endure', 'experience', 'fortitude', 'gain', 'grow', 'invigoration', 'navigate', 'richness', 's', 'seek', 'self', 'transformative', 'understanding', 'work']
+	['bestowed', 'beyond', 'called', 'can', 'capacities', 'deeper', 'empowered', 'fervently', 'fullness', 'gain', 'goes', 'grow', 'guidance', 'immeasurable', 'navigate', 'necessary', 'physical', 'prays', 'reaches', 'receive', 'strengthening', 'through', 'ultimately', 'understanding', 'work']
+- ChatGPT injected words (significant words only) (22):
+	['bestowed', 'called', 'capacities', 'deeper', 'empowered', 'fervently', 'fullness', 'gain', 'goes', 'grow', 'guidance', 'immeasurable', 'navigate', 'necessary', 'physical', 'prays', 'reaches', 'receive', 'strengthening', 'ultimately', 'understanding', 'work']
 
 ### Logs
-- ✅ Ephesians 3:16 bht prompt v5 (100 words, 69.7% quotes)
+- 🔄 Ephesians 3:16 (attempt 1, 129 words, 73.75% quotes, quality score: 47.24999999999999) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 3:16 bht prompt v5 (99 words, 68.12% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 5:27 Commentary Help Text
 
 ## BHT:
-The purpose of Christ is to present the church as a holy and blameless bride, a church filled with honor and splendor, without any stains or defects. This presentation of the church is not just a future event at the Lord's coming, but it is ongoing in this life as well. Christ adorns the church with holiness, adorning it with internal glory that shines forth outwardly. The goal of this presentation is for the church to live in a holy and unblamable manner before God, free from all spots and blemishes of sin.
+In his agency, Christ Himself prepares the Church for her bridal with Him. The Church, as His glorious bride, is to be presented without any spot, wrinkle, or blemish, but rather in a state of holiness and blamelessness. This presentation refers to a future event, symbolizing the marriage between Christ and His Church, where she will be adorned with pure radiance, reflecting her internal holiness and shining forth His glory.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The purpose of Christ is to present the church as a holy and blameless bride, a 
 2. "Christ adorns the Church his bride with holiness as a proof of his regard."
 3. "The true beauty of the church consists in this conjugal chastity, that is, in holiness and purity."
 
+### Philip Schaff:
+1. "Christ permits neither attendants nor handmaids to present the Bride. He alone presents, He receives."
+2. "The church, His Church, is to be presented as 'glorious,' this word being in emphatic position, and explained by what follows."
+3. "The figures taken from the perfection of physical beauty express what is stated without a figure in the next clause: 'That it might be holy and without blemish.'"
+
 ### Archibald T. Robertson:
 1. "That he might present (ινα παραστηση). Final clause with ινα and first aorist active subjunctive of παριστημ (see Colossians 1:22 for parallel) as in 2 Corinthians 11:2 of presenting the bride to the bridegroom."
 2. "Glorious (ενδοξον). Used of splendid clothing in Luke 7:25."
@@ -49,15 +54,18 @@ The purpose of Christ is to present the church as a holy and blameless bride, a 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 86.89%
-- BHT Quality Score: 69.11475409836066
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (10):
-	['adorning', 'defects', 'event', 'filled', 'just', 'ongoing', 'purpose', 'shines', 'stains', 'well']
-- ChatGPT injected words (significant words only) (8):
-	['adorning', 'defects', 'event', 'filled', 'ongoing', 'purpose', 'shines', 'stains']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 70
+- BHT Commentary Usage: 81.13%
+- BHT Quality Score: 78.86792452830187
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (14):
+	['adorned', 'between', 'blamelessness', 'event', 'him', 'prepares', 'pure', 'radiance', 'rather', 'refers', 'reflecting', 'state', 'symbolizing', 'where']
+- ChatGPT injected words (significant words only) (10):
+	['adorned', 'blamelessness', 'event', 'prepares', 'pure', 'radiance', 'refers', 'reflecting', 'state', 'symbolizing']
 
 ### Logs
-- ✅ Ephesians 5:27 bht prompt v5 (94 words, 86.89% quotes)
+- 🔄 Ephesians 5:27 (attempt 1, 75 words, 96.15% quotes, quality score: 68.84615384615384) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES! 
+	- LIST FORMAT DETECTED!
+- ✅ Ephesians 5:27 bht prompt v5 (70 words, 81.13% quotes)

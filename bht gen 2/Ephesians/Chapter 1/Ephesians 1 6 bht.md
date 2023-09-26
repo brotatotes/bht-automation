@@ -1,7 +1,7 @@
 # Ephesians 1:6 Commentary Help Text
 
 ## BHT:
-God's purpose in predestining us to adoption is to showcase the glory, majesty, and kindness of His grace, deserving praise from all creatures. Through His grace, we are accepted and embraced, experiencing the love of the Beloved, who is Christ. This doctrine of predestination and election lays the foundation for adoring gratitude and praise. We have abundant reasons to be thankful for God's redeeming love, mercy, and the blessings poured upon us. His grace is evident in the predestination to adoption, revealing the splendor of His grace. We learn to praise God for both His actions and His attributes.
+The knowledge that God has chosen and predestined us for adoption is not meant to provoke opposition or accusations of unfairness. Instead, it serves as a reason for gratitude and praise. Through our adoption into God's family, His glorious grace is put on display, drawing the admiration and worship of both mankind and heavenly beings. We are privileged recipients of His grace, accepted and embraced with open arms, and it is in the embrace of His beloved Son that God's love for us finds its fullest expression.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -24,6 +24,11 @@ God's purpose in predestining us to adoption is to showcase the glory, majesty, 
 2. "In praising God for what He does, we learn to praise Him for what He is."
 3. "The apostle is thrilled with a sense of the plenitude and splendor of the mystery of redemption."
 
+### Philip Schaff:
+1. "The election and predestination were not only in accordance with God’s freedom, but also for this end: that those who become sons of God by adoption... should praise the Divine glory which is the special characteristic of His grace that makes it worthy of praise."
+2. "We are to praise Him... for that exhibition of grace which exalts us to a higher knowledge of His glory, so that, even in praising Him for what He does for us, we learn to praise Him for what He is."
+3. "We, as adopted children, are indeed loved, but there is another, the Son, the own beloved Son. It was not, therefore, affection craving indulgence... that led to our adoption. There was no void in His bosom, the loved one lay in it."
+
 ### Archibald T. Robertson:
 1. "Note the prepositions in this sentence."
 2. "Genitive case of the relative ην."
@@ -43,26 +48,17 @@ God's purpose in predestining us to adoption is to showcase the glory, majesty, 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 101
-- BHT Commentary Usage: 74.58%
-- BHT Quality Score: 74.42372881355932
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (19):
-	['actions', 'attributes', 'blessings', 'both', 'deserving', 'evident', 'experiencing', 'from', 'have', 'kindness', 'poured', 'predestining', 'purpose', 'reasons', 'redeeming', 'revealing', 'showcase', 'thankful', 'through']
-- ChatGPT injected words (significant words only) (15):
-	['actions', 'attributes', 'blessings', 'deserving', 'evident', 'experiencing', 'kindness', 'poured', 'predestining', 'purpose', 'reasons', 'redeeming', 'revealing', 'showcase', 'thankful']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 89
+- BHT Commentary Usage: 63.08%
+- BHT Quality Score: 84.07692307692308
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (29):
+	['accusations', 'admiration', 'beings', 'both', 'chosen', 'display', 'drawing', 'embrace', 'expression', 'family', 'finds', 'fullest', 'heavenly', 'instead', 'into', 'its', 'mankind', 'meant', 'open', 'predestined', 'privileged', 'provoke', 'put', 'reason', 'recipients', 'serves', 'through', 'unfairness', 'worship']
+- ChatGPT injected words (significant words only) (24):
+	['accusations', 'admiration', 'beings', 'chosen', 'display', 'drawing', 'embrace', 'expression', 'family', 'finds', 'fullest', 'heavenly', 'instead', 'mankind', 'meant', 'open', 'predestined', 'privileged', 'provoke', 'reason', 'recipients', 'serves', 'unfairness', 'worship']
 
 ### Logs
-- 🔄 Ephesians 1:6 (attempt 1, 156 words, 73.75% quotes, quality score: 20.249999999999993) 
-	- BHT WAS OVER 100 WORDS! 
+- 🔄 Ephesians 1:6 (attempt 1, 62 words, 67.39% quotes, quality score: 79.3913043478261) 
 	- 'VERSE' FOUND IN BHT!
-- 🔄 Ephesians 1:6 (attempt 2, 101 words, 74.58% quotes, quality score: 74.42372881355932) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:6 (attempt 3, 103 words, 75.86% quotes, quality score: 71.13793103448276) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:6 (attempt 4, 109 words, 73.44% quotes, quality score: 67.5625) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:6 (attempt 5, 106 words, 79.69% quotes, quality score: 64.3125) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:6 bht prompt v5 (101 words, 74.58% quotes)
+- ✅ Ephesians 1:6 bht prompt v5 (89 words, 63.08% quotes)

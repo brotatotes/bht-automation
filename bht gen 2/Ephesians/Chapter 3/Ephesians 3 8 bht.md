@@ -1,7 +1,7 @@
 # Ephesians 3:8 Commentary Help Text
 
 ## BHT:
-The apostle's deep humility is evident in his declaration of being less than the least of all saints. He uses bold language to express his low opinion of himself, highlighting his unworthiness for the great calling placed upon him. This profound humility is often found in the greatest saints, as they are most aware of the immeasurable love and grace of God. Through Christ, there are boundless blessings and riches available, which are beyond comprehension. These riches encompass the grace bestowed upon believers and the glorious inheritance awaiting them.
+The apostle's words reveal his profound humility, as he considers himself to be the least among all saints. This humble mindset is often found in the greatest of believers. When we have a deeper understanding of God's love and grace, it leads us to a place of humility. The riches of Christ are beyond measure, encompassing an abundance of blessings that are unsearchable and impossible to fully comprehend.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ The apostle's deep humility is evident in his declaration of being less than the
 2. "All such comparisons of personal worth are set aside by the confession, that he was the least of all the saints."
 3. "The grace of God given to me is the expression used by him, to intimate that it was a peculiar gift, as compared with what had been bestowed on others."
 
+### Philip Schaff:
+1. "The great Apostle, however, so truly, so earnestly, felt his own weakness and nothingness... that the mention of God’s grace towards him awakens... not only the remembrance of his former persecutions... but of his own sinful nature and unworthiness for so high an office" (Ellicott).
+2. "He had been a persecutor, and since God’s grace had helped him, there is no one whom it may not help" (Ellicott).
+3. "'The fulness of wisdom, righteousness, sanctification, and redemption all centred and summed up in Him' (Alford)" (Ellicott).
+
 ### Archibald T. Robertson:
 1. "Unto me who am less than the least of all saints." 
 2. "The peculiar form ελαχιστοτερω (in apposition with εμο) is a comparative (-τερος) formed on the superlative ελαχιστος."
@@ -46,15 +51,15 @@ The apostle's deep humility is evident in his declaration of being less than the
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 68.66%
-- BHT Quality Score: 88.65671641791045
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 70
+- BHT Commentary Usage: 71.43%
+- BHT Quality Score: 88.57142857142857
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (27):
-	['available', 'awaiting', 'aware', 'being', 'believers', 'beyond', 'bold', 'boundless', 'calling', 'comprehension', 'declaration', 'deep', 'encompass', 'evident', 'found', 'glorious', 'highlighting', 'his', 'immeasurable', 'language', 'often', 'placed', 'profound', 'these', 'through', 'unworthiness', 'uses']
-- ChatGPT injected words (significant words only) (21):
-	['available', 'awaiting', 'aware', 'believers', 'bold', 'boundless', 'calling', 'comprehension', 'declaration', 'deep', 'encompass', 'evident', 'found', 'glorious', 'highlighting', 'immeasurable', 'language', 'placed', 'profound', 'unworthiness', 'uses']
+- ChatGPT injected words (21):
+	['abundance', 'believers', 'beyond', 'comprehend', 'considers', 'deeper', 'encompassing', 'found', 'fully', 'impossible', 'leads', 'measure', 'mindset', 'often', 'place', 'profound', 'reveal', 'understanding', 'us', 'we', 'when']
+- ChatGPT injected words (significant words only) (16):
+	['abundance', 'believers', 'comprehend', 'considers', 'deeper', 'encompassing', 'found', 'fully', 'impossible', 'leads', 'measure', 'mindset', 'place', 'profound', 'reveal', 'understanding']
 
 ### Logs
-- ✅ Ephesians 3:8 bht prompt v5 (90 words, 68.66% quotes)
+- ✅ Ephesians 3:8 bht prompt v5 (70 words, 71.43% quotes)

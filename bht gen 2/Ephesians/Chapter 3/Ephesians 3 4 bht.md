@@ -1,7 +1,7 @@
 # Ephesians 3:4 Commentary Help Text
 
 ## BHT:
-By reading and seriously considering the words written in this Epistle, you may come to understand the depth of knowledge that I possess in the mystery of Christ. This letter was intended to be read by many, as it contains important insights into the plan of salvation and the inclusion of Gentiles in God's redemptive work. The revelation of this mystery, which was once hidden but now made known through Christ, is of utmost significance. Take the time to delve into the words written here and grasp the profound understanding that has been graciously revealed.
+When we read the teachings of the Bible, we gain a deeper understanding of the mysteries of Christ. By paying careful attention to what is written, we can grasp the knowledge that was revealed to the apostles. This knowledge is not to be taken lightly; it is of great importance for our spiritual growth. May we approach the Scriptures with reverence and openness, seeking to uncover the profound wisdom and revelation contained within.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ By reading and seriously considering the words written in this Epistle, you may 
 2. "If we duly consider Paul's earnestness, - his watchfulness and care, - his zeal and fervor, - his kindness and readiness in assisting brethren, - we shall be led to regard it as highly probable that he would write many epistles, both of a public and private nature, to various places."
 3. "The frequent mention of this point shows the necessity that the calling of ministers should be firmly believed both by themselves and by their people."
 
+### Philip Schaff:
+1. "In accordance with which, i.e., what he had written was to be the measure, or standard, by which they could determine his knowledge."
+2. "While reading is better than ‘when ye read,’ since it points to an action taking place at the same time with the perceiving."
+3. "Ye can perceive. ‘Can’ (E. V., incorrectly: ‘may’) is the emphatic word, and ‘perceive’ is preferable to ‘understand,’ referring to an immediate perception, as if it were a single act."
+
 ### Archibald T. Robertson:
 1. "Looking to which," "according to which." 
 2. "This Epistle will be read in public."
@@ -43,15 +48,15 @@ By reading and seriously considering the words written in this Epistle, you may 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 70.15%
-- BHT Quality Score: 83.8507462686567
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 73
+- BHT Commentary Usage: 57.41%
+- BHT Quality Score: 80.40740740740742
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (23):
-	['been', 'come', 'considering', 'contains', 'delve', 'depth', 'graciously', 'here', 'inclusion', 'insights', 'intended', 'known', 'letter', 'possess', 'profound', 'redemptive', 'revelation', 'significance', 'take', 'time', 'utmost', 'words', 'work']
-- ChatGPT injected words (significant words only) (20):
-	['come', 'considering', 'contains', 'delve', 'depth', 'graciously', 'inclusion', 'insights', 'intended', 'known', 'letter', 'possess', 'profound', 'redemptive', 'revelation', 'significance', 'time', 'utmost', 'words', 'work']
+- ChatGPT injected words (26):
+	['apostles', 'approach', 'attention', 'bible', 'careful', 'deeper', 'gain', 'great', 'growth', 'importance', 'lightly', 'not', 'openness', 'our', 'paying', 'profound', 'revelation', 'reverence', 'scriptures', 'seeking', 'spiritual', 'taken', 'teachings', 'uncover', 'wisdom', 'within']
+- ChatGPT injected words (significant words only) (23):
+	['apostles', 'approach', 'attention', 'bible', 'careful', 'deeper', 'gain', 'great', 'growth', 'importance', 'lightly', 'openness', 'paying', 'profound', 'revelation', 'reverence', 'scriptures', 'seeking', 'spiritual', 'taken', 'teachings', 'uncover', 'wisdom']
 
 ### Logs
-- ✅ Ephesians 3:4 bht prompt v5 (96 words, 70.15% quotes)
+- ✅ Ephesians 3:4 bht prompt v5 (73 words, 57.41% quotes)

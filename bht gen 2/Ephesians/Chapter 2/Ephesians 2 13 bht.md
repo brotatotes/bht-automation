@@ -1,7 +1,7 @@
 # Ephesians 2:13 Commentary Help Text
 
 ## BHT:
-Now, in Jesus the Christ, we who once were far off from God and his people have been brought near. The blood of Christ represents our redemption and brings us into a covenant where we can draw near to God. In Christ, we are no longer far off but intimately united to God and his people by his blood.
+In Jesus the Christ, we who were once far off have been brought near by the blood of Christ representing the redemption. Through His blood, we are admitted to the favor of God and able to approach Him in worship. This blood is the seal of our covenant and signifies our nearness to God. It is through the blood of Christ that we have intimate fellowship with God and His people, giving us boldness and peace. No longer distant, we are now intimately united to both God and His people in Christ Jesus.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Now, in Jesus the Christ, we who once were far off from God and his people have 
 2. "The blood of Christ has taken away the enmity.
 3. "[The blood of Christ] hath made them sons."
 
+### Philip Schaff:
+1. "In Christ Jesus, in fellowship with Him, contrasted with ‘apart from Christ.’"
+2. "The phrase explains ‘now,’ and qualifies the verb which follows."
+3. "It indicates the blood of Christ as ‘the symbol of a fact in which the seal of a covenant in which your nearness to God consists’."
+
 ### Archibald T. Robertson:
 1. "Strong contrast, as opposed to 'at that time.'" 
 2. "Nigh to the commonwealth of Israel in Christ."
@@ -47,15 +52,19 @@ Now, in Jesus the Christ, we who once were far off from God and his people have 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 59
-- BHT Commentary Usage: 87.8%
-- BHT Quality Score: 61.195121951219505
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (11):
-	['been', 'brings', 'can', 'draw', 'longer', 'no', 'our', 'redemption', 'represents', 'us', 'where']
-- ChatGPT injected words (significant words only) (5):
-	['brings', 'draw', 'longer', 'redemption', 'represents']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 85.45%
+- BHT Quality Score: 71.54545454545455
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (13):
+	['able', 'been', 'distant', 'giving', 'intimate', 'longer', 'no', 'our', 'redemption', 'signifies', 'this', 'us', 'worship']
+- ChatGPT injected words (significant words only) (8):
+	['able', 'distant', 'giving', 'intimate', 'longer', 'redemption', 'signifies', 'worship']
 
 ### Logs
-- ✅ Ephesians 2:13 bht prompt v5 (59 words, 87.8% quotes)
+- 🔄 Ephesians 2:13 (attempt 1, 96 words, 92.73% quotes, quality score: 61.272727272727266) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- 🔄 Ephesians 2:13 (attempt 2, 102 words, 81.67% quotes, quality score: 66.33333333333333) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 2:13 bht prompt v5 (93 words, 85.45% quotes)

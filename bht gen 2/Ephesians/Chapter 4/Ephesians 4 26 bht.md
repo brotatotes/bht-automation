@@ -1,7 +1,7 @@
 # Ephesians 4:26 Commentary Help Text
 
 ## BHT:
-When faced with anger, it is important to remember that there is a distinction between righteous anger and sinfulness. Righteous anger is directed at sin itself, not at the person committing the sin, and should be accompanied by a sense of pity for the sinner. However, we must be cautious not to let our anger extend beyond the fault and onto the person, as this is when we cross the line into sin. Instead, we are encouraged to address the issue with our brother and seek immediate reconciliation, not allowing a single day to pass in unresolved anger.
+Anger, though not inherently sinful, should be directed towards the sin itself and not towards the sinner, evoking a sense of compassion. However, if our anger extends to the person and not just the fault, it becomes sinful. Therefore, it is important to address the fault, reprove our brother, and swiftly seek reconciliation, not allowing anger to persist beyond a day.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ When faced with anger, it is important to remember that there is a distinction b
 2. "There are three faults by which we offend God in being angry. The first is, when our anger arises from slight causes... The second is, when we go beyond the proper bounds... The third is, when our anger... is turned against our brethren."
 3. "We comply with this injunction, if the objects of our anger are sought, not in others, but in ourselves, - if we pour out our indignation against our own faults... we ought to be angry, not at their persons, but at their faults... our anger, after a reasonable time, ought to be allowed to subside, without mixing itself with the violence of carnal passions."
 
+### Philip Schaff:
+1. "Be angry (for this must be so) and do not sin." 
+2. "There is no necessity for supposing that all wrath is sinful." 
+3. "The verse teaches that anger may be right, but is far more likely to be wrong; that it certainly is if it lasts long, and becomes worse by giving entrance to Satan."
+
 ### Archibald T. Robertson:
 1. "Permissive imperative, not a command to be angry. Prohibition against sinning as the peril in anger."
 2. "Danger in settled mood of anger."
@@ -49,18 +54,15 @@ When faced with anger, it is important to remember that there is a distinction b
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 65.62%
-- BHT Quality Score: 77.625
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (25):
-	['address', 'allowing', 'between', 'cautious', 'committing', 'cross', 'distinction', 'encouraged', 'extend', 'faced', 'however', 'immediate', 'important', 'instead', 'issue', 'line', 'onto', 'pass', 'reconciliation', 'remember', 'seek', 'sense', 'sinfulness', 'single', 'unresolved']
-- ChatGPT injected words (significant words only) (22):
-	['address', 'allowing', 'cautious', 'committing', 'cross', 'distinction', 'encouraged', 'extend', 'faced', 'immediate', 'important', 'instead', 'issue', 'line', 'pass', 'reconciliation', 'remember', 'seek', 'sense', 'sinfulness', 'single', 'unresolved']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 61
+- BHT Commentary Usage: 71.43%
+- BHT Quality Score: 79.57142857142857
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (17):
+	['address', 'allowing', 'compassion', 'evoking', 'extends', 'however', 'important', 'inherently', 'just', 'persist', 'reconciliation', 'seek', 'sense', 'swiftly', 'therefore', 'though', 'towards']
+- ChatGPT injected words (significant words only) (12):
+	['address', 'allowing', 'compassion', 'evoking', 'extends', 'important', 'inherently', 'persist', 'reconciliation', 'seek', 'sense', 'swiftly']
 
 ### Logs
-- 🔄 Ephesians 4:26 (attempt 1, 104 words, 66.67% quotes, quality score: 72.66666666666669) 
-	- BHT WAS OVER 100 WORDS! 
-	- LIST FORMAT DETECTED!
-- ✅ Ephesians 4:26 bht prompt v5 (98 words, 65.62% quotes)
+- ✅ Ephesians 4:26 bht prompt v5 (61 words, 71.43% quotes)

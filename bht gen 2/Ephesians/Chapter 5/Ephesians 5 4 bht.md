@@ -1,7 +1,7 @@
 # Ephesians 5:4 Commentary Help Text
 
 ## BHT:
-Christians are called to guard their conversations from filthiness, indecent gestures, and impure words, as these reveal an impure heart and corrupt others. Similarly, foolish talking, which includes wicked, unsavoury, and idle speech, should be avoided. Jesting, when it promotes wantonness or abuses Scripture, is also discouraged. Instead, believers should focus on conversations that are sensible and sincere, avoiding idle words that do not contribute to their faith and holiness.
+Let our conversations be marked by sincerity, seriousness, and sensibility, for we are accountable for every idle word spoken. Levity and jesting have no place in the life of a Christian, as they are inconsistent with true dignity and the gospel. Our speech should be both gracious and grateful, filled with thanksgiving to God, driving away all unwholesome talk. Let us guard against filthiness, foolish talking, and jesting, for they corrupt the mind, hinder spiritual growth, and do not honor our calling as followers of Christ.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Christians are called to guard their conversations from filthiness, indecent ges
 2. "But as it is exceedingly difficult to be witty without becoming satirical, and as jesting itself carries in it a portion of conceit not at all in keeping with the character of a godly man, Paul very properly dissuades from this practice."
 3. "All our conversations ought to be, in the true sense of the words, sweet and graceful; and this end will be gained if the useful and the agreeable are properly mingled."
 
+### Philip Schaff:
+1. "Neither filthiness, or, 'obscenity;' whether of thought, word, or deed; in Colossians 3:8 the reference is to words."
+2. "Nor foolish talking; insipid, stupid speech, perhaps including more than this: 'the talk of fools, which is folly and sin together' (Trench)."
+3. "But rather giving of thanks. Either, thanksgiving rather is 'fitting,' or, let it be among you (from Ephesians 5:3). The latter is preferable. 'Thanksgiving' is not to be explained as 'gracious speech,' or 'devoutness,' but means giving of thanks to God. This is the proper tone of Christian speech, and this will drive off the evil habits just spoken of: 'to the abuse of the tongue is opposed this holy and yet glad use; Ephesians 5:18-19' (Bengel)."
+
 ### Archibald T. Robertson:
 1. "Filthiness (αισχροτης). Old word from αισχρος (base), here alone in N.T."
 2. "Foolish talking (μωρολογια). Late word from μωρολογος (μωροσ, λογος), only here in N.T."
@@ -44,15 +49,15 @@ Christians are called to guard their conversations from filthiness, indecent ges
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 70
-- BHT Commentary Usage: 73.68%
-- BHT Quality Score: 86.3157894736842
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 86
+- BHT Commentary Usage: 71.64%
+- BHT Quality Score: 92.35820895522387
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (18):
-	['abuses', 'avoided', 'avoiding', 'believers', 'called', 'contribute', 'discouraged', 'do', 'focus', 'guard', 'includes', 'instead', 'on', 'others', 'promotes', 'reveal', 'scripture', 'similarly']
-- ChatGPT injected words (significant words only) (15):
-	['abuses', 'avoided', 'avoiding', 'believers', 'called', 'contribute', 'discouraged', 'focus', 'guard', 'includes', 'instead', 'promotes', 'reveal', 'scripture', 'similarly']
+- ChatGPT injected words (25):
+	['accountable', 'against', 'away', 'both', 'calling', 'do', 'driving', 'filled', 'followers', 'grateful', 'growth', 'guard', 'hinder', 'honor', 'marked', 'mind', 'no', 'place', 'sensibility', 'seriousness', 'sincerity', 'spiritual', 'unwholesome', 'us', 'we']
+- ChatGPT injected words (significant words only) (19):
+	['accountable', 'away', 'calling', 'driving', 'filled', 'followers', 'grateful', 'growth', 'guard', 'hinder', 'honor', 'marked', 'mind', 'place', 'sensibility', 'seriousness', 'sincerity', 'spiritual', 'unwholesome']
 
 ### Logs
-- ✅ Ephesians 5:4 bht prompt v5 (70 words, 73.68% quotes)
+- ✅ Ephesians 5:4 bht prompt v5 (86 words, 71.64% quotes)

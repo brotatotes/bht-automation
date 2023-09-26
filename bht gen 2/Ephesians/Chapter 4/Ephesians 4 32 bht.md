@@ -1,7 +1,7 @@
 # Ephesians 4:32 Commentary Help Text
 
 ## BHT:
-Be kind and tenderhearted toward one another, following the example of God who has forgiven us. We should strive to be polite, gracious, and inoffensive in our interactions, always considering the happiness and well-being of others. Just as God's forgiveness cost Him the death of His Son, our forgiveness towards others should also be generous and free. God has already forgiven sin in Christ as a historical fact, and so we should treat others as though they have not offended us, extending the same forgiveness that God has shown us.
+The kindness and tenderheartedness that God has shown towards us should serve as our model for how we interact with one another. Just as God forgave us through Christ, we are called to forgive one another. This forgiveness is not just a one-time action, but a continual process of becoming kind and gracious towards our fellow believers. It is through this kindness and forgiveness that we reflect the love of God in our relationships with one another.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Be kind and tenderhearted toward one another, following the example of God who h
 2. "This will lead us not only to sympathize with the distresses of our brethren, as if they were our own, but to cultivate that true humanity which is affected by everything that happens to them, in the same manner as if we were in their situation."
 3. "To give his exhortation the greater weight, he holds out the example of God, who has forgiven to us, through Christ, far more than any mortal man can forgive to his brethren."
 
+### Philip Schaff:
+1. "But’ marks the contrast with Ephesians 4:31; ‘become’ points to a process, indicating that the preceding warning was needed."
+2. "Kind to one another; benignant, of a sweet disposition, the practical manifestation is implied; comp. Galatians 5:22."
+3. "Kindness is well, compassion is better, but forgiveness is God-like. Forgiveness, however, is the result of an inward experience of God’s forgiving love in Christ."
+
 ### Archibald T. Robertson:
 1. "Be ye kind to one another (γινεσθε εις αλληλους χρηστο). Present middle imperative of γινομα, "keep on becoming kind (χρηστος, used of God in Romans 2:4) toward one another."
 2. "Tenderhearted (ευσπλαγχνο). Late word (ευ, σπλαγχνα) once in Hippocrates, in LXX, here and 1 Peter 3:8 in N.T."
@@ -46,15 +51,15 @@ Be kind and tenderhearted toward one another, following the example of God who h
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 87.1%
-- BHT Quality Score: 70.90322580645162
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 78
+- BHT Commentary Usage: 76.47%
+- BHT Quality Score: 91.52941176470588
 - Generate Attempts: 1 / 5
 - ChatGPT injected words (13):
-	['already', 'also', 'always', 'considering', 'extending', 'free', 'generous', 'him', 'inoffensive', 'interactions', 'shown', 'strive', 'well']
-- ChatGPT injected words (significant words only) (8):
-	['considering', 'extending', 'free', 'generous', 'inoffensive', 'interactions', 'shown', 'strive']
+	['action', 'believers', 'called', 'continual', 'how', 'interact', 'model', 'reflect', 'relationships', 'serve', 'shown', 'tenderheartedness', 'time']
+- ChatGPT injected words (significant words only) (12):
+	['action', 'believers', 'called', 'continual', 'interact', 'model', 'reflect', 'relationships', 'serve', 'shown', 'tenderheartedness', 'time']
 
 ### Logs
-- ✅ Ephesians 4:32 bht prompt v5 (92 words, 87.1% quotes)
+- ✅ Ephesians 4:32 bht prompt v5 (78 words, 76.47% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 4:15 Commentary Help Text
 
 ## BHT:
-Growth in the Christian faith is not simply about acquiring knowledge or adhering to certain behaviors. It is a transformative process where believers become more and more like Christ, both in character and in their relationship with him. This growth involves speaking and living out the truth in love, following the example of Christ himself. As we grow in our understanding of the truth and in our love for God and others, we become more deeply united with Christ and reflect his image more fully.
+Growing in every department of our spiritual journey, we are to be followers of truth in love. Speaking the truth, not just in words, but in our actions and manner, we aim to avoid error and lead others to truth. As we incorporate ourselves more and more with Christ, our Head, we become one with him and strive towards the stature of a complete person in him. This growth is possible because Christ is the truth, and as we speak and live in truth, we are drawn closer to his image and Spirit.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Growth in the Christian faith is not simply about acquiring knowledge or adherin
 2. "A healthful condition of the church requires that Christ alone 'must increase,' and all others 'must decrease.' Whatever increase we obtain must be regulated in such a manner, that we shall remain in our own place, and contribute to exalt the head."
 3. "If each individual, instead of attending exclusively to his own concerns, shall desire mutual intercourse, there will be agreeable and general progress. Such, the Apostle assures us, must be the nature of this harmony, that men shall not be suffered to forget the claims of truth, or, disregarding them, to frame an agreement according to their own views."
 
+### Philip Schaff:
+1. "Holding the truth is correct, if 'the truth' is not referred to true doctrine."
+2. "'A true-seeking and true-being with loving caution and kind allowance' (Alford) in love."
+3. "Growth is possible only because the Living Christ is the Head."
+
 ### Archibald T. Robertson:
 1. "In love. If truth were always spoken only in love!" 
 2. "May grow into him. It is the metaphor of verse Ephesians 4:13 (the full-grown man). We are the body and Christ is the Head. We are to grow up to his stature."
@@ -46,15 +51,15 @@ Growth in the Christian faith is not simply about acquiring knowledge or adherin
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 65.52%
-- BHT Quality Score: 90.51724137931035
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 78.95%
+- BHT Quality Score: 78.05263157894737
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (24):
-	['acquiring', 'adhering', 'behaviors', 'believers', 'both', 'certain', 'character', 'deeply', 'example', 'following', 'for', 'fully', 'involves', 'like', 'living', 'out', 'process', 'reflect', 'relationship', 'simply', 'transformative', 'understanding', 'united', 'where']
-- ChatGPT injected words (significant words only) (20):
-	['acquiring', 'adhering', 'behaviors', 'believers', 'certain', 'character', 'deeply', 'example', 'following', 'fully', 'involves', 'like', 'living', 'process', 'reflect', 'relationship', 'simply', 'transformative', 'understanding', 'united']
+- ChatGPT injected words (15):
+	['actions', 'aim', 'closer', 'drawn', 'growing', 'incorporate', 'journey', 'just', 'lead', 'live', 'ourselves', 'person', 'strive', 'towards', 'words']
+- ChatGPT injected words (significant words only) (12):
+	['actions', 'aim', 'closer', 'drawn', 'growing', 'incorporate', 'journey', 'lead', 'live', 'person', 'strive', 'words']
 
 ### Logs
-- ✅ Ephesians 4:15 bht prompt v5 (85 words, 65.52% quotes)
+- ✅ Ephesians 4:15 bht prompt v5 (93 words, 78.95% quotes)

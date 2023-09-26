@@ -1,7 +1,7 @@
 # Ephesians 2:18 Commentary Help Text
 
 ## BHT:
-Through Christ, we are given the opportunity to approach God and have freedom of access to Him, as both Jews and Gentiles. This access is made possible by the guidance and aid of the Holy Spirit. It is important to understand that this access is not through any form of false peace or confidence, but through the true nature of evangelical peace. In this peace, we find a settled composure that leads us to desire and seek the face of God, knowing that it is through Christ that we can have reconciliation and boldness in our approach to Him.
+Being made one, both Jews and Gentiles are reconciled to God and have been given the Gospel of peace through Christ. They now have freedom of access and boldness to approach God. This access is granted through Christ, who has made peace and atoned for their sins, removing all hindrances. Furthermore, this access is made possible by the Holy Spirit, who empowers and encourages believers to approach God as their Father. It is fitting to note that Christ, the Spirit, and the Father often stand together in the same order as a representation of the three-one God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -23,6 +23,11 @@ Through Christ, we are given the opportunity to approach God and have freedom of
 2. "It was necessary, therefore, to explain the true nature of evangelical peace, which is widely different from a stupefied conscience, from false confidence, from proud boasting, from ignorance of our own wretchedness."
 3. "It is a settled composure, which leads us not to dread, but to desire and seek, the face of God."
 
+### Philip Schaff:
+1. "'Through Him,' which is more than 'through His blood,' is the emphatic phrase."
+2. "The primary sense of the word is 'introduction;'"
+3. "The prepositions are aptly chosen, to discriminate the respective economical relations of the Persons of the Godhead in our salvation."
+
 ### Archibald T. Robertson:
 1. "Through him (δι' αυτου). Christ."
 2. "Our access (την προσαγωγην). The approach, the introduction as in Romans 5:2."
@@ -42,15 +47,15 @@ Through Christ, we are given the opportunity to approach God and have freedom of
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 99
-- BHT Commentary Usage: 86.44%
-- BHT Quality Score: 64.5593220338983
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 98
+- BHT Commentary Usage: 80.33%
+- BHT Quality Score: 71.67213114754098
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (9):
-	['any', 'find', 'form', 'given', 'important', 'knowing', 'opportunity', 'reconciliation', 'understand']
-- ChatGPT injected words (significant words only) (8):
-	['find', 'form', 'given', 'important', 'knowing', 'opportunity', 'reconciliation', 'understand']
+- ChatGPT injected words (16):
+	['atoned', 'been', 'believers', 'empowers', 'encourages', 'fitting', 'furthermore', 'given', 'granted', 'hindrances', 'note', 'now', 'often', 'removing', 'representation', 'together']
+- ChatGPT injected words (significant words only) (12):
+	['atoned', 'believers', 'empowers', 'encourages', 'fitting', 'furthermore', 'given', 'granted', 'hindrances', 'note', 'removing', 'representation']
 
 ### Logs
-- ✅ Ephesians 2:18 bht prompt v5 (99 words, 86.44% quotes)
+- ✅ Ephesians 2:18 bht prompt v5 (98 words, 80.33% quotes)

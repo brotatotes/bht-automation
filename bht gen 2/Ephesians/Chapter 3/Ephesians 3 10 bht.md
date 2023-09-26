@@ -1,7 +1,7 @@
 # Ephesians 3:10 Commentary Help Text
 
 ## BHT:
-The purpose of Paul's ministry was to proclaim the hidden mystery of salvation to the Gentiles, revealing God's wisdom to heavenly powers. Through the Church, God's infinite and diverse wisdom is displayed in different ways, encompassing various powers, characters, providences, and organizations. The Church serves as a mirror, reflecting the rainbow colors of God's undivided light, and a theater for the display of God's manifold wisdom. This wisdom, which includes the redemption of the world and the unity of Jews and Gentiles, should be admired and revered by all, even by the angels in heaven.
+Paul's ministry was to make known the mystery of the gospel, showcasing the wisdom of God in bringing the Gentiles into His plan of salvation. The church serves as a display of God's manifold wisdom, revealing different facets of His character and purposes. Through the church, the wisdom of God is shown in various ways, such as through different forms of power, methods of training, and providential acts. This revelation of God's wisdom not only captures the attention of heavenly powers but also highlights the significance and value of the church in manifesting God's glorious plan of redemption.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The purpose of Paul's ministry was to proclaim the hidden mystery of salvation t
 2. "The wisdom of God, therefore, which was manifested by uniting Jews and Gentiles in the fellowship of the gospel, ought to be regarded by men with the highest admiration."
 3. "And if the calling of the Gentiles draws the attention, and excites the reverence, of angels in heaven, how shameful that it should be slighted or disdained by men upon earth!"
 
+### Philip Schaff:
+1. "The objection that thus too much is ascribed to Paul’s own preaching is invalid, since in this extension of the gospel to the Gentiles God’s manifold wisdom has been most fully made known on earth."
+2. "By this full designation of the angelic hosts Paul gives prominence to their power and dignity, and thus exalts the church."
+3. "The wisdom is one, but its manifestations are varied. Through this variety, adapted to the several ages, races, and individuals in the church, the wisdom of God is revealed to the angels."
+
 ### Archibald T. Robertson:
 1. "The mystery was made known to Paul (Ephesians 3:3) and now he wants it blazoned forth to all powers (Gnostic aeons or what not)." 
 2. "The wonderful body of Christ described in chapter Ephesians 3:2." 
@@ -48,15 +53,25 @@ The purpose of Paul's ministry was to proclaim the hidden mystery of salvation t
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 80.65%
-- BHT Quality Score: 69.35483870967742
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (14):
-	['admired', 'colors', 'diverse', 'encompassing', 'even', 'includes', 'organizations', 'reflecting', 'revealing', 'revered', 'serves', 'unity', 'various', 'ways']
-- ChatGPT injected words (significant words only) (12):
-	['admired', 'colors', 'diverse', 'encompassing', 'includes', 'organizations', 'reflecting', 'revealing', 'revered', 'serves', 'unity', 'ways']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 102
+- BHT Commentary Usage: 72.13%
+- BHT Quality Score: 75.86885245901638
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (22):
+	['acts', 'also', 'bringing', 'captures', 'facets', 'glorious', 'highlights', 'his', 'make', 'manifesting', 'plan', 'providential', 'purposes', 'revealing', 'revelation', 'serves', 'showcasing', 'significance', 'such', 'value', 'various', 'ways']
+- ChatGPT injected words (significant words only) (17):
+	['acts', 'bringing', 'captures', 'facets', 'glorious', 'highlights', 'manifesting', 'plan', 'providential', 'purposes', 'revealing', 'revelation', 'serves', 'showcasing', 'significance', 'value', 'ways']
 
 ### Logs
-- ✅ Ephesians 3:10 bht prompt v5 (100 words, 80.65% quotes)
+- 🔄 Ephesians 3:10 (attempt 1, 169 words, 74.73% quotes, quality score: 6.274725274725269) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 3:10 (attempt 2, 102 words, 72.13% quotes, quality score: 75.86885245901638) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 3:10 (attempt 3, 104 words, 79.69% quotes, quality score: 66.3125) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 3:10 (attempt 4, 104 words, 78.69% quotes, quality score: 67.31147540983606) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 3:10 (attempt 5, 111 words, 72.88% quotes, quality score: 66.1186440677966) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 3:10 bht prompt v5 (102 words, 72.13% quotes)

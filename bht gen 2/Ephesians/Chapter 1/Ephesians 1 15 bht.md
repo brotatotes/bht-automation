@@ -1,7 +1,7 @@
 # Ephesians 1:15 Commentary Help Text
 
 ## BHT:
-Upon learning of the believers' faith and love, it becomes evident that these two graces are inseparable and always present in the same individuals. The grace of faith is characterized by a deep communion with Christ, embracing His glory and relying on Him completely. Love, on the other hand, extends to all believers, regardless of their differences. It is a genuine, fervent, and tireless love that serves as evidence of true regeneration. This combination of faith and love is not something that can go unnoticed, for it is a tangible manifestation of a genuine relationship with God.
+The mention of faith and love together signifies the whole excellence of Christian character, encompassing belief and action. The grace of faith is a personal connection with Christ, encompassing beholding His glory, trusting Him, and depending on Him. Love extends to all believers, showing itself in genuine, fervent, and active expressions. These two graces, faith and love, are inseparable and cannot be hidden.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -23,6 +23,11 @@ Upon learning of the believers' faith and love, it becomes evident that these tw
 2. "Love ought to embrace all men, but here the saints are particularly mentioned; because love, when properly regulated, begins with them, and is afterwards extended to all others."
 3. "If our love must have a view to God, the nearer any man approaches to God, the stronger unquestionably must be his claims to our love."
 
+### Philip Schaff:
+1. "‘your faith in Christ Jesus’ (Colossians 1:4), marks the faith as the possession of the individuals. ‘Faith’ does not, however, mean ‘that which is believed,’ but ‘believing.’"
+2. "We prefer to retain the words, because they are not only well supported, but the omission can be readily accounted for. The original suggests, first, love in general, and then this characteristic manifestation of it: unto all the saints, i.e., Christians."
+3. "But the community of faith precedes and produces the community of feeling. The order is always ‘faith and love.’"
+
 ### Archibald T. Robertson:
 1. "The words 'ye show' do not occur in the Greek."
 2. "It could have been omitted, but is probably not genuine."
@@ -41,17 +46,18 @@ Upon learning of the believers' faith and love, it becomes evident that these tw
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 66.67%
-- BHT Quality Score: 79.66666666666669
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 63
+- BHT Commentary Usage: 75.0%
+- BHT Quality Score: 78.0
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (27):
-	['as', 'becomes', 'can', 'characterized', 'christ', 'combination', 'communion', 'completely', 'deep', 'differences', 'evident', 'extends', 'hand', 'individuals', 'learning', 'manifestation', 'other', 'present', 'regardless', 'relationship', 'relying', 'serves', 'something', 'tangible', 'tireless', 'true', 'unnoticed']
-- ChatGPT injected words (significant words only) (22):
-	['characterized', 'christ', 'combination', 'communion', 'completely', 'deep', 'differences', 'evident', 'extends', 'hand', 'individuals', 'learning', 'manifestation', 'present', 'regardless', 'relationship', 'relying', 'serves', 'tangible', 'tireless', 'true', 'unnoticed']
+- ChatGPT injected words (13):
+	['action', 'belief', 'connection', 'encompassing', 'expressions', 'extends', 'hidden', 'itself', 'mention', 'personal', 'showing', 'signifies', 'trusting']
+- ChatGPT injected words (significant words only) (12):
+	['action', 'belief', 'connection', 'encompassing', 'expressions', 'extends', 'hidden', 'mention', 'personal', 'showing', 'signifies', 'trusting']
 
 ### Logs
-- 🔄 Ephesians 1:15 (attempt 1, 25 words, 86.36% quotes, quality score: 28.63636363636363) 
+- 🔄 Ephesians 1:15 (attempt 1, 18 words, 66.67% quotes, quality score: 34.66666666666668) 
+	- BHT WAS UNDER 25 WORDS! 
 	- LIST FORMAT DETECTED!
-- ✅ Ephesians 1:15 bht prompt v5 (97 words, 66.67% quotes)
+- ✅ Ephesians 1:15 bht prompt v5 (63 words, 75.0% quotes)

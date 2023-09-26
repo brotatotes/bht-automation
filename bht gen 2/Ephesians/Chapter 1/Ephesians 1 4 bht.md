@@ -1,7 +1,7 @@
 # Ephesians 1:4 Commentary Help Text
 
 ## BHT:
-God's choice is not limited to a specific group, but extends to both Jews and Gentiles who have faith in Christ. His selection of believers is a demonstration of His grace and sovereignty. This divine election was made before the foundation of the world and is rooted in His foreknowledge. Furthermore, the purpose of this choice is to bring about holiness and blamelessness in believers, a standard that can only be achieved through God's love. This concept of God's electing grace is also reflected in other passages of Scripture, such as 1 Peter 1:2.
+God's eternal choice is the foundation of the blessings bestowed upon believers. This choice was not arbitrary, but in Christ, signifying that it is in Him that we find our worth, apart from any merit of our own. The restoration of love, lost through the Fall, is the essence of all Christian virtues. Our holiness stems from our election in Christ, and it is through His grace that we are made holy and blameless. The purpose of God's redemptive plan is that we may stand before Him in perfect love, evidence of our election through His divine grace.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -30,6 +30,11 @@ God's choice is not limited to a specific group, but extends to both Jews and Ge
 2. "The very time when the election took place proves it to be free; for what could we have deserved, or what merit did we possess, before the world was made?"
 3. "In short, the name of Christ excludes all merit, and everything which men have of their own; for when he says that we are chosen in Christ, it follows that in ourselves we are unworthy."
 
+### Philip Schaff:
+1. "These spiritual blessings are conferred upon us, not merely because God chose us, but they are given in perfect harmony with His eternal purpose." - Eadie
+2. "This election is not, however, an arbitrary or mechanical matter: it is in him, i.e., in Christ. This is more than 'on account of Him,' or, 'through Him,' though both ideas are correct. It indicates that those who are chosen are chosen 'in Christ,' as the second Adam, the new head and representative of spiritual humanity."
+3. "'Before Him,' then means either at the final judgment, or truly, really, in His all-searching eye. 'If men are chosen to be holy, they cannot be chosen because they are holy.' 'Holiness is the only evidence of election'." - Hodge.
+
 ### Archibald T. Robertson:
 1. "First aorist middle indicative of εκλεγω, to pick out, to choose. Definitive statement of God's elective grace concerning believers in Christ." 
 2. "Old word from καταβαλλω, to fling down, used of the deposit of seed, the laying of a foundation. This very phrase with προ in the Prayer of Jesus (John 17:24) of love of the Father toward the Son." 
@@ -50,17 +55,20 @@ God's choice is not limited to a specific group, but extends to both Jews and Ge
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 69.84%
-- BHT Quality Score: 84.84126984126985
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (26):
-	['about', 'achieved', 'also', 'blamelessness', 'bring', 'concept', 'demonstration', 'electing', 'extends', 'faith', 'foreknowledge', 'furthermore', 'group', 'limited', 'only', 'other', 'passages', 'reflected', 'rooted', 'scripture', 'selection', 'specific', 'standard', 'such', 'through', 'who']
-- ChatGPT injected words (significant words only) (19):
-	['achieved', 'blamelessness', 'bring', 'concept', 'demonstration', 'electing', 'extends', 'faith', 'foreknowledge', 'furthermore', 'group', 'limited', 'passages', 'reflected', 'rooted', 'scripture', 'selection', 'specific', 'standard']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 83.33%
+- BHT Quality Score: 66.66666666666666
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (11):
+	['apart', 'essence', 'find', 'may', 'plan', 'restoration', 'signifying', 'stand', 'stems', 'virtues', 'worth']
+- ChatGPT injected words (significant words only) (10):
+	['apart', 'essence', 'find', 'plan', 'restoration', 'signifying', 'stand', 'stems', 'virtues', 'worth']
 
 ### Logs
-- 🔄 Ephesians 1:4 (attempt 1, 60 words, 84.09% quotes, quality score: 65.9090909090909) 
+- 🔄 Ephesians 1:4 (attempt 1, 71 words, 57.45% quotes, quality score: 78.4468085106383) 
 	- LIST FORMAT DETECTED!
-- ✅ Ephesians 1:4 bht prompt v5 (95 words, 69.84% quotes)
+- 🔄 Ephesians 1:4 (attempt 2, 102 words, 78.87% quotes, quality score: 69.12676056338027) 
+	- BHT WAS OVER 100 WORDS! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 1:4 bht prompt v5 (100 words, 83.33% quotes)

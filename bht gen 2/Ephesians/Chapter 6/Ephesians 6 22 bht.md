@@ -1,7 +1,7 @@
 # Ephesians 6:22 Commentary Help Text
 
 ## BHT:
-The apostle's purpose, in sharing these messages with the churches, was to provide comfort and support to their hearts. He understood that believers often face various challenges and difficulties, such as indwelling sin, temptations, afflictions, and sufferings. It is the duty of ministers to console and encourage them in such times. The state of the church is disheartening when it lacks comforters. Paul sought to bring solace to the hearts of the believers by sharing the supports he found from God and the success of the gospel.
+The purpose of Paul's dispatching messengers like Aristarchus and Marcus was to keep the churches informed and foster fellowship among them. These messengers were not sent for Paul alone, but to bring comfort and strength to the believers by sharing essential news about his condition and the progress of the gospel. By offering consolation to dispirited believers facing trials, ministers play a vital role in providing support and encouragement. Through these messengers and letters, Paul aimed to bring solace and hope to the churches, assuring them of God's presence and the successes of the gospel.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -13,6 +13,11 @@ The apostle's purpose, in sharing these messages with the churches, was to provi
 1. "The churches where Paul had preached, would feel a great interest in his welfare."
 2. "In this situation, he felt it proper to despatch a special messenger to give information about his condition; to state what was doing in Rome; to ask the prayers of the churches; and to administer consolation to them in their various trials."
 3. "No small part of the consolation which he would impart to them would be found in these invaluable letters which he bore to them from the apostle."
+
+### Philip Schaff:
+1. "For this very purpose, namely, that ye may know the things respecting us." 
+2. "Paul does not send these merely in his own interest." 
+3. "It is evident that the Apostle sought to maintain fellowship among the churches by sending such messengers, to give such intelligence as would strengthen the hearts of the distant brethren."
 
 ### Archibald T. Robertson:
 1. "That ye may know (ινα γνωτε)."
@@ -34,15 +39,17 @@ The apostle's purpose, in sharing these messages with the churches, was to provi
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 73.33%
-- BHT Quality Score: 88.66666666666666
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (19):
-	['bring', 'challenges', 'console', 'difficulties', 'disheartening', 'duty', 'encourage', 'lacks', 'messages', 'often', 'provide', 'sharing', 'solace', 'sought', 'such', 'support', 'times', 'understood', 'with']
-- ChatGPT injected words (significant words only) (16):
-	['bring', 'challenges', 'console', 'difficulties', 'disheartening', 'duty', 'encourage', 'lacks', 'messages', 'provide', 'sharing', 'solace', 'sought', 'support', 'times', 'understood']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 97
+- BHT Commentary Usage: 58.73%
+- BHT Quality Score: 71.73015873015873
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (31):
+	['aimed', 'alone', 'assuring', 'bring', 'but', 'dispatching', 'dispirited', 'encouragement', 'essential', 'facing', 'foster', 'hope', 'informed', 'keep', 'like', 'news', 'offering', 'play', 'presence', 'progress', 'providing', 'role', 'sent', 'sharing', 'solace', 'strength', 'successes', 'support', 'through', 'vital', 'were']
+- ChatGPT injected words (significant words only) (26):
+	['aimed', 'assuring', 'bring', 'dispatching', 'dispirited', 'encouragement', 'essential', 'facing', 'foster', 'hope', 'informed', 'like', 'news', 'offering', 'play', 'presence', 'progress', 'providing', 'role', 'sent', 'sharing', 'solace', 'strength', 'successes', 'support', 'vital']
 
 ### Logs
-- ✅ Ephesians 6:22 bht prompt v5 (88 words, 73.33% quotes)
+- 🔄 Ephesians 6:22 (attempt 1, 113 words, 64.86% quotes, quality score: 61.86486486486487) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 6:22 bht prompt v5 (97 words, 58.73% quotes)

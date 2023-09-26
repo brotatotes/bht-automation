@@ -1,7 +1,7 @@
 # Ephesians 5:2 Commentary Help Text
 
 ## BHT:
-To walk in love is to imitate God and Christ who have loved us. It is not just about words, but about actively demonstrating love to others. Christ's death was an offering to God on our behalf and his atoning death reconciles us to God. We are called to constantly embrace each other with the love that Christ has shown us because that is our true guide.
+As believers, we are called to imitate God's love in our lives, just as Christ loved us by offering himself as a sacrifice for our sake. This sacrificial offering made by Christ is like a pleasant aroma to God, pleasing and acceptable to Him. Through His death on the cross, Christ reconciled us to God, becoming the true model for us to embrace and love one another. Walking in love means not only speaking of love, but also actively practicing it, motivated by our deep gratitude for God's love and grace towards us.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -26,6 +26,11 @@ To walk in love is to imitate God and Christ who have loved us. It is not just a
 2. "We ought to embrace each other with that love with which Christ has embraced us, for what we perceive in Christ is our true guide."
 3. "No language, indeed, can fully represent the consequences and efficacy of Christ’s death. This is the only price by which we are reconciled to God."
 
+### Philip Schaff:
+1. "‘Love’ is God’s characteristic and our aim."
+2. "'You' here gives emphasis to the exhortation; 'also' joins the Christian walk in love to the work of Christ among men."
+3. "The pronoun 'us' extends the thought to all Christians; the Apostle thus including himself."
+
 ### Archibald T. Robertson:
 1. "Christ's death was an offering to God 'in our behalf' (υπερ ημων) not an offering to the devil."
 2. "Christ's own view of his atoning death."
@@ -41,15 +46,15 @@ To walk in love is to imitate God and Christ who have loved us. It is not just a
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 68
-- BHT Commentary Usage: 87.5%
-- BHT Quality Score: 70.5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 78.12%
+- BHT Quality Score: 76.875
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (10):
-	['about', 'actively', 'constantly', 'demonstrating', 'have', 'just', 'others', 'reconciles', 'shown', 'words']
-- ChatGPT injected words (significant words only) (6):
-	['actively', 'constantly', 'demonstrating', 'reconciles', 'shown', 'words']
+- ChatGPT injected words (18):
+	['actively', 'aroma', 'becoming', 'believers', 'deep', 'grace', 'gratitude', 'just', 'means', 'motivated', 'pleasing', 'practicing', 'sacrificial', 'sake', 'speaking', 'through', 'towards', 'walking']
+- ChatGPT injected words (significant words only) (14):
+	['actively', 'aroma', 'believers', 'deep', 'grace', 'gratitude', 'means', 'motivated', 'pleasing', 'practicing', 'sacrificial', 'sake', 'speaking', 'walking']
 
 ### Logs
-- ✅ Ephesians 5:2 bht prompt v5 (68 words, 87.5% quotes)
+- ✅ Ephesians 5:2 bht prompt v5 (95 words, 78.12% quotes)

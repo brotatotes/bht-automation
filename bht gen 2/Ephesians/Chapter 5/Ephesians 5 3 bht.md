@@ -1,7 +1,7 @@
 # Ephesians 5:3 Commentary Help Text
 
 ## BHT:
-The apostle Paul warns believers against engaging in fornication, impurity, or covetousness. These sins are closely connected and should not even be mentioned among the saints. The covetous person, like the sensual one, is to be counted among idolaters. Christians should hold these vices in such abhorrence that they remain unknown and unheard of within their community. These behaviors are unbecoming for children of God and go against the principles of thanksgiving and holiness. By rejecting impurity and covetousness, believers demonstrate their commitment to living a life that reflects their identity as saints.
+The apostle warns against impurity and covetousness, vices that should not even be mentioned among believers. These sins are closely related, often used interchangeably for sins of impurity and lust. Such sins are unbecoming for saints and followers of Christ, who are called to live a life separated unto God. Instead, Christians are called to gratitude, constantly giving thanks to God for His grace and mercy. Let us distance ourselves from these sins and strive to live a life worthy of our calling.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ The apostle Paul warns believers against engaging in fornication, impurity, or c
 2. "By uncleanness he means all base and impure lusts; so that this word differs from fornication, only as the whole class differs from a single department."
 3. "To this precept he adds the authoritative declaration, that he demands nothing from them but that which becometh saints, — manifestly excluding from the number and fellowship of the saints all fornicators, and impure and covetous persons."
 
+### Philip Schaff:
+1. "Fornication; to be taken in its strict sense, since this was scarcely accounted a sin among the heathens of that time."
+2. "Or covetousness. 'Or' sets this sin by itself, giving special emphasis to the prohibition, while the mention of it here indicates its close connection with sensual sins."
+3. "Let it not be even named among you. 'It' refers to each of the sins mentioned. None of them should be talked about unnecessarily."
+
 ### Archibald T. Robertson:
 1. "Debasing like sensuality."
 2. "It is 'unbecoming' for a saint to be sensual or covetous."
@@ -46,17 +51,15 @@ The apostle Paul warns believers against engaging in fornication, impurity, or c
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 70.15%
-- BHT Quality Score: 86.8507462686567
-- Generate Attempts: 2 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 83
+- BHT Commentary Usage: 67.8%
+- BHT Quality Score: 94.79661016949153
+- Generate Attempts: 1 / 5
 - ChatGPT injected words (25):
-	['against', 'behaviors', 'believers', 'commitment', 'community', 'connected', 'counted', 'demonstrate', 'engaging', 'go', 'holiness', 'identity', 'life', 'living', 'mentioned', 'person', 'principles', 'reflects', 'rejecting', 'remain', 'their', 'these', 'unheard', 'warns', 'within']
-- ChatGPT injected words (significant words only) (20):
-	['behaviors', 'believers', 'commitment', 'community', 'connected', 'counted', 'demonstrate', 'engaging', 'holiness', 'identity', 'life', 'living', 'mentioned', 'person', 'principles', 'reflects', 'rejecting', 'remain', 'unheard', 'warns']
+	['against', 'believers', 'called', 'calling', 'constantly', 'grace', 'gratitude', 'his', 'instead', 'interchangeably', 'life', 'live', 'lust', 'mercy', 'our', 'ourselves', 'related', 'separated', 'strive', 'thanks', 'these', 'unto', 'us', 'warns', 'worthy']
+- ChatGPT injected words (significant words only) (19):
+	['believers', 'called', 'calling', 'constantly', 'grace', 'gratitude', 'instead', 'interchangeably', 'life', 'live', 'lust', 'mercy', 'related', 'separated', 'strive', 'thanks', 'unto', 'warns', 'worthy']
 
 ### Logs
-- 🔄 Ephesians 5:3 (attempt 1, 113 words, 62.5% quotes, quality score: 59.50000000000001) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 5:3 bht prompt v5 (93 words, 70.15% quotes)
+- ✅ Ephesians 5:3 bht prompt v5 (83 words, 67.8% quotes)

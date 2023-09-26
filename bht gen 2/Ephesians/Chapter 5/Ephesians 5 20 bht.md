@@ -1,7 +1,7 @@
 # Ephesians 5:20 Commentary Help Text
 
 ## BHT:
-In every situation and circumstance, we are called to continually offer our thanks and gratitude. We should give thanks not only for the blessings we easily recognize, but also for the trials and challenges that shape us. Through our Lord Jesus Christ, who is the source of all good things, we can approach God with our thanksgiving and praise. Every aspect of our lives, whether joyous or difficult, can become an opportunity to express our thankfulness to the One who provides for us.
+Giving thanks always, for all things, in the name of our Lord Jesus Christ is an essential part of our Christian life. We are to be grateful to God for both temporal and spiritual blessings, recognizing that everything we have comes through Christ. This gratitude should extend to all circumstances, whether they are favorable or difficult, as we trust that God is working all things together for our good. Through Jesus, we have access to offer our thanksgiving to God, acknowledging His role as the source of every blessing.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -18,6 +18,11 @@ In every situation and circumstance, we are called to continually offer our than
 1. "Giving thanks always. He means that this is a pleasure which ought never to lose its relish; that this is an exercise of which we ought never to weary."
 2. "Innumerable benefits which we receive from God yield fresh cause of joy and thanksgiving."
 3. "He reminds believers that it will argue ungodly and disgraceful sloth, if they shall not always give thanks, — if their whole life shall not be spent in the study and exercise of praising God."
+
+### Philip Schaff:
+1. "Thankfulness is the constant sign of the Spirit's presence, the tone of the whole Christian life, and that too in all circumstances."
+2. "In the name of our Lord Jesus Christ. In fellowship with this Person, on the ground of what He has done which gives us occasion for thanksgiving."
+3. "To God and the Father, or, 'ever the Father.' ... To Him we give thanks, but always in the name of Christ, for without Christ we would not have Him as our God to thank, still less know Him as the Father."
 
 ### Archibald T. Robertson:
 1. "Jesus had told the disciples to use his name in prayer."
@@ -38,15 +43,15 @@ In every situation and circumstance, we are called to continually offer our than
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 65.0%
-- BHT Quality Score: 92.0
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 89
+- BHT Commentary Usage: 75.41%
+- BHT Quality Score: 85.59016393442623
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (25):
-	['approach', 'aspect', 'called', 'can', 'challenges', 'circumstance', 'continually', 'difficult', 'easily', 'express', 'gratitude', 'joyous', 'lives', 'offer', 'one', 'opportunity', 'provides', 'recognize', 'shape', 'situation', 'source', 'thankfulness', 'trials', 'whether', 'who']
-- ChatGPT injected words (significant words only) (21):
-	['approach', 'aspect', 'called', 'challenges', 'circumstance', 'continually', 'difficult', 'easily', 'express', 'gratitude', 'joyous', 'lives', 'offer', 'opportunity', 'provides', 'recognize', 'shape', 'situation', 'source', 'thankfulness', 'trials']
+- ChatGPT injected words (18):
+	['access', 'acknowledging', 'both', 'comes', 'difficult', 'essential', 'everything', 'extend', 'favorable', 'grateful', 'gratitude', 'offer', 'recognizing', 'role', 'source', 'trust', 'whether', 'working']
+- ChatGPT injected words (significant words only) (15):
+	['access', 'acknowledging', 'comes', 'difficult', 'essential', 'extend', 'favorable', 'grateful', 'gratitude', 'offer', 'recognizing', 'role', 'source', 'trust', 'working']
 
 ### Logs
-- ✅ Ephesians 5:20 bht prompt v5 (83 words, 65.0% quotes)
+- ✅ Ephesians 5:20 bht prompt v5 (89 words, 75.41% quotes)

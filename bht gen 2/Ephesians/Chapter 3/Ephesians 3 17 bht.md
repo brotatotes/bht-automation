@@ -1,7 +1,7 @@
 # Ephesians 3:17 Commentary Help Text
 
 ## BHT:
-Christ is asked to make his home in our hearts, and this entails a significant transformation within us. He is the One who dwells in the highest realms, in whom all fullness of the Godhead and grace resides. This dwelling is not temporary, but a perpetual union and communion with Him. However, believers may experience moments of doubt and need to be firmly established, deeply rooted and grounded in the love of Christ to have a constant awareness and assurance of His presence.
+Christ being constantly and sensibly present in our hearts is the ideal state that we should strive for. It is not enough for Him to merely be a passing thought or a distant belief, but rather He should truly take up residence in the core of our beings. By having a deep and abiding connection with Christ, we are able to fully experience His love and grace, and be transformed by His indwelling presence. May we earnestly seek to have Christ dwell in our hearts in a tangible and enduring way.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Christ is asked to make his home in our hearts, and this entails a significant t
 2. "The method by which so great a benefit is obtained is also expressed. What a remarkable commendation is here bestowed on faith, that, by means of it, the Son of God becomes our own, and 'makes his abode with us!'"
 3. "The firmness and constancy which our love ought to possess are pointed out by two metaphors. There are many persons not wholly destitute of love; but it is easily removed or shaken, because its roots are not deep. Paul desires that it should be rooted and grounded, — thoroughly fixed in our minds, so as to resemble a well-founded building or deeply-planted tree."
 
+### Philip Schaff:
+1. "The word 'dwell' points to a permanent indwelling of one who takes entire possession."
+2. "Christ dwells in us by faith, because it is by faith we perceive His presence, His excellence and His glory."
+3. "The figures are taken respectively from a tree and a building; but the former word was frequently used to indicate 'firmness at the base or foundation'."
+
 ### Archibald T. Robertson:
 1. "Christ is asked to make his home in our hearts. This is the ideal, but a deal of fixing would have to be done in our hearts for Christ." 
 2. "Being rooted and grounded in love." 
@@ -42,19 +47,15 @@ Christ is asked to make his home in our hearts, and this entails a significant t
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 75.0%
-- BHT Quality Score: 92.0
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (18):
-	['assurance', 'awareness', 'believers', 'constant', 'doubt', 'entails', 'experience', 'fullness', 'however', 'moments', 'one', 'presence', 'realms', 'resides', 'significant', 'temporary', 'transformation', 'within']
-- ChatGPT injected words (significant words only) (15):
-	['assurance', 'awareness', 'believers', 'constant', 'doubt', 'entails', 'experience', 'fullness', 'moments', 'presence', 'realms', 'resides', 'significant', 'temporary', 'transformation']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 66.15%
+- BHT Quality Score: 85.15384615384616
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (23):
+	['abiding', 'beings', 'belief', 'connection', 'core', 'distant', 'earnestly', 'enduring', 'experience', 'fully', 'having', 'merely', 'passing', 'present', 'rather', 'seek', 'state', 'strive', 'tangible', 'thought', 'transformed', 'truly', 'way']
+- ChatGPT injected words (significant words only) (22):
+	['abiding', 'beings', 'belief', 'connection', 'core', 'distant', 'earnestly', 'enduring', 'experience', 'fully', 'having', 'merely', 'passing', 'present', 'seek', 'state', 'strive', 'tangible', 'thought', 'transformed', 'truly', 'way']
 
 ### Logs
-- 🔄 Ephesians 3:17 (attempt 1, 9 words, 100.0% quotes, quality score: -1.0000000000000036) 
-	- BHT WAS UNDER 25 WORDS! 
-	- OVER 90.0% OF BHT WAS FROM QUOTES! 
-	- LIST FORMAT DETECTED!
-- ✅ Ephesians 3:17 bht prompt v5 (83 words, 75.0% quotes)
+- ✅ Ephesians 3:17 bht prompt v5 (91 words, 66.15% quotes)

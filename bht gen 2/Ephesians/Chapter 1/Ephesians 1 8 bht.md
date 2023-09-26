@@ -1,7 +1,7 @@
 # Ephesians 1:8 Commentary Help Text
 
 ## BHT:
-In the abundant grace of God, His wisdom is made clear in the plan of redemption and forgiveness. The Gospel is the manifestation of this wisdom and it serves to cultivate wisdom and prudence within us, enabling us to understand and fulfill God's will. It is crucial to recognize the wisdom and prudence of God in the Gospel, for they have the power to transform our lives and guide us in the ways of righteousness.
+In the fulfillment of God's plan for our salvation, He has abundantly poured out His grace upon us, revealing His wisdom and prudence. Through the Gospel, God's wisdom and prudence are made known to us, leading us to despise any contrary teachings. As believers, we can rest upon the authority of the Gospel with unshaken confidence, knowing that it is in this proclamation of the good news that God's goodness overflows towards us, manifesting His wisdom and prudence.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ In the abundant grace of God, His wisdom is made clear in the plan of redemption
 2. "Paul gives to the gospel the magnificent appellations of wisdom and prudence, for the purpose of leading the Ephesians to despise all contrary doctrines."
 3. "Paul, on the other hand, builds up the authority of the gospel, that believers may rest upon it with unshaken confidence."
 
+### Philip Schaff:
+1. "Which he caused to abound toward (lit, ‘into’) us. ‘Which’ is preferable to ‘wherein,’ or, ‘wherewith’; the grace itself was made to flow abundantly to us, in fact into us as the subjects of it."
+2. "In all wisdom and prudence. This phrase can scarcely be applied to God, for ‘all wisdom’ does not mean the highest wisdom, but every kind of wisdom; and ‘prudence’ is rarely thus applied. The parallel passage (Colossians 1:9) favors the reference to Christians, and this explanation agrees better with the sweep of the thought."
+3. "‘Wisdom grasps God’s doings, perceives and understands His counsels of grace; prudence is directed to what we have to do, looks at our problem and how to solve it; the former sees the relations ordered by God, the latter regulates our conduct accordingly’ (Braune)."
+
 ### Archibald T. Robertson:
 1. "A thoroughly Pauline phrase, riches of kindness (Romans 2:4), riches of glory (Colossians 1:27; Ephesians 3:16; Philippians 4:19), riches of fulness of understanding (Colossians 2:7), riches of Christ (Ephesians 3:8), and in Ephesians 2:7 'the surpassing riches of grace.'" 
 
@@ -47,18 +52,15 @@ In the abundant grace of God, His wisdom is made clear in the plan of redemption
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 76
-- BHT Commentary Usage: 71.43%
-- BHT Quality Score: 94.57142857142857
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (15):
-	['crucial', 'cultivate', 'enabling', 'fulfill', 'guide', 'have', 'lives', 'manifestation', 'power', 'recognize', 'serves', 'they', 'transform', 'understand', 'within']
-- ChatGPT injected words (significant words only) (12):
-	['crucial', 'cultivate', 'enabling', 'fulfill', 'guide', 'lives', 'manifestation', 'power', 'recognize', 'serves', 'transform', 'understand']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 81
+- BHT Commentary Usage: 85.45%
+- BHT Quality Score: 83.54545454545455
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (11):
+	['any', 'are', 'fulfillment', 'good', 'knowing', 'known', 'manifesting', 'news', 'proclamation', 'revealing', 'towards']
+- ChatGPT injected words (significant words only) (8):
+	['fulfillment', 'good', 'knowing', 'known', 'manifesting', 'news', 'proclamation', 'revealing']
 
 ### Logs
-- 🔄 Ephesians 1:8 (attempt 1, 90 words, 68.75% quotes, quality score: 88.75) 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 1:8 bht prompt v5 (76 words, 71.43% quotes)
+- ✅ Ephesians 1:8 bht prompt v5 (81 words, 85.45% quotes)

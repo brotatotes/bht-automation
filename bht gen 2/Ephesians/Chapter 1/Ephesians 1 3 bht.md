@@ -1,7 +1,7 @@
 # Ephesians 1:3 Commentary Help Text
 
 ## BHT:
-Blessed be the God and Father of our Lord Jesus Christ, begins one of St. Paul's Epistles, expressing gratitude and acknowledging the grace experienced by both the writer and the readers. God, who is also the Father, has blessed us with all the blessings of the Spirit in heavenly places. The blessings bestowed upon us by God are not mere words but real acts that stem from his everlasting counsel and grace. These blessings are spiritual and of eternal significance, bringing us closer to God who is the author and giver of all blessings.
+The opening declaration of Blessed be the God and Father of our Lord Jesus Christ reflects the Apostle Paul's customary expression of praise in his epistles, signifying his gratitude for God's grace. This doxology emphasizes the experience of grace shared between the writer and the readers. The subsequent reference to God as the Father highlights His role in showering blessings upon His children. These blessings are not merely verbal, but are tangible and bestowed upon those who are referred to as saints and believers. Such blessings are found in heavenly realms and originate from a higher spiritual world.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -30,6 +30,11 @@ Blessed be the God and Father of our Lord Jesus Christ, begins one of St. Paul's
 2. "The word bless is here used in more than one sense, as referring to God, and as referring to men. I find in Scripture four different significations of this word."
 3. "The happiness which it bestows is not in this world, but in heaven and everlasting life. In the Christian religion, indeed, as we are elsewhere taught, (1 Timothy 4:8,) is contained the 'promise of the life that now is, and of that which is to come;' but its aim is spiritual happiness, for the kingdom of Christ is spiritual."
 
+### Philip Schaff:
+1. "Our blessing God is praise and thanksgiving; His blessing us includes doing us good also."
+2. "To be God and to be Father are not ideas which exclude each other, nor do they appear as two, but as a unity."
+3. "Every spiritual blessing which we have received springs from a higher world, is to be sought in a heavenly region, and thence to be obtained."
+
 ### Archibald T. Robertson:
 1. "While ευλογημενος points to an isolated act or acts, ευλογητος describes the intrinsic character."
 2. "The believer is a citizen of heaven and the spiritual blessings count for most to him."
@@ -50,17 +55,18 @@ Blessed be the God and Father of our Lord Jesus Christ, begins one of St. Paul's
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 85.48%
-- BHT Quality Score: 69.51612903225806
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 67.65%
+- BHT Quality Score: 77.64705882352942
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (10):
-	['acknowledging', 'begins', 'bestowed', 'bringing', 'closer', 'expressing', 'significance', 'stem', 'these', 'writer']
-- ChatGPT injected words (significant words only) (9):
-	['acknowledging', 'begins', 'bestowed', 'bringing', 'closer', 'expressing', 'significance', 'stem', 'writer']
+- ChatGPT injected words (24):
+	['bestowed', 'between', 'customary', 'declaration', 'doxology', 'emphasizes', 'experience', 'expression', 'highlights', 'merely', 'opening', 'originate', 'realms', 'reference', 'reflects', 'role', 'shared', 'showering', 'signifying', 'subsequent', 'tangible', 'these', 'verbal', 'writer']
+- ChatGPT injected words (significant words only) (22):
+	['bestowed', 'customary', 'declaration', 'doxology', 'emphasizes', 'experience', 'expression', 'highlights', 'merely', 'opening', 'originate', 'realms', 'reference', 'reflects', 'role', 'shared', 'showering', 'signifying', 'subsequent', 'tangible', 'verbal', 'writer']
 
 ### Logs
-- 🔄 Ephesians 1:3 (attempt 1, 130 words, 80.52% quotes, quality score: 39.480519480519476) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:3 bht prompt v5 (95 words, 85.48% quotes)
+- 🔄 Ephesians 1:3 (attempt 1, 209 words, 70.09% quotes, quality score: -29.085470085470085) 
+	- BHT WAS OVER 100 WORDS! 
+	- LIST FORMAT DETECTED!
+- ✅ Ephesians 1:3 bht prompt v5 (100 words, 67.65% quotes)

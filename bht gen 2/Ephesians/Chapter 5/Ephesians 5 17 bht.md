@@ -1,7 +1,7 @@
 # Ephesians 5:17 Commentary Help Text
 
 ## BHT:
-Be wise and understand the will of the Lord. Do not be unwise or foolish, but seek to know and fulfill God's will. By understanding and obeying God's will, we can triumph over obstacles and avoid being blinded by Satan. Let us be diligent in redeeming our time and directing our way according to the word of the Lord. No matter the circumstance, may we always seek to know and do the will of God.
+Be wise and do not waste your time senselessly, but instead understand what is the will of the Lord. Seek to discern intelligently the specific will of Christ, not just in general, but in every aspect of your life. Do not be unwise and ignorant, but rather strive to know and do the will of God, allowing your heart and actions to align with it. Remember that understanding the will of the Lord is not just about having knowledge, but about applying it practically in your life in every situation.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -26,6 +26,12 @@ Be wise and understand the will of the Lord. Do not be unwise or foolish, but se
 2. "Whence comes it that some wander, others fall, others strike against a rock, others go away, but because we allow ourselves to be gradually blinded by Satan, and lose sight of the will of God, which we ought constantly to remember?"
 3. "How shall a young man direct his way? By attending to thy word, O Lord."
 
+### Philip Schaff:
+1. "Become not senseless, not rightly using the mind, but understanding, more than knowing, discerning intelligently, what the will of the Lord (i.e., Christ) is; not in general, but in particular, since thus discernment is shown." 
+2. "This will reaching to what is least and most peculiar, is the object of the insight of the wise; the further he advances the less is anything to him merely permissible; everything becomes for him a precept and will from above."
+3. "The opposite inference is: culture which forgets to refer constantly to the will of Christ is 'senseless.'"
+(Sources: Ephesians 5:17 commentary)
+
 ### Archibald T. Robertson:
 1.  Be ye not foolish  (μη γινεσθε αφρονες). "Stop becoming foolish." 
 
@@ -42,15 +48,15 @@ Be wise and understand the will of the Lord. Do not be unwise or foolish, but se
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 75.0%
-- BHT Quality Score: 92.0
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 90
+- BHT Commentary Usage: 70.59%
+- BHT Quality Score: 89.41176470588235
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (17):
-	['according', 'always', 'avoid', 'being', 'diligent', 'directing', 'fulfill', 'know', 'let', 'may', 'obeying', 'obstacles', 'our', 'redeeming', 'seek', 'us', 'wise']
-- ChatGPT injected words (significant words only) (12):
-	['according', 'avoid', 'diligent', 'directing', 'fulfill', 'know', 'let', 'obeying', 'obstacles', 'redeeming', 'seek', 'wise']
+- ChatGPT injected words (18):
+	['about', 'align', 'allowing', 'applying', 'aspect', 'discern', 'having', 'instead', 'just', 'know', 'practically', 'rather', 'seek', 'senselessly', 'situation', 'specific', 'strive', 'waste']
+- ChatGPT injected words (significant words only) (15):
+	['align', 'allowing', 'applying', 'aspect', 'discern', 'having', 'instead', 'know', 'practically', 'seek', 'senselessly', 'situation', 'specific', 'strive', 'waste']
 
 ### Logs
-- ✅ Ephesians 5:17 bht prompt v5 (77 words, 75.0% quotes)
+- ✅ Ephesians 5:17 bht prompt v5 (90 words, 70.59% quotes)

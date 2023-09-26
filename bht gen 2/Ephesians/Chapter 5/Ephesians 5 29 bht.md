@@ -1,7 +1,7 @@
 # Ephesians 5:29 Commentary Help Text
 
 ## BHT:
-For no man ever yet hated his own flesh, but nourisheth and cherisheth it. This means that no one neglects or mistreats their own body. In the same way, we should show equal care and concern for our spouse, nourishing them not only physically but also providing emotional support and love. Just as Christ demonstrates his love for the Church, we should exemplify that same kind of love towards our spouse.
+Apologies for the oversight. Taking care of one's own flesh is a natural instinct, as no one has ever hated their own body. This care involves nourishing and cherishing, providing both sustenance and protection. Just as a person should not neglect their own well-being, they should also show the same level of care and concern for their spouse.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ For no man ever yet hated his own flesh, but nourisheth and cherisheth it. This 
 2. "The strong affection which a husband ought to cherish towards his wife is exemplified by Christ."
 3. "This is a remarkable passage on the mysterious intercourse which we have with Christ."
 
+### Philip Schaff:
+1. "For a man does not love his wife he acts against nature"
+2. "No one, no human being, ever hated his own flesh"
+3. "Christ’s love toward His Church is manifested in His nourishing and cherishing it"
+
 ### Archibald T. Robertson:
 1. "Nourisheth" (εκτρεφε) - "Old compound with perfective sense of εκ (to nourish up to maturity and on)."
 2. "Cherisheth" (θαλπε) - "Primarily it means to warm, then to foster with tender care."
@@ -42,15 +47,17 @@ For no man ever yet hated his own flesh, but nourisheth and cherisheth it. This 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 71
-- BHT Commentary Usage: 77.78%
-- BHT Quality Score: 83.22222222222221
-- Generate Attempts: 1 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 60
+- BHT Commentary Usage: 73.33%
+- BHT Quality Score: 76.66666666666666
+- Generate Attempts: 2 / 5
 - ChatGPT injected words (18):
-	['demonstrates', 'emotional', 'exemplify', 'in', 'just', 'kind', 'mistreats', 'neglects', 'nourishing', 'our', 'physically', 'providing', 'same', 'spouse', 'support', 'their', 'them', 'way']
+	['apologies', 'both', 'instinct', 'involves', 'just', 'level', 'natural', 'neglect', 'oversight', 'person', 'protection', 'providing', 'same', 'spouse', 'taking', 'their', 'they', 'well']
 - ChatGPT injected words (significant words only) (12):
-	['demonstrates', 'emotional', 'exemplify', 'kind', 'mistreats', 'neglects', 'nourishing', 'physically', 'providing', 'spouse', 'support', 'way']
+	['apologies', 'instinct', 'involves', 'level', 'natural', 'neglect', 'oversight', 'person', 'protection', 'providing', 'spouse', 'taking']
 
 ### Logs
-- ✅ Ephesians 5:29 bht prompt v5 (71 words, 77.78% quotes)
+- 🔄 Ephesians 5:29 (attempt 1, 30 words, 95.65% quotes, quality score: 24.347826086956516) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- ✅ Ephesians 5:29 bht prompt v5 (60 words, 73.33% quotes)

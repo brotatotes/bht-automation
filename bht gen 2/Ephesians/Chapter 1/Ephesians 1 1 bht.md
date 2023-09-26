@@ -1,7 +1,7 @@
 # Ephesians 1:1 Commentary Help Text
 
 ## BHT:
-The writer of this epistle identifies himself as an apostle of Jesus Christ, emphasizing his divine appointment and authority. The letter is addressed to the saints, believers who have been set apart by the grace of God and whose sins have been forgiven through Christ. The intended audience extends beyond just the church in Ephesus, as the letter is meant for all the churches in Asia. It is clear that the message of this letter is not only for the original recipients, but for all believers throughout history who seek to grow in their faith and understanding of God's truth.
+By the will of God, this epistle is not only addressed to the Ephesians but also to the saints in all neighboring regions. The writer emphasizes that his apostleship is not by his own merit but by God's will. The recipients of this letter are described as saints, separated by God's grace in eternal election, redeemed by Christ's sacrifice, and sanctified by the Holy Spirit. Thus, the letter is not limited to a particular church but extends to all believers in the region, inviting them to live holy lives in accordance with God's will.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -47,25 +47,15 @@ The writer of this epistle identifies himself as an apostle of Jesus Christ, emp
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 101
-- BHT Commentary Usage: 71.64%
-- BHT Quality Score: 77.35820895522387
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (22):
-	['apart', 'audience', 'believers', 'beyond', 'clear', 'emphasizing', 'extends', 'forgiven', 'grow', 'history', 'identifies', 'intended', 'just', 'meant', 'message', 'original', 'recipients', 'seek', 'throughout', 'truth', 'understanding', 'writer']
-- ChatGPT injected words (significant words only) (19):
-	['apart', 'audience', 'believers', 'clear', 'emphasizing', 'extends', 'forgiven', 'grow', 'history', 'identifies', 'intended', 'meant', 'message', 'original', 'recipients', 'seek', 'truth', 'understanding', 'writer']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 98
+- BHT Commentary Usage: 77.59%
+- BHT Quality Score: 74.41379310344827
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (13):
+	['accordance', 'believers', 'emphasizes', 'extends', 'inviting', 'limited', 'live', 'neighboring', 'recipients', 'redeemed', 'region', 'regions', 'writer']
+- ChatGPT injected words (significant words only) (13):
+	['accordance', 'believers', 'emphasizes', 'extends', 'inviting', 'limited', 'live', 'neighboring', 'recipients', 'redeemed', 'region', 'regions', 'writer']
 
 ### Logs
-- 🔄 Ephesians 1:1 (attempt 1, 101 words, 71.64% quotes, quality score: 77.35820895522387) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:1 (attempt 2, 103 words, 65.67% quotes, quality score: 72.67164179104478) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:1 (attempt 3, 103 words, 65.67% quotes, quality score: 72.67164179104478) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:1 (attempt 4, 107 words, 64.0% quotes, quality score: 67.0) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:1 (attempt 5, 102 words, 61.97% quotes, quality score: 69.9718309859155) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:1 bht prompt v5 (101 words, 71.64% quotes)
+- ✅ Ephesians 1:1 bht prompt v5 (98 words, 77.59% quotes)

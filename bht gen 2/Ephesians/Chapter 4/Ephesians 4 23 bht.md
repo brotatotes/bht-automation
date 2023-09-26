@@ -1,7 +1,7 @@
 # Ephesians 4:23 Commentary Help Text
 
 ## BHT:
-The process of renewal mentioned here is carried out by the Spirit of God, not by humans. It is a renewal that affects not only the inferior desires but also the noble and excellent part of the soul. This renewal takes place not in the mind alone, but in the human spirit, specifically the seat and director of the mind. It is a process that requires the intervention of the Holy Spirit, who is the author of renovation in the believers and the source of spiritual light, knowledge, life, strength, joy, comfort, and grace.
+Believers are called to be renewed in the spirit of their mind, allowing the Holy Spirit to transform the very depths of their hearts. This renewal of the mind is an ongoing process that gradually shapes believers into the image of God, as they are continually being renewed day by day through the work of the Holy Spirit.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -30,6 +30,11 @@ The process of renewal mentioned here is carried out by the Spirit of God, not b
 2. "And here again, he brings forward to view that Queen which philosophers are accustomed almost to adore."
 3. "How much there is in us that is sound or uncorrupted may be easily gathered from this passage, which enjoins us to correct chiefly the reason or mind, in which we are apt to imagine that there is nothing but what is virtuous and deserves commendation."
 
+### Philip Schaff:
+1. "The paradox is frequent in the Scriptures, and need occasion no practical difficulty."
+2. "Both are grammatically admissible. The New Testament use of ‘sprint’ favors the latter, since the unrenewed human spirit is rarely spoken of."
+3. "But a process is referred to, in which this ‘indwelling Spirit’ of the mind is the continuous Agent."
+
 ### Archibald T. Robertson:
 1. "That ye be renewed (ανανεουσθα). Present passive infinitive...to make new (young) again." 
 2. "The spirit (τω πνευματ). Not the Holy Spirit, but the human spirit."
@@ -47,15 +52,18 @@ The process of renewal mentioned here is carried out by the Spirit of God, not b
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 83.33%
-- BHT Quality Score: 72.66666666666666
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (11):
-	['affects', 'alone', 'believers', 'director', 'humans', 'intervention', 'mentioned', 'out', 'requires', 'source', 'specifically']
-- ChatGPT injected words (significant words only) (9):
-	['affects', 'believers', 'director', 'humans', 'intervention', 'mentioned', 'requires', 'source', 'specifically']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 58
+- BHT Commentary Usage: 68.42%
+- BHT Quality Score: 76.42105263157896
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (14):
+	['allowing', 'believers', 'called', 'continually', 'depths', 'gradually', 'hearts', 'image', 'into', 'ongoing', 'shapes', 'through', 'transform', 'work']
+- ChatGPT injected words (significant words only) (12):
+	['allowing', 'believers', 'called', 'continually', 'depths', 'gradually', 'hearts', 'image', 'ongoing', 'shapes', 'transform', 'work']
 
 ### Logs
-- ✅ Ephesians 4:23 bht prompt v5 (94 words, 83.33% quotes)
+- 🔄 Ephesians 4:23 (attempt 1, 20 words, 82.35% quotes, quality score: 27.647058823529413) 
+	- BHT WAS UNDER 25 WORDS! 
+	- LIST FORMAT DETECTED!
+- ✅ Ephesians 4:23 bht prompt v5 (58 words, 68.42% quotes)

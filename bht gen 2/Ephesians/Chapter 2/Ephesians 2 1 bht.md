@@ -1,7 +1,7 @@
 # Ephesians 2:1 Commentary Help Text
 
 ## BHT:
-God has brought you back to life, just as He resurrected Christ from the dead, highlighting your past state of being spiritually dead and separated from Him. This shows the dire condition of mankind in their natural state, void of any spiritual life and incapable of finding life on their own. The distinction between sins and trespasses showcases the reality of both the Gentiles, who were ignorant of God, and the Jews, who disregarded His law. It is through God's remarkable grace and power that He has redeemed and transformed you.
+God's grace has rescued us from destruction and brought us into new life. Before our conversion, we were dead in sins, spiritually lifeless and separated from God. The extent of our depravity is evident in our state of being lost and the present death we were under. Our union with God is the true and only life, and outside of Christ, we are completely dead, as sin reigns within us. Our former state of trespasses and sins is contrasted with the power of God's resurrection, which has made us alive.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ God has brought you back to life, just as He resurrected Christ from the dead, h
 2. "He does not mean simply that they were in danger of death; but he declares that it was a real and present death under which they labored."
 3. "Let this, then, be held as a fixed principle, that the union of our soul with God is the true and only life; and that out of Christ we are altogether dead, because sin, the cause of death, reigns in us."
 
+### Philip Schaff:
+1. "There is, however, no contrast with other Christians, but an application of what precedes to their case, probably with a suggestion of the resemblance to the Resurrection of Christ."
+2. "Being dead... Spiritual, not physical, death is referred to."
+3. "The former word refers to special transgressions, viewed as misdeeds, faults, failures (and is usually rendered 'trespass'); the latter, in the singular, is used of sin as a power or principle, or in an abstract sense, but, in the plural, as here, embraces all sins, in thought, word, or deed."
+
 ### Archibald T. Robertson:
 1. "The verb fordid he quicken does not occur till verse Ephesians 2:5 and then with ημας (us) instead of υμας (you)."
 2. "There is a like ellipsis or anacoluthon in Colossians 1:21; Colossians 1:22, only there is no change from υμας to ημας."
@@ -49,15 +54,15 @@ God has brought you back to life, just as He resurrected Christ from the dead, h
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
 - BHT Word Count: 92
-- BHT Commentary Usage: 75.38%
-- BHT Quality Score: 82.61538461538461
+- BHT Commentary Usage: 83.93%
+- BHT Quality Score: 74.07142857142857
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (24):
-	['back', 'being', 'between', 'both', 'brought', 'dire', 'disregarded', 'finding', 'highlighting', 'ignorant', 'just', 'mankind', 'on', 'own', 'past', 'reality', 'redeemed', 'remarkable', 'resurrected', 'separated', 'showcases', 'shows', 'through', 'transformed']
-- ChatGPT injected words (significant words only) (16):
-	['brought', 'dire', 'disregarded', 'finding', 'highlighting', 'ignorant', 'mankind', 'past', 'reality', 'redeemed', 'remarkable', 'resurrected', 'separated', 'showcases', 'shows', 'transformed']
+- ChatGPT injected words (10):
+	['brought', 'completely', 'contrasted', 'evident', 'extent', 'lifeless', 'new', 'outside', 'separated', 'within']
+- ChatGPT injected words (significant words only) (9):
+	['brought', 'completely', 'contrasted', 'evident', 'extent', 'lifeless', 'new', 'outside', 'separated']
 
 ### Logs
-- ✅ Ephesians 2:1 bht prompt v5 (92 words, 75.38% quotes)
+- ✅ Ephesians 2:1 bht prompt v5 (92 words, 83.93% quotes)

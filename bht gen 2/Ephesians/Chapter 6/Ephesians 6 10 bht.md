@@ -1,7 +1,7 @@
 # Ephesians 6:10 Commentary Help Text
 
 ## BHT:
-Finally, be strong in the Lord and in the power of his might. To face the battles of the Christian life, we need to be strong. It is not enough to be weak and remain so, as it would lead to our downfall. We require great assistance, the powerful exertion of God's might. We must rely on Him and His strength, which is communicated to us through our meditation, prayer, faith, and the enabling of the Holy Spirit.
+Be strong in the Lord and in the power of his might, encourages believers to arm themselves with the strength and power that come from the Lord. It is a call to be relentless and unwavering in the face of spiritual battles, acknowledging that our own strength is not enough. Instead, we must depend on the mighty power of God and seek His assistance, recognizing our need for His extraordinary help in order to overcome.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -23,6 +23,11 @@ Finally, be strong in the Lord and in the power of his might. To face the battle
 2. "To explain his meaning more fully, he adds, in the power of his might, which tends greatly to increase our confidence, particularly as it shews the remarkable assistance which God usually bestows upon believers."
 3. "He exhorts them to be courageous, but at the same time reminds them to ask from God a supply of their own deficiencies, and promises that, in answer to their prayers, the power of God will be displayed."
 
+### Philip Schaff:
+1. "The words ‘my brethren’ must be rejected. Singularly enough the Apostle does not thus address his readers throughout this Epistle."
+2. "It is God who strengthens. We are strengthened, and thus become strong, but we are not exhorted to ‘be strong.’"
+3. "In the Lord, i.e., Christ, in whom is our life and strength; in fellowship with Him, ‘out of weakness’ we are ‘made strong’."
+
 ### Archibald T. Robertson:
 2. "Be strong in the Lord."
 3. "In the strength of his might."
@@ -41,15 +46,15 @@ Finally, be strong in the Lord and in the power of his might. To face the battle
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 82.69%
-- BHT Quality Score: 86.3076923076923
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 75
+- BHT Commentary Usage: 68.0%
+- BHT Quality Score: 93.0
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (10):
-	['battles', 'communicated', 'downfall', 'enabling', 'enough', 'face', 'holy', 'lead', 'life', 'require']
-- ChatGPT injected words (significant words only) (9):
-	['battles', 'communicated', 'downfall', 'enabling', 'face', 'holy', 'lead', 'life', 'require']
+- ChatGPT injected words (17):
+	['acknowledging', 'arm', 'battles', 'call', 'encourages', 'extraordinary', 'face', 'help', 'instead', 'mighty', 'order', 'overcome', 'recognizing', 'relentless', 'seek', 'spiritual', 'unwavering']
+- ChatGPT injected words (significant words only) (16):
+	['acknowledging', 'arm', 'battles', 'encourages', 'extraordinary', 'face', 'help', 'instead', 'mighty', 'order', 'overcome', 'recognizing', 'relentless', 'seek', 'spiritual', 'unwavering']
 
 ### Logs
-- ✅ Ephesians 6:10 bht prompt v5 (79 words, 82.69% quotes)
+- ✅ Ephesians 6:10 bht prompt v5 (75 words, 68.0% quotes)

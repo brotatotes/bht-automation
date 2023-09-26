@@ -1,7 +1,7 @@
 # Ephesians 6:15 Commentary Help Text
 
 ## BHT:
-Let the Gospel be the firm foundation that directs and confirms every step you take, so that your feet are shod with the preparation of the gospel. With the peace and love of God ruling in your heart, your life and conduct will be guided by the message of reconciliation and you will not be easily swayed. Through the Gospel, you will be able to navigate through the challenges and obstacles of life, holding firm until the end.
+Let the gospel be our constant source of direction and confirmation, ready to guide us in every step we take. With our feet firmly shod with the gospel, we are equipped to order our lives in accordance with God's peace and love. Through the gospel's blessings, we can navigate the challenges and obstacles that come our way, persevering until the end.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Let the Gospel be the firm foundation that directs and confirms every step you t
 2. "It is the gospel of peace...from its effects; for it is the message of our reconciliation to God, and nothing else gives peace to the conscience."
 3. "We are enjoined to lay aside every hinderance, and to be prepared both for journey and for war. By nature we dislike exertion, and want agility. A rough road and many other obstacles retard our progress, and we are discouraged by the smallest annoyance. On these accounts, Paul holds out the gospel as the fittest means for undertaking and performing the expedition."
 
+### Philip Schaff:
+1. "The Roman soldier wore sandals, in the soles of which nails were thickly studded, to give firm footing. Doubtless Paul had this in mind."
+2. "This 'preparedness' is more than a natural readiness or courage, it comes from the gospel of peace, the gospel whose contents are peace with God. This gives alacrity and courage to fight boldly for the sake of eternal peace."
+3. "Peaceableness toward men is not excluded; but there is no reference to readiness to preach the gospel. That is the aggressive, not the defensive part, of our duty."
+
 ### Archibald T. Robertson:
 1. "Having shod (υποδησαμενο). "Having bound under" (sandals)." (1)
 2. "Readiness of mind that comes from the gospel whose message is peace." (2)
@@ -43,15 +48,15 @@ Let the Gospel be the firm foundation that directs and confirms every step you t
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 78
-- BHT Commentary Usage: 78.72%
-- BHT Quality Score: 89.27659574468085
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 63
+- BHT Commentary Usage: 66.67%
+- BHT Quality Score: 79.66666666666669
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (13):
-	['able', 'challenges', 'conduct', 'confirms', 'directs', 'easily', 'guided', 'holding', 'navigate', 'swayed', 'take', 'until', 'will']
-- ChatGPT injected words (significant words only) (10):
-	['able', 'challenges', 'conduct', 'confirms', 'directs', 'easily', 'guided', 'holding', 'navigate', 'swayed']
+- ChatGPT injected words (18):
+	['accordance', 'blessings', 'challenges', 'come', 'confirmation', 'direction', 'equipped', 'firmly', 'guide', 'lives', 'navigate', 'persevering', 's', 'source', 'take', 'until', 'us', 'way']
+- ChatGPT injected words (significant words only) (15):
+	['accordance', 'blessings', 'challenges', 'come', 'confirmation', 'direction', 'equipped', 'firmly', 'guide', 'lives', 'navigate', 'persevering', 's', 'source', 'way']
 
 ### Logs
-- ✅ Ephesians 6:15 bht prompt v5 (78 words, 78.72% quotes)
+- ✅ Ephesians 6:15 bht prompt v5 (63 words, 66.67% quotes)

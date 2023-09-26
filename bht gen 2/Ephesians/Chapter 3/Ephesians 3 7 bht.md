@@ -1,7 +1,7 @@
 # Ephesians 3:7 Commentary Help Text
 
 ## BHT:
-The apostle acknowledges that his calling and ministry as an ambassador of the Gospel to the Gentiles are solely due to the gift of God's grace. Without any merit or personal achievement, he has been entrusted with this important task. His appointment is a result of the powerful and effective work of God, surpassing any of his native abilities. The true essence of the grace of God is revealed in the transformation of Saul, a persecutor, into Paul, an apostle to the Gentiles.
+The apostleship to the Gentiles was a gift given to Paul by the grace of God. It was not earned or sought after, but freely bestowed upon him. This calling and responsibility were a result of the powerful working of God's grace and the transformation it brought about in Paul's life. This divine power was evident in the remarkable change from Saul the persecutor to Paul the apostle, a testament to the transformative and effectual working of God's power.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -23,6 +23,11 @@ The apostle acknowledges that his calling and ministry as an ambassador of the G
 2. "Inquire not what I have deserved; for in the free exercise of kindness, the Lord made me an apostle of the Gentiles, not for any excellence of mine, but by his own grace."
 3. "To produce something great out of nothing, shews the effectual working of his power."
 
+### Philip Schaff:
+1. "The word usually rendered ‘servant’ (comp. Romans 1:1, etc.) suggests the personal relation to the master; this one the obligation to service."
+2. "The ‘gift’ consisted of the ‘grace,’ and this was doubtless the apostolic office."
+3. "The giving was in accordance with God’s efficiency, not with Paul’s desert. Thus Saul became Paul; the persecuting Pharisee was transformed into the minister to the Gentiles."
+
 ### Archibald T. Robertson:
 1. For this verse see Colossians 1:25; Ephesians 1:19; Ephesians 3:2. 
 
@@ -40,17 +45,17 @@ The apostle acknowledges that his calling and ministry as an ambassador of the G
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 69.09%
-- BHT Quality Score: 95.0909090909091
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 82
+- BHT Commentary Usage: 68.0%
+- BHT Quality Score: 96.0
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (22):
-	['abilities', 'achievement', 'acknowledges', 'ambassador', 'appointment', 'are', 'been', 'calling', 'due', 'effective', 'essence', 'has', 'personal', 'powerful', 'result', 'revealed', 's', 'solely', 'surpassing', 'task', 'transformation', 'without']
-- ChatGPT injected words (significant words only) (17):
-	['abilities', 'achievement', 'acknowledges', 'ambassador', 'appointment', 'calling', 'effective', 'essence', 'personal', 'powerful', 'result', 'revealed', 's', 'solely', 'surpassing', 'task', 'transformation']
+- ChatGPT injected words (21):
+	['about', 'after', 'brought', 'calling', 'change', 'divine', 'earned', 'evident', 'freely', 'from', 'life', 'powerful', 'remarkable', 'responsibility', 'result', 'sought', 'testament', 'transformation', 'transformative', 'upon', 'were']
+- ChatGPT injected words (significant words only) (16):
+	['brought', 'calling', 'change', 'divine', 'earned', 'evident', 'freely', 'life', 'powerful', 'remarkable', 'responsibility', 'result', 'sought', 'testament', 'transformation', 'transformative']
 
 ### Logs
-- 🔄 Ephesians 3:7 (attempt 1, 73 words, 90.2% quotes, quality score: 72.80392156862744) 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 3:7 bht prompt v5 (84 words, 69.09% quotes)
+- 🔄 Ephesians 3:7 (attempt 1, 102 words, 89.29% quotes, quality score: 58.71428571428571) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 3:7 bht prompt v5 (82 words, 68.0% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 4:25 Commentary Help Text
 
 ## BHT:
-Because we are made new and transformed, we should align our actions with this new identity. Our unity as members of the body of Christ emphasizes the importance of speaking truthfully to one another. Deceit is incompatible with this close bond we share.
+Believers, having been transformed by putting off our old sinful nature and being made new in Christ, are called to walk in a way that aligns with this new identity. This includes speaking truthfully and abstaining from deceit in our interactions with one another. Lying not only contradicts the righteousness and holiness we have embraced, but it also undermines the unity and trust within the body of Christ. We are intricately connected as members of one another, and falsehood has no place among us. Let us therefore commit to speaking the truth and upholding the integrity of our shared faith.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Because we are made new and transformed, we should align our actions with this n
 2. "Having concluded from the truth of the gospel, that righteousness and holiness ought to be true, he now argues from the general statement to a particular instance, that every man should speak truth with his neighbor."
 3. "He demands that every kind of communication between them shall be sincere; and enforces it by this consideration, for we are members one of another."
 
+### Philip Schaff:
+1. "The mention of ‘truth’ (Ephesians 4:24) seems to have suggested this precept. But lying is a fundamental vice. It comes from the devil (comp. John 8:44). The motive with which the verse closes shows that it is inconsistent with love, and a lie spoken out of love is still a lie."
+2. "Falsehood includes deceptive acts and looks, and this single precept, if obeyed, would revolutionize many a community, and destroy some kinds of business."
+3. "For we are members one of another. Comp. Romans 12:5-8; 1 Corinthians 12:15-27. More than members of human society, and hence mutually dependent; in close fellowship as holding the same views and laboring for the same end; as members of the body of Christ we become members of one another; as He is true, we should be truthful."
+
 ### Archibald T. Robertson:
 1. "Because of putting off the old man, and putting on the new man." 
 2. "Lying in direct contrast with truth." 
@@ -49,15 +54,19 @@ Because we are made new and transformed, we should align our actions with this n
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 43
-- BHT Commentary Usage: 64.71%
-- BHT Quality Score: 57.705882352941174
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (13):
-	['actions', 'align', 'body', 'bond', 'emphasizes', 'identity', 'importance', 'incompatible', 'made', 'share', 'transformed', 'truthfully', 'unity']
-- ChatGPT injected words (significant words only) (12):
-	['actions', 'align', 'body', 'bond', 'emphasizes', 'identity', 'importance', 'incompatible', 'share', 'transformed', 'truthfully', 'unity']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 71.62%
+- BHT Quality Score: 78.37837837837837
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (30):
+	['abstaining', 'aligns', 'also', 'among', 'been', 'being', 'believers', 'called', 'commit', 'connected', 'contradicts', 'embraced', 'faith', 'identity', 'interactions', 'intricately', 'made', 'only', 'place', 'shared', 'therefore', 'transformed', 'trust', 'truthfully', 'undermines', 'unity', 'upholding', 'us', 'way', 'within']
+- ChatGPT injected words (significant words only) (21):
+	['abstaining', 'aligns', 'believers', 'called', 'commit', 'connected', 'contradicts', 'embraced', 'faith', 'identity', 'interactions', 'intricately', 'place', 'shared', 'transformed', 'trust', 'truthfully', 'undermines', 'unity', 'upholding', 'way']
 
 ### Logs
-- ✅ Ephesians 4:25 bht prompt v5 (43 words, 64.71% quotes)
+- 🔄 Ephesians 4:25 (attempt 1, 101 words, 71.64% quotes, quality score: 77.35820895522387) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 4:25 (attempt 2, 102 words, 75.34% quotes, quality score: 72.65753424657534) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 4:25 bht prompt v5 (100 words, 71.62% quotes)

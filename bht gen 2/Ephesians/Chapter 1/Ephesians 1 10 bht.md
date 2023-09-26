@@ -1,7 +1,7 @@
 # Ephesians 1:10 Commentary Help Text
 
 ## BHT:
-In the grand plan of salvation, encompassing the Gospel times, God's purpose is to gather and reconcile all creation in Christ. From the foundation of the world, the divine plan stretches to unite heaven and earth under one harmonious kingdom. Through Christ, all things are brought back to their proper condition, in perfect unity with God. Human presumption should submit to God's providence in understanding the succession of events. By gathering all things in His body, Christ establishes actual harmony between heaven and earth, uniting angels and men in the Lord.
+In the fullness of time, God initiated a dispensation characterized by the completion of various epochs and the manifestation of His abundant grace. This divine plan sought to gather and reconcile all things in Christ, bringing unity and harmony throughout the heavens and the earth. Through Christ's redemptive work, all creations, including angels and humans, are brought together under His headship, establishing a restored and united kingdom. It is important for us to recognize and respect God's timing and providence, trusting that His plan unfolds perfectly according to His wisdom and purposes.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ In the grand plan of salvation, encompassing the Gospel times, God's purpose is 
 2. "The proper condition of creatures is to keep close to God...We are brought into actual unity by Christ alone."
 3. "By gathering both into his own body, Christ hath united them to God the Father, and established actual harmony between heaven and earth."
 
+### Philip Schaff:
+1. "The word itself is that from which our word ‘economy’ is taken, first meaning ‘stewardship’ (as in Luke 16:2), then applied in this sense to spiritual things, especially to the apostolic office (1 Corinthians 9:17; Colossians 1:25)."
+2. "'God will gather together again for Himself what He has created for Himself.' The fathers found here a reference to Christ as the Head, but this is suggested by the sound of the word, rather than by its sense. That idea is introduced later (Ephesians 1:22), and the reference here is to Christ’s atonement rather than to His sovereignty."
+3. "‘As the stone dropped into the lake creates there widening and concentric circles, which ultimately reach the farthest shore, so the deed done on Calvary has sent its undulations through the distant spheres and realms of God’s great empire’ (Eadie)."
+
 ### Archibald T. Robertson:
 1. "Unto a dispensation of the fulness of the times (εις οικονομιαν του πληρωματος των καιρων)." 
 2. "The time before Christ is treated as a unit, here as a series of epochs (καιρων)."
@@ -44,15 +49,17 @@ In the grand plan of salvation, encompassing the Gospel times, God's purpose is 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 85.71%
-- BHT Quality Score: 71.28571428571428
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (10):
-	['divine', 'encompassing', 'establishes', 'grand', 'harmonious', 'stretches', 'submit', 'through', 'understanding', 'uniting']
-- ChatGPT injected words (significant words only) (9):
-	['divine', 'encompassing', 'establishes', 'grand', 'harmonious', 'stretches', 'submit', 'understanding', 'uniting']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 94
+- BHT Commentary Usage: 61.76%
+- BHT Quality Score: 77.76470588235296
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (29):
+	['abundant', 'according', 'bringing', 'completion', 'creations', 'divine', 'establishing', 'headship', 'heavens', 'humans', 'important', 'including', 'initiated', 'manifestation', 'perfectly', 'purposes', 'recognize', 'redemptive', 'respect', 'restored', 'sought', 'throughout', 'timing', 'trusting', 'unfolds', 'us', 'various', 'wisdom', 'work']
+- ChatGPT injected words (significant words only) (26):
+	['abundant', 'according', 'bringing', 'completion', 'creations', 'divine', 'establishing', 'headship', 'heavens', 'humans', 'important', 'including', 'initiated', 'manifestation', 'perfectly', 'purposes', 'recognize', 'redemptive', 'respect', 'restored', 'sought', 'timing', 'trusting', 'unfolds', 'wisdom', 'work']
 
 ### Logs
-- ✅ Ephesians 1:10 bht prompt v5 (93 words, 85.71% quotes)
+- 🔄 Ephesians 1:10 (attempt 1, 164 words, 73.2% quotes, quality score: 12.804123711340196) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 1:10 bht prompt v5 (94 words, 61.76% quotes)

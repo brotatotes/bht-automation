@@ -1,7 +1,7 @@
 # Ephesians 4:29 Commentary Help Text
 
 ## BHT:
-Let your words be free from corruption and instead focus on what is good, beneficial, and profitable for both the speaker and the listener. Speak in a way that builds others up, encouraging them in their growth in repentance, faith, and holiness. Let your words be a channel through which grace flows, ministering grace and blessing to the hearts of those who hear them.
+Let your words be free from corruption, avoiding unsavoury, foolish, and sinful speech. Instead, speak words that are good and profitable, benefiting both yourself and those who hear. Your words should be for the purpose of edifying, promoting repentance, faith, and holiness. May your speech be a source of grace, conveying the blessings of God to those who listen.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Let your words be free from corruption and instead focus on what is good, benefi
 2. "He enjoins them to frame their discourse for edification."
 3. "The edification of use will thus mean the progress of our edification, for to edify is to carry forward."
 
+### Philip Schaff:
+1. "‘Corrupt’ is used of what is decayed and loathsome, but the idea of worthlessness is included."
+2. "Good (i.e., fitting, though possibly suggesting the moral quality) for the building up of the need."
+3. "Profitable conversation is so rare, because our social intercourse has no such exalted aim as this."
+
 ### Archibald T. Robertson:
 1. "Corrupt. Rotten, putrid, like fruit (Matthew 7:17), fish (Matthew 13:48), here the opposite of αγαθος (good)." 
 2. "For edifying as the need may be. 'For the build-up of the need,' 'for supplying help when there is need.' Let no other words come out."
@@ -49,15 +54,15 @@ Let your words be free from corruption and instead focus on what is good, benefi
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 64
-- BHT Commentary Usage: 73.47%
-- BHT Quality Score: 80.53061224489797
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 59
+- BHT Commentary Usage: 79.55%
+- BHT Quality Score: 69.45454545454545
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (15):
-	['beneficial', 'both', 'builds', 'channel', 'corruption', 'encouraging', 'flows', 'focus', 'free', 'growth', 'instead', 'listener', 'ministering', 'those', 'way']
-- ChatGPT injected words (significant words only) (13):
-	['beneficial', 'builds', 'channel', 'corruption', 'encouraging', 'flows', 'focus', 'free', 'growth', 'instead', 'listener', 'ministering', 'way']
+- ChatGPT injected words (13):
+	['are', 'avoiding', 'benefiting', 'blessings', 'both', 'corruption', 'free', 'instead', 'listen', 'promoting', 'source', 'those', 'yourself']
+- ChatGPT injected words (significant words only) (9):
+	['avoiding', 'benefiting', 'blessings', 'corruption', 'free', 'instead', 'listen', 'promoting', 'source']
 
 ### Logs
-- ✅ Ephesians 4:29 bht prompt v5 (64 words, 73.47% quotes)
+- ✅ Ephesians 4:29 bht prompt v5 (59 words, 79.55% quotes)

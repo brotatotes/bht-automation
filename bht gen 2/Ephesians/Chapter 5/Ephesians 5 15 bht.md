@@ -1,7 +1,7 @@
 # Ephesians 5:15 Commentary Help Text
 
 ## BHT:
-See then, brethren, to take heed to your walk and watch over it with wisdom and prudence. Let your walk be marked by exactness and accuracy, striving to reach the highest point of holiness. Do not walk as fools, who do not consider where they are going or make the best of their way. Instead, walk as wise men, following the pattern of Christ, guided by the Spirit, and living in a manner that befits the Gospel of Christ.
+Believers are urged to carefully examine their conduct, ensuring that they not only have a rule to follow but that the rule itself is the best one. They should be attentive to the way they walk both inwardly and outwardly, with faith in Christ and wise decision-making. It is important for believers to be diligent and accurate in their pursuit of holiness, not behaving foolishly but instead displaying wisdom in their actions.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -30,6 +30,10 @@ See then, brethren, to take heed to your walk and watch over it with wisdom and 
 3. "Dismissing the metaphor of darkness and light, he enjoins them to regulate their life circumspectly as wise men, who have been educated by the Lord in the school of true wisdom."
 
 
+### Philip Schaff:
+1. "Take heed not only that your walk be exact, strict, but also of what sort that strictness is not only that you have a rule and keep to it, but that that rule be the best one." (Alford)
+2. "Wisdom and not mere intelligence was to characterize them; that wisdom which preserves in rectitude, guides amid temptations, and affords a lesson of consistency to surrounding spectators." (Eadie)
+
 ### Archibald T. Robertson:
 1. "Carefully (ακριβως)...how exactly ye walk." 
 2. "On ακριβως (from ακριβης) see Matthew 2:8; Luke 1:3."
@@ -49,15 +53,15 @@ See then, brethren, to take heed to your walk and watch over it with wisdom and 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 81.03%
-- BHT Quality Score: 87.9655172413793
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 73
+- BHT Commentary Usage: 67.92%
+- BHT Quality Score: 90.92452830188681
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (11):
-	['befits', 'consider', 'exactness', 'following', 'guided', 'instead', 'living', 'marked', 'reach', 'striving', 'watch']
-- ChatGPT injected words (significant words only) (11):
-	['befits', 'consider', 'exactness', 'following', 'guided', 'instead', 'living', 'marked', 'reach', 'striving', 'watch']
+- ChatGPT injected words (17):
+	['actions', 'attentive', 'behaving', 'decision', 'diligent', 'displaying', 'ensuring', 'examine', 'follow', 'foolishly', 'important', 'instead', 'inwardly', 'making', 'outwardly', 'pursuit', 'urged']
+- ChatGPT injected words (significant words only) (17):
+	['actions', 'attentive', 'behaving', 'decision', 'diligent', 'displaying', 'ensuring', 'examine', 'follow', 'foolishly', 'important', 'instead', 'inwardly', 'making', 'outwardly', 'pursuit', 'urged']
 
 ### Logs
-- ✅ Ephesians 5:15 bht prompt v5 (79 words, 81.03% quotes)
+- ✅ Ephesians 5:15 bht prompt v5 (73 words, 67.92% quotes)

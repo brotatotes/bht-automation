@@ -1,7 +1,7 @@
 # Ephesians 5:5 Commentary Help Text
 
 ## BHT:
-Anyone who engages in immoral practices such as fornication, adultery, or incest is not fit for the Kingdom of God. The covetous person is also considered an idolater because both the idolater and the covetous person worship material possessions such as gold and silver. However, it is important to note that these verses do not imply that everyone who has committed these sins will be excluded from the Kingdom of God, but rather those who persist in these sins without repentance and without the transforming power of God's grace and righteousness.
+Engaging in sexual immorality, covetousness, or idolatry can have serious consequences, as it may prevent individuals from inheriting the Kingdom of God. These warnings serve as reminders that our actions have eternal significance. Covetousness, in particular, is a dangerous form of idolatry, as it replaces God with a desire for material wealth. However, it is essential to remember that the exclusion from the Kingdom of God is not predetermined, as there is still hope for redemption and salvation through God's grace and the righteousness of Christ. It is through this grace that individuals can find forgiveness and restoration.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Anyone who engages in immoral practices such as fornication, adultery, or incest
 2. "After addressing the Corinthians in the same language, he adds: 'And such were some of you; but ye are washed, but ye are sanctified, but ye are justified, in the name of the Lord Jesus, and by the Spirit of our God.'"
 3. "All covetous men must deny God, and put wealth in his place; such is their blind greediness of wretched gain."
 
+### Philip Schaff:
+1. "The covetous man makes wealth his God; this is now the most common form of idolatry, and the Scriptures plainly reveal its sinfulness."
+2. "There is no cure for this destructive love of money, but using it for other than selfish purposes. Riches, therefore, must ruin their possessor unless he employs them for the good of others and for the glory of God."
+3. "The fact that it is compatible with outward decorum, and with the respect of men, does not alter its nature. It is the permanent and controlling principle of an irreligious heart and life, turning the soul away from God."
+
 ### Archibald T. Robertson:
 1. "Ye know recognizing by your own experience."
 2. "Common idiom in the N.T. like the Hebrew= oudeis."
@@ -44,15 +49,20 @@ Anyone who engages in immoral practices such as fornication, adultery, or incest
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 76.19%
-- BHT Quality Score: 81.80952380952381
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (22):
-	['both', 'considered', 'do', 'engages', 'everyone', 'fit', 'has', 'however', 'immoral', 'imply', 'important', 'it', 'material', 'note', 'persist', 'possessions', 'power', 'practices', 'rather', 'repentance', 'transforming', 'verses']
-- ChatGPT injected words (significant words only) (15):
-	['considered', 'engages', 'fit', 'immoral', 'imply', 'important', 'material', 'note', 'persist', 'possessions', 'power', 'practices', 'repentance', 'transforming', 'verses']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 99
+- BHT Commentary Usage: 59.38%
+- BHT Quality Score: 70.375
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (31):
+	['actions', 'can', 'consequences', 'dangerous', 'desire', 'engaging', 'essential', 'find', 'forgiveness', 'hope', 'however', 'immorality', 'individuals', 'inheriting', 'material', 'particular', 'predetermined', 'prevent', 'redemption', 'remember', 'reminders', 'replaces', 'restoration', 'salvation', 'serious', 'serve', 'sexual', 'significance', 'still', 'through', 'warnings']
+- ChatGPT injected words (significant words only) (26):
+	['actions', 'consequences', 'dangerous', 'desire', 'engaging', 'essential', 'find', 'forgiveness', 'hope', 'immorality', 'individuals', 'inheriting', 'material', 'particular', 'predetermined', 'prevent', 'redemption', 'remember', 'reminders', 'replaces', 'restoration', 'salvation', 'serve', 'sexual', 'significance', 'warnings']
 
 ### Logs
-- ✅ Ephesians 5:5 bht prompt v5 (92 words, 76.19% quotes)
+- 🔄 Ephesians 5:5 (attempt 1, 93 words, 59.7% quotes, quality score: 76.70149253731343) 
+	- LIST FORMAT DETECTED! 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Ephesians 5:5 (attempt 2, 118 words, 60.49% quotes, quality score: 52.49382716049384) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 5:5 bht prompt v5 (99 words, 59.38% quotes)

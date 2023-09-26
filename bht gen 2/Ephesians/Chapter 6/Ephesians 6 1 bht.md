@@ -1,7 +1,7 @@
 # Ephesians 6:1 Commentary Help Text
 
 ## BHT:
-Children should obey and submit to their parents. This means carrying out their parents' commands and subjecting themselves to their authority. Obedience to parents is essential to the Christian faith and is an act of honor. It extends to all that is lawful and good. This obedience is not limited to matters that are sinful or unlawful. It is a sincere and heartfelt obedience, expressing gratitude for past favors. Obedience to parents is supported by the light of nature and is just and reasonable according to God's commandments.
+Children should wholeheartedly obey their parents in all things that are lawful, just, and good, as it is their duty to submit to those who have authority over them. This obedience, rooted in gratitude and heartfelt sincerity, goes beyond mere words or appearance. The obligation to obey parents is not only recognized by nature and reason, but it is also justified by God's law, which commands only what is holy and just. Ultimately, children should obey their parents as a way of honoring and pleasing the Lord, who has given this command for their own good.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Children should obey and submit to their parents. This means carrying out their 
 2. "Parents are to be obeyed, so far only as is consistent with piety to God, which comes first in order."
 3. "He proves it to be right, because God has commanded it; for we are not at liberty to dispute, or call in question, the appointment of him whose will is the unerring rule of goodness and righteousness."
 
+### Philip Schaff:
+1. "The baptismal rite does not create, but signifies and seals, the relation to Christ."
+2. "The children are thus publicly acknowledged as ‘in Christ,’ and believing parents thus promise to regard and train them as Christian children."
+3. "The natural obligation, which is recognized by all systems of morals, comes first; the enforcement through the revealed law of God is added."
+
 ### Archibald T. Robertson:
 1.  Right  (δικαιον). In Colossians 3:20 it is ευαρεστον (well-pleasing). 
 
@@ -42,17 +47,15 @@ Children should obey and submit to their parents. This means carrying out their 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 68.42%
-- BHT Quality Score: 89.42105263157896
-- Generate Attempts: 2 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 97
+- BHT Commentary Usage: 78.26%
+- BHT Quality Score: 74.7391304347826
+- Generate Attempts: 1 / 5
 - ChatGPT injected words (20):
-	['according', 'act', 'authority', 'carrying', 'commandments', 'essential', 'expressing', 'extends', 'faith', 'favors', 'heartfelt', 'limited', 'matters', 'means', 'out', 's', 'subjecting', 'submit', 'supported', 'themselves']
-- ChatGPT injected words (significant words only) (18):
-	['according', 'act', 'authority', 'carrying', 'commandments', 'essential', 'expressing', 'extends', 'faith', 'favors', 'heartfelt', 'limited', 'matters', 'means', 's', 'subjecting', 'submit', 'supported']
+	['also', 'authority', 'beyond', 'given', 'goes', 'heartfelt', 'honoring', 'justified', 'mere', 'over', 'own', 'rooted', 's', 'sincerity', 'submit', 'those', 'ultimately', 'way', 'wholeheartedly', 'words']
+- ChatGPT injected words (significant words only) (15):
+	['authority', 'given', 'goes', 'heartfelt', 'honoring', 'justified', 'mere', 'rooted', 's', 'sincerity', 'submit', 'ultimately', 'way', 'wholeheartedly', 'words']
 
 ### Logs
-- 🔄 Ephesians 6:1 (attempt 1, 135 words, 64.71% quotes, quality score: 39.705882352941174) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 6:1 bht prompt v5 (89 words, 68.42% quotes)
+- ✅ Ephesians 6:1 bht prompt v5 (97 words, 78.26% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 3:1 Commentary Help Text
 
 ## BHT:
-Paul's imprisonment, a consequence of his bold proclamation of the Messiahship of Christ to the Gentiles, provided a tangible confirmation of his apostleship. Although others may have regarded his chains as a reproach, Paul saw them as a source of profit and honor for the Gentiles. His unwavering dedication to the name of Christ compelled him to view what the world saw as disgrace as the highest esteem. As a prisoner, Paul sought to build unity and extend the blessings of Christ to the Gentiles, which provoked the jealousy and anger of the Jews.
+As believers, we are all interconnected and built together spiritually. The apostle Paul emphasizes this unity, declaring that he is a prisoner for the sake of the gentiles. His imprisonment serves the purpose of advocating for the gentiles to receive the blessings of God. This stance caused great opposition from the Jews, highlighting the significance of Paul's sacrifice and dedication to spreading the gospel.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -25,6 +25,11 @@ Paul's imprisonment, a consequence of his bold proclamation of the Messiahship o
 2. "The glory of Christ not only overcomes the ignominy of the chains, but converts what was in itself a reproach into the highest honor."
 3. "So highly ought the name of Christ to be revered by us, that what men consider to be the greatest reproach, ought to be viewed by us as the greatest honour."
 
+### Philip Schaff:
+1. "He mentions his name, not for personal reasons, but because of his office and the importance of what he is doing."
+2. "He was Christ's prisoner, not the emperor's; it is more than prisoner for Christ's sake."
+3. "His office, and hence his affliction, was for the benefit of the Gentiles."
+
 ### Archibald T. Robertson:
 1. "Use of χαριν (accusative of χαρις) as a preposition with the genitive and referring to the preceding argument about God's elective grace."
 2. "If so, he is diverted by his own words 'the prisoner of Christ Jesus in behalf of you Gentiles' (ο δεσμιος του Χριστου Ιησου υπερ υμων των εθνων) to set forth in a rich paragraph (Ephesians 3:1-13) God's use of him for the Gentiles."
@@ -44,20 +49,15 @@ Paul's imprisonment, a consequence of his bold proclamation of the Messiahship o
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 60.0%
-- BHT Quality Score: 75.0
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (24):
-	['although', 'anger', 'bold', 'build', 'compelled', 'consequence', 'dedication', 'disgrace', 'esteem', 'extend', 'others', 'proclamation', 'profit', 'provided', 'provoked', 'regarded', 'saw', 'sought', 'source', 'tangible', 'unity', 'unwavering', 'view', 'world']
-- ChatGPT injected words (significant words only) (22):
-	['anger', 'bold', 'build', 'compelled', 'consequence', 'dedication', 'disgrace', 'esteem', 'extend', 'proclamation', 'profit', 'provided', 'provoked', 'regarded', 'saw', 'sought', 'source', 'tangible', 'unity', 'unwavering', 'view', 'world']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 65
+- BHT Commentary Usage: 62.5%
+- BHT Quality Score: 77.5
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (19):
+	['advocating', 'all', 'believers', 'caused', 'declaring', 'dedication', 'emphasizes', 'great', 'highlighting', 'interconnected', 'opposition', 'purpose', 'receive', 'sacrifice', 'significance', 'spiritually', 'spreading', 'stance', 'unity']
+- ChatGPT injected words (significant words only) (18):
+	['advocating', 'believers', 'caused', 'declaring', 'dedication', 'emphasizes', 'great', 'highlighting', 'interconnected', 'opposition', 'purpose', 'receive', 'sacrifice', 'significance', 'spiritually', 'spreading', 'stance', 'unity']
 
 ### Logs
-- 🔄 Ephesians 3:1 (attempt 1, 142 words, 63.86% quotes, quality score: 31.855421686746986) 
-	- BHT WAS OVER 100 WORDS! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Ephesians 3:1 (attempt 2, 103 words, 60.32% quotes, quality score: 67.31746031746033) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 3:1 bht prompt v5 (95 words, 60.0% quotes)
+- ✅ Ephesians 3:1 bht prompt v5 (65 words, 62.5% quotes)

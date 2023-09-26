@@ -1,7 +1,7 @@
 # Ephesians 3:5 Commentary Help Text
 
 ## BHT:
-The mystery of the Gospel, particularly the inclusion of the Gentiles in God's plan of salvation, was not fully revealed in earlier generations. The prophets of the Old Testament did prophesy about the Gentiles coming to worship God, but they did not have the same explicit understanding as the apostles and New Testament prophets. These apostles and prophets were specially inspired by God and played a crucial role in establishing the early church. The revelation they received was necessary for the permanent establishment of the church and was made known through preaching and teaching.
+The mystery of the Gentiles being fellow-heirs and partakers of God's promise in Christ was not fully revealed in previous generations. The prophets in the Old Testament had some knowledge of this, but not to the extent that it has now been made known to the apostles and prophets of the New Testament. It was necessary for this revelation to be made known to establish the church and fulfill God's plan of salvation for all nations.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ The mystery of the Gospel, particularly the inclusion of the Gentiles in God's p
 2. "But why does he affirm that it was not known, when it had been the subject of so many predictions? The prophets everywhere declare, that people shall come from every nation in the world, to worship God; that an altar shall be erected both in Assyria and in Egypt, and that all alike shall speak the language of Canaan."
 3. "They knew that some communication of the grace of God would be made to the Gentiles, but at what time, in what manner, and by what means it should be accomplished, they had no information whatever."
 
+### Philip Schaff:
+1. "The contrast with 'holy' and 'in the Spirit,' suggests that those merely sons of men, not born of the Spirit, could not know this mystery."
+2. "The contrast between 'now' and 'in other generations' is one of degree. It was not then made to the extent that it has now been revealed."
+3. "To the Apostles there was a permanent inspiration to fit them for their peculiar work as laying the foundation of the Christian Church; but in the peculiar condition of the apostolic Church, without a complete New Testament, and the experience of centuries, there was an inspiration for teaching."
+
 ### Archibald T. Robertson:
 1. "In other generations (ετεραις γενεαις). Locative case of time."
 2. "He had already claimed this revelation for himself (verse Ephesians 3:3)."
@@ -47,15 +52,15 @@ The mystery of the Gospel, particularly the inclusion of the Gentiles in God's p
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 73.33%
-- BHT Quality Score: 81.66666666666666
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 79
+- BHT Commentary Usage: 86.0%
+- BHT Quality Score: 83.0
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (19):
-	['about', 'coming', 'crucial', 'earlier', 'early', 'establishing', 'establishment', 'inclusion', 'plan', 'played', 'prophesy', 'received', 'role', 's', 'specially', 'teaching', 'these', 'through', 'understanding']
-- ChatGPT injected words (significant words only) (16):
-	['coming', 'crucial', 'earlier', 'early', 'establishing', 'establishment', 'inclusion', 'plan', 'played', 'prophesy', 'received', 'role', 's', 'specially', 'teaching', 'understanding']
+- ChatGPT injected words (8):
+	['being', 'establish', 'fulfill', 'knowledge', 'nations', 'plan', 'previous', 's']
+- ChatGPT injected words (significant words only) (7):
+	['establish', 'fulfill', 'knowledge', 'nations', 'plan', 'previous', 's']
 
 ### Logs
-- ✅ Ephesians 3:5 bht prompt v5 (95 words, 73.33% quotes)
+- ✅ Ephesians 3:5 bht prompt v5 (79 words, 86.0% quotes)

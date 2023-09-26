@@ -1,7 +1,7 @@
 # Ephesians 3:19 Commentary Help Text
 
 ## BHT:
-The love of Christ is beyond our comprehension, surpassing all knowledge and understanding. It is special, eternal, and matchless in its strength and affection. While we can have a taste of this love and a partial understanding of it, it ultimately surpasses our knowledge. Yet, despite its surpassing greatness, the apostle encourages us to seek to know more of this love, to be filled with all the fullness of God, and to experience the riches of His light, love, wisdom, holiness, power, and glory.
+The depth of the love of Christ is unfathomable. While we can have a taste and experiential knowledge of it, it remains beyond our understanding. It is a love that is special, free, and unchanging. The goal is for us to be filled with all the fullness of God, to have a comprehensive understanding and experience of His wisdom, love, and power. This surpasses any other knowledge and exceeds all expectations. May we continually seek to know more of this extraordinary love that defies human comprehension.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The love of Christ is beyond our comprehension, surpassing all knowledge and und
 2. "The love of Christ is held out to us as the subject which ought to occupy our daily and nightly meditations...He who is in possession of this alone has enough."
 3. "Let us remember, therefore, that the certainty of faith is knowledge, but is acquired by the teaching of the Holy Spirit, not by the acuteness of our own intellect."
 
+### Philip Schaff:
+1. "The love of Christ; His love to us, since our love to Him could not be described by the phrase: which exceedeth knowledge."
+2. "To have an adequate experimental knowledge of Christ’s love which surpasses any abstract Knowledge independent of religious experience and Christian gratitude."
+3. "Christ then abiding in your hearts, ye, being raised up to the comprehension of God’s mercy in Him and of his love, will be filled, even as God is full each in your degree, but all to your utmost capacity, with Divine wisdom, might, and love."
+
 ### Archibald T. Robertson:
 1. "All the same Paul dares to scale this peak."
 2. "One hesitates to comment on this sublime climax in Paul's prayer, the ultimate goal for followers of Christ."
@@ -44,15 +49,15 @@ The love of Christ is beyond our comprehension, surpassing all knowledge and und
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 74.07%
-- BHT Quality Score: 91.92592592592592
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 86
+- BHT Commentary Usage: 76.36%
+- BHT Quality Score: 87.63636363636363
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (16):
-	['affection', 'comprehension', 'despite', 'encourages', 'eternal', 'greatness', 'its', 'partial', 'riches', 'seek', 'strength', 'surpassing', 'taste', 'ultimately', 'understanding', 'while']
-- ChatGPT injected words (significant words only) (14):
-	['affection', 'comprehension', 'despite', 'encourages', 'eternal', 'greatness', 'partial', 'riches', 'seek', 'strength', 'surpassing', 'taste', 'ultimately', 'understanding']
+- ChatGPT injected words (14):
+	['comprehensive', 'continually', 'defies', 'depth', 'expectations', 'experiential', 'extraordinary', 'remains', 'seek', 'taste', 'unchanging', 'understanding', 'unfathomable', 'while']
+- ChatGPT injected words (significant words only) (13):
+	['comprehensive', 'continually', 'defies', 'depth', 'expectations', 'experiential', 'extraordinary', 'remains', 'seek', 'taste', 'unchanging', 'understanding', 'unfathomable']
 
 ### Logs
-- ✅ Ephesians 3:19 bht prompt v5 (84 words, 74.07% quotes)
+- ✅ Ephesians 3:19 bht prompt v5 (86 words, 76.36% quotes)

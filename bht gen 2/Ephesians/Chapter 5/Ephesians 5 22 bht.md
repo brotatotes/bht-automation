@@ -1,7 +1,7 @@
 # Ephesians 5:22 Commentary Help Text
 
 ## BHT:
-Wives are called to submit to their husbands, just as the church submits to Christ. This submission establishes a proper order in the family, where the husband is the head, mirroring Christ's role as the Head of the church. This subjection is rendered under the watchful eye of Christ Himself. While the husband should be respected and obeyed, a wife's ultimate obedience is to God. She should assist him in caring for the family and seek his consent in all matters. By recognizing the parallel between the roles of the husband and Christ, wives can embrace their subjection willingly and joyfully.
+In Ephesians 5:22-23, the apostle Paul emphasizes the importance of marital submission. Wives are instructed to submit to their husbands, just as the church submits to Christ. This submission is not a sign of inferiority or oppression, but a reflection of the divine order within marriage. The husband, in his role as the head, is called to love his wife sacrificially, just as Christ loves the church. This mutual submission fosters a harmonious relationship where both husband and wife can fulfill their God-given roles and experience the abundant blessings that come from following God's design for marriage.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -26,6 +26,11 @@ Wives are called to submit to their husbands, just as the church submits to Chri
 2. "The community at large is divided, as it were, into so many yokes, out of which arises mutual obligation."
 3. "He begins with wives, whom he enjoins to be subject to their husbands, in the same manner as to Christ, — as to the Lord."
 
+### Philip Schaff:
+1. "The verb rendered ‘submit yourselves’ must be supplied, from the general statement of Ephesians 5:21."
+2. "Your own husbands. ‘Own’ emphasizes the peculiar and tender personal relation on which the duty rests."
+3. "As to the Lord; Christ... ‘regard your duty to your husbands as duties to the Lord.’"
+
 ### Archibald T. Robertson:
 1. "Be in subjection. Not in the Greek text of B and Jerome knew of no MS. with it." 
 2. "The case of ανδρασιν (dative) shows that the verb is understood from verse Ephesians 5:21 if not written originally." 
@@ -46,25 +51,23 @@ Wives are called to submit to their husbands, just as the church submits to Chri
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 103
-- BHT Commentary Usage: 71.88%
-- BHT Quality Score: 75.125
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 98
+- BHT Commentary Usage: 56.72%
+- BHT Quality Score: 68.71641791044777
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (22):
-	['between', 'called', 'can', 'embrace', 'establishes', 'joyfully', 'just', 'matters', 'mirroring', 'obeyed', 'order', 'parallel', 'recognizing', 'respected', 'role', 'roles', 'seek', 'submits', 'ultimate', 'watchful', 'where', 'willingly']
-- ChatGPT injected words (significant words only) (18):
-	['called', 'embrace', 'establishes', 'joyfully', 'matters', 'mirroring', 'obeyed', 'order', 'parallel', 'recognizing', 'respected', 'role', 'roles', 'seek', 'submits', 'ultimate', 'watchful', 'willingly']
+- ChatGPT injected words (35):
+	['abundant', 'apostle', 'blessings', 'both', 'called', 'can', 'come', 'design', 'divine', 'experience', 'following', 'fosters', 'fulfill', 'given', 'harmonious', 'importance', 'inferiority', 'instructed', 'just', 'love', 'loves', 'marital', 'marriage', 'oppression', 'or', 'order', 'paul', 'reflection', 'role', 'roles', 'sacrificially', 'sign', 'submits', 'where', 'within']
+- ChatGPT injected words (significant words only) (29):
+	['abundant', 'apostle', 'blessings', 'called', 'come', 'design', 'divine', 'experience', 'following', 'fosters', 'fulfill', 'given', 'harmonious', 'importance', 'inferiority', 'instructed', 'love', 'loves', 'marital', 'marriage', 'oppression', 'order', 'paul', 'reflection', 'role', 'roles', 'sacrificially', 'sign', 'submits']
 
 ### Logs
-- 🔄 Ephesians 5:22 (attempt 1, 166 words, 74.39% quotes, quality score: 9.609756097560972) 
+- 🔄 Ephesians 5:22 (attempt 1, 91 words, 72.0% quotes, quality score: 87.0) 
+	- LIST FORMAT DETECTED!
+- 🔄 Ephesians 5:22 (attempt 2, 119 words, 65.08% quotes, quality score: 56.07936507936509) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:22 (attempt 2, 104 words, 72.31% quotes, quality score: 73.6923076923077) 
+- 🔄 Ephesians 5:22 (attempt 3, 103 words, 57.89% quotes, quality score: 64.89473684210527) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:22 (attempt 3, 103 words, 71.88% quotes, quality score: 75.125) 
+- 🔄 Ephesians 5:22 (attempt 4, 103 words, 57.14% quotes, quality score: 64.14285714285714) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:22 (attempt 4, 109 words, 73.13% quotes, quality score: 67.86567164179104) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:22 (attempt 5, 110 words, 79.03% quotes, quality score: 60.96774193548387) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 5:22 bht prompt v5 (103 words, 71.88% quotes)
+- ✅ Ephesians 5:22 bht prompt v5 (98 words, 56.72% quotes)

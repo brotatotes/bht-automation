@@ -1,7 +1,7 @@
 # Ephesians 5:18 Commentary Help Text
 
 ## BHT:
-Drunkenness, characterized by excessive drinking and the loss of reason, is contrary to the Christian life. Instead, believers are encouraged to be filled with the Spirit, to allow the grace and presence of the Holy Spirit to permeate their lives. This filling brings spiritual peace, joy, and a deeper pleasure than any worldly indulgence can provide. Let us pursue a life filled with the Spirit and be mindful of the contrast between the wild and dissolute habits of the world and the spiritual devotion that marks our worship.
+The Bible warns against the dangers of excessive drinking, which leads to debauchery and reckless behavior. Instead, Christians are called to be filled with the Spirit, expressing their joy and thankfulness through psalms, hymns, and spiritual songs. The contrast between the ecstasy caused by the Spirit and that caused by wine is emphasized, with the former bringing genuine joy and gratitude. Christians are encouraged to prioritize the fullness and fellowship of the Holy Spirit over the temporary pleasure of alcohol, as the Spirit brings lasting peace and joy that surpasses any worldly intoxication.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Drunkenness, characterized by excessive drinking and the loss of reason, is cont
 2. "The meaning therefore is, that drunkards throw off quickly every restraint of modesty or shame; that where wine reigns, profligacy naturally follows; and consequently, that all who have any regard to moderation or decency ought to avoid and abhor drunkenness."
 3. "To what does drunkenness lead? To unbounded licentiousness, — to unbridled, indecent merriment."
 
+### Philip Schaff:
+1. "Be not made drunk. To be taken literally, since the vice deserved then, and has ever since deserved, such special mention."
+2. "But be filled in the Spirit. Over against the temporary intoxication, is the permanent state of fulness; the contrast is between the verbs, as the original indicate."
+3. "The Christian’s joy is not brief intoxication, but abiding exaltation in the fellowship of the Holy Spirit. The next verses show how this spiritual joy expresses itself."
+
 ### Archibald T. Robertson:
 1. "Be not drunken with wine...forbidden as a habit and to stop it also if guilty." 
 2. "Riot (ασωτια)...in N.T. only here, Titus 1:6; 1 Peter 4:4."
@@ -49,15 +54,17 @@ Drunkenness, characterized by excessive drinking and the loss of reason, is cont
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 68.33%
-- BHT Quality Score: 90.33333333333334
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (23):
-	['allow', 'believers', 'between', 'brings', 'characterized', 'contrary', 'deeper', 'encouraged', 'filling', 'indulgence', 'instead', 'life', 'lives', 'loss', 'marks', 'mindful', 'our', 'permeate', 'presence', 'provide', 'pursue', 'their', 'us']
-- ChatGPT injected words (significant words only) (19):
-	['allow', 'believers', 'brings', 'characterized', 'contrary', 'deeper', 'encouraged', 'filling', 'indulgence', 'instead', 'life', 'lives', 'loss', 'marks', 'mindful', 'permeate', 'presence', 'provide', 'pursue']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 72.58%
+- BHT Quality Score: 84.41935483870967
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (20):
+	['behavior', 'bible', 'bringing', 'brings', 'called', 'dangers', 'emphasized', 'encouraged', 'expressing', 'former', 'fullness', 'genuine', 'gratitude', 'instead', 'lasting', 'prioritize', 'surpasses', 'their', 'through', 'warns']
+- ChatGPT injected words (significant words only) (17):
+	['behavior', 'bible', 'bringing', 'brings', 'called', 'dangers', 'emphasized', 'encouraged', 'expressing', 'fullness', 'genuine', 'gratitude', 'instead', 'lasting', 'prioritize', 'surpasses', 'warns']
 
 ### Logs
-- ✅ Ephesians 5:18 bht prompt v5 (88 words, 68.33% quotes)
+- 🔄 Ephesians 5:18 (attempt 1, 118 words, 70.27% quotes, quality score: 61.72972972972973) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 5:18 bht prompt v5 (93 words, 72.58% quotes)

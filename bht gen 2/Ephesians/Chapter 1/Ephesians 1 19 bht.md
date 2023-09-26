@@ -1,7 +1,7 @@
 # Ephesians 1:19 Commentary Help Text
 
 ## BHT:
-The work of conversion and faith requires almighty power, as it involves a creation, a resurrection from the dead, a regeneration, and a transformation. This work of faith is solely attributed to the exceeding greatness of divine power, which is displayed in supporting and delivering believers, helping them in their obedience, and ensuring their final perseverance. Just as God raised Christ from the dead by His almighty power, the same power is exerted towards and upon believers, showcasing the magnitude of His strength.
+The resurrection of Christ demonstrated a spiritual act of raising His humanity from weakness to glory, showcasing the greatness of God's power. This power extends to every name, both present and future, highlighting its strength and might. Paul's use of intense language reflects the challenge of expressing the immense divine mysteries and abundant grace. The same power displayed in raising Christ is required for the conversion of sinners. God's power is evident in His indwelling strength, might, and efficient working. It is this tremendous power that brings believers from death to life, making them heirs of eternal life, and supporting them in their faith and perseverance.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The work of conversion and faith requires almighty power, as it involves a creat
 2. "The power of God is wonderfully displayed, when we are brought from death to life, and when, from being the children of hell, we become the children of God and heirs of eternal life."
 3. "We never form adequate conceptions of the treasure revealed to us in the gospel; or, if we do, we cannot persuade ourselves that it is possible for us to do so, because we perceive nothing in us that corresponds to it, but everything the reverse."
 
+### Philip Schaff:
+1. "There is thus a kind of climax, the hope which the calling awakens, the exhaustless and inexpressible glory of that inheritance to which hope is directed the limitless power that shall bestow it." 
+2. "This phrase is to be joined with 'His power,' setting forth the personal objects toward and upon whom the power is exercised."
+3. "The greatness of the power which bestows the 'glory' and fulfills the 'hope' is in accordance with a manifestation already made of God’s strength. 'Strength' is God’s inherent power; 'might' is the putting forth of that power; 'working' is its actual efficiency."
+
 ### Archibald T. Robertson:
 1. "The exceeding greatness of his power." 
 2. "To enlightened eyes the greatness of God's power is even more 'surpassing.'"
@@ -47,15 +52,26 @@ The work of conversion and faith requires almighty power, as it involves a creat
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 84.91%
-- BHT Quality Score: 82.0943396226415
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (9):
-	['attributed', 'ensuring', 'helping', 'involves', 'just', 'obedience', 'requires', 'showcasing', 'solely']
-- ChatGPT injected words (significant words only) (8):
-	['attributed', 'ensuring', 'helping', 'involves', 'obedience', 'requires', 'showcasing', 'solely']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 109
+- BHT Commentary Usage: 71.83%
+- BHT Quality Score: 69.16901408450704
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (20):
+	['abundant', 'brings', 'challenge', 'demonstrated', 'evident', 'expressing', 'extends', 'future', 'highlighting', 'immense', 'intense', 'making', 'present', 'reflects', 'required', 'showcasing', 'sinners', 'tremendous', 'use', 'weakness']
+- ChatGPT injected words (significant words only) (20):
+	['abundant', 'brings', 'challenge', 'demonstrated', 'evident', 'expressing', 'extends', 'future', 'highlighting', 'immense', 'intense', 'making', 'present', 'reflects', 'required', 'showcasing', 'sinners', 'tremendous', 'use', 'weakness']
 
 ### Logs
-- ✅ Ephesians 1:19 bht prompt v5 (83 words, 84.91% quotes)
+- 🔄 Ephesians 1:19 (attempt 1, 236 words, 87.5% quotes, quality score: -73.5) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:19 (attempt 2, 119 words, 94.03% quotes, quality score: 36.970149253731336) 
+	- BHT WAS OVER 100 WORDS! 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- 🔄 Ephesians 1:19 (attempt 3, 109 words, 71.83% quotes, quality score: 69.16901408450704) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:19 (attempt 4, 105 words, 76.81% quotes, quality score: 68.18840579710145) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 1:19 (attempt 5, 110 words, 72.46% quotes, quality score: 67.53623188405797) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 1:19 bht prompt v5 (109 words, 71.83% quotes)

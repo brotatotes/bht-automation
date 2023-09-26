@@ -1,7 +1,7 @@
 # Ephesians 5:14 Commentary Help Text
 
 ## BHT:
-The Bible urges believers to separate themselves from sinners and not partake in their abominable practices. It calls for a awakening from a state of slumber and false security, recognizing the need for salvation. By using the personal pronoun, Paul emphasizes the importance of preachers spreading this vital message to raise the spiritually dead to life. The quoted passage combines various prophecies and may even be a fragment of an early hymn. It encourages believers to awaken from their spiritual slumber and seek the light of Christ, which illuminates their path to salvation.
+Awake from your slumber, for there is a call for separation from sin and from those who engage in wickedness. Shake off the spiritual sleep and ignorance that hinders you from seeing and understanding. Rouse yourself and rise from the deadness of sin, for Christ has the power to bring you to life and give you enlightenment. Let the light of Christ guide your path, dissipating darkness and leading you into knowledge, holiness, and joy.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The Bible urges believers to separate themselves from sinners and not partake in
 2. "The allusion, I have no doubt, is to the prophecies which relate to Christ’s kingdom; such as that of Isaiah, 'Arise, shine; for thy light is come, and the glory of Jehovah is risen upon thee.' Let us therefore endeavor, as far as lies in our power, to rouse the sleeping and dead, that we may bring them to the light of Christ."
 3. "That light from Christ flashes upon the awakened and resuscitated; nay, it awakens and resuscitates them. As it streams upon the dead, it startles them into life. It illuminates every topic on which a sinner needs information, with a pure, steady, and mellowed radiance."
 
+### Philip Schaff:
+1. "In general what is made manifest is light, but Christ so shines as to give new spiritual light." 
+2. "Let your light shine, so as to reprove, in the hope that Christ will shine upon the convicted heart."
+3. "Here we have combined the two sides of human action and Divine power. The light which Christ sheds around Him has power to awake the sleeping dead."
+
 ### Archibald T. Robertson:
 1. "Wherefore he saith (διο λεγε)."
 2. "The form αναστα for αναστηθ (second person singular imperative second aorist active of ανιστημ) occurs in Acts 12:7."
@@ -49,15 +54,15 @@ The Bible urges believers to separate themselves from sinners and not partake in
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 69.7%
-- BHT Quality Score: 86.6969696969697
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 75
+- BHT Commentary Usage: 71.15%
+- BHT Quality Score: 93.84615384615384
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (24):
-	['abominable', 'awaken', 'awakening', 'bible', 'calls', 'combines', 'emphasizes', 'encourages', 'even', 'importance', 'partake', 'passage', 'path', 'practices', 'quoted', 'recognizing', 'seek', 'spiritually', 'spreading', 'themselves', 'urges', 'using', 'various', 'vital']
-- ChatGPT injected words (significant words only) (20):
-	['abominable', 'awaken', 'awakening', 'bible', 'calls', 'combines', 'emphasizes', 'encourages', 'importance', 'partake', 'passage', 'path', 'practices', 'quoted', 'recognizing', 'seek', 'spiritually', 'spreading', 'urges', 'vital']
+- ChatGPT injected words (21):
+	['call', 'deadness', 'dissipating', 'engage', 'enlightenment', 'guide', 'hinders', 'joy', 'leading', 'off', 'path', 'rise', 'seeing', 'separation', 'shake', 'those', 'understanding', 'who', 'wickedness', 'you', 'yourself']
+- ChatGPT injected words (significant words only) (15):
+	['deadness', 'dissipating', 'engage', 'enlightenment', 'guide', 'hinders', 'joy', 'leading', 'path', 'rise', 'seeing', 'separation', 'shake', 'understanding', 'wickedness']
 
 ### Logs
-- ✅ Ephesians 5:14 bht prompt v5 (93 words, 69.7% quotes)
+- ✅ Ephesians 5:14 bht prompt v5 (75 words, 71.15% quotes)

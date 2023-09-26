@@ -1,7 +1,7 @@
 # Ephesians 4:16 Commentary Help Text
 
 ## BHT:
-The church, which is the body of Christ, finds its unity and growth from the Lord Himself. The members of this body are fitted together in perfect harmony, each part contributing to the health and well-being of the whole. It is through the Spirit of God that this union is formed, and it is sustained by the love and support that each member provides to one another. This results in a constant increase and edification of the body, as each joint supplies what is needed for its growth and flourishing.
+The body of believers is intricately arranged and unified, with each member contributing to its growth and strength. This unity is not of human achievement, but is brought about by the Spirit of God Himself. Through the bond of love, the church is built up and strengthened, with each member finding their rightful place and purpose. As the body is fitted together and compacted, the collective effort of every joint supplies what is needed for the growth of the whole. This harmonious cooperation ensures that the body of Christ continues to increase and thrive.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -30,6 +30,11 @@ The church, which is the body of Christ, finds its unity and growth from the Lor
 2. "There are three things here which deserve our attention...without mutual love, the health of the body cannot be maintained."
 3. "If we wish to be considered members of Christ, let no man be anything for himself, but let us all be whatever we are for the benefit of each other."
 
+### Philip Schaff:
+1. "The whole body suggests a slightly different idea."
+2. "The supply is not that rendered by the individual members, but rather that furnished by Christ, the source of life, passing through every 'joint,' which is therefore defined as a joint of the supply."
+3. "The aim of the growth: Self-edification, and that 'in love,' as its element."
+
 ### Archibald T. Robertson:
 1. "Out of which as the source of energy and direction."
 2. "See Ephesians 2:21 for this verb."
@@ -50,15 +55,15 @@ The church, which is the body of Christ, finds its unity and growth from the Lor
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 91
-- BHT Commentary Usage: 75.86%
-- BHT Quality Score: 83.13793103448276
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 94
+- BHT Commentary Usage: 64.52%
+- BHT Quality Score: 80.51612903225806
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (17):
-	['constant', 'contributing', 'edification', 'finds', 'flourishing', 'formed', 'lord', 'needed', 'perfect', 'provides', 'results', 'supplies', 'support', 'through', 'unity', 'well', 'what']
-- ChatGPT injected words (significant words only) (14):
-	['constant', 'contributing', 'edification', 'finds', 'flourishing', 'formed', 'lord', 'needed', 'perfect', 'provides', 'results', 'supplies', 'support', 'unity']
+- ChatGPT injected words (24):
+	['about', 'achievement', 'believers', 'bond', 'brought', 'built', 'collective', 'continues', 'contributing', 'cooperation', 'effort', 'ensures', 'finding', 'intricately', 'needed', 'place', 'rightful', 'strength', 'strengthened', 'supplies', 'thrive', 'unified', 'unity', 'what']
+- ChatGPT injected words (significant words only) (22):
+	['achievement', 'believers', 'bond', 'brought', 'built', 'collective', 'continues', 'contributing', 'cooperation', 'effort', 'ensures', 'finding', 'intricately', 'needed', 'place', 'rightful', 'strength', 'strengthened', 'supplies', 'thrive', 'unified', 'unity']
 
 ### Logs
-- ✅ Ephesians 4:16 bht prompt v5 (91 words, 75.86% quotes)
+- ✅ Ephesians 4:16 bht prompt v5 (94 words, 64.52% quotes)

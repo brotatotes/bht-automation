@@ -1,7 +1,7 @@
 # Ephesians 4:24 Commentary Help Text
 
 ## BHT:
-The new man, created in righteousness and true holiness, is a complete transformation. Put on the new man, living in accordance with the work of grace upon the soul, putting off the old man and walking in a new way. This new nature, being in the image of God, leads to acts of righteousness and holiness.
+The new man, representing universal holiness, is to be put on. This refers to a complete transformation, where one's entire image is renewed to reflect God. It is a change that affects every aspect of a person's being, leading them to a life characterized by righteousness and holiness.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The new man, created in righteousness and true holiness, is a complete transform
 2. "The regeneration of the godly is indeed — as we have formerly explained — nothing else than the formation anew of the image of God in them."
 3. "Both holiness and righteousness ought to be sincere; because we have to do with God, whom it is impossible to deceive."
 
+### Philip Schaff:
+1. "Put ye on the Lord Jesus Christ." (Romans 13:14)
+2. "More than was lost in Adam has been given in Christ, but both creations are 'after the image of God.'" 
+3. "The new man hath been created; the former points to moral rectitude, external and toward men; the latter, to the internal quality of spiritual life, its relation to God. The two combined express moral perfection."
+
 ### Archibald T. Robertson:
 1. "Put on (ενδυσασθα). First aorist middle infinitive of ενδυω (-νω), for which see Colossians 3:10."
 2. "The brand-new (see Ephesians 2:15) man," though τον νεον in Colossians 3:10.
@@ -47,15 +52,15 @@ The new man, created in righteousness and true holiness, is a complete transform
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 56
-- BHT Commentary Usage: 86.11%
-- BHT Quality Score: 59.88888888888888
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 50
+- BHT Commentary Usage: 72.5%
+- BHT Quality Score: 67.5
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (6):
-	['accordance', 'complete', 'living', 'this', 'transformation', 'way']
-- ChatGPT injected words (significant words only) (5):
-	['accordance', 'complete', 'living', 'transformation', 'way']
+- ChatGPT injected words (14):
+	['affects', 'aspect', 'characterized', 'complete', 'entire', 'every', 'leading', 'person', 'refers', 'reflect', 'representing', 'this', 'transformation', 'where']
+- ChatGPT injected words (significant words only) (11):
+	['affects', 'aspect', 'characterized', 'complete', 'entire', 'leading', 'person', 'refers', 'reflect', 'representing', 'transformation']
 
 ### Logs
-- ✅ Ephesians 4:24 bht prompt v5 (56 words, 86.11% quotes)
+- ✅ Ephesians 4:24 bht prompt v5 (50 words, 72.5% quotes)

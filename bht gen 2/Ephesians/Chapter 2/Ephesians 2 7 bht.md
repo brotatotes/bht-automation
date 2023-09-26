@@ -1,7 +1,7 @@
 # Ephesians 2:7 Commentary Help Text
 
 ## BHT:
-The calling of the Gentiles was a remarkable display of divine goodness that deserves to be passed down from generation to generation. The attempt to suppress this glorious work reveals the wickedness of those who opposed it, as they sought to extinguish a plan that would be remembered throughout all ages. The richness of God's grace and the enduring impact of His kindness towards us are evident in this extraordinary act of inclusion.
+The purpose of the passage is to reveal the abundant and everlasting demonstration of divine grace in the salvation of believers. Through the calling of both Gentiles and Jews, God's immeasurable goodness and mercy are displayed for all future generations. This divine plan, ordained by God, exhibits the unparalleled riches of His grace, surpassing any earthly treasure. It is a source of spiritual wealth and eternal glory that will never cease, providing an endless supply of blessings for those who embrace it.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The calling of the Gentiles was a remarkable display of divine goodness that des
 2. "The calling of the Gentiles is an astonishing work of divine goodness, which ought to be handed down by parents to children, and to their children’s children, that it may never be forgotten or unacknowledged by the sons of men."
 3. "Not only, therefore, does he declare, that the love of God was free, but likewise that God displayed in it the riches, — the extraordinary pre-eminent riches of his grace."
 
+### Philip Schaff:
+1. "That he might show forth. More than ‘manifest,’ or, ‘make known;’ implying an active, effective, demonstration. This is the purpose of the redeeming facts (Ephesians 2:4-6)."
+2. "The exceeding riches. Exceeding because triumphant, superior to wrath and Satan."
+3. "In Christ. Jesus (not, ‘through’), repeated here, is not to be joined with ‘us,’ but with the verb. This is the ever blessed sphere in which the demonstration to all ages takes place. ‘In this entirely unique Person, including in Himself all that man needs for a renewal well pleasing to God, presenting in His resurrection and exaltation, not merely a type, but the dynamic principle for the elevation of humanity to sonship with God."
+
 ### Archibald T. Robertson:
 1. "That he might show (ινα ενδειξητα)."
 2. "See Ephesians 1:7 for 'riches of grace' and Ephesians 1:19 for 'exceeding' (υπερβαλλον)."
@@ -47,19 +52,19 @@ The calling of the Gentiles was a remarkable display of divine goodness that des
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 64.29%
-- BHT Quality Score: 88.28571428571428
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (24):
-	['act', 'as', 'attempt', 'deserves', 'display', 'enduring', 'evident', 'extinguish', 'from', 'generation', 'glorious', 'impact', 'inclusion', 'opposed', 'passed', 'plan', 'remarkable', 'reveals', 'richness', 'sought', 'suppress', 'throughout', 'who', 'wickedness']
-- ChatGPT injected words (significant words only) (20):
-	['act', 'attempt', 'deserves', 'display', 'enduring', 'evident', 'extinguish', 'generation', 'glorious', 'impact', 'inclusion', 'opposed', 'passed', 'plan', 'remarkable', 'reveals', 'richness', 'sought', 'suppress', 'wickedness']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 83
+- BHT Commentary Usage: 61.9%
+- BHT Quality Score: 88.90476190476191
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (27):
+	['abundant', 'any', 'believers', 'blessings', 'both', 'cease', 'earthly', 'embrace', 'endless', 'eternal', 'everlasting', 'generations', 'immeasurable', 'jews', 'ordained', 'passage', 'plan', 'providing', 'reveal', 'source', 'spiritual', 'supply', 'surpassing', 'treasure', 'unparalleled', 'wealth', 'who']
+- ChatGPT injected words (significant words only) (24):
+	['abundant', 'believers', 'blessings', 'cease', 'earthly', 'embrace', 'endless', 'eternal', 'everlasting', 'generations', 'immeasurable', 'jews', 'ordained', 'passage', 'plan', 'providing', 'reveal', 'source', 'spiritual', 'supply', 'surpassing', 'treasure', 'unparalleled', 'wealth']
 
 ### Logs
-- 🔄 Ephesians 2:7 (attempt 1, 22 words, 100.0% quotes, quality score: 11.999999999999996) 
-	- BHT WAS UNDER 25 WORDS! 
-	- OVER 90.0% OF BHT WAS FROM QUOTES! 
+- 🔄 Ephesians 2:7 (attempt 1, 58 words, 62.16% quotes, quality score: 70.16216216216216) 
 	- LIST FORMAT DETECTED!
-- ✅ Ephesians 2:7 bht prompt v5 (74 words, 64.29% quotes)
+- 🔄 Ephesians 2:7 (attempt 2, 93 words, 58.73% quotes, quality score: 75.73015873015873) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 2:7 bht prompt v5 (83 words, 61.9% quotes)

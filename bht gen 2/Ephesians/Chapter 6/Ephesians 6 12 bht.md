@@ -1,7 +1,7 @@
 # Ephesians 6:12 Commentary Help Text
 
 ## BHT:
-Our wrestling is not merely a physical battle against human opponents, but it extends far beyond that. We face a spiritual conflict against the rulers, powers, and world-rulers of darkness. These are not earthly adversaries, but rather the evil spiritual armies that oppose us. They are like wicked spirits lurking in the heavenly places, always seeking to imitate and corrupt the work of God. The Christian journey is one of constant warfare against these forces, and we must be equipped with the panoply of God, the spiritual armor, to withstand their attacks.
+Our wrestling is not merely a physical battle against human opponents or our own sinful desires. It is a spiritual warfare against the powerful rulers and forces of darkness that operate in the heavenly realm. We must not underestimate the strength and cunning of these wicked spirits, who seek to hinder our faith, love, and holiness. Therefore, we must be strong in the Lord, equipping ourselves with the spiritual armor provided by God, ready to stand firm against the schemes of the enemy.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,12 @@ Our wrestling is not merely a physical battle against human opponents, but it ex
 2. "Our natural disposition would lead us to direct all our exertions against the men themselves; but this foolish desire will be restrained by the consideration that the men who annoy us are nothing more than darts thrown by the hand of Satan."
 3. "He describes our enemy as formidable, not to overwhelm us with fear, but to quicken our diligence and earnestness."
 
+### Philip Schaff:
+1. "Our real conflict as Christians is not with men, nor even with our own human nature."
+2. "The contrast with what precedes compels us to explain this clause as meaning Satan and his organized forces."
+3. "The main difficulty, however, is with the last phrase: 'in the heavenly places,' which is found in chap. Ephesians 1:3 also."
+
+
 ### Archibald T. Robertson:
 1. "To us the wrestling is not." 
 2. "These 'world-rulers' are limited to 'this darkness' here on earth." 
@@ -49,19 +55,15 @@ Our wrestling is not merely a physical battle against human opponents, but it ex
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 93
-- BHT Commentary Usage: 70.15%
-- BHT Quality Score: 86.8507462686567
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (26):
-	['adversaries', 'always', 'armor', 'attacks', 'beyond', 'constant', 'corrupt', 'earthly', 'equipped', 'extends', 'face', 'forces', 'human', 'it', 'journey', 'like', 'merely', 'must', 'one', 'opponents', 'physical', 'rather', 'seeking', 'warfare', 'withstand', 'work']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 83
+- BHT Commentary Usage: 67.21%
+- BHT Quality Score: 94.21311475409837
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (24):
+	['armor', 'cunning', 'desires', 'equipping', 'firm', 'hinder', 'it', 'merely', 'must', 'operate', 'opponents', 'ourselves', 'physical', 'powerful', 'provided', 'ready', 'realm', 'schemes', 'seek', 'stand', 'strength', 'therefore', 'underestimate', 'warfare']
 - ChatGPT injected words (significant words only) (20):
-	['adversaries', 'armor', 'attacks', 'constant', 'corrupt', 'earthly', 'equipped', 'extends', 'face', 'forces', 'human', 'journey', 'like', 'merely', 'opponents', 'physical', 'seeking', 'warfare', 'withstand', 'work']
+	['armor', 'cunning', 'desires', 'equipping', 'firm', 'hinder', 'merely', 'operate', 'opponents', 'physical', 'powerful', 'provided', 'ready', 'realm', 'schemes', 'seek', 'stand', 'strength', 'underestimate', 'warfare']
 
 ### Logs
-- 🔄 Ephesians 6:12 (attempt 1, 138 words, 87.36% quotes, quality score: 24.64367816091953) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 6:12 (attempt 2, 108 words, 87.84% quotes, quality score: 54.162162162162154) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 6:12 bht prompt v5 (93 words, 70.15% quotes)
+- ✅ Ephesians 6:12 bht prompt v5 (83 words, 67.21% quotes)

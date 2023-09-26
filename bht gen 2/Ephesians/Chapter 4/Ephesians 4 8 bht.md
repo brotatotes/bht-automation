@@ -1,7 +1,7 @@
 # Ephesians 4:8 Commentary Help Text
 
 ## BHT:
-When Christ ascended to heaven, he achieved a profound victory over his enemies, including Satan and death. Through this triumph, Christ obtained various gifts, which he graciously bestows upon his people. Just as conquerors in ancient times led their captives in chains, Christ led captivity captive, demonstrating his complete victory. In doing so, he not only triumphed over his foes but also rescued those who were held captive by Satan, leading them in a glorious procession. As believers, we are recipients of these gifts, which are given according to Christ's distribution of grace.
+As Christ ascended to heaven, he triumphed victoriously over all his enemies, including Satan, sin, and death, which had held the entire world captive. This imagery parallels the ancient practice of conquerors leading the conquered in chains behind them. In a similar manner, Christ bestowed gifts upon humanity, both the ordinary and extraordinary gifts of the Holy Spirit, mirroring the donatives given to the people upon the conqueror's return from victory. Through his ascension, Christ not only conquered his foes but also generously provided gifts to empower and bless mankind.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ When Christ ascended to heaven, he achieved a profound victory over his enemies,
 2. "No ascension of God more triumphant or memorable will ever occur, than that which took place when Christ was carried up to the right hand of the Father, that he might rule over all authorities and powers, and might become the everlasting guardian and protector of his people."
 3. "Paul intends to show that this ascension of God in the person of Christ was far more illustrious than the ancient triumphs of the Church; because it is a more honorable distinction for a conqueror to dispense his bounty largely to all classes, than to gather spoils from the vanquished."
 
+### Philip Schaff:
+1. "The change to the third person is natural; the main difficulty is found in the last clause."
+2. "The application here undoubtedly is to the enemies of Christ who have been overcome, either (1) men who have become His servants... or (2) Satan, sin, and death, whom He had conquered through His death and resurrection."
+3. "The ideas of the original and Paul’s application are thus to be regarded, not as identical, but as correlative... To these points may be added (c) that our tropological expositions are not authoritative; we can use this method only to elucidate doctrine fully established by other passages, or to enforce precept plainly enjoined."
+
 ### Archibald T. Robertson:
 1. "As a confirmation of what Paul has said." 
 2. "The quotation is from Psalms 68:18, a Messianic Psalm of victory which Paul adapts and interprets for Christ's triumph over death."
@@ -49,17 +54,15 @@ When Christ ascended to heaven, he achieved a profound victory over his enemies,
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 83.1%
-- BHT Quality Score: 72.90140845070422
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (17):
-	['according', 'achieved', 'believers', 'demonstrating', 'doing', 'graciously', 'held', 'including', 'just', 'leading', 'procession', 'profound', 'recipients', 'through', 'times', 'various', 'we']
-- ChatGPT injected words (significant words only) (12):
-	['according', 'achieved', 'believers', 'demonstrating', 'graciously', 'held', 'including', 'leading', 'procession', 'profound', 'recipients', 'times']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 75.71%
+- BHT Quality Score: 83.28571428571428
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (18):
+	['behind', 'bless', 'empower', 'entire', 'generously', 'held', 'humanity', 'imagery', 'including', 'leading', 'mankind', 'manner', 'mirroring', 'parallels', 'practice', 'provided', 'similar', 'victoriously']
+- ChatGPT injected words (significant words only) (17):
+	['bless', 'empower', 'entire', 'generously', 'held', 'humanity', 'imagery', 'including', 'leading', 'mankind', 'manner', 'mirroring', 'parallels', 'practice', 'provided', 'similar', 'victoriously']
 
 ### Logs
-- 🔄 Ephesians 4:8 (attempt 1, 165 words, 77.57% quotes, quality score: 7.429906542056073) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 4:8 bht prompt v5 (94 words, 83.1% quotes)
+- ✅ Ephesians 4:8 bht prompt v5 (91 words, 75.71% quotes)

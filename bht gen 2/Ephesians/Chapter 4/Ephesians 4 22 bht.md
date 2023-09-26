@@ -1,7 +1,7 @@
 # Ephesians 4:22 Commentary Help Text
 
 ## BHT:
-Believers are urged to renounce their old unconverted nature, characterized by corrupt desires which are deceitful and ultimately unsatisfying. The old man refers to the sinful disposition inherited from birth. These lusts promise happiness but fail to deliver. Instead, believers are to embrace a new life in Christ, marked by self-denial and the renewing work of the Holy Spirit. This transformation involves continually putting off the old man and adopting the characteristics of the new man.
+To experience true transformation, we must let go of our old nature and embrace the new life in Christ. This requires putting aside the old man, symbolizing our sinful desires that deceive us with empty promises of pleasure and fulfillment. The old man represents the inherent corruption we are born with, but through Christ, we can be reborn and put off this sinful nature. The deceitful lusts serve as tools of corruption, leading us astray. Let us be aware of the deceptive nature of these desires and choose to walk in the truth and righteousness that comes from following Christ.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,14 @@ Believers are urged to renounce their old unconverted nature, characterized by c
 2. "The old man,...means the natural disposition which we bring with us from our mother's womb."
 3. "As we are born again in Christ, the amendment of this sinful nature is called the New man."
 
+### Philip Schaff:
+1. "The emphasis is on the verb, which is used of throwing off garments."
+2. "This putting off of the old man is indispensable, because in their former way of life this old man was, as it were, the garment in which they were clothed."
+3. "It is 'old,' because it is regarded as condemned, done away, and in Romans 6:6 is spoken of as 'crucified.'"
+4. "The idea of growing corruption was probably suggested by the figure of putting off an old garment."
+5. "Sin being characterized as deceit because of its power of deceiving."
+6. "These 'lusts' are the instruments which carry on the process of corruption, and their agency is so potent, because the subjects are deceived as to the true character of the desires they cherish."
+
 ### Archibald T. Robertson:
 1. "That ye put away (αποθεσθα). Second aorist middle infinitive of αποτιθημ with the metaphor of putting off clothing or habits as αποθεσθε in Colossians 3:8 (which see) with the same addition of 'the old man' (τον παλαιον ανθρωπον) as in Colossians 3:9."
 2. "For αναστροφην (manner of life) see Galatians 1:13."
@@ -49,18 +57,20 @@ Believers are urged to renounce their old unconverted nature, characterized by c
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 66.07%
-- BHT Quality Score: 93.07142857142857
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (20):
-	['adopting', 'believers', 'birth', 'by', 'characterized', 'continually', 'deliver', 'embrace', 'fail', 'inherited', 'instead', 'involves', 'marked', 'refers', 'renewing', 'transformation', 'ultimately', 'unsatisfying', 'urged', 'work']
-- ChatGPT injected words (significant words only) (19):
-	['adopting', 'believers', 'birth', 'characterized', 'continually', 'deliver', 'embrace', 'fail', 'inherited', 'instead', 'involves', 'marked', 'refers', 'renewing', 'transformation', 'ultimately', 'unsatisfying', 'urged', 'work']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 65.62%
+- BHT Quality Score: 75.625
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (26):
+	['astray', 'aware', 'choose', 'comes', 'deceive', 'deceptive', 'embrace', 'empty', 'experience', 'following', 'fulfillment', 'go', 'inherent', 'leading', 'let', 'must', 'promises', 'reborn', 'represents', 'requires', 'righteousness', 'serve', 'symbolizing', 'through', 'transformation', 'walk']
+- ChatGPT injected words (significant words only) (22):
+	['astray', 'aware', 'choose', 'comes', 'deceive', 'deceptive', 'embrace', 'experience', 'following', 'fulfillment', 'inherent', 'leading', 'let', 'promises', 'reborn', 'represents', 'requires', 'righteousness', 'serve', 'symbolizing', 'transformation', 'walk']
 
 ### Logs
-- 🔄 Ephesians 4:22 (attempt 1, 102 words, 71.01% quotes, quality score: 76.9855072463768) 
+- 🔄 Ephesians 4:22 (attempt 1, 117 words, 69.86% quotes, quality score: 62.86301369863014) 
 	- BHT WAS OVER 100 WORDS! 
 	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 4:22 bht prompt v5 (77 words, 66.07% quotes)
+- 🔄 Ephesians 4:22 (attempt 2, 110 words, 68.18% quotes, quality score: 68.18181818181819) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 4:22 bht prompt v5 (100 words, 65.62% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 4:7 Commentary Help Text
 
 ## BHT:
-The gift of Christ is bestowed upon each individual according to His measure. This measure of grace is freely given, without motive or condition on the part of the recipient. Every member of Christ, with their varying gifts, contributes to the unity of the body and no one is overlooked or dispensable. Each person has a specific role to fulfill for the well-being of the whole.
+Each member of the body of Christ is given a specific gift by the One Spirit, which they are to use for the well-being of the whole Church. While each individual has their own particular gift, there is unity among believers as they all share in the grace bestowed by Christ. This grace enables them to live in accordance with God's will and contributes to the diversity and unity found within the Church. These individual gifts, when combined and utilized collectively, strengthen the body of Christ and lead to its growth and edification.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The gift of Christ is bestowed upon each individual according to His measure. Th
 2. "The meaning of this verse may be thus summed up. 'On no one has God bestowed all things. Each has received a certain measure. Being thus dependent on each other, they find it necessary to throw their individual gifts into the common stock, and thus to render mutual aid.'"
 3. "These blessings are said to be the gift of Christ; for, as the apostle, first of all, mentioned the Father, so his aim, as we shall see, is to represent all that we are, and all that we have, as gathered together in Christ."
 
+### Philip Schaff:
+1. "In contrast with ‘all,’ there is a gift to each one of at; each has a part in the same salvation, and the gift, though adapted to individuals, has its unity."
+2. "The grace’ refers, not to the spiritual gift itself, but rather to the one grace, bestowed by Christ, and manifesting itself in various ways, so that each one has his peculiar gift."
+3. "The gift does not obliterate natural, corporate, local, temporal, individual, differences, but purifies and ennobles them. Temperament and natural mental powers, talents and inclinations, are only refined, directed, moved, and used for the Lord’s kingdom and our own salvation."
+
 ### Archibald T. Robertson:
 1. "According to the measure of the gifts of Christ."
 2. "Each gets the gift that Christ has to bestow for his special case."
@@ -47,15 +52,17 @@ The gift of Christ is bestowed upon each individual according to His measure. Th
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 67
-- BHT Commentary Usage: 83.33%
-- BHT Quality Score: 73.66666666666666
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (8):
-	['contributes', 'dispensable', 'fulfill', 'person', 'recipient', 'role', 'specific', 'varying']
-- ChatGPT injected words (significant words only) (8):
-	['contributes', 'dispensable', 'fulfill', 'person', 'recipient', 'role', 'specific', 'varying']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 76.92%
+- BHT Quality Score: 78.07692307692308
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (20):
+	['accordance', 'among', 'believers', 'collectively', 'combined', 'contributes', 'diversity', 'edification', 'enables', 'found', 'growth', 'lead', 'share', 'specific', 'strengthen', 'utilized', 'when', 'while', 'will', 'within']
+- ChatGPT injected words (significant words only) (15):
+	['accordance', 'believers', 'collectively', 'combined', 'contributes', 'diversity', 'edification', 'enables', 'found', 'growth', 'lead', 'share', 'specific', 'strengthen', 'utilized']
 
 ### Logs
-- ✅ Ephesians 4:7 bht prompt v5 (67 words, 83.33% quotes)
+- 🔄 Ephesians 4:7 (attempt 1, 108 words, 81.36% quotes, quality score: 60.64406779661016) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 4:7 bht prompt v5 (95 words, 76.92% quotes)

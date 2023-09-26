@@ -1,7 +1,7 @@
 # Ephesians 6:3 Commentary Help Text
 
 ## BHT:
-Children who honor and obey their parents are promised long life in this world as a blessing from God. This promise is fulfilled in the lives of those who are obedient, granting them a longer and more fruitful life. However, the concept of length of days extends beyond the physical realm, as in the Christian faith, it is understood to hold a deeper and more spiritual significance. Disobedience to parents, on the other hand, can lead to divine judgment and premature death, reminding us of the importance of honoring our parents and living in accordance with God's commandments.
+When children disobey their parents, they may face the judgments of God that result in an untimely death. On the other hand, those who show kindness and obedience to their parents are assured of a favorable outcome in this life. Living a long and virtuous life is a blessing, providing ample time to cultivate a foundation for eternity. It is important to note that this promise extends beyond a literal interpretation, as it holds deeper spiritual significance in the context of the Christian dispensation.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -22,6 +22,11 @@ Children who honor and obey their parents are promised long life in this world a
 2. "Those who show kindness to their parents from whom they derived life, are assured by God, that in this life it will be well with them."
 3. "But as the same divine blessing is extended to the whole world, Paul has properly left out the mention of a place, the peculiar distinction of which lasted only till the coming of Christ."
 
+### Philip Schaff:
+1. "The Apostle here follows Deuteronomy 5:16, rather than Exodus 20:12; the two passages differing slightly from each other."
+2. "This omission gives the promise a wider reference to all lands, since ‘land’ (here rendered ‘earth’) meant in the Old Testament promise the land of Canaan."
+3. "To give the promise an exclusively spiritual meaning is altogether unwarranted. It is to be applied ‘simply and plainly to individuals, subject of course to the conditions which always belong to such temporal promises’ (Ellicott)."
+
 ### Archibald T. Robertson:
 1. "that it may happen to thee well."
 2. "εση (second person singular future middle) takes the place of γενη in the LXX (second person singular second aorist middle subjunctive)."
@@ -41,15 +46,18 @@ Children who honor and obey their parents are promised long life in this world a
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 99
-- BHT Commentary Usage: 68.12%
-- BHT Quality Score: 79.11594202898551
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (26):
-	['accordance', 'can', 'commandments', 'concept', 'deeper', 'extends', 'faith', 'fruitful', 'granting', 'hand', 'hold', 'honor', 'honoring', 'however', 'importance', 'judgment', 'lead', 'obey', 'our', 'physical', 'premature', 'promised', 'realm', 'reminding', 'significance', 'us']
-- ChatGPT injected words (significant words only) (22):
-	['accordance', 'commandments', 'concept', 'deeper', 'extends', 'faith', 'fruitful', 'granting', 'hand', 'hold', 'honor', 'honoring', 'importance', 'judgment', 'lead', 'obey', 'physical', 'premature', 'promised', 'realm', 'reminding', 'significance']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 84
+- BHT Commentary Usage: 68.25%
+- BHT Quality Score: 94.25396825396825
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (21):
+	['ample', 'context', 'cultivate', 'deeper', 'disobey', 'extends', 'face', 'favorable', 'foundation', 'hand', 'holds', 'important', 'interpretation', 'literal', 'note', 'outcome', 'providing', 'result', 'significance', 'untimely', 'when']
+- ChatGPT injected words (significant words only) (20):
+	['ample', 'context', 'cultivate', 'deeper', 'disobey', 'extends', 'face', 'favorable', 'foundation', 'hand', 'holds', 'important', 'interpretation', 'literal', 'note', 'outcome', 'providing', 'result', 'significance', 'untimely']
 
 ### Logs
-- ✅ Ephesians 6:3 bht prompt v5 (99 words, 68.12% quotes)
+- 🔄 Ephesians 6:3 (attempt 1, 101 words, 100.0% quotes, quality score: 49.0) 
+	- BHT WAS OVER 100 WORDS! 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- ✅ Ephesians 6:3 bht prompt v5 (84 words, 68.25% quotes)

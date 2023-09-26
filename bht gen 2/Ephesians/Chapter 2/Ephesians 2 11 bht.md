@@ -1,7 +1,7 @@
 # Ephesians 2:11 Commentary Help Text
 
 ## BHT:
-Once you were Gentiles, known as the uncircumcision by those who prided themselves as the circumcision. It is crucial for believers to remember their former state in order to cultivate humility, repentance, thankfulness, and love. The converted Ephesians, like all who embrace Christianity, had much guilt to acknowledge and mourn over in their past lives. They had externally adhered to religious practices, but that did not guarantee the circumcision of the heart or true belonging to God's family. Uncircumcision represented their state of pollution, whereas spiritual circumcision by Christ was what truly mattered.
+Remembering their former condition as Gentiles, who were called the uncircumcision by the Jews, helps the converted Ephesians appreciate the blessings they have received from God. It serves as a reminder that their external adoption of religious practices, such as circumcision, did not guarantee true spiritual transformation. Instead, the Apostle highlights the importance of the circumcision of the heart, which goes beyond external rituals, and emphasizes the need for inner transformation and true connection with God.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ Once you were Gentiles, known as the uncircumcision by those who prided themselv
 2. "Uncircumcision is thus held out to the Ephesians as a mark of pollution. By taking from the Ephesians the token of sanctification, he deprives them also of the thing signified."
 3. "He calls it, Uncircumcision in the flesh, because they bore the mark of their pollution; but, at the same time, he suggests that their uncircumcision was no hinderance to their being spiritually circumcised by Christ."
 
+### Philip Schaff:
+1. "The exhortation, as is evident, is to recall both their previous and present condition, since the contrast is to heighten their gratitude."
+2. "The Gentiles were thus called, in accordance with the fact, but the name was contemptuously bestowed by the Jews."
+3. "The Apostle does not undervalue circumcision, but suggests that the true circumcision is of the heart, to which the external sign was designed to point."
+
 ### Archibald T. Robertson:
 1. "This conjunction applies to the Gentile Christians the arguments in Ephesians 2:1-10." 
 2. "The abstract words are used to describe Gentiles and Jews as in Galatians 5:6; Romans 2:27."
@@ -48,17 +53,17 @@ Once you were Gentiles, known as the uncircumcision by those who prided themselv
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 69.86%
-- BHT Quality Score: 85.86301369863014
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 76
+- BHT Commentary Usage: 64.91%
+- BHT Quality Score: 90.9122807017544
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (24):
-	['acknowledge', 'adhered', 'believers', 'belonging', 'christianity', 'crucial', 'cultivate', 'embrace', 'family', 'guarantee', 'known', 'lives', 'mattered', 'past', 'practices', 'prided', 'religious', 'repentance', 'represented', 's', 'thankfulness', 'truly', 'whereas', 'you']
-- ChatGPT injected words (significant words only) (22):
-	['acknowledge', 'adhered', 'believers', 'belonging', 'christianity', 'crucial', 'cultivate', 'embrace', 'family', 'guarantee', 'known', 'lives', 'mattered', 'past', 'practices', 'prided', 'religious', 'repentance', 'represented', 's', 'thankfulness', 'truly']
+- ChatGPT injected words (21):
+	['adoption', 'appreciate', 'beyond', 'connection', 'emphasizes', 'goes', 'guarantee', 'helps', 'highlights', 'importance', 'inner', 'instead', 'need', 'practices', 'received', 'religious', 'remembering', 'reminder', 'rituals', 'serves', 'transformation']
+- ChatGPT injected words (significant words only) (20):
+	['adoption', 'appreciate', 'connection', 'emphasizes', 'goes', 'guarantee', 'helps', 'highlights', 'importance', 'inner', 'instead', 'need', 'practices', 'received', 'religious', 'remembering', 'reminder', 'rituals', 'serves', 'transformation']
 
 ### Logs
-- 🔄 Ephesians 2:11 (attempt 1, 61 words, 90.24% quotes, quality score: 60.756097560975604) 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 2:11 bht prompt v5 (94 words, 69.86% quotes)
+- 🔄 Ephesians 2:11 (attempt 1, 58 words, 80.95% quotes, quality score: 67.04761904761904) 
+	- LIST FORMAT DETECTED!
+- ✅ Ephesians 2:11 bht prompt v5 (76 words, 64.91% quotes)

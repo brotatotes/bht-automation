@@ -1,7 +1,7 @@
 # Ephesians 5:16 Commentary Help Text
 
 ## BHT:
-By diligently redeeming the time, we are called to purchase every possible moment out of the hands of sin, sloth, and worldly pursuits. This means using our time wisely for the best purposes, whether in gaining knowledge, doing good to others, earning a livelihood, seeking salvation, or obeying God's will. We must be especially diligent in our time management because the days in which we live are filled with ignorance, immorality, and profaneness. Therefore, we should make the most of every opportunity to fulfill our responsibilities to God and others, and to grow in our faith and righteousness.
+Redeeming the time emphasizes the need to carefully and diligently use our time, improving it to the best advantage. We must recognize the value of time, as it is precious and not to be squandered away. By redeeming the time, we seize every opportunity to fulfill our duties to God and others, to grow spiritually, and to do good. This is especially important in a world filled with evil and moral corruption, where we must diligently seek to make the most of every moment, separating ourselves from sinful influences and worldly distractions.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -22,6 +22,11 @@ By diligently redeeming the time, we are called to purchase every possible momen
 2. "The days are evil. Everything around us tends to corrupt and mislead." 
 3. "To withdraw from the endless variety of allurements which would easily lead us astray; to rid ourselves from the cares and pleasures of the world; and, in a word, to abandon every hinderance."
 
+### Philip Schaff:
+1. "Buying up the opportunity. This describes the walk of the 'wise.' The impression made by the E. V. ('making the most of our time,' not wasting or abusing it) is quite incorrect. The simple sense is: improve the opportunities which occur, looking out for them as a merchant does. 'Buying up' suggests that these opportunities are rare enough to be sought out."
+2. "Because the days are evil; not difficult, or unfavorable, or few (as the common rendering possibly suggests; comp. Genesis 47:9), but morally evil, full of iniquity. Hence every opportunity to do good should be seized upon, as a merchant looks for a good bargain, especially when the current of trade is against him."
+3. "But in this respect too often the children of this world are wiser than the children of light."
+
 ### Archibald T. Robertson:
 1.  Redeeming the time  (εξαγοραζομενο τον καιρον). As in Colossians 4:5 which see. 
 
@@ -40,15 +45,15 @@ By diligently redeeming the time, we are called to purchase every possible momen
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 99
-- BHT Commentary Usage: 80.0%
-- BHT Quality Score: 70.99999999999999
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 92
+- BHT Commentary Usage: 69.35%
+- BHT Quality Score: 87.35483870967742
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (20):
-	['called', 'earning', 'especially', 'faith', 'filled', 'fulfill', 'grow', 'management', 'most', 'must', 'obeying', 'pursuits', 'responsibilities', 'righteousness', 's', 'therefore', 'using', 'we', 'whether', 'wisely']
-- ChatGPT injected words (significant words only) (14):
-	['called', 'earning', 'especially', 'faith', 'filled', 'fulfill', 'grow', 'management', 'obeying', 'pursuits', 'responsibilities', 'righteousness', 's', 'wisely']
+- ChatGPT injected words (22):
+	['carefully', 'corruption', 'distractions', 'duties', 'emphasizes', 'filled', 'fulfill', 'grow', 'improving', 'influences', 'moral', 'must', 'need', 'recognize', 'seek', 'seize', 'separating', 'sinful', 'spiritually', 'value', 'we', 'where']
+- ChatGPT injected words (significant words only) (19):
+	['carefully', 'corruption', 'distractions', 'duties', 'emphasizes', 'filled', 'fulfill', 'grow', 'improving', 'influences', 'moral', 'need', 'recognize', 'seek', 'seize', 'separating', 'sinful', 'spiritually', 'value']
 
 ### Logs
-- ✅ Ephesians 5:16 bht prompt v5 (99 words, 80.0% quotes)
+- ✅ Ephesians 5:16 bht prompt v5 (92 words, 69.35% quotes)

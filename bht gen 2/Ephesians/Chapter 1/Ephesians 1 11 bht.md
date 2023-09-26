@@ -1,7 +1,7 @@
 # Ephesians 1:11 Commentary Help Text
 
 ## BHT:
-In Christ, we have received an inheritance, becoming partakers of the glorious heavenly Canaan. This inheritance was predestined according to God's purpose, which is not arbitrary but flows from the wisdom and will of the one who orchestrates all things according to his own perfect plan. Our inheritance is like the land of Canaan, which was allotted by lot to the children of Israel, highlighting the certainty and divine arrangement of God's promises. His predestination is rooted in his sovereign wisdom, ensuring that all things work together for the good of those who believe in him.
+In Christ, we as believers have obtained an inheritance, a glorious and eternal heritage in heaven. Just as the children of Israel were assigned their inheritance by lot, we too have received our portion in the heavenly Canaan. This predestination and purpose, the divine plan that is sovereignly executed, is not arbitrary but rooted in the counsel and wisdom of God. The unchanging decree that whoever believes shall be saved is a manifestation of God's perfect nature and will.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ In Christ, we have received an inheritance, becoming partakers of the glorious h
 2. "Thus, he shews, that, from first to last, all have obtained salvation by free grace, because they have been freely adopted according to eternal election."
 3. "He speaks of Him as the sole agent, and as doing everything according to His own will, so as to leave nothing to be done by man."
 
+### Philip Schaff:
+1. "The construction of the original is peculiar, and has been variously explained."
+2. "The gospel of your salvation...setting forth the power of saving which God has joined with the gospel."
+3. "The sealing is in Christ...the Spirit is itself the seal...that God affixes to those who are in fellowship with Christ."
+
 ### Archibald T. Robertson:
 1. "Repeats the idea of εν τω Χριστω of verse Ephesians 1:10."
 2. "First aorist passive of κληροω, an old word, to assign by lot (κληρος), to make a κληρος or heritage."
@@ -48,17 +53,15 @@ In Christ, we have received an inheritance, becoming partakers of the glorious h
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 75.76%
-- BHT Quality Score: 76.24242424242424
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (19):
-	['allotted', 'arrangement', 'becoming', 'certainty', 'divine', 'ensuring', 'flows', 'good', 'highlighting', 'like', 'orchestrates', 'partakers', 'plan', 'promises', 'received', 'rooted', 'those', 'together', 'work']
-- ChatGPT injected words (significant words only) (16):
-	['allotted', 'arrangement', 'certainty', 'divine', 'ensuring', 'flows', 'good', 'highlighting', 'like', 'orchestrates', 'partakers', 'plan', 'promises', 'received', 'rooted', 'work']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 80
+- BHT Commentary Usage: 79.66%
+- BHT Quality Score: 90.33898305084746
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (16):
+	['assigned', 'believes', 'divine', 'executed', 'just', 'manifestation', 'plan', 'portion', 'received', 'rooted', 'saved', 'sovereignly', 'their', 'too', 'unchanging', 'whoever']
+- ChatGPT injected words (significant words only) (12):
+	['assigned', 'believes', 'divine', 'executed', 'manifestation', 'plan', 'portion', 'received', 'rooted', 'saved', 'sovereignly', 'unchanging']
 
 ### Logs
-- 🔄 Ephesians 1:11 (attempt 1, 79 words, 93.1% quotes, quality score: 75.89655172413794) 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 1:11 bht prompt v5 (98 words, 75.76% quotes)
+- ✅ Ephesians 1:11 bht prompt v5 (80 words, 79.66% quotes)

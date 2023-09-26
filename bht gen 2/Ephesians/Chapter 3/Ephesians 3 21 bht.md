@@ -1,7 +1,7 @@
 # Ephesians 3:21 Commentary Help Text
 
 ## BHT:
-The church, both on earth and in heaven, is where the glory of God is to be given. This includes the celebration of His perfections and the commendation of His works of creation and Providence. The glory of salvation, from beginning to end, is ascribed to God's free grace. Faith is to be exercised in Him as a promising and covenant-keeping God, and our lives are to be ordered by His word. The church, comprising true believers, uniquely understands the blessings and mysteries of divine grace and knows how to truly glorify God.
+The glory of God is to be celebrated and commended for his perfections and works. Salvation's glory is attributed to his free grace. We are called to worship, have faith in his promises, and lead godly lives. This glory is given in the Church, where believers understand and experience divine grace. In the Church, both on earth and in heaven, God's glory is rightly acknowledged and celebrated.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -24,6 +24,11 @@ The church, both on earth and in heaven, is where the glory of God is to be give
 2. "The variety of the divine wisdom is again hinted at in all that we ask or think."
 3. "Christ is the spiritual sphere of this praise, throughout all ages, world without end."
 
+### Philip Schaff:
+1. "'To Him' sums up emphatically all that has been said."
+2. "The sphere 'in' which the glory is given is defined in a two-fold manner: 'in the Church,' since here the glory is ascribed; 'in Christ Jesus,' since only in fellowship with Him can it be offered."
+3. "This is the literal rendering of an accumulation of terms, peculiar to this passage, but unmistakably pointing to eternity, though its unending duration is set forth in conceptions borrowed from the successive periods of time."
+
 ### Archibald T. Robertson:
 1. "In the church, the general church, the body of Christ."
 2. "And in Christ Jesus, the head of the glorious church."
@@ -42,15 +47,19 @@ The church, both on earth and in heaven, is where the glory of God is to be give
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 83.05%
-- BHT Quality Score: 71.94915254237287
-- Generate Attempts: 1 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 69
+- BHT Commentary Usage: 77.27%
+- BHT Quality Score: 81.72727272727272
+- Generate Attempts: 3 / 5
 - ChatGPT injected words (12):
-	['beginning', 'both', 'by', 'celebration', 'commendation', 'comprising', 'includes', 'knows', 's', 'truly', 'understands', 'uniquely']
+	['acknowledged', 'attributed', 'both', 'called', 'experience', 'godly', 'have', 'lead', 'promises', 'rightly', 's', 'understand']
 - ChatGPT injected words (significant words only) (10):
-	['beginning', 'celebration', 'commendation', 'comprising', 'includes', 'knows', 's', 'truly', 'understands', 'uniquely']
+	['acknowledged', 'attributed', 'called', 'experience', 'godly', 'lead', 'promises', 'rightly', 's', 'understand']
 
 ### Logs
-- ✅ Ephesians 3:21 bht prompt v5 (95 words, 83.05% quotes)
+- 🔄 Ephesians 3:21 (attempt 1, 92 words, 97.92% quotes, quality score: 60.08333333333333) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- 🔄 Ephesians 3:21 (attempt 2, 122 words, 79.69% quotes, quality score: 48.3125) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 3:21 bht prompt v5 (69 words, 77.27% quotes)

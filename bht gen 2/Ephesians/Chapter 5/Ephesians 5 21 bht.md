@@ -1,7 +1,7 @@
 # Ephesians 5:21 Commentary Help Text
 
 ## BHT:
-Submitting yourselves to one another means acknowledging and respecting the authority and responsibilities we have towards each other. This applies not just to the relationship between God and humans, but also to our interactions with fellow human beings. Whether it is submitting to civil authorities, honoring familial roles, or respecting the guidance of church leaders, there is a call to mutual submission and obedience. Ultimately, this submission is rooted in a reverential fear of displeasing Christ, and it serves to maintain order and harmony in our relationships and society.
+Submitting ourselves to one another is essential in various aspects of life. It means obeying civil authorities, showing respect to our spouses, parents, and employers, and being obedient to the leaders within our churches. This submission is not meant to be a display of weakness or servitude, but rather a demonstration of humility and a recognition of God's ordained order. It is through this submission that we maintain harmony and show reverence for Christ, who exemplifies true humility and servanthood.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -19,6 +19,11 @@ Submitting yourselves to one another means acknowledging and respecting the auth
 2. "It is highly proper that all should be exhorted to be subject to each other in their turn."
 3. "He directs us to the fear of Christ, who alone can subdue our fierceness, that we may not refuse the yoke, and can humble our pride, that we may not be ashamed of serving our neighbors."
 
+### Philip Schaff:
+1. "Submitting yourselves one to another. While this precept is expounded in several directions in the sections which follow, it stands here as a fourth qualification of being ‘filled with the Spirit’ (so nearly all recent commentators), not as an imperative."
+2. "Such submission is not cringing obsequiousness, which is always selfish; but it is opposed to rudeness, insolence, haughtiness, and kindred manifestations of unchristian temper."
+3. "The relation to Christ involves humility, and only true humility can produce the submission here required."
+
 ### Archibald T. Robertson:
 1. "Subjecting yourselves to one another (υποτασσομενο αλληλοις). Present middle participle of υποτασσω, old military figure to line up under (Colossians 3:18)." 
 2. "The construction here is rather loose, coordinate with the preceding participles of praise and prayer." 
@@ -34,15 +39,15 @@ Submitting yourselves to one another means acknowledging and respecting the auth
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 61.54%
-- BHT Quality Score: 82.53846153846155
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 81
+- BHT Commentary Usage: 59.68%
+- BHT Quality Score: 88.67741935483872
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (34):
-	['acknowledging', 'also', 'applies', 'authorities', 'beings', 'between', 'call', 'church', 'familial', 'guidance', 'harmony', 'have', 'honoring', 'human', 'humans', 'interactions', 'leaders', 'maintain', 'means', 'or', 'order', 'relationship', 'relationships', 'respecting', 'responsibilities', 'roles', 'rooted', 'serves', 'society', 'there', 'this', 'towards', 'ultimately', 'whether']
+- ChatGPT injected words (30):
+	['aspects', 'authorities', 'demonstration', 'display', 'employers', 'essential', 'exemplifies', 'harmony', 'leaders', 'maintain', 'means', 'meant', 'obedient', 'obeying', 'or', 'ordained', 'order', 'ourselves', 'recognition', 'respect', 'reverence', 's', 'servanthood', 'servitude', 'show', 'showing', 'spouses', 'through', 'weakness', 'within']
 - ChatGPT injected words (significant words only) (25):
-	['acknowledging', 'applies', 'authorities', 'beings', 'church', 'familial', 'guidance', 'harmony', 'honoring', 'human', 'humans', 'interactions', 'leaders', 'maintain', 'means', 'order', 'relationship', 'relationships', 'respecting', 'responsibilities', 'roles', 'rooted', 'serves', 'society', 'ultimately']
+	['aspects', 'authorities', 'demonstration', 'display', 'employers', 'essential', 'exemplifies', 'harmony', 'leaders', 'maintain', 'means', 'meant', 'obedient', 'obeying', 'ordained', 'order', 'recognition', 'respect', 'reverence', 's', 'servanthood', 'servitude', 'showing', 'spouses', 'weakness']
 
 ### Logs
-- ✅ Ephesians 5:21 bht prompt v5 (89 words, 61.54% quotes)
+- ✅ Ephesians 5:21 bht prompt v5 (81 words, 59.68% quotes)

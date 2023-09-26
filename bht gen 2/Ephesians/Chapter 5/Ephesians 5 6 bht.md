@@ -1,7 +1,7 @@
 # Ephesians 5:6 Commentary Help Text
 
 ## BHT:
-Let no one deceive you with empty words, for these things are not as innocent and insignificant as the heathens may think. Those who try to convince you otherwise are mere dealers in vain and empty words. Be aware that the wrath of God will come upon those who engage in such disobedient behavior.
+Let no man deceive you with empty words, for these vices that may seem innocent and plausible are in fact displeasing to God and deserving of his wrath. These deceptive words may come from those who mock and ridicule the warnings of the prophets. But we should not be persuaded by their sophistry, for the wrath of God does come upon the children of disobedience, those who practice these ungodly actions. It is important that we guard ourselves from being ensnared by their vain arguments and instead strive to live in accordance with God's truth.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -41,6 +41,11 @@ Ephesians 2:3). The children of
 2. "Paul...exclaims that we must guard against that sophistry by which consciences are ensnared to their ruin."
 3. "God does not make himself an object of terror to his children, that they may avoid him, but does all that can be done in a fatherly manner, to draw them to himself."
 
+### Philip Schaff:
+1. "Let no man deceive you with empty words; words that do not contain truth; the special reference being to palliations of the vices just named."
+2. "Covetousness especially is scarcely accounted a sin, even among Christians; yet the Apostle condemns it more strongly than the other vice which the heathen then tolerated."
+3. "For because of these things, the vices under discussion, cometh, this too is a present and eternal verity of God’s government, the wrath of God."
+
 ### Archibald T. Robertson:
 1. "With empty words (κενοις λογοις). Instrumental case."
 2. "Probably Paul has in mind the same Gnostic praters as in Colossians 2:4."
@@ -60,15 +65,15 @@ Ephesians 2:3). The children of
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 54
-- BHT Commentary Usage: 88.64%
-- BHT Quality Score: 55.36363636363636
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 96
+- BHT Commentary Usage: 83.82%
+- BHT Quality Score: 70.17647058823529
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (6):
-	['aware', 'behavior', 'insignificant', 'mere', 'otherwise', 'try']
-- ChatGPT injected words (significant words only) (5):
-	['aware', 'behavior', 'insignificant', 'mere', 'try']
+- ChatGPT injected words (13):
+	['accordance', 'actions', 'deceptive', 'fact', 'important', 'instead', 'live', 'mock', 'ourselves', 'persuaded', 'seem', 'strive', 'warnings']
+- ChatGPT injected words (significant words only) (11):
+	['accordance', 'actions', 'deceptive', 'fact', 'important', 'instead', 'live', 'mock', 'persuaded', 'strive', 'warnings']
 
 ### Logs
-- ✅ Ephesians 5:6 bht prompt v5 (54 words, 88.64% quotes)
+- ✅ Ephesians 5:6 bht prompt v5 (96 words, 83.82% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 2:19 Commentary Help Text
 
 ## BHT:
-Believers, who were once strangers and foreigners, have been divinely transformed into citizens of the heavenly Jerusalem. Through the grace of God, they are no longer outsiders but are wholeheartedly embraced as members of His family. In this spiritual household, they have access to the abundant blessings and privileges that come with being in a profound and personal relationship with God. They have been incorporated into a community of faith, united upon the cornerstone of Jesus Christ. Together, as fellow citizens, they are recipients of God's boundless love and grace.
+Now you are no longer strangers or outsiders, but rather citizens of the heavenly Jerusalem, members of the family of God. You are no longer foreigners, but have been welcomed into God's very own household.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ Believers, who were once strangers and foreigners, have been divinely transforme
 2. "They are first called fellow-citizens with the saints, — next, of the household of God, — and lastly, stones properly fitted into the building of the temple of the Lord."
 3. "To be of the household of God...suggests equally exalted views of their present condition."
 
+### Philip Schaff:
+1. "Ye are no longer; in contrast with Ephesians 2:12, and in consequence of the saving facts detailed in Ephesians 2:13-18."
+2. "The figure requires no explanation; comp. Ephesians 2:12. 'The saints' here includes all 'the members of that spiritual community in which Jew and Gentile Christians were now united and incorporated, and to which the external theocracy formed a typical and preparatory institution' (Ellicott)."
+3. "To the right of citizen is added that of the house, of the child, of the heir' (Braune). The new figure strengthens the idea of privilege, adding the intimate relation to God."
+
 ### Archibald T. Robertson:
 1. "No longer sojourners, dwellers just outside the house or family of God." 
 2. "Members now of the πολιτεια of Israel, the opposite of ξενο κα παροικο." 
@@ -46,22 +51,15 @@ Believers, who were once strangers and foreigners, have been divinely transforme
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 91
-- BHT Commentary Usage: 68.25%
-- BHT Quality Score: 87.25396825396825
-- Generate Attempts: 4 / 5
-- ChatGPT injected words (26):
-	['abundant', 'access', 'been', 'believers', 'blessings', 'boundless', 'come', 'cornerstone', 'divinely', 'embraced', 'faith', 'have', 'incorporated', 'once', 'outsiders', 'personal', 'profound', 'recipients', 'relationship', 's', 'through', 'together', 'transformed', 'united', 'who', 'wholeheartedly']
-- ChatGPT injected words (significant words only) (20):
-	['abundant', 'access', 'believers', 'blessings', 'boundless', 'come', 'cornerstone', 'divinely', 'embraced', 'faith', 'incorporated', 'outsiders', 'personal', 'profound', 'recipients', 'relationship', 's', 'transformed', 'united', 'wholeheartedly']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 36
+- BHT Commentary Usage: 88.89%
+- BHT Quality Score: 37.111111111111114
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (7):
+	['been', 'have', 'outsiders', 'own', 'rather', 's', 'welcomed']
+- ChatGPT injected words (significant words only) (3):
+	['outsiders', 's', 'welcomed']
 
 ### Logs
-- 🔄 Ephesians 2:19 (attempt 1, 48 words, 61.11% quotes, quality score: 59.11111111111112) 
-	- LIST FORMAT DETECTED! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Ephesians 2:19 (attempt 2, 101 words, 64.06% quotes, quality score: 73.0625) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 2:19 (attempt 3, 104 words, 68.66% quotes, quality score: 74.65671641791045) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 2:19 bht prompt v5 (91 words, 68.25% quotes)
+- ✅ Ephesians 2:19 bht prompt v5 (36 words, 88.89% quotes)

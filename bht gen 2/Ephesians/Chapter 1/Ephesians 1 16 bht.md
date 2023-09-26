@@ -1,7 +1,7 @@
 # Ephesians 1:16 Commentary Help Text
 
 ## BHT:
-Paul expresses his unwavering commitment to praying for the Ephesians, emphasizing his persistent and continuous dedication to bringing their needs before God. This prayerful devotion is fueled by his deep appreciation for their faith and love—a reminder that these virtues are not of their own making, but divine gifts. In his prayers, Paul encompasses not only gratitude but also a desire for their ongoing spiritual growth and progress. His example serves to inspire the Ephesians to cultivate a similar spirit of thanksgiving and intercession for one another, mirroring his care for all the churches.
+The apostle Paul, in his ceaseless prayers to God, expresses his deep gratitude for the faith and love of the Ephesians. These qualities were not of their own making, but rather gracious gifts bestowed upon them. Paul's consistent mention of them in his prayers reveals his unwavering commitment to intercede on their behalf. His example encourages them to cultivate a similar devotion to prayer. It is important to note that Paul extends this practice to all the churches, reinforcing the significance of ongoing thanksgiving and prayer for the body of Christ.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -22,6 +22,11 @@ Paul expresses his unwavering commitment to praying for the Ephesians, emphasizi
 2. "It was necessary that the Ephesians should understand that they had entered upon the proper course."
 3. "Nothing is more dangerous than to be satisfied with that measure of spiritual benefits which has been already obtained."
 
+### Philip Schaff:
+1. "As one giving thanks I cease not."
+2. "Making mention of you."
+3. "'No thanksgiving without petition, so long as perfection and completion are not yet there'."
+
 ### Archibald T. Robertson:
 1. "I do not cease." 
 2. "Paul uses the plural (literary, or including Timothy), ου παυομεθα."
@@ -41,15 +46,15 @@ Paul expresses his unwavering commitment to praying for the Ephesians, emphasizi
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 55.88%
-- BHT Quality Score: 70.88235294117648
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 92
+- BHT Commentary Usage: 60.94%
+- BHT Quality Score: 78.9375
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (35):
-	['another', 'appreciation', 'before', 'bringing', 'care', 'commitment', 'continuous', 'cultivate', 'dedication', 'deep', 'desire', 'devotion', 'divine', 'emphasizing', 'encompasses', 'expresses', 'fueled', 'gratitude', 'growth', 'inspire', 'intercession', 'mirroring', 'needs', 'one', 'ongoing', 'persistent', 'prayerful', 'reminder', 'serves', 'similar', 'spirit', 'these', 'this', 'unwavering', 'virtues']
-- ChatGPT injected words (significant words only) (30):
-	['appreciation', 'bringing', 'care', 'commitment', 'continuous', 'cultivate', 'dedication', 'deep', 'desire', 'devotion', 'divine', 'emphasizing', 'encompasses', 'expresses', 'fueled', 'gratitude', 'growth', 'inspire', 'intercession', 'mirroring', 'needs', 'ongoing', 'persistent', 'prayerful', 'reminder', 'serves', 'similar', 'spirit', 'unwavering', 'virtues']
+- ChatGPT injected words (28):
+	['behalf', 'body', 'ceaseless', 'christ', 'commitment', 'consistent', 'cultivate', 'deep', 'devotion', 'encourages', 'expresses', 'extends', 'gracious', 'gratitude', 'important', 'intercede', 'note', 'ongoing', 'qualities', 'rather', 'reinforcing', 'reveals', 's', 'significance', 'similar', 'these', 'this', 'unwavering']
+- ChatGPT injected words (significant words only) (25):
+	['behalf', 'body', 'ceaseless', 'christ', 'commitment', 'consistent', 'cultivate', 'deep', 'devotion', 'encourages', 'expresses', 'extends', 'gracious', 'gratitude', 'important', 'intercede', 'note', 'ongoing', 'qualities', 'reinforcing', 'reveals', 's', 'significance', 'similar', 'unwavering']
 
 ### Logs
-- ✅ Ephesians 1:16 bht prompt v5 (95 words, 55.88% quotes)
+- ✅ Ephesians 1:16 bht prompt v5 (92 words, 60.94% quotes)

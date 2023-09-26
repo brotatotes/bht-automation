@@ -1,7 +1,7 @@
 # Ephesians 6:14 Commentary Help Text
 
 ## BHT:
-As Christians, our aim is to stand firm in the face of conflict, not yielding or fleeing. Truth is the band that girds up and keeps together our character, allowing us to act unencumbered. Our righteousness is not just imputed, but inwrought by the Spirit, preserving us from attacks. The breastplate covers our vital parts, just as righteousness preserves our hearts. Let us stand our ground, equipped with the truth and integrity, with the righteousness of Christ as our defense.
+The Christian soldier's primary objective is to stand firm and unwavering, not yielding or fleeing. The girdle of truth, which signifies a heart aligned with God's truth, is crucial for preserving unity, consistency, and sincerity. The righteousness of Christ, both imputed and inwrought, acts as a protective breastplate, guarding against Satan's accusations and securing us from condemnation. By continuing in our station, with an obedient heart and adorned with the righteousness of Christ, we can be prepared for the battles we face as believers.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ As Christians, our aim is to stand firm in the face of conflict, not yielding or
 2. "Paul's design was to touch briefly on the most important points required in a Christian, and to adapt them to the comparison which he had already used."
 3. "He enjoins us to be adorned, first, with integrity, and next with a devout and holy life."
 
+### Philip Schaff:
+1. "Stand ready for the fight, as the description of the armor indicates; others include the thought of standing in the fight." 
+2. "By [the girdle of truth] is not meant the word of God, which is mentioned in Ephesians 6:17, nor sincerity, nor mere truthfulness (in the sense of telling the truth); nor does the figure suggest a mere ornament. It refers to the state of heart answering to God’s truth, the agreement of our convictions with what God has revealed."
+3. "But righteousness from Him is both imputed and inwrought; He both justifies and sanctifies His people. Both are probably included here, but more particularly the moral purity wrought in us by the Spirit of God, which has as its necessary basis God’s accounting us righteous for Christ’s sake."
+
 ### Archibald T. Robertson:
 1. "Take your stand therefore" (in view of the arguments made).
 2. "Having girded your own loins."
@@ -49,17 +54,17 @@ As Christians, our aim is to stand firm in the face of conflict, not yielding or
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 81.13%
-- BHT Quality Score: 88.86792452830187
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 87
+- BHT Commentary Usage: 75.0%
+- BHT Quality Score: 88.0
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (11):
-	['act', 'allowing', 'attacks', 'christians', 'defense', 'equipped', 'face', 'hearts', 'just', 'let', 'preserving']
-- ChatGPT injected words (significant words only) (10):
-	['act', 'allowing', 'attacks', 'christians', 'defense', 'equipped', 'face', 'hearts', 'let', 'preserving']
+- ChatGPT injected words (17):
+	['acts', 'aligned', 'battles', 'believers', 'continuing', 'crucial', 'face', 'guarding', 'objective', 'prepared', 'preserving', 'primary', 'protective', 'securing', 'signifies', 'unwavering', 'we']
+- ChatGPT injected words (significant words only) (16):
+	['acts', 'aligned', 'battles', 'believers', 'continuing', 'crucial', 'face', 'guarding', 'objective', 'prepared', 'preserving', 'primary', 'protective', 'securing', 'signifies', 'unwavering']
 
 ### Logs
-- 🔄 Ephesians 6:14 (attempt 1, 106 words, 70.15% quotes, quality score: 73.8507462686567) 
+- 🔄 Ephesians 6:14 (attempt 1, 113 words, 85.33% quotes, quality score: 51.66666666666667) 
 	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 6:14 bht prompt v5 (80 words, 81.13% quotes)
+- ✅ Ephesians 6:14 bht prompt v5 (87 words, 75.0% quotes)

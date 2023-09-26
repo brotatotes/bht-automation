@@ -1,7 +1,7 @@
 # Ephesians 1:13 Commentary Help Text
 
 ## BHT:
-Believers, both Jews and Gentiles, have a part in Christ, as the gospel is not exclusive but inclusive. The sealing of the Holy Spirit is a result of their faith, confirming the favor of God upon them. The gospel, being the word of truth, is certain and trustworthy, leaving no room for doubt or deception. The sealing work of the Spirit goes beyond initial belief, bringing a full assurance of the promises and a complete transformation of the believer's soul.
+As Gentile Christians, you are not excluded from sharing in the prominence of Christ. The sealing by the Holy Spirit is a result of your belief in the gospel, confirming the favor of God. This is the fulfillment of the promise, the greatest triumph of His glory. It is through the Holy Spirit that our minds become firmly established in God's truth, enabling us to resist the temptations of Satan. You have been sealed with the assurance of the Holy Spirit, assuring you of receiving all the promises of God.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -48,15 +48,17 @@ Believers, both Jews and Gentiles, have a part in Christ, as the gospel is not e
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 81
-- BHT Commentary Usage: 69.64%
-- BHT Quality Score: 98.64285714285714
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (21):
-	['being', 'belief', 'believer', 'believers', 'beyond', 'bringing', 'complete', 'confirming', 'deception', 'exclusive', 'goes', 'inclusive', 'initial', 'leaving', 'room', 's', 'soul', 'them', 'transformation', 'trustworthy', 'upon']
-- ChatGPT injected words (significant words only) (17):
-	['belief', 'believer', 'believers', 'bringing', 'complete', 'confirming', 'deception', 'exclusive', 'goes', 'inclusive', 'initial', 'leaving', 'room', 's', 'soul', 'transformation', 'trustworthy']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 88.14%
+- BHT Quality Score: 70.86440677966101
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (8):
+	['assuring', 'belief', 'confirming', 'enabling', 'excluded', 'fulfillment', 's', 'through']
+- ChatGPT injected words (significant words only) (7):
+	['assuring', 'belief', 'confirming', 'enabling', 'excluded', 'fulfillment', 's']
 
 ### Logs
-- ✅ Ephesians 1:13 bht prompt v5 (81 words, 69.64% quotes)
+- 🔄 Ephesians 1:13 (attempt 1, 137 words, 83.12% quotes, quality score: 29.883116883116873) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 1:13 bht prompt v5 (91 words, 88.14% quotes)

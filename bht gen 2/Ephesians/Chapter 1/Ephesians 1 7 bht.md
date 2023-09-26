@@ -1,7 +1,7 @@
 # Ephesians 1:7 Commentary Help Text
 
 ## BHT:
-Through the blood of Christ, our redemption has been secured, freeing us from the guilt and power of sin. It is through the work and suffering of Christ that we have obtained this great benefit. This redemption is granted to us according to the abundant overflowings of God's grace, revealing the immeasurable depth of His mercy and favor towards us.
+The concept of redemption in this passage refers to the deliverance from the power, guilt, and consequences of sin that has been achieved through the blood of Christ. His blood serves as the means by which we obtain divine grace, including the forgiveness of sins. This act of forgiveness encompasses not only deliverance from sin's penalty, but also from its pollution and enslaving power. It is a testament to the abundant overflowings of God's free mercy and favor, showcasing the riches of His grace.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Through the blood of Christ, our redemption has been secured, freeing us from th
 2. "Hence it follows, that we obtain by free grace that righteousness by which we are accepted of God, and freed from the chains of the devil and of death."
 3. "The apostle feels himself unable to celebrate, in a proper manner, the goodness of God, and desires that the contemplation of it would occupy the minds of men till they are entirely lost in admiration."
 
+### Philip Schaff:
+1. "In whom we are having [...] finds its present accomplishment." 
+2. "'Redemption' means [...] by our Redeemer."
+3. "This 'forgiveness' is the essential part of the redemption."
+
 ### Archibald T. Robertson:
 1. "Paul makes the blood of Christ the cost of redemption, the ransom money." 
 2. "Clearly Paul makes the blood of Christ the cost of redemption, the ransom money." 
@@ -49,15 +54,18 @@ Through the blood of Christ, our redemption has been secured, freeing us from th
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 61
-- BHT Commentary Usage: 79.07%
-- BHT Quality Score: 71.93023255813954
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (10):
-	['depth', 'freeing', 'granted', 'great', 'immeasurable', 'revealing', 'secured', 'suffering', 'towards', 'work']
-- ChatGPT injected words (significant words only) (9):
-	['depth', 'freeing', 'granted', 'great', 'immeasurable', 'revealing', 'secured', 'suffering', 'work']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 86
+- BHT Commentary Usage: 83.05%
+- BHT Quality Score: 80.94915254237287
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (11):
+	['achieved', 'act', 'also', 'concept', 'encompasses', 'including', 'passage', 'refers', 'serves', 'showcasing', 'testament']
+- ChatGPT injected words (significant words only) (10):
+	['achieved', 'act', 'concept', 'encompasses', 'including', 'passage', 'refers', 'serves', 'showcasing', 'testament']
 
 ### Logs
-- ✅ Ephesians 1:7 bht prompt v5 (61 words, 79.07% quotes)
+- 🔄 Ephesians 1:7 (attempt 1, 87 words, 91.23% quotes, quality score: 71.7719298245614) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 1:7 bht prompt v5 (86 words, 83.05% quotes)

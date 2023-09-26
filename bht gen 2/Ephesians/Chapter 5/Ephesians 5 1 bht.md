@@ -1,7 +1,7 @@
 # Ephesians 5:1 Commentary Help Text
 
 ## BHT:
-As believers, we are called to imitate God by forgiving and loving, just as He has forgiven and loved us. We are to be like dear children, dearly loved and adopted by God's grace. We are not called to imitate the great figures of human history, but to imitate our heavenly Father, who in His infinite wisdom and love looks upon us as His beloved children.
+Be imitators of God in forgiving and loving, just as He forgave us. It is an honor and a blessing to follow in God's footsteps and imitate His character. As beloved children, we are loved with an everlasting and unchanging love. Our greatest aim should be to imitate God, who is infinitely wise and powerful, rather than aiming to imitate mere human figures.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -23,6 +23,11 @@ As believers, we are called to imitate God by forgiving and loving, just as He h
 2. "If, then, we are the children of God, we ought to be followers of God."
 3. “To institute an action against one who has injured us is human; not to take revenge on him is the part of a philosopher; but to compensate him with benefits is divine, and makes men of earth followers of the Father who is in heaven.” — Clem. Ep., quoted by Eadie.
 
+### Philip Schaff:
+1. "‘Therefore’ connects the exhortation with chap. Ephesians 4:31-32, but there is an advance in thought, so that a new section begins here."
+2. "God is the model, especially in the crowning act of His love (chap. Ephesians 4:32); hence ‘become,’ not ‘be.’"
+3. "As beloved children; children through Christ, and beloved of God, hence to imitate Christ (Ephesians 5:2); each word contains a motive."
+
 ### Archibald T. Robertson:
 1. "If we are to be like God, we must imitate him."
 2. "Imitators of God. This old word... Paul boldly uses."
@@ -43,15 +48,15 @@ As believers, we are called to imitate God by forgiving and loving, just as He h
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 67
-- BHT Commentary Usage: 80.43%
-- BHT Quality Score: 76.56521739130434
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 64
+- BHT Commentary Usage: 69.39%
+- BHT Quality Score: 83.38775510204081
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (10):
-	['adopted', 'believers', 'called', 'dearly', 'figures', 'heavenly', 'history', 'looks', 's', 'upon']
-- ChatGPT injected words (significant words only) (9):
-	['adopted', 'believers', 'called', 'dearly', 'figures', 'heavenly', 'history', 'looks', 's']
+- ChatGPT injected words (16):
+	['aim', 'aiming', 'blessing', 'character', 'figures', 'follow', 'footsteps', 'greatest', 'honor', 'infinitely', 'mere', 'powerful', 'rather', 's', 'unchanging', 'wise']
+- ChatGPT injected words (significant words only) (15):
+	['aim', 'aiming', 'blessing', 'character', 'figures', 'follow', 'footsteps', 'greatest', 'honor', 'infinitely', 'mere', 'powerful', 's', 'unchanging', 'wise']
 
 ### Logs
-- ✅ Ephesians 5:1 bht prompt v5 (67 words, 80.43% quotes)
+- ✅ Ephesians 5:1 bht prompt v5 (64 words, 69.39% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 2:3 Commentary Help Text
 
 ## BHT:
-Before we were renewed, we lived according to the desires of the flesh and the thoughts of our unregenerate minds, similar to the Gentiles. Both Jews and Gentiles were children of wrath by nature, deserving the judgment of God. Our corrupt nature, passed down through generations, led us to live in malice and disobedience. This passage affirms the doctrine of original sin and emphasizes our shared inheritance of a fallen nature. It reminds us that we are all in need of God's grace and redemption from the wrath that awaits us apart from Christ.
+All people, both Jews and Gentiles, were once caught in a life controlled by the desires of their fallen nature. This includes fulfilling the sinful desires of the flesh and succumbing to the corrupt thoughts that arise from it. It is important to recognize that this sinful inclination is not confined to certain individuals or groups; rather, it permeates the entire human race and marks us all as deserving of the just wrath of God. We cannot escape this truth, as it is woven into our very nature.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Before we were renewed, we lived according to the desires of the flesh and the t
 2. "Children of wrath are those who are lost, and who deserve eternal death. Wrath means the judgment of God; so that the children of wrath are those who are condemned before God."
 3. "This is a remarkable passage, in opposition to the views of the Pelagians, and of all who deny original sin. Paul affirms that we are born with sin, as serpents bring their venom from the womb."
 
+### Philip Schaff:
+1. "The fact of universal sinfulness is involved, whether we suppose the Apostle to be stating that all Christians were children of wrath by nature, or emphasizing this in the case of the Jews, who had thought themselves children of promise by nature."
+2. "‘Flesh’ is here used in its ethical sense; ‘the thoughts’ are the special sinful thoughts, which characterize him who is under the dominion of the ‘flesh.’"
+3. "‘Experience confirms the Divine testimony’ (Eadie), whether we can explain the mode or not."
+
 ### Archibald T. Robertson:
 1. "We Jews.Once lived...to turn back and forth, to live...the wills of the flesh"
 2. "Jews as well as Gentiles...are the objects of God's wrath because of their lives of sin."
@@ -49,17 +54,15 @@ Before we were renewed, we lived according to the desires of the flesh and the t
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 74.19%
-- BHT Quality Score: 80.80645161290322
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (19):
-	['apart', 'awaits', 'both', 'christ', 'corrupt', 'down', 'emphasizes', 'fallen', 'generations', 'led', 'minds', 'need', 'passed', 'redemption', 'reminds', 'shared', 'similar', 'through', 'unregenerate']
-- ChatGPT injected words (significant words only) (16):
-	['apart', 'awaits', 'christ', 'corrupt', 'emphasizes', 'fallen', 'generations', 'led', 'minds', 'need', 'passed', 'redemption', 'reminds', 'shared', 'similar', 'unregenerate']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 88
+- BHT Commentary Usage: 63.49%
+- BHT Quality Score: 85.4920634920635
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (29):
+	['arise', 'both', 'cannot', 'caught', 'certain', 'confined', 'controlled', 'corrupt', 'entire', 'escape', 'fallen', 'fulfilling', 'groups', 'human', 'important', 'inclination', 'includes', 'individuals', 'into', 'just', 'marks', 'people', 'permeates', 'race', 'rather', 'recognize', 'succumbing', 'very', 'woven']
+- ChatGPT injected words (significant words only) (23):
+	['arise', 'caught', 'certain', 'confined', 'controlled', 'corrupt', 'entire', 'escape', 'fallen', 'fulfilling', 'groups', 'human', 'important', 'inclination', 'includes', 'individuals', 'marks', 'people', 'permeates', 'race', 'recognize', 'succumbing', 'woven']
 
 ### Logs
-- 🔄 Ephesians 2:3 (attempt 1, 108 words, 79.69% quotes, quality score: 62.3125) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 2:3 bht prompt v5 (95 words, 74.19% quotes)
+- ✅ Ephesians 2:3 bht prompt v5 (88 words, 63.49% quotes)

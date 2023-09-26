@@ -1,7 +1,7 @@
 # Ephesians 2:2 Commentary Help Text
 
 ## BHT:
-The understanding of this passage revolves around the term the age, which refers to a prolonged period of time marked by a corrupt way of life. The evil spirits mentioned in the context are depicted as having the ability to tempt and influence individuals, suggesting that they operate within the realm of the air. These spirits are seen as a collective force characterized by ungodliness and disobedience, exerting a powerful impact on the lives of people.
+Sins and transgressions form a destructive path, leading to death. Conversion alters the course of one's walk, turning away from this path. There is a prince, Beelzebub, who is at the head of these evil spirits, exerting influence in the air. This spirit continues to work with mighty power throughout the ages.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The understanding of this passage revolves around the term the age, which refers
 2. "He intimates that the death which he had mentioned rages in the nature of man, and is a universal disease. He does not mean that course of the world which God has ordained, nor the elements, such as the heaven, and earth, and air — but the depravity with which we are all infected; so that sin is not peculiar to a few, but pervades the whole world."
 3. "Our condition, therefore, though many treat it with ridicule, or, at least, with little disapprobation, may well excite our horror. Where is now the free-will, the guidance of reason, the moral virtue, about which Papists babble so much?"
 
+### Philip Schaff:
+1. "‘In this sleep of death there is a strange somnambulism’ (Eadie)."
+2. "The two terms are not synonymous. The implied contrast is with a future new world."
+3. "The leading explanations are: (1.) The physical atmosphere, as the abode of evil spirits... (2.) Paul uses the common language of the time, without teaching anything in regard to demonology... (3.) The language is figurative; referring to an ideal atmosphere corresponding to the character of the world of sin and Satan... (4.) Some combine the literal and figurative meanings; but this view is as difficult to state as it is to defend."
+
 ### Archibald T. Robertson:
 1. "Curious combinations of αιων (a period of time), κοσμος (the world in that period)."
 2. "Satan is here pictured as ruler of the demons and other agencies of evil."
@@ -49,21 +54,15 @@ The understanding of this passage revolves around the term the age, which refers
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 76
-- BHT Commentary Usage: 61.82%
-- BHT Quality Score: 87.81818181818181
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (23):
-	['ability', 'around', 'collective', 'context', 'depicted', 'exerting', 'force', 'having', 'impact', 'individuals', 'life', 'marked', 'operate', 'passage', 'powerful', 'prolonged', 'realm', 'refers', 'revolves', 'suggesting', 'tempt', 'understanding', 'within']
-- ChatGPT injected words (significant words only) (21):
-	['ability', 'collective', 'context', 'depicted', 'exerting', 'force', 'having', 'impact', 'individuals', 'life', 'marked', 'operate', 'passage', 'powerful', 'prolonged', 'realm', 'refers', 'revolves', 'suggesting', 'tempt', 'understanding']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 53
+- BHT Commentary Usage: 86.36%
+- BHT Quality Score: 56.636363636363626
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (7):
+	['alters', 'away', 'continues', 'destructive', 'exerting', 'form', 'throughout']
+- ChatGPT injected words (significant words only) (6):
+	['alters', 'away', 'continues', 'destructive', 'exerting', 'form']
 
 ### Logs
-- 🔄 Ephesians 2:2 (attempt 1, 103 words, 72.46% quotes, quality score: 74.53623188405797) 
-	- BHT WAS OVER 100 WORDS! 
-	- LIST FORMAT DETECTED! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Ephesians 2:2 (attempt 2, 88 words, 67.21% quotes, quality score: 89.21311475409837) 
-	- 'COMMENTATOR(S)' FOUND IN BHT!
-- ✅ Ephesians 2:2 bht prompt v5 (76 words, 61.82% quotes)
+- ✅ Ephesians 2:2 bht prompt v5 (53 words, 86.36% quotes)

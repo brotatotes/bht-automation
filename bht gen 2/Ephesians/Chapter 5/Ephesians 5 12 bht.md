@@ -1,7 +1,7 @@
 # Ephesians 5:12 Commentary Help Text
 
 ## BHT:
-Sin loves the dark. Works of darkness thrive and flourish hidden from the light. There are those who engage in shameful and scandalous acts that they would never speak of openly. Even the mere mention of these deeds fills the righteous and virtuous with shame. Therefore, it is our duty as believers to distance ourselves from such acts and have no fellowship with those who commit them. We must instead shine a light on these works of darkness, reproving them with the hope that shame may lead to repentance.
+It is important to remember that there are things done in secret that are shameful and should not even be spoken of. Darkness, sin, and evil often hide in secret, far away from the light. These actions, so disgraceful and scandalous, should not be named or given any fellowship. Let us remember the power of light and the need to expose the works of darkness through reproof, leading to repentance and shame.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -24,6 +24,11 @@ Sin loves the dark. Works of darkness thrive and flourish hidden from the light.
 2. "By their advices and reproofs the saints enlighten blind unbelievers, and drag forth from their concealment to the light of day those who were sunk in ignorance."
 3. "But do you, by reproving them, bring forward the light, that they may be ashamed of their own baseness. Such shame, arising from an acknowledgment of baseness, is the first step to repentance."
 
+### Philip Schaff:
+1. "These it is a shame even to speak of."
+2. "The main difficulty is the question of connection."
+3. "The verse does not indicate that the reproof of Ephesians 5:11 should not be oral."
+
 ### Archibald T. Robertson:
 1. "Sin loves the dark."
 2. "Even to speak of... even if to do so is disgraceful."
@@ -41,15 +46,15 @@ Sin loves the dark. Works of darkness thrive and flourish hidden from the light.
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 89
-- BHT Commentary Usage: 72.31%
-- BHT Quality Score: 88.6923076923077
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 72
+- BHT Commentary Usage: 74.51%
+- BHT Quality Score: 87.49019607843137
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (23):
-	['acts', 'believers', 'commit', 'distance', 'duty', 'engage', 'fills', 'flourish', 'hidden', 'hope', 'instead', 'lead', 'mere', 'never', 'on', 'openly', 'our', 'ourselves', 'righteous', 'shine', 'thrive', 'virtuous', 'we']
-- ChatGPT injected words (significant words only) (18):
-	['acts', 'believers', 'commit', 'distance', 'duty', 'engage', 'fills', 'flourish', 'hidden', 'hope', 'instead', 'lead', 'mere', 'openly', 'righteous', 'shine', 'thrive', 'virtuous']
+- ChatGPT injected words (16):
+	['actions', 'away', 'expose', 'far', 'given', 'hide', 'important', 'leading', 'let', 'named', 'often', 'power', 'remember', 'spoken', 'through', 'us']
+- ChatGPT injected words (significant words only) (13):
+	['actions', 'away', 'expose', 'far', 'given', 'hide', 'important', 'leading', 'let', 'named', 'power', 'remember', 'spoken']
 
 ### Logs
-- ✅ Ephesians 5:12 bht prompt v5 (89 words, 72.31% quotes)
+- ✅ Ephesians 5:12 bht prompt v5 (72 words, 74.51% quotes)

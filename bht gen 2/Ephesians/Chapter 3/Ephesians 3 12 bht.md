@@ -1,7 +1,7 @@
 # Ephesians 3:12 Commentary Help Text
 
 ## BHT:
-We are granted the remarkable privilege of coming to God boldly and confidently through our faith in Christ. It is through Him that we have free access to God's presence, much like petitioners who are introduced by a distinguished advocate. This access allows us to speak openly and honestly, without fear of offending, just as children approach a loving and indulgent father, expressing all their needs and desires. We can have assurance that our prayers will be heard and answered because of our trust in God's love, power, and faithfulness.
+Through our faith in Him, we may come to God now in prayer with confidence, boldly approaching the throne of grace for mercy. By trusting in Christ as Mediator and having a firm conviction of our heavenly Father's love, we can have a joyful and free attitude toward God, freely expressing our needs and desires. This access to God is granted through our union with Christ and allows us to come before Him with fearless confidence, just as favored petitioners have access and boldness in the presence of a monarch.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -26,6 +26,11 @@ We are granted the remarkable privilege of coming to God boldly and confidently 
 2. "Faith produces confidence, which again, in its turn, produces boldness."
 3. "To trust in Christ as Mediator, and to entertain a firm conviction of our heavenly Father’s love, — to venture boldly to promise to ourselves eternal life, and not to tremble at death or hell, — is, to use a common phrase, a holy presumption."
 
+### Philip Schaff:
+1. "‘Boldness’ is frequently used by Paul (see references), and here denotes the believer’s free joyous attitude toward God, the result of assurance of His favor."
+2. "Some take ‘access’ here (comp. chap. Ephesians 2:18) in its primary sense of ‘introduction;’ but its connection with ‘boldness’ (especially if the article is omitted) favors the other and subjective meaning, our continued access."
+3. "'That faith whose object is Jesus is the means to all who are Christ’s: first, of “boldness,” for their belief in the Divine Mediator gives them courage; secondly, of “access,” for their realization of His glorified humanity warrants and enables them to approach the throne of grace; and, thirdly, these blessings are possessed 'in confidence,' for they feel that for Christ’s sake their persons and services will be accepted by the Father’ (Eadie)."
+
 ### Archibald T. Robertson:
 1. "In confidence. Late and rare word from πεποιθα. See 2 Corinthians 1:15."
 2. "Through our faith in him. Clearly objective genitive αυτου (in him)."
@@ -44,15 +49,17 @@ We are granted the remarkable privilege of coming to God boldly and confidently 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 92
-- BHT Commentary Usage: 81.16%
-- BHT Quality Score: 76.84057971014492
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (19):
-	['advocate', 'allows', 'answered', 'approach', 'because', 'can', 'desires', 'expressing', 'honestly', 'it', 'just', 'like', 'loving', 'much', 'needs', 'openly', 'privilege', 'remarkable', 'us']
-- ChatGPT injected words (significant words only) (13):
-	['advocate', 'allows', 'answered', 'approach', 'desires', 'expressing', 'honestly', 'like', 'loving', 'needs', 'openly', 'privilege', 'remarkable']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 83.61%
+- BHT Quality Score: 75.39344262295081
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (14):
+	['allows', 'approaching', 'before', 'can', 'desires', 'expressing', 'favored', 'fearless', 'having', 'joyful', 'just', 'needs', 'trusting', 'us']
+- ChatGPT injected words (significant words only) (10):
+	['allows', 'approaching', 'desires', 'expressing', 'favored', 'fearless', 'having', 'joyful', 'needs', 'trusting']
 
 ### Logs
-- ✅ Ephesians 3:12 bht prompt v5 (92 words, 81.16% quotes)
+- 🔄 Ephesians 3:12 (attempt 1, 108 words, 84.06% quotes, quality score: 57.94202898550725) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 3:12 bht prompt v5 (91 words, 83.61% quotes)

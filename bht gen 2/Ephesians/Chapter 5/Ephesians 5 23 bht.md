@@ -1,7 +1,7 @@
 # Ephesians 5:23 Commentary Help Text
 
 ## BHT:
-In marriage, the husband serves as the head, the one who governs, guides, and protects his wife. This parallels the relationship between Christ and the church, where Christ acts as the head, the Savior who delivers the church from sin and suffering. Just as Christ is the source of salvation for the church, the husband assumes a role of authority and responsibility in marriage. It is through this framework that the husband can fulfill his role of loving and caring for his wife, and the wife can find security and support in being subject to her husband.
+For the husband is the head of the wife, just as Christ is the head of the church. In this case, the headship of the husband over his wife is like the headship of Christ over the church. Christ is not just the head, but also the Savior of the body, the church. He lovingly provides, preserves, and protects the church, offering salvation to all its members. Similarly, the husband serves as the governor, guide, and guardian of his wife, ensuring her well-being and spiritual growth.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -23,6 +23,11 @@ In marriage, the husband serves as the head, the one who governs, guides, and pr
 2. "God has given to the husband authority over the wife; and a resemblance of this authority is found in Christ, who is the head of the church, as the husband is of the wife."
 3. "As Christ rules over his church for her salvation, so nothing yields more advantage or comfort to the wife than to be subject to her husband."
 
+### Philip Schaff:
+1. "Because a husband is head of his wife."
+2. "As Christ also is head of the church."
+3. "He himself is the Savior of the body."
+
 ### Archibald T. Robertson:
 1. "For a husband is head of the (his) wife."
 2. "As also Christ is head of the church."
@@ -42,15 +47,15 @@ In marriage, the husband serves as the head, the one who governs, guides, and pr
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 62.96%
-- BHT Quality Score: 75.96296296296296
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 87
+- BHT Commentary Usage: 80.43%
+- BHT Quality Score: 82.56521739130434
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (25):
-	['acts', 'assumes', 'being', 'can', 'caring', 'delivers', 'find', 'framework', 'fulfill', 'governs', 'guides', 'just', 'loving', 'marriage', 'parallels', 'relationship', 'responsibility', 'role', 'security', 'serves', 'source', 'suffering', 'support', 'through', 'where']
-- ChatGPT injected words (significant words only) (20):
-	['acts', 'assumes', 'caring', 'delivers', 'find', 'framework', 'fulfill', 'governs', 'guides', 'loving', 'marriage', 'parallels', 'relationship', 'responsibility', 'role', 'security', 'serves', 'source', 'suffering', 'support']
+- ChatGPT injected words (12):
+	['being', 'ensuring', 'growth', 'its', 'just', 'like', 'lovingly', 'members', 'offering', 'serves', 'similarly', 'spiritual']
+- ChatGPT injected words (significant words only) (9):
+	['ensuring', 'growth', 'like', 'lovingly', 'members', 'offering', 'serves', 'similarly', 'spiritual']
 
 ### Logs
-- ✅ Ephesians 5:23 bht prompt v5 (97 words, 62.96% quotes)
+- ✅ Ephesians 5:23 bht prompt v5 (87 words, 80.43% quotes)

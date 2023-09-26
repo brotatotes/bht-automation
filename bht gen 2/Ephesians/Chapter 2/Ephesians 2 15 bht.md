@@ -1,7 +1,7 @@
 # Ephesians 2:15 Commentary Help Text
 
 ## BHT:
-By suffering in the flesh, Christ abolished the enmity between Jews and Gentiles, the ceremonial law, and its commandments. This act of abolishment is a demonstration of His mercy and love for all. Through His decrees, He formed a new unity, making both Jews and Gentiles one new man, part of His mystical body. (Based on Ephesians 2:15-16, Colossians 2:14)
+Christ, through his sacrifice of himself, abolished the enmity between Jews and Gentiles, which was caused by the ceremonial commandments. He did this by offering mercy to all, as stated in Colossians 2:14. In doing so, he brought together Jew and Gentile, forming one new man, or one mystical body.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ By suffering in the flesh, Christ abolished the enmity between Jews and Gentiles
 2. "Paul declares not only that the Gentiles are equally with the Jews admitted to the fellowship of grace, so that they no longer differ from each other, but that the mark of difference has been taken away; for ceremonies have been abolished."
 3. "To whatever extent the two might differ in their former condition, in Christ they are become one man."
 
+### Philip Schaff:
+1. "'Enmity' is then an explanation of the previous figure, and must refer to the enmity between Jews and Gentiles." 
+2. "The phrase is not precisely the same as ‘by His flesh, although the reference is to His death, which abolished the law of commandments expressed in ordinances."
+3. "This thought of the doing away of the law through the death of Christ is a familiar one in Paul’s writings, expressed now under one figure, and again under another."
+
 ### Archibald T. Robertson:
 1. "The enmity between Jew and Gentile was the middle wall of partition."
 2. "Certainly 'the law of commandments in ordinances is governed by καταργησας."
@@ -44,15 +49,15 @@ By suffering in the flesh, Christ abolished the enmity between Jews and Gentiles
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 58
-- BHT Commentary Usage: 88.89%
-- BHT Quality Score: 59.111111111111114
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 49
+- BHT Commentary Usage: 88.37%
+- BHT Quality Score: 50.62790697674418
 - Generate Attempts: 1 / 5
 - ChatGPT injected words (6):
-	['abolishment', 'act', 'based', 'demonstration', 'making', 'part']
+	['brought', 'caused', 'forming', 'offering', 'stated', 'together']
 - ChatGPT injected words (significant words only) (5):
-	['abolishment', 'act', 'based', 'demonstration', 'making']
+	['brought', 'caused', 'forming', 'offering', 'stated']
 
 ### Logs
-- ✅ Ephesians 2:15 bht prompt v5 (58 words, 88.89% quotes)
+- ✅ Ephesians 2:15 bht prompt v5 (49 words, 88.37% quotes)

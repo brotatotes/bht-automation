@@ -1,7 +1,7 @@
 # Ephesians 6:13 Commentary Help Text
 
 ## BHT:
-In the face of the evil day, we are called to take up the complete armor of God, not to create it ourselves, but to receive what God has already provided. This armor is necessary to withstand the ongoing battle, for the war against evil is perpetual and may intensify or lessen with each passing day. Our objective is to accomplish all that is necessary for the fight, to leave no task unfinished, and to stand firm, having vanquished every enemy that opposes us.
+To withstand the attacks of evil, we are called to take up the entire armor of God. This armor is not something we create, but rather something we receive from God. It is crucial to always have our armor on, ready for the ongoing spiritual battle. We must fully equip ourselves and accomplish all that is necessary for the fight. By putting on this armor and relying on the power of God, we can confidently face the challenges and temptations of the evil day. With God's armor, we are assured of safety and victory in the battle against darkness.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ In the face of the evil day, we are called to take up the complete armor of God,
 2. "If we only put on the whole armor of God, and fight valiantly to the end, we shall certainly stand."
 3. "There will be no danger which may not be successfully met by the power of God; nor will any who, with this assistance, fight against Satan, fail in the day of battle."
 
+### Philip Schaff:
+1. "Against such superhuman foes we need not only Divine strength (‘in the Lord’) but Divine equipment, defensive and offensive."
+2. "Take up. A technical term, used of taking armor in order to put it on."
+3. "Having accomplished all; whether of preparation or of conflict; not to be referred to one or the other exclusively, not yet to the final victory an interpretation incompatible with the next phrase."
+
 ### Archibald T. Robertson:
 1. "Take up (αναλαβετε). Second aorist active imperative of αναλαμβανω, old word and used (αναλαβων) of 'picking up' Mark in 2 Timothy 4:11."
 2. "That ye may be able to withstand (ινα δυνηθητε αντιστηνα). Final clause with ινα and first aorist passive subjunctive of δυναμα with αντιστηνα (second aorist active infinitive of ανθιστημ, to stand face to face, against)."
@@ -49,17 +54,21 @@ In the face of the evil day, we are called to take up the complete armor of God,
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 73.77%
-- BHT Quality Score: 92.22950819672131
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (21):
-	['already', 'called', 'complete', 'create', 'each', 'firm', 'intensify', 'leave', 'lessen', 'objective', 'ongoing', 'opposes', 'ourselves', 'passing', 'provided', 'receive', 'task', 'unfinished', 'us', 'vanquished', 'what']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 74.19%
+- BHT Quality Score: 75.80645161290322
+- Generate Attempts: 4 / 5
+- ChatGPT injected words (19):
+	['assured', 'attacks', 'called', 'can', 'challenges', 'confidently', 'create', 'crucial', 'darkness', 'equip', 'fully', 'ongoing', 'ourselves', 'putting', 'receive', 'relying', 's', 'something', 'spiritual']
 - ChatGPT injected words (significant words only) (16):
-	['called', 'complete', 'create', 'firm', 'intensify', 'leave', 'lessen', 'objective', 'ongoing', 'opposes', 'passing', 'provided', 'receive', 'task', 'unfinished', 'vanquished']
+	['assured', 'attacks', 'called', 'challenges', 'confidently', 'create', 'crucial', 'darkness', 'equip', 'fully', 'ongoing', 'putting', 'receive', 'relying', 's', 'spiritual']
 
 ### Logs
-- 🔄 Ephesians 6:13 (attempt 1, 72 words, 66.67% quotes, quality score: 88.66666666666669) 
-	- LIST FORMAT DETECTED!
-- ✅ Ephesians 6:13 bht prompt v5 (84 words, 73.77% quotes)
+- 🔄 Ephesians 6:13 (attempt 1, 162 words, 80.23% quotes, quality score: 7.767441860465114) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 6:13 (attempt 2, 102 words, 82.81% quotes, quality score: 65.1875) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 6:13 (attempt 3, 101 words, 75.0% quotes, quality score: 74.0) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 6:13 bht prompt v5 (100 words, 74.19% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 5:31 Commentary Help Text
 
 ## BHT:
-The spiritual marriage between Christ and the Church mirrors the union of Adam and Eve. Christ, as the archetype and head of the Church, shares His substance with believers, forming one body. This spiritual bond signifies a deep connection and loyalty. The institution of marriage serves as a symbolic representation of this divine union, emphasizing the profound attachment between Christ and His people. It is important to note that the comparison made in this context should be understood solely within the teachings of the New Testament. This perspective on marriage promotes love, unity, and the sacredness of the marital relationship.
+Because of the intimate union between Christ and the Church, the spiritual marriage is established. Just as Eve was formed from Adam, the Church is formed from Christ. Although the natural marriage between a man and a woman is referenced here, the true focus is on the spiritual marriage symbolized by it. Christ is the perfect example for the Church, serving as both the pattern by whom she is formed and her Head, just as a husband is to his wife.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The spiritual marriage between Christ and the Church mirrors the union of Adam a
 2. "Paul describes our union to Christ, a symbol and pledge of which is given to us in the ordinance of the supper."
 3. "He who resolves to be a good husband will not fail to perform his filial duties, but will regard marriage as more sacred than all other ties."
 
+### Philip Schaff:
+1. "The phrase in Genesis equivalent to ‘for this cause’ points directly to the creation of Eve, and the variation here does not of itself indicate a different reference."
+2. "So close and peculiar is the relation. Comp. Matthew 19:5; Mark 10:7-8, where our Lord cites the same passage in regard to earthly marriage."
+3. "The saying as applied to that, past, present, and future, which constitutes Christ’s union to His Bride the Church: His leaving the Father’s bosom, which is past. His gradual preparation of the union which is present; His full consummation of it, which is future."
+
 ### Archibald T. Robertson:
 1. "This whole verse is a practical quotation and application of the language to Paul's argument here."
 2. "In Matthew 19:5 Jesus quotes Genesis 2:24."
@@ -42,21 +47,17 @@ The spiritual marriage between Christ and the Church mirrors the union of Adam a
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 58.46%
-- BHT Quality Score: 68.46153846153845
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (30):
-	['bond', 'context', 'deep', 'divine', 'emphasizing', 'forming', 'important', 'institution', 'love', 'loyalty', 'marital', 'mirrors', 'note', 'on', 'perspective', 'profound', 'promotes', 'relationship', 'representation', 'sacredness', 'serves', 'shares', 'signifies', 'solely', 'symbolic', 'teachings', 'understood', 'unity', 'with', 'within']
-- ChatGPT injected words (significant words only) (27):
-	['bond', 'context', 'deep', 'divine', 'emphasizing', 'forming', 'important', 'institution', 'love', 'loyalty', 'marital', 'mirrors', 'note', 'perspective', 'profound', 'promotes', 'relationship', 'representation', 'sacredness', 'serves', 'shares', 'signifies', 'solely', 'symbolic', 'teachings', 'understood', 'unity']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 81
+- BHT Commentary Usage: 82.98%
+- BHT Quality Score: 86.02127659574468
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (11):
+	['although', 'both', 'established', 'example', 'focus', 'on', 'perfect', 'referenced', 'serving', 'symbolized', 'woman']
+- ChatGPT injected words (significant words only) (8):
+	['established', 'example', 'focus', 'perfect', 'referenced', 'serving', 'symbolized', 'woman']
 
 ### Logs
-- 🔄 Ephesians 5:31 (attempt 1, 88 words, 73.68% quotes, quality score: 88.3157894736842) 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Ephesians 5:31 (attempt 2, 110 words, 72.73% quotes, quality score: 67.27272727272727) 
-	- BHT WAS OVER 100 WORDS! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 5:31 bht prompt v5 (100 words, 58.46% quotes)
+- 🔄 Ephesians 5:31 (attempt 1, 80 words, 100.0% quotes, quality score: 70.0) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- ✅ Ephesians 5:31 bht prompt v5 (81 words, 82.98% quotes)

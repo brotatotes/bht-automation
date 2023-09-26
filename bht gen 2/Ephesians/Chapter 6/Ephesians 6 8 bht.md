@@ -1,7 +1,7 @@
 # Ephesians 6:8 Commentary Help Text
 
 ## BHT:
-The faithful servants can rest assured that their efforts will not go unnoticed by God. They will receive a rich and complete reward, far exceeding their expectations and the value placed on their service by the world. Their labor, whether in a state of servitude or freedom, will be acknowledged and rewarded by the Lord Himself.
+When a person does good according to God's will, they will receive a full and adequate recompense for their actions. This reward is not merely a penalty for doing wrong, but a fruit and advantage given in grace. The receiving of this reward is not limited to specific classes, but encompasses all individuals regardless of their social status. Whether one is a master or a servant, a free man or a bondman, the reward for their good deeds done in alignment with God's will is assured.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ The faithful servants can rest assured that their efforts will not go unnoticed 
 2. "Their reward is laid up with God for services which appear to be ill bestowed on unfeeling men."
 3. "No distinction is made between a slave and a free man. The world is wont to set little value on the labors of slaves; but God esteems them as highly as the duties of kings."
 
+### Philip Schaff:
+1. "That each one, if he doeth any good thing, shall he receive again from the Lord." 
+2. "'This he shall then receive in its value as then estimated changed, so to speak, in the currency of that new and final state'" (Alford).
+3. "To apply this merely to two classes of servants weakens the force of the verse as a whole."
+
 ### Archibald T. Robertson:
 1. "Each one if he do anything good."
 2. "It is a reward for good, not a penalty for wrong."
@@ -45,18 +50,21 @@ The faithful servants can rest assured that their efforts will not go unnoticed 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 56
-- BHT Commentary Usage: 65.12%
-- BHT Quality Score: 71.11627906976744
-- Generate Attempts: 2 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 88
+- BHT Commentary Usage: 75.86%
+- BHT Quality Score: 86.13793103448276
+- Generate Attempts: 3 / 5
 - ChatGPT injected words (17):
-	['acknowledged', 'assured', 'can', 'complete', 'efforts', 'exceeding', 'expectations', 'far', 'freedom', 'go', 'labor', 'placed', 'rest', 'rewarded', 'rich', 'servants', 'unnoticed']
-- ChatGPT injected words (significant words only) (15):
-	['acknowledged', 'assured', 'complete', 'efforts', 'exceeding', 'expectations', 'far', 'freedom', 'labor', 'placed', 'rest', 'rewarded', 'rich', 'servants', 'unnoticed']
+	['actions', 'alignment', 'all', 'assured', 'deeds', 'doing', 'encompasses', 'given', 'individuals', 'limited', 'person', 'receiving', 'regardless', 'social', 'specific', 'status', 'when']
+- ChatGPT injected words (significant words only) (14):
+	['actions', 'alignment', 'assured', 'deeds', 'encompasses', 'given', 'individuals', 'limited', 'person', 'receiving', 'regardless', 'social', 'specific', 'status']
 
 ### Logs
-- 🔄 Ephesians 6:8 (attempt 1, 14 words, 78.57% quotes, quality score: 25.428571428571423) 
+- 🔄 Ephesians 6:8 (attempt 1, 24 words, 90.48% quotes, quality score: 23.52380952380952) 
 	- BHT WAS UNDER 25 WORDS! 
+	- OVER 90.0% OF BHT WAS FROM QUOTES! 
 	- LIST FORMAT DETECTED!
-- ✅ Ephesians 6:8 bht prompt v5 (56 words, 65.12% quotes)
+- 🔄 Ephesians 6:8 (attempt 2, 92 words, 75.41% quotes, quality score: 82.59016393442623) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 6:8 bht prompt v5 (88 words, 75.86% quotes)

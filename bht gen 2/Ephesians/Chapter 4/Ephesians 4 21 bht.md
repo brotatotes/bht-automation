@@ -1,7 +1,7 @@
 # Ephesians 4:21 Commentary Help Text
 
 ## BHT:
-If you have truly heard and received the teachings of Jesus, not just externally but with spiritual conviction, illumination, and genuine faith, you have been taught by him through his Spirit and ministers. Jesus himself is the embodiment of truth, and his gospel is pure and unmixed. As you continue to be taught by him, remember to walk in accordance with the truth he has revealed, living in direct opposition to the ways of the world.
+Through the Gospel message, you have not simply listened to Christ preaching, but you have received the truth that is found in Jesus Himself. This truth is not heard merely with the ears, but it brings about true faith, spiritual conviction, and a genuine assurance of our relationship with Him. It is by His Spirit and through His ministers that we are taught and directed to Christ for righteousness, pardon, cleansing, and all the grace we need. Therefore, let the truth that is in Jesus guide and transform your life, standing in direct opposition to the ways of the world.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ If you have truly heard and received the teachings of Jesus, not just externally
 2. "This contains a reproof of that superficial knowledge of the gospel, by which many are elated, who are wholly unacquainted with newness of life."
 3. "There is a twofold knowledge of Christ, — one, which is true and genuine, — and another, which is counterfeit and spurious."
 
+### Philip Schaff:
+1. "Nothing is truly heard through the gospel message, until He is heard."
+2. "This fellowship was not only the result but the essential condition of the instruction; for saving knowledge is referred to."
+3. "If you were taught so that what you received was according to what is true (true and real) as permanently embodied in the personal Saviour."
+
 ### Archibald T. Robertson:
 1. "If indeed" (ε γε). Condition of first class with aorist indicatives here, assumed to be true.
 2. "Even as truth is in Jesus" (καθως εστιν αληθεια εν τω Ιησου). Paul affirms that there is "truth in Jesus."
@@ -43,15 +48,15 @@ If you have truly heard and received the teachings of Jesus, not just externally
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 76
-- BHT Commentary Usage: 78.85%
-- BHT Quality Score: 87.15384615384615
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 79.1%
+- BHT Quality Score: 70.89552238805969
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (14):
-	['accordance', 'continue', 'embodiment', 'has', 'just', 'living', 'remember', 'revealed', 'teachings', 'through', 'truly', 'walk', 'ways', 'world']
-- ChatGPT injected words (significant words only) (11):
-	['accordance', 'continue', 'embodiment', 'living', 'remember', 'revealed', 'teachings', 'truly', 'walk', 'ways', 'world']
+- ChatGPT injected words (20):
+	['about', 'all', 'brings', 'directed', 'ears', 'found', 'guide', 'let', 'need', 'our', 'preaching', 'relationship', 'simply', 'standing', 'therefore', 'transform', 'ways', 'we', 'world', 'your']
+- ChatGPT injected words (significant words only) (14):
+	['brings', 'directed', 'ears', 'found', 'guide', 'let', 'need', 'preaching', 'relationship', 'simply', 'standing', 'transform', 'ways', 'world']
 
 ### Logs
-- ✅ Ephesians 4:21 bht prompt v5 (76 words, 78.85% quotes)
+- ✅ Ephesians 4:21 bht prompt v5 (100 words, 79.1% quotes)

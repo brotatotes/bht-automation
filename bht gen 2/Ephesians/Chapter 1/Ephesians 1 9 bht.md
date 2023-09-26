@@ -1,7 +1,7 @@
 # Ephesians 1:9 Commentary Help Text
 
 ## BHT:
-God's abounding grace is manifested in the revelation of the mystery of His will. This mystery, distinct from the secretive rituals of paganism, has been unveiled to believers. The disclosure of this mystery aligns with God's good pleasure, reflecting His loving favor. The mystery of redemption in Christ, an integral part of God's timeless plan, was previously concealed. It originated in God's own thoughts, hidden until He decided to impart it. This mystery, known as the Gospel, reveals the unfathomable riches and depths of God's grace. It transcends human comprehension and is comprehended solely by His sovereign will.
+The Gospel, a hidden mystery, reveals the gracious plan of salvation by faith according to God's sovereign will. While this plan was veiled under the law, it is now fully revealed to believers. It encompasses depths that exceed human understanding and is unknown to those who do not believe.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -26,6 +26,11 @@ God's abounding grace is manifested in the revelation of the mystery of His will
 2. "The Ephesians are thus led to consider that Christ has been made known, and the gospel preached to them, not because they deserved any such thing, but because it pleased God."
 3. "The decree to adopt the Gentiles is declared to have been till now hidden in the mind of God, but so hidden, that God reserved it in his own power until the time of the revelation."
 
+### Philip Schaff:
+1. "The word ‘mystery’ (comp. Romans 11:25) in the N. T. is applied to: (1.) ‘such matters of fact as are inaccessible to reason, and can only be known through revelation; (2) such matters as are patent facts, but the process of which cannot be entirely taken in by the reason’ (Tholuck)." 
+2. "Here the wider reference is to be accepted; the redemption in Christ as belonging to the eternal plan of God. We could not know this great fact were it not revealed, and even now it contains much that transcends our reason."
+3. "‘Purposed’ means to put before one’s self, not necessarily beforehand, though the whole context shows that the purpose is to be regarded as taking place before the foundation of the world."
+
 ### Archibald T. Robertson:
 1. "The mystery of his will (το μυστηριον του θεληματος αυτου). Once hidden, now revealed as in Colossians 1:26 which see."
 2. "Which he purposed (ην προεθετο). Second aorist middle of προτιθημ, old verb, for which see Romans 1:13; Romans 3:25."
@@ -46,26 +51,15 @@ God's abounding grace is manifested in the revelation of the mystery of His will
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 103
-- BHT Commentary Usage: 65.15%
-- BHT Quality Score: 72.15151515151516
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (25):
-	['abounding', 'aligns', 'an', 'comprehended', 'comprehension', 'decided', 'disclosure', 'distinct', 'favor', 'human', 'impart', 'integral', 'paganism', 'part', 'previously', 'reflecting', 'reveals', 'rituals', 'secretive', 'solely', 'thoughts', 'timeless', 'transcends', 'unfathomable', 'unveiled']
-- ChatGPT injected words (significant words only) (23):
-	['abounding', 'aligns', 'comprehended', 'comprehension', 'decided', 'disclosure', 'distinct', 'favor', 'human', 'impart', 'integral', 'paganism', 'previously', 'reflecting', 'reveals', 'rituals', 'secretive', 'solely', 'thoughts', 'timeless', 'transcends', 'unfathomable', 'unveiled']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 50
+- BHT Commentary Usage: 81.4%
+- BHT Quality Score: 58.604651162790695
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (12):
+	['believe', 'do', 'encompasses', 'exceed', 'human', 'reveals', 'those', 'understanding', 'unknown', 'veiled', 'while', 'who']
+- ChatGPT injected words (significant words only) (8):
+	['believe', 'encompasses', 'exceed', 'human', 'reveals', 'understanding', 'unknown', 'veiled']
 
 ### Logs
-- 🔄 Ephesians 1:9 (attempt 1, 110 words, 77.61% quotes, quality score: 62.38805970149253) 
-	- BHT WAS OVER 100 WORDS! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Ephesians 1:9 (attempt 2, 110 words, 77.61% quotes, quality score: 62.38805970149253) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:9 (attempt 3, 102 words, 82.26% quotes, quality score: 65.74193548387098) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:9 (attempt 4, 103 words, 65.15% quotes, quality score: 72.15151515151516) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:9 (attempt 5, 120 words, 79.17% quotes, quality score: 50.83333333333333) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:9 bht prompt v5 (103 words, 65.15% quotes)
+- ✅ Ephesians 1:9 bht prompt v5 (50 words, 81.4% quotes)

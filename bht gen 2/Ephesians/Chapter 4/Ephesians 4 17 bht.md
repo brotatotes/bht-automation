@@ -1,7 +1,7 @@
 # Ephesians 4:17 Commentary Help Text
 
 ## BHT:
-The apostle solemnly testifies, in the name and authority of the Lord Jesus, that believers should no longer walk in the vanity of their mind. This refers to the emptiness and destitution of the mind, which naturally lacks God, the knowledge of God, and faith in Jesus Christ. Continuing in this vanity would be foolish, resembling those who have never known the truth. It is evident in the foolish thoughts, worldly pursuits, and sinful actions that stem from it. Therefore, believers are urged to repent, turn away from this empty way of thinking and living, and embrace the truth and guidance of God.
+Therefore, I testify in the Lord that we should no longer walk in the vanity of our mind. It is important that we remember the lost state of our original condition, when God was our Life and Light, before the darkness entered our human nature. This is why we must strive to walk worthy of our calling and not be entangled in the worthless pursuits of idolatry. Let us reject the emptiness of our intellect and instead focus on the truth and grace of God, for it is through Him that we find fulfillment and purpose.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The apostle solemnly testifies, in the name and authority of the Lord Jesus, tha
 2. "He reminds the Ephesians how necessary it was that they should repent, since by nature they resembled lost and condemned men."
 3. "The mind holds the highest rank in the human constitution, is the seat of reason, presides over the will, and restrains sinful desires; so that our theologians of the Sorbonne are in the habit of calling her the Queen. But, Paul makes the mind to consist of nothing else than vanity."
 
+### Philip Schaff:
+1. "'Vanity' betokens 'a waste of the whole rational powers on worthless objects' (Alford). This is the characteristic of heathenism, even in its most refined forms."
+2. "'Mind' here is the same term used in Romans 7:23-25, and is applied to the spirit of man, mainly in its moral and intellectual aspects, the practical reason, the controlling will."
+3. "It is evident that the 'mind' is here regarded as depraved; that part of man's nature, which in its original constitution was noblest, has become the stronghold of his depravity."
+
 ### Archibald T. Robertson:
 1. "That ye no longer walk in vanity of their mind." 
 2. "In emptiness of their intellect."
@@ -48,25 +53,15 @@ The apostle solemnly testifies, in the name and authority of the Lord Jesus, tha
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 103
-- BHT Commentary Usage: 73.85%
-- BHT Quality Score: 73.15384615384615
-- Generate Attempts: 5 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 96
+- BHT Commentary Usage: 78.12%
+- BHT Quality Score: 75.875
+- Generate Attempts: 1 / 5
 - ChatGPT injected words (18):
-	['away', 'continuing', 'destitution', 'embrace', 'empty', 'evident', 'guidance', 'known', 'lacks', 'living', 'pursuits', 'refers', 'resembling', 'stem', 'testifies', 'thinking', 'turn', 'urged']
-- ChatGPT injected words (significant words only) (17):
-	['away', 'continuing', 'destitution', 'embrace', 'evident', 'guidance', 'known', 'lacks', 'living', 'pursuits', 'refers', 'resembling', 'stem', 'testifies', 'thinking', 'turn', 'urged']
+	['condition', 'entangled', 'entered', 'find', 'focus', 'fulfillment', 'important', 'instead', 'let', 'must', 'purpose', 'pursuits', 'reject', 'remember', 'strive', 'through', 'us', 'why']
+- ChatGPT injected words (significant words only) (14):
+	['condition', 'entangled', 'entered', 'find', 'focus', 'fulfillment', 'important', 'instead', 'let', 'purpose', 'pursuits', 'reject', 'remember', 'strive']
 
 ### Logs
-- 🔄 Ephesians 4:17 (attempt 1, 132 words, 78.75% quotes, quality score: 39.25) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 4:17 (attempt 2, 101 words, 83.61% quotes, quality score: 65.39344262295081) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 4:17 (attempt 3, 103 words, 75.76% quotes, quality score: 71.24242424242424) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 4:17 (attempt 4, 105 words, 73.13% quotes, quality score: 71.86567164179104) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 4:17 (attempt 5, 103 words, 73.85% quotes, quality score: 73.15384615384615) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 4:17 bht prompt v5 (103 words, 73.85% quotes)
+- ✅ Ephesians 4:17 bht prompt v5 (96 words, 78.12% quotes)

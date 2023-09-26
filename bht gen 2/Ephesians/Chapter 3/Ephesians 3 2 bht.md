@@ -1,7 +1,7 @@
 # Ephesians 3:2 Commentary Help Text
 
 ## BHT:
-Assuming that the audience has heard, the apostle finds comfort in knowing that he is making known the plan of God for the benefit of mankind. The term dispensation refers to the divine arrangement or command given to the apostle, signifying his role in proclaiming the gospel. It underscores the significance of God's grace in salvation and how it is declared and conveyed through the gospel message, particularly to the Gentiles.
+The phrase If, as I presume indicates that the assumption being made is based on what the readers have heard. It is not a statement of doubt, but rather a recognition of their prior knowledge. The term dispensation refers to a divine arrangement or commission, specifically in this case, the grace of God given to Paul for the purpose of sharing it with others. This reflects the divine order and command to spread the gospel, particularly to the Gentiles.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -21,6 +21,11 @@ Assuming that the audience has heard, the apostle finds comfort in knowing that 
 1. "It was only when the wickedness of his adversaries made it necessary, that he reluctantly undertook the defense of his ministry."
 2. "Dispensation (οικονομια) means here a divine order or command, or, as it is generally expressed, a commission."
 
+### Philip Schaff:
+1. "The same phrase occurs in chap. Ephesians 4:21; it does not imply doubt, but rather assumes something to be true, challenging the reader to verify the assumption in his own case."
+2. "Not to have recognized Paul, not to have received his teaching, would be equivalent to not having heard him. Hence it is not correct to conclude from these words, that the Epistle was not written to Ephesus."
+3. "This does not refer to his office, for how could they hear of that, but rather to a divine arrangement, which has reference, is concerned with, the grace of God, in virtue of which grace he had indeed received his office."
+
 ### Archibald T. Robertson:
 1. "If so be that ye have heard" (ε γε ηκουσατε). Condition of first class with ε and first aorist active indicative and with the intensive particle γε that gives a delicate touch to it all.
 2. "On οικονομιαν (stewardship, dispensation) see Ephesians 1:9; Ephesians 3:9; Colossians 1:25."
@@ -39,17 +44,17 @@ Assuming that the audience has heard, the apostle finds comfort in knowing that 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 72
-- BHT Commentary Usage: 65.31%
-- BHT Quality Score: 87.30612244897961
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 79
+- BHT Commentary Usage: 76.27%
+- BHT Quality Score: 92.72881355932203
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (19):
-	['audience', 'benefit', 'comfort', 'conveyed', 'declared', 'finds', 'has', 'knowing', 'message', 'particularly', 'proclaiming', 'refers', 'role', 's', 'significance', 'signifying', 'term', 'through', 'underscores']
-- ChatGPT injected words (significant words only) (17):
-	['audience', 'benefit', 'comfort', 'conveyed', 'declared', 'finds', 'knowing', 'message', 'particularly', 'proclaiming', 'refers', 'role', 's', 'significance', 'signifying', 'term', 'underscores']
+- ChatGPT injected words (16):
+	['based', 'being', 'indicates', 'knowledge', 'others', 'particularly', 'prior', 'readers', 'recognition', 'refers', 'reflects', 'sharing', 'specifically', 'spread', 'statement', 'term']
+- ChatGPT injected words (significant words only) (14):
+	['based', 'indicates', 'knowledge', 'particularly', 'prior', 'readers', 'recognition', 'refers', 'reflects', 'sharing', 'specifically', 'spread', 'statement', 'term']
 
 ### Logs
-- 🔄 Ephesians 3:2 (attempt 1, 84 words, 76.0% quotes, quality score: 90.0) 
+- 🔄 Ephesians 3:2 (attempt 1, 90 words, 74.58% quotes, quality score: 85.42372881355932) 
 	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 3:2 bht prompt v5 (72 words, 65.31% quotes)
+- ✅ Ephesians 3:2 bht prompt v5 (79 words, 76.27% quotes)

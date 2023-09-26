@@ -1,7 +1,7 @@
 # Ephesians 6:4 Commentary Help Text
 
 ## BHT:
-Fathers are often prone to be stern and severe, which can lead to anger and rebellion in their children. Parents should be careful not to unnecessarily provoke their children to anger, as this can alienate them and render their guidance ineffective. Instead, parents should bring up their children with tenderness and mildness, nurturing and correcting them in a manner that reflects the love and admonition of the Lord.
+Parents, particularly fathers, should be careful not to provoke their children to anger. While it is their responsibility to correct and rebuke them, they must be aware that provoking them alienates their minds and renders their instructions useless. Fathers, in particular, may be prone to being too stern and severe. Instead, parents should bring up their children with tenderness and mildness, nurturing them in the ways of the Lord through instruction, setting good examples, and providing a nurturing and loving environment.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Fathers are often prone to be stern and severe, which can lead to anger and rebe
 2. "Kind and liberal treatment has rather a tendency to cherish reverence for their parents, and to increase the cheerfulness and activity of their obedience, while a harsh and unkind manner rouses them to obstinacy, and destroys the natural affections."
 3. "Let their conduct towards their children be at once mild and considerate, so as to guide them in the fear of the Lord, and correct them also when they go astray."
 
+### Philip Schaff:
+1. "‘It is the hasty, rough, moody treatment of children, so that, without childish confidence, without joyful obedience, they are repelled and enticed to opposition, defiance, and bitterness." 
+2. "‘Discipline’ includes training as well as punishment; ‘admonition,’ warning and kind exhortation; the former is in deed, the latter in word."
+3. "The responsibility of such training rests primarily on the parents, though they often seek to shift it to pastors and teachers."
+
 ### Archibald T. Robertson:
 1. "Provoke not to anger... Paul here touches the common sin of fathers."
 2. "In the chastening and admonition of the Lord... It is possible... that this is the meaning here."
@@ -50,15 +55,15 @@ Fathers are often prone to be stern and severe, which can lead to anger and rebe
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 68
-- BHT Commentary Usage: 74.47%
-- BHT Quality Score: 83.53191489361701
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 81
+- BHT Commentary Usage: 84.48%
+- BHT Quality Score: 84.51724137931033
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (13):
-	['alienate', 'careful', 'correcting', 'guidance', 'ineffective', 'instead', 'love', 'nurturing', 'often', 'rebellion', 'reflects', 'render', 'unnecessarily']
-- ChatGPT injected words (significant words only) (12):
-	['alienate', 'careful', 'correcting', 'guidance', 'ineffective', 'instead', 'love', 'nurturing', 'rebellion', 'reflects', 'render', 'unnecessarily']
+- ChatGPT injected words (11):
+	['aware', 'careful', 'environment', 'instead', 'instruction', 'loving', 'must', 'nurturing', 'particular', 'providing', 'through']
+- ChatGPT injected words (significant words only) (9):
+	['aware', 'careful', 'environment', 'instead', 'instruction', 'loving', 'nurturing', 'particular', 'providing']
 
 ### Logs
-- ✅ Ephesians 6:4 bht prompt v5 (68 words, 74.47% quotes)
+- ✅ Ephesians 6:4 bht prompt v5 (81 words, 84.48% quotes)

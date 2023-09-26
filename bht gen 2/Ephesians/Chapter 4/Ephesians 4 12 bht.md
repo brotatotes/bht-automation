@@ -1,7 +1,7 @@
 # Ephesians 4:12 Commentary Help Text
 
 ## BHT:
-The goal of the ministry of the word is to perfect and complete the saints, both in number and in their various gifts and graces. It serves as a means to carry on the work of grace in the believers, leading them towards perfection. Through the preaching of the Gospel and the exercise of spiritual gifts, the church is built up, and the body of Christ is edified in faith, love, and holiness.
+The purpose of this passage is to ensure that Christians are equipped for complete growth in love, knowledge, and order. It is clear that Christ did not limit the church to only three orders of clergy, but rather intended for there to be one permanent order of ministers. Through the ministry of the word, believers are brought to completion and the body of Christ is built up in faith, love, and holiness.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The goal of the ministry of the word is to perfect and complete the saints, both
 2. "Our true completeness and perfection consist in our being united in the one body of Christ. No language more highly commendatory of the ministry of the word could have been employed, than to ascribe to it this effect."
 3. "If the edification of the church proceeds from Christ alone, he has surely a right to prescribe in what manner it shall be edified. But Paul expressly states, that, according to the command of Christ, no real union or perfection is attained, but by the outward preaching."
 
+### Philip Schaff:
+1. "For the perfecting of the saints, unto all that variety of service, essential unto the building up of the body of Christ."
+2. "He gave some, etc., to fulfill the work of ministration, and to build up the body of Christ; His purpose being to perfect the saints."
+3. "The service is not merely philanthropic ministration; it has in view the growth and strengthening of the 'one body.'"
+
 ### Archibald T. Robertson:
 1. "For the mending (repair) of the saints."
 2. "This is the ultimate goal in all these varied gifts, 'building up.'"
@@ -43,15 +48,18 @@ The goal of the ministry of the word is to perfect and complete the saints, both
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 89.13%
-- BHT Quality Score: 73.86956521739131
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (6):
-	['carry', 'exercise', 'leading', 'perfect', 'serves', 'towards']
-- ChatGPT injected words (significant words only) (5):
-	['carry', 'exercise', 'leading', 'perfect', 'serves']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 72
+- BHT Commentary Usage: 86.0%
+- BHT Quality Score: 76.0
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (8):
+	['brought', 'completion', 'ensure', 'equipped', 'intended', 'limit', 'only', 'passage']
+- ChatGPT injected words (significant words only) (7):
+	['brought', 'completion', 'ensure', 'equipped', 'intended', 'limit', 'passage']
 
 ### Logs
-- ✅ Ephesians 4:12 bht prompt v5 (73 words, 89.13% quotes)
+- 🔄 Ephesians 4:12 (attempt 1, 86 words, 98.15% quotes, quality score: 65.85185185185185) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 4:12 bht prompt v5 (72 words, 86.0% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 5:24 Commentary Help Text
 
 ## BHT:
-The Church submits to Christ as the wife submits to her husband, recognizing his authority and seeking his provision, protection, and happiness. In the same way, husbands should exercise their authority in accordance with God's will and commands. Wives should respect and obey their husbands, not in the same way as they do to Christ for salvation, but with a sincere and voluntary obedience rooted in love. This submission encompasses all aspects of life, as long as it aligns with God's commands.
+The Church, in its submission to Christ, exemplifies the wife's submission to her husband. This submission extends to everything that is not contrary to God's will. The husband has authority over the wife, just as Christ has authority over the Church. Wives should respect and obey their husbands, considering his commands to be right and obeying them willingly out of love for him, coupled with honor, fear, and reverence.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -22,6 +22,11 @@ The Church submits to Christ as the wife submits to her husband, recognizing his
 2. "Let wives know, that their husbands, though they cannot produce equal claims, have authority over them, after the example of Christ."
 3. "I prefer the former interpretation; for the argument derived from the word but, (ἀλλά,) does not appear to me to have much weight."
 
+### Philip Schaff:
+1. "But. This is strongly adversative; notwithstanding this difference the resemblance in the matter of duty remains. The other explanations are far less satisfactory."
+2. "As the church is subject to Christ (the word is the same as that rendered ‘submit yourselves’ in Ephesians 5:21-22), so let the wives also be to their husbands."
+3. "The submission is ‘in everything,’ but this phrase ‘teaches its extent, not its degree. It extends over all departments, but is limited in all, first, by the nature of the relation; and secondly, by the higher authority of God’ (Hodge)."
+
 ### Archibald T. Robertson:
 1. "But (αλλα). Perhaps, 'nevertheless,' in spite of the difference just noted."
 2. "Once again the verb υποτασσω has to be supplied in the principal clause before τοις ανδρασιν either as indicative (υποτασσοντα) or as imperative (υποτασσεσθωσαν)." 
@@ -39,17 +44,15 @@ The Church submits to Christ as the wife submits to her husband, recognizing his
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 76.36%
-- BHT Quality Score: 89.63636363636363
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (16):
-	['accordance', 'aligns', 'aspects', 'do', 'encompasses', 'exercise', 'life', 'long', 'obey', 'recognizing', 'rooted', 'same', 'seeking', 'should', 'submits', 'way']
-- ChatGPT injected words (significant words only) (13):
-	['accordance', 'aligns', 'aspects', 'encompasses', 'exercise', 'life', 'long', 'obey', 'recognizing', 'rooted', 'seeking', 'submits', 'way']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 71
+- BHT Commentary Usage: 86.27%
+- BHT Quality Score: 74.72549019607843
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (8):
+	['considering', 'coupled', 'exemplifies', 'honor', 'obey', 'obeying', 'should', 'willingly']
+- ChatGPT injected words (significant words only) (7):
+	['considering', 'coupled', 'exemplifies', 'honor', 'obey', 'obeying', 'willingly']
 
 ### Logs
-- 🔄 Ephesians 5:24 (attempt 1, 112 words, 75.76% quotes, quality score: 62.242424242424235) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 5:24 bht prompt v5 (84 words, 76.36% quotes)
+- ✅ Ephesians 5:24 bht prompt v5 (71 words, 86.27% quotes)

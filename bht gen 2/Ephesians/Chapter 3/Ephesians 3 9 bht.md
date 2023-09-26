@@ -1,7 +1,7 @@
 # Ephesians 3:9 Commentary Help Text
 
 ## BHT:
-The fellowship of the mystery is the sharing of the hidden blessings that all believers partake in. These blessings were concealed by God from eternity, showcasing the richness and secrecy of his plan. Through the ministry of the word, which serves as a means of enlightenment, men can come to understand and participate in these mysterious blessings. This divine plan, rooted in God's love, laid the foundation for the creation of all things.
+The purpose of the gospel is not merely to teach men, but to enlighten them by shining the light on the fellowship of the mystery. This mystery refers to the union of Jews and Gentiles in Christ, a plan that had been concealed in the depths of God's wisdom. The revelation of this mystery through the Church demonstrates God's sovereignty as the creator of all things. It is a truth that exceeds our understanding but should be approached with reverence and admiration, for it unveils the unsearchable riches of Christ. (91 words)
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The fellowship of the mystery is the sharing of the hidden blessings that all be
 2. "Who will question the right which God has to keep his own purposes concealed, until he shall be pleased to communicate them to men? What presumption, — yea, what madness is it, not to admit that God is wiser than we!"
 3. "This, too, is the reason why he calls them the unsearchable riches of Christ; intimating that this subject, though it exceeds our capacity, ought to be contemplated with reverence and admiration."
 
+### Philip Schaff:
+1. "Not simply to teach all men, but to enlighten all, which is to be accomplished by means of the gospel."
+2. "The mystery is the union of the Jews and Gentiles in Christ, not however independently of the wider reference."
+3. "This mention of God’s omnipotence is probably not suggested by the thought of hiding but serves to indicate that God, as sovereign creator, included in His purpose this ‘mystery’ and the arrangement by means of which it was carried out."
+
 ### Archibald T. Robertson:
 1. "To make see (φωτισα). First aorist active infinitive of φοτιζω, late verb, to turn the light on."
 2. "With the eyes of the heart enlightened (Ephesians 1:18) one can then turn the light for others to see."
@@ -49,15 +54,17 @@ The fellowship of the mystery is the sharing of the hidden blessings that all be
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 78.85%
-- BHT Quality Score: 85.15384615384615
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (12):
-	['come', 'divine', 'enlightenment', 'laid', 'participate', 'rooted', 's', 'serves', 'sharing', 'showcasing', 'understand', 'were']
-- ChatGPT injected words (significant words only) (11):
-	['come', 'divine', 'enlightenment', 'laid', 'participate', 'rooted', 's', 'serves', 'sharing', 'showcasing', 'understand']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 79.03%
+- BHT Quality Score: 77.96774193548387
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (14):
+	['approached', 'demonstrates', 'depths', 'merely', 'refers', 'revelation', 'shining', 'should', 'sovereignty', 'truth', 'understanding', 'unveils', 'wisdom', 'words']
+- ChatGPT injected words (significant words only) (13):
+	['approached', 'demonstrates', 'depths', 'merely', 'refers', 'revelation', 'shining', 'sovereignty', 'truth', 'understanding', 'unveils', 'wisdom', 'words']
 
 ### Logs
-- ✅ Ephesians 3:9 bht prompt v5 (74 words, 78.85% quotes)
+- 🔄 Ephesians 3:9 (attempt 1, 111 words, 76.39% quotes, quality score: 62.611111111111114) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 3:9 bht prompt v5 (93 words, 79.03% quotes)

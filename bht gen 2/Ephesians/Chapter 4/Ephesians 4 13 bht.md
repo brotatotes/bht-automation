@@ -1,7 +1,7 @@
 # Ephesians 4:13 Commentary Help Text
 
 ## BHT:
-The goal for all believers is to reach a complete agreement in our understanding of Christian doctrine and to have a personal, experiential knowledge of Christ as the Son of God. This unity of faith and knowledge is necessary for us to grow and mature spiritually, both in our understanding and strength. Ultimately, our aim is to reach a level of spiritual maturity where we are filled with Christ and He becomes the all-consuming focus in our lives.
+Through the gospel ministry, believers are called to come together in a complete unity of faith and knowledge about Christ. This unity involves not only agreeing on the Christian doctrine but also experiencing a personal knowledge of Christ as the Son of God. The goal is for believers to reach a state of spiritual maturity, where they have a deep understanding and strength in their faith. This maturity is symbolized by the measure of the stature of the fulness of Christ, where believers are filled with Christ, making Him their all in all.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The goal for all believers is to reach a complete agreement in our understanding
 2. "But Paul maintains that we must persevere in this course till all our deficiencies are supplied; that we must make progress till death, under the teaching of Christ alone."
 3. "In the unity of the faith. But ought not the unity of the faith to reign among us from the very commencement? It does reign, I acknowledge, among the sons of God, but not so perfectly as to make them come together."
 
+### Philip Schaff:
+1. "The unity of the faith, and of the knowledge of the Son of God... The unity is rather that of the individual believers resulting from that perfect faith and that perfect knowledge which corresponds with the perfect object of both, namely, the Son of God." 
+2. "Unto a full-grown man... the measure of the stature of the fulness of Christ... Spiritual maturity is meant, and this maturity is conditioned by 'the fulness of Christ.'" 
+3. "This is the goal set before the Church on earth; until it is reached Christ will give men to do His work in official position, and this goal should be ever before them."
+
 ### Archibald T. Robertson:
 1. "The whole" including every individual. Hence the need of so many gifts.
 2. "Unto oneness of faith" (of trust) in Christ which the Gnostics were disturbing.
@@ -44,15 +49,15 @@ The goal for all believers is to reach a complete agreement in our understanding
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 68.63%
-- BHT Quality Score: 97.62745098039215
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 83.05%
+- BHT Quality Score: 73.94915254237287
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (18):
-	['aim', 'becomes', 'believers', 'complete', 'consuming', 'experiential', 'focus', 'goal', 'grow', 'level', 'lives', 'mature', 'necessary', 'personal', 'reach', 'spiritually', 'ultimately', 'where']
-- ChatGPT injected words (significant words only) (16):
-	['aim', 'believers', 'complete', 'consuming', 'experiential', 'focus', 'goal', 'grow', 'level', 'lives', 'mature', 'necessary', 'personal', 'reach', 'spiritually', 'ultimately']
+- ChatGPT injected words (13):
+	['agreeing', 'also', 'called', 'complete', 'deep', 'experiencing', 'involves', 'making', 'only', 'personal', 'reach', 'symbolized', 'where']
+- ChatGPT injected words (significant words only) (10):
+	['agreeing', 'called', 'complete', 'deep', 'experiencing', 'involves', 'making', 'personal', 'reach', 'symbolized']
 
 ### Logs
-- ✅ Ephesians 4:13 bht prompt v5 (79 words, 68.63% quotes)
+- ✅ Ephesians 4:13 bht prompt v5 (93 words, 83.05% quotes)

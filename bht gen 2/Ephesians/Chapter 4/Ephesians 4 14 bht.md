@@ -1,7 +1,7 @@
 # Ephesians 4:14 Commentary Help Text
 
 ## BHT:
-Believers are warned not to remain children in their understanding and faith, constantly susceptible to the influence of false teachings. Just as ships without a fixed course are tossed about by every wind, those who lack solid knowledge of Christ are easily swayed by the changing philosophies and doctrines of others. These deceitful teachings, presented with cunning and manipulation, aim to lead believers astray and cloud their judgment. It is crucial to anchor oneself in the truth of God's Word and be discerning, as the enemies of Christ employ clever tactics to deceive and mislead.
+Christians must endeavor to grow in their understanding and maturity. They should not remain as children, swayed easily by different teachings, but instead should strive for discernment and stability. They should be anchored in the knowledge of Christ, not at the mercy of every passing doctrine. The danger lies in being tossed to and fro, like a ship in a storm, influenced by the deceitful cunning of others who manipulate the truth. It is important to be steadfast and unwavering in the face of such deception.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -25,6 +25,11 @@ Believers are warned not to remain children in their understanding and faith, co
 2. "The distressing hesitation of those who do not place absolute reliance on the word of the Lord, is illustrated by two striking metaphors. The first is taken from small ships, exposed to the fury of the billows in the open sea, holding no fixed course, guided neither by skill nor design, but hurried along by the violence of the tempest."
 3. "When Papists avail themselves of the disguise of the church for burying doctrine, they give sufficient proof that they have a diabolical synagogue."
 
+### Philip Schaff:
+1. "We be no longer children; immature, small, feeble, imperfect."
+2. "Tossed as waves; like the waves, 'fluctuating' (Vulgate); others prefer 'tossed to and fro,' as a deserted ship. Excitable and unsteady, as children are."
+3. "In the sleight of men. 'Men,' with their variety of teaching and trickery, are substituted for Christ the true guide."
+
 ### Archibald T. Robertson:
 1. "Some Christians are quite content to remain 'babes' in Christ and never cut their eye-teeth... the victims of every charlatan who comes along." 
 2. "If not anchored by full knowledge of Christ, folks are at the mercy of these squalls."
@@ -45,15 +50,15 @@ Believers are warned not to remain children in their understanding and faith, co
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 56.34%
-- BHT Quality Score: 70.3380281690141
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 86
+- BHT Commentary Usage: 66.13%
+- BHT Quality Score: 90.12903225806453
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (32):
-	['aim', 'anchor', 'believers', 'changing', 'clever', 'cloud', 'constantly', 'crucial', 'cunning', 'deceitful', 'discerning', 'employ', 'enemies', 'faith', 'false', 'influence', 'judgment', 'just', 'lack', 'lead', 'manipulation', 'mislead', 'oneself', 'philosophies', 'presented', 's', 'solid', 'susceptible', 'swayed', 'tactics', 'truth', 'warned']
-- ChatGPT injected words (significant words only) (31):
-	['aim', 'anchor', 'believers', 'changing', 'clever', 'cloud', 'constantly', 'crucial', 'cunning', 'deceitful', 'discerning', 'employ', 'enemies', 'faith', 'false', 'influence', 'judgment', 'lack', 'lead', 'manipulation', 'mislead', 'oneself', 'philosophies', 'presented', 's', 'solid', 'susceptible', 'swayed', 'tactics', 'truth', 'warned']
+- ChatGPT injected words (23):
+	['being', 'cunning', 'danger', 'deceitful', 'deception', 'discernment', 'endeavor', 'face', 'grow', 'important', 'instead', 'lies', 'manipulate', 'maturity', 'must', 'passing', 'stability', 'steadfast', 'storm', 'strive', 'swayed', 'truth', 'unwavering']
+- ChatGPT injected words (significant words only) (21):
+	['cunning', 'danger', 'deceitful', 'deception', 'discernment', 'endeavor', 'face', 'grow', 'important', 'instead', 'lies', 'manipulate', 'maturity', 'passing', 'stability', 'steadfast', 'storm', 'strive', 'swayed', 'truth', 'unwavering']
 
 ### Logs
-- ✅ Ephesians 4:14 bht prompt v5 (96 words, 56.34% quotes)
+- ✅ Ephesians 4:14 bht prompt v5 (86 words, 66.13% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 6:23 Commentary Help Text
 
 ## BHT:
-Peace to you is a common greeting used in the East and here it means prosperity, both outward and inward, in every area of life. The apostle Paul wishes the Ephesians to live in peace and harmony with one another, and he prays that their love for one another may always accompany their faith. This love is a love for the brotherhood, expressing itself in acts of kindness and unity. This peace, love, and faith are all gifts from God the Father and the Lord Jesus Christ, and they are equally desired and bestowed by both.
+The desire expressed in this passage is for an increase in the graces of love and faith, accompanied by peace among the brethren. It is emphasized that this peace encompasses all aspects of prosperity, both temporal and eternal. These graces of love and faith are gifts bestowed by God and are equally desired from God the Father and the Lord Jesus Christ, symbolizing the plurality and equality within the Godhead.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -23,6 +23,11 @@ Peace to you is a common greeting used in the East and here it means prosperity,
 2. "He wishes the Ephesians to be peaceable and quiet among themselves; and this, he presently adds, may be obtained by brotherly love and by agreement in faith."
 3. "From this prayer we learn that faith and love, as well as peace itself, are gifts of God bestowed upon us through Christ, — that they come equally from God the Father and the Lord Jesus Christ."
 
+### Philip Schaff:
+1. "This double greeting is quite peculiar: it is in the third person, although Ephesians 6:21-22 were in the second; 'peace' comes before 'grace', reversing the usual order, while the two-fold form is quite as peculiar."
+2. "And love with faith; the latter is pre-supposed in the use of the term 'brethren;' in inseparable connection with this he wishes for love, Christian love of the brethren. Without faith love cannot exist; 'faith is the characteristic of proper love (as Galatians 5:6), love is the characteristic of proper faith’ (Harless)."
+3. "From God the Father, etc. The form is the usual one; comp. chap. Ephesians 1:2."
+
 ### Archibald T. Robertson:
 1. "Love of the brotherhood accompanied by faith in Christ." 
 2. "An expression of love and faith."
@@ -40,17 +45,17 @@ Peace to you is a common greeting used in the East and here it means prosperity,
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 80.95%
-- BHT Quality Score: 73.04761904761904
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 70
+- BHT Commentary Usage: 85.11%
+- BHT Quality Score: 74.89361702127658
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (19):
-	['acts', 'another', 'apostle', 'area', 'both', 'every', 'expressing', 'greeting', 'harmony', 'here', 'kindness', 'life', 'live', 'means', 'one', 'paul', 'their', 'unity', 'used']
-- ChatGPT injected words (significant words only) (12):
-	['acts', 'apostle', 'area', 'expressing', 'greeting', 'harmony', 'kindness', 'life', 'live', 'means', 'paul', 'unity']
+- ChatGPT injected words (9):
+	['aspects', 'both', 'desire', 'emphasized', 'encompasses', 'expressed', 'passage', 'symbolizing', 'within']
+- ChatGPT injected words (significant words only) (7):
+	['aspects', 'desire', 'emphasized', 'encompasses', 'expressed', 'passage', 'symbolizing']
 
 ### Logs
-- 🔄 Ephesians 6:23 (attempt 1, 110 words, 73.61% quotes, quality score: 66.38888888888889) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 6:23 bht prompt v5 (96 words, 80.95% quotes)
+- 🔄 Ephesians 6:23 (attempt 1, 73 words, 83.33% quotes, quality score: 79.66666666666666) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 6:23 bht prompt v5 (70 words, 85.11% quotes)

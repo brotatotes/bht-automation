@@ -1,7 +1,7 @@
 # Ephesians 1:21 Commentary Help Text
 
 ## BHT:
-Christ's authority extends far above all principality, authority, power, and dominion. He is the King of kings and Lord of lords, exalted above every name and title conceivable. His wisdom surpasses all, and He reigns over all ranks of creatures, no matter how exalted. The glory of men and angels pales in comparison to the unmatched splendor of Christ. His dominion encompasses the present world and the future life, making all things subject to His sovereignty. From the heavenly realms to earthly rulers, there is no authority that does not bow before the majestic power and authority of Christ.
+Christ, both as God and man, is exalted above all angels, both good and evil. He triumphed over the evil angels during his time on earth and continues to have authority over them. Additionally, Christ has supreme authority over civil magistrates and all earthly rulers. Not only do they receive their power from him, but they are also accountable to him. Furthermore, Christ's dominion extends beyond the earthly realm to include all those who will be revealed in the future. In summary, Christ's authority is unrivaled, encompassing all realms and all beings, both seen and unseen.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Christ's authority extends far above all principality, authority, power, and dom
 2. "Paul constantly labors to prevent this imaginary lustre of angels from dazzling the eyes of men, or obscuring the brightness of Christ."
 3. "The glories of men and angels are made to hold an inferior place, that the glory of Christ, unequalled and unapproached, may shine above them all."
 
+### Philip Schaff:
+1. "'Over above'...the ideas of dominion and eminence are, however, suggested by the context." 
+2. "These four terms occur frequently in the N. T. in different combinations. They usually refer to angelic powers, either good or bad."
+3. "'A name can be uttered, whatever it may be, Christ is above it, more exalted than that which the uttered name expresses.'"
+
 ### Archibald T. Robertson:
 1. "Paul claims primacy for Jesus Christ above all angels, aeons, what not."
 2. "These titles all were used in the Gnostic speculations with a graduated angelic hierarchy."
@@ -44,17 +49,15 @@ Christ's authority extends far above all principality, authority, power, and dom
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 68.75%
-- BHT Quality Score: 78.75
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (24):
-	['before', 'bow', 'comparison', 'does', 'earthly', 'encompasses', 'extends', 'heavenly', 'how', 'majestic', 'making', 'matter', 'no', 'pales', 'realms', 'reigns', 'rulers', 's', 'sovereignty', 'splendor', 'surpasses', 'things', 'title', 'unmatched']
-- ChatGPT injected words (significant words only) (20):
-	['bow', 'comparison', 'earthly', 'encompasses', 'extends', 'heavenly', 'majestic', 'making', 'matter', 'pales', 'realms', 'reigns', 'rulers', 's', 'sovereignty', 'splendor', 'surpasses', 'things', 'title', 'unmatched']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 98
+- BHT Commentary Usage: 73.53%
+- BHT Quality Score: 78.4705882352941
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (25):
+	['additionally', 'beings', 'beyond', 'both', 'continues', 'do', 'during', 'earthly', 'encompassing', 'extends', 'furthermore', 'has', 'have', 'include', 'realm', 'realms', 'rulers', 's', 'seen', 'summary', 'supreme', 'triumphed', 'unrivaled', 'unseen', 'will']
+- ChatGPT injected words (significant words only) (18):
+	['additionally', 'beings', 'continues', 'earthly', 'encompassing', 'extends', 'furthermore', 'include', 'realm', 'realms', 'rulers', 's', 'seen', 'summary', 'supreme', 'triumphed', 'unrivaled', 'unseen']
 
 ### Logs
-- 🔄 Ephesians 1:21 (attempt 1, 101 words, 64.79% quotes, quality score: 73.7887323943662) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:21 bht prompt v5 (100 words, 68.75% quotes)
+- ✅ Ephesians 1:21 bht prompt v5 (98 words, 73.53% quotes)

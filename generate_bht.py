@@ -475,7 +475,7 @@ if __name__ == '__main__':
         "Albert Barnes",
         "Marvin Vincent",
         "John Calvin",
-        # "Philip Schaff",
+        "Philip Schaff",
         "Archibald T. Robertson",
         "John Gill",
         "John Wesley"

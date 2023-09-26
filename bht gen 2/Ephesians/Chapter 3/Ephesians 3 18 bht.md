@@ -1,7 +1,7 @@
 # Ephesians 3:18 Commentary Help Text
 
 ## BHT:
-Believers are urged to be deeply rooted and firmly established in love. This entails having a comprehensive grasp of the vastness of Christ's love, which extends to all of humanity. It also involves recognizing the deep wisdom of this love, imbued with divine mystery that surpasses human understanding. Furthermore, this love reaches heights that cannot be overcome by any adversary. By being firmly rooted in the love of Christ, believers are equipped to stand firm and experience the fullness of God's love and grace.
+The purpose of being rooted and grounded in love is so that believers, along with all the saints, may have a broader understanding of the vast dimensions of Christ's love. It is a love that extends across the world, embracing all people, and possesses a depth that cannot be fully comprehended by any creature. Furthermore, its height cannot be reached by any enemy. It is in this love that we find our firm foundation and deep-rooted faith.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Believers are urged to be deeply rooted and firmly established in love. This ent
 2. "By desiring that they should comprehend it with all saints, he shows that it is the most excellent blessing which they can obtain in the present life; that it is the highest wisdom, to which all the children of God aspire."
 3. "Laying aside the views of others, I shall state what will be universally acknowledged to be the simple and true meaning."
 
+### Philip Schaff:
+1. "May be fully able, or, 'may be strong enough,' suggesting difficulty, and the need of exertion."
+2. "To comprehend. Philippians 3:12-13: 'apprehend,' a rendering which is perhaps too weak, since, both here and there, more is meant than an intellectual apprehension, namely, a spiritual perception and inward experience."
+3. "What is the breadth, and length, and depth, and height. Many authorities read: 'height and depth; but the early scribes might readily have substituted this reading for the less usual one. The discovery of the Sinaitic manuscript leaves the weight of evidence in favor of the received order. The Apostle here sets forth the 'greatness' (chap. Ephesians 1:19; Ephesians 1:19) of the object he has in mind, borrowing the terms of mathematical magnitude (sacra illa Pauli mathematica)"
+
 ### Archibald T. Robertson:
 1. "That ye may be strong...to have full strength." 
 2. "To apprehend...to grasp."
@@ -44,17 +49,15 @@ Believers are urged to be deeply rooted and firmly established in love. This ent
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 56.14%
-- BHT Quality Score: 80.14035087719299
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (27):
-	['adversary', 'also', 'believers', 'cannot', 'deep', 'divine', 'entails', 'equipped', 'experience', 'extends', 'firm', 'fullness', 'furthermore', 'grace', 'having', 'heights', 'human', 'humanity', 'imbued', 'involves', 'mystery', 'overcome', 'recognizing', 'stand', 'surpasses', 'understanding', 'urged']
-- ChatGPT injected words (significant words only) (25):
-	['adversary', 'believers', 'deep', 'divine', 'entails', 'equipped', 'experience', 'extends', 'firm', 'fullness', 'furthermore', 'grace', 'having', 'heights', 'human', 'humanity', 'imbued', 'involves', 'mystery', 'overcome', 'recognizing', 'stand', 'surpasses', 'understanding', 'urged']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 79
+- BHT Commentary Usage: 72.22%
+- BHT Quality Score: 96.77777777777777
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (20):
+	['across', 'along', 'believers', 'broader', 'cannot', 'comprehended', 'deep', 'extends', 'faith', 'find', 'firm', 'foundation', 'furthermore', 'our', 'people', 'possesses', 'purpose', 'understanding', 'vast', 'we']
+- ChatGPT injected words (significant words only) (15):
+	['believers', 'broader', 'comprehended', 'deep', 'extends', 'faith', 'find', 'firm', 'foundation', 'furthermore', 'people', 'possesses', 'purpose', 'understanding', 'vast']
 
 ### Logs
-- 🔄 Ephesians 3:18 (attempt 1, 72 words, 67.35% quotes, quality score: 89.34693877551021) 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 3:18 bht prompt v5 (86 words, 56.14% quotes)
+- ✅ Ephesians 3:18 bht prompt v5 (79 words, 72.22% quotes)

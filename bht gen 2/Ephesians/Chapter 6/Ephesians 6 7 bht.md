@@ -1,7 +1,7 @@
 # Ephesians 6:7 Commentary Help Text
 
 ## BHT:
-To their masters, slaves are encouraged to approach their responsibilities not grudgingly or with ill will, but with a readiness and cheerfulness. They should take delight in their work and view it as a sacrifice to God. This mindset of doing everything as unto the Lord, rather than for men, is emphasized. By having an eye to God in all things, slaves can serve their masters with a sense of purpose and devotion, recognizing that ultimately it is God who appointed and regulates all the arrangements of society.
+Believers are urged to serve their masters with good will and a ready mind, not begrudgingly or with an ill will. They are called to approach their work with a cheerful spirit, taking delight in what they do. This should be done as if they are offering every action as a sacrifice to God, having an eye to Him in all things, even as if there were no other master. Their service should be done not just because it is the will of men, but because it is the will of the Lord.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -23,6 +23,11 @@ To their masters, slaves are encouraged to approach their responsibilities not g
 2. "Whoever reads the accounts of the dispositions and conduct of slaves, which are scattered through the writings of the ancients, will be at no loss to perceive that the number of injunctions here given does not exceed that of the diseases which prevailed among this class."
 3. "It is God who appoints and regulates all the arrangements of society. As the condition of servants is much more agreeable than that of slaves in ancient times, they ought to consider themselves far less excusable if they do not endeavor, in every way, to comply with Paul’s injunctions."
 
+### Philip Schaff:
+1. "The word is not that sometimes rendered ‘good pleasure,’ but another which implies a well-disposed mind."
+2. "The work is to be done ‘from the soul,’ heartily, but this phrase refers to the disposition to the master."
+3. "Doing service, as to the Lord, and not to men. This virtually sums up Ephesians 6:6, and returns to the motive to Ephesians 6:5: ‘as to Christ.’"
+
 ### Archibald T. Robertson:
 1. "With good will (μετ' ευνοιας). Not in Col. Old word from ευνοος, only here in N.T." 
 2. "ευνοεω is in N.T. only in Matthew 5:25."
@@ -40,15 +45,15 @@ To their masters, slaves are encouraged to approach their responsibilities not g
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 76.19%
-- BHT Quality Score: 85.80952380952381
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 88.71%
+- BHT Quality Score: 68.29032258064515
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (18):
-	['appointed', 'approach', 'cheerfulness', 'devotion', 'emphasized', 'encouraged', 'everything', 'mindset', 'rather', 'readiness', 'recognizing', 'responsibilities', 'sense', 'serve', 'take', 'ultimately', 'unto', 'view']
-- ChatGPT injected words (significant words only) (15):
-	['appointed', 'approach', 'cheerfulness', 'devotion', 'emphasized', 'encouraged', 'mindset', 'readiness', 'recognizing', 'responsibilities', 'sense', 'serve', 'ultimately', 'unto', 'view']
+- ChatGPT injected words (7):
+	['approach', 'begrudgingly', 'believers', 'called', 'offering', 'serve', 'urged']
+- ChatGPT injected words (significant words only) (7):
+	['approach', 'begrudgingly', 'believers', 'called', 'offering', 'serve', 'urged']
 
 ### Logs
-- ✅ Ephesians 6:7 bht prompt v5 (88 words, 76.19% quotes)
+- ✅ Ephesians 6:7 bht prompt v5 (93 words, 88.71% quotes)

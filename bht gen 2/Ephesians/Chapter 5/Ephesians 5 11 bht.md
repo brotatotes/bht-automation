@@ -1,7 +1,7 @@
 # Ephesians 5:11 Commentary Help Text
 
 ## BHT:
-To avoid evil companionship is not enough; we are called to reprove them. This means not merely withdrawing from their presence, but actively and openly disapproving of their unfruitful works. By reproving sin through our own virtuous conduct, we shed light on darkness. Our actions should serve as a beacon, exposing the deformity of sin and compelling those in its grip to turn away. Let our lives exemplify goodness, radiating such intense splendor that vice cannot help but shrink back in its presence.
+Reprove them by shining the light of truth on their darkness, not just avoiding them. By exposing their works of darkness, we can bring conviction to their hearts and potentially lead them to a path of repentance and transformation.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ To avoid evil companionship is not enough; we are called to reprove them. This m
 2. "We must abstain from giving any consent, or advice, or approbation, or assistance; for in all these ways we have fellowship."
 3. "Where a manifest offense is committed against God, every man will be eager to vindicate himself from any share in the guilt, but very few will guard against connivance; nearly all will practice some kind of dissimulation."
 
+### Philip Schaff:
+1. "Neither be partakers with the disobedient, nor have fellowship with their works, which are unfruitful works of darkness."
+2. "To have no fellowship is not enough... 'Reprove' points to oral rebuke, such as shows the immorality of such works, quickens the conscience of the person doing them, with a view to his improvement."
+3. "The danger in the application of this command arises from wrong motives in the heart of the reprover, not from any too strict view of the sinfulness of the works of darkness."
+
 ### Archibald T. Robertson:
 1. "Have no fellowship with...unfruitful works."
 
@@ -45,18 +50,18 @@ To avoid evil companionship is not enough; we are called to reprove them. This m
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 53.62%
-- BHT Quality Score: 80.6231884057971
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 39
+- BHT Commentary Usage: 62.07%
+- BHT Quality Score: 51.06896551724139
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (35):
-	['actions', 'actively', 'away', 'back', 'beacon', 'cannot', 'companionship', 'compelling', 'conduct', 'deformity', 'disapproving', 'evil', 'exemplify', 'exposing', 'goodness', 'grip', 'help', 'intense', 'let', 'means', 'merely', 'openly', 'presence', 'radiating', 'reproving', 'serve', 'shed', 'shrink', 'sin', 'splendor', 'through', 'turn', 'vice', 'virtuous', 'withdrawing']
-- ChatGPT injected words (significant words only) (32):
-	['actions', 'actively', 'away', 'beacon', 'companionship', 'compelling', 'conduct', 'deformity', 'disapproving', 'evil', 'exemplify', 'exposing', 'goodness', 'grip', 'help', 'intense', 'let', 'means', 'merely', 'openly', 'presence', 'radiating', 'reproving', 'serve', 'shed', 'shrink', 'sin', 'splendor', 'turn', 'vice', 'virtuous', 'withdrawing']
+- ChatGPT injected words (12):
+	['avoiding', 'bring', 'conviction', 'exposing', 'hearts', 'just', 'lead', 'path', 'potentially', 'repentance', 'transformation', 'truth']
+- ChatGPT injected words (significant words only) (11):
+	['avoiding', 'bring', 'conviction', 'exposing', 'hearts', 'lead', 'path', 'potentially', 'repentance', 'transformation', 'truth']
 
 ### Logs
-- 🔄 Ephesians 5:11 (attempt 1, 107 words, 62.5% quotes, quality score: 65.5) 
-	- BHT WAS OVER 100 WORDS! 
+- 🔄 Ephesians 5:11 (attempt 1, 17 words, 66.67% quotes, quality score: 33.66666666666668) 
+	- BHT WAS UNDER 25 WORDS! 
 	- LIST FORMAT DETECTED!
-- ✅ Ephesians 5:11 bht prompt v5 (83 words, 53.62% quotes)
+- ✅ Ephesians 5:11 bht prompt v5 (39 words, 62.07% quotes)

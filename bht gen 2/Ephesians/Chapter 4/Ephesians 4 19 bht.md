@@ -1,7 +1,7 @@
 # Ephesians 4:19 Commentary Help Text
 
 ## BHT:
-Those who are past feeling have become completely hardened in their sin, without any sense of guilt or shame. This state of being is the result of a gradual process of heart-hardening, where their consciences are seared and they are blinded to the consequences of their actions. They willingly give themselves over to their sinful desires, lacking any self-control or restraint. Their pursuit of these desires is marked by greediness and a disregard for the moral boundaries that should guide their behavior.
+The individuals being described here have undergone a process of hardening in sin that has led to a state of being completely devoid of moral sensitivity. They have reached a point where they no longer experience the pain or conviction that comes from a guilty conscience. As a consequence, they have become indifferent to the consequences of their sinful actions, living a life driven by an insatiable desire for more and more sin. This uncontrolled pursuit of all forms of impurity and debauchery reveals their utter lack of restraint and disregard for moral boundaries.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Those who are past feeling have become completely hardened in their sin, without
 2. "The gnawing of a guilty conscience, tormented by the dread of the Divine judgment, may be compared to the porch of hell; but such hardened security as this — is a whirlpool which swallows up and destroys."
 3. "Lasciviousness appears to me to denote that wantonness with which the flesh indulges in intemperance and licentiousness, when not restrained by the Spirit of God."
 
+### Philip Schaff:
+1. "Being past feeling. One word in Greek, meaning to be unsusceptible of pain, and in this connection, referring to moral pain, not feeling the punishment of conscience."
+2. "Gave themselves up. The same verb is used in Romans 1:24 of the other side of the matter: ‘God gave them up,’ etc. Here, where ‘themselves’ is the emphatic word, the freedom and guilt of men is described. The two are not antagonistic ‘Self-abandonment to deeper sin is the Divine judicial penalty of sin’ (Eadie)."
+3. "To wantonness. The term, derived from the verb meaning to overeat, refers to an unbridled course of conduct, defying public decency, not to any special sin of sensuality. As however sensuality is always implied, ‘wantonness ‘fairly expresses the sense."
+
 ### Archibald T. Robertson:
 1. "Being past feeling (απηλγηκοτες). Perfect active participle of απαλγεω, old word to cease to feel pain, only here in N.T."
 2. "To lasciviousness (τη ασελγεια). Unbridled lust as in 2 Corinthians 12:21; Galatians 5:19."
@@ -49,15 +54,19 @@ Those who are past feeling have become completely hardened in their sin, without
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 69.35%
-- BHT Quality Score: 95.35483870967742
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (24):
-	['actions', 'become', 'behavior', 'blinded', 'boundaries', 'completely', 'consequences', 'control', 'desires', 'disregard', 'gradual', 'guide', 'lacking', 'marked', 'over', 'pursuit', 'restraint', 'shame', 'should', 'sinful', 'state', 'these', 'those', 'willingly']
-- ChatGPT injected words (significant words only) (19):
-	['actions', 'behavior', 'blinded', 'boundaries', 'completely', 'consequences', 'control', 'desires', 'disregard', 'gradual', 'guide', 'lacking', 'marked', 'pursuit', 'restraint', 'shame', 'sinful', 'state', 'willingly']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 94
+- BHT Commentary Usage: 55.22%
+- BHT Quality Score: 71.22388059701493
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (31):
+	['actions', 'become', 'boundaries', 'comes', 'completely', 'consequences', 'conviction', 'debauchery', 'devoid', 'disregard', 'driven', 'experience', 'forms', 'indifferent', 'individuals', 'insatiable', 'lack', 'led', 'living', 'longer', 'point', 'pursuit', 'reached', 'restraint', 'reveals', 'sensitivity', 'sinful', 'state', 'uncontrolled', 'undergone', 'utter']
+- ChatGPT injected words (significant words only) (30):
+	['actions', 'boundaries', 'comes', 'completely', 'consequences', 'conviction', 'debauchery', 'devoid', 'disregard', 'driven', 'experience', 'forms', 'indifferent', 'individuals', 'insatiable', 'lack', 'led', 'living', 'longer', 'point', 'pursuit', 'reached', 'restraint', 'reveals', 'sensitivity', 'sinful', 'state', 'uncontrolled', 'undergone', 'utter']
 
 ### Logs
-- ✅ Ephesians 4:19 bht prompt v5 (84 words, 69.35% quotes)
+- 🔄 Ephesians 4:19 (attempt 1, 65 words, 68.89% quotes, quality score: 83.88888888888889) 
+	- LIST FORMAT DETECTED!
+- 🔄 Ephesians 4:19 (attempt 2, 92 words, 57.14% quotes, quality score: 75.14285714285714) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 4:19 bht prompt v5 (94 words, 55.22% quotes)

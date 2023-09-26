@@ -1,7 +1,7 @@
 # Ephesians 2:22 Commentary Help Text
 
 ## BHT:
-In and upon Christ, as the church at Ephesus was, every particular church, including the church universal, is a building that is compact together. It consists of many parts, joined together, knit, and cemented in love. The ultimate purpose of being built together in this way is to become an habitation of God through the Spirit, a dwelling place where God's presence resides in the believers' midst. This includes all believers, both Jews and Gentiles alike, as they are continuously being built together.
+Believers are brought together and built as a church, resembling a spiritual structure. The purpose is to become a habitation of God in the Spirit. This building process involves all believers, as they are joined and cemented together in love. Each individual believer is meant to be a dwelling place, or temple, of God in the Spirit. God the Father is distinguished from Christ and the Holy Spirit, as this building process is intended to create a place for God's presence in the lives of believers.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ In and upon Christ, as the church at Ephesus was, every particular church, inclu
 1. "It is, I think, an exhortation to the Ephesians to grow more and more in the faith of Christ, after having been once founded in it." 
 2. "Through the Spirit. This is again repeated for two reasons: first, to remind them that all human exertions are of no avail without the operation of the Spirit; and secondly, to point out the superiority of the spiritual building to all Jewish and outward services."
 
+### Philip Schaff:
+1. "Ye also, as included in the previous declaration (Ephesians 2:19-21)."
+2. "Are being builded together, as a continuous process."
+3. "The church, as the mystical body of Christ, is the temple of God."
+
 ### Archibald T. Robertson:
 1. "Ye also are builded together...to build together with others or out of varied materials." 
 2. "Possibly each of us is meant here to be the 'habitation of God in the Spirit' and all together growing 'into a holy temple in the Lord,' a noble conception of the brotherhood in Christ."
@@ -43,15 +48,17 @@ In and upon Christ, as the church at Ephesus was, every particular church, inclu
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 79.66%
-- BHT Quality Score: 86.33898305084746
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (14):
-	['alike', 'both', 'continuously', 'includes', 'including', 'jews', 'midst', 'place', 'presence', 'resides', 's', 'ultimate', 'way', 'where']
-- ChatGPT injected words (significant words only) (12):
-	['alike', 'continuously', 'includes', 'including', 'jews', 'midst', 'place', 'presence', 'resides', 's', 'ultimate', 'way']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 87
+- BHT Commentary Usage: 78.43%
+- BHT Quality Score: 84.56862745098039
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (11):
+	['believer', 'brought', 'create', 'individual', 'intended', 'lives', 'place', 'presence', 'resembling', 's', 'structure']
+- ChatGPT injected words (significant words only) (11):
+	['believer', 'brought', 'create', 'individual', 'intended', 'lives', 'place', 'presence', 'resembling', 's', 'structure']
 
 ### Logs
-- ✅ Ephesians 2:22 bht prompt v5 (84 words, 79.66% quotes)
+- 🔄 Ephesians 2:22 (attempt 1, 89 words, 82.14% quotes, quality score: 78.85714285714286) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 2:22 bht prompt v5 (87 words, 78.43% quotes)

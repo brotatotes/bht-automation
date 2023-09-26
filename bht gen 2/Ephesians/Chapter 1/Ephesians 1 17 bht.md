@@ -1,7 +1,7 @@
 # Ephesians 1:17 Commentary Help Text
 
 ## BHT:
-The Father, who is the glorious Father, radiating infinite glory through His Son Jesus Christ, desires to give you the Spirit of wisdom and revelation. This Spirit, who is the Spirit of promise, is also the Spirit of wisdom and revelation, illuminating the minds of believers with the knowledge of salvation and the deep truths of God. Through the Spirit's work, we can grow in our understanding and knowledge of Him, receiving the wisdom and revelation that leads to true spiritual enlightenment.
+The Father, who possesses the glory that is seen in Christ, desires to grant believers the Spirit of wisdom and revelation. This Spirit, also known as the Spirit of promise, continues to guide and enlighten the faithful in their journey of faith. By imparting wisdom, this Spirit makes believers wise unto salvation and reveals the profound truths of God to them. Through these gifts, believers can grow in their knowledge and understanding of God's plan and purposes.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The Father, who is the glorious Father, radiating infinite glory through His Son
 2. "The Spirit of wisdom and revelation is here put, by a figure of speech, (metonymy,) for the grace which the Lord bestows upon us by his own Spirit."
 3. "Till the Lord opens them, the eyes of our heart are blind. Till the Spirit has become our instructor, all that we know is folly and ignorance."
 
+### Philip Schaff:
+1. "The word here used means, as a rule,’ in order that,’ not ‘so that,’ except as the latter is involved in the former." 
+2. "The Apostle desires for his readers, as the result of the indwelling of the Holy Spirit, ‘wisdom and revelation.’" 
+3. "This petition is a warrant for our expecting spiritual illumination in the study of God’s revelation; but it does not justify our looking for new revelations beyond or contrary to the simple teachings of God’s word, or confounding inspiration and illumination in the interest of mystical self-conceit."
+
 ### Archibald T. Robertson:
 1. "The Father of glory (ο πατηρ της δοξης). The God characterized by glory."
 2. "A spirit of wisdom and revelation (πνευμα σοφιας κα αποκαλυψεως). The Revised Version does not refer this use of πνευμα to the Holy Spirit, but it is open to question if it is possible to obtain this wisdom and revelation apart from the Holy Spirit."
@@ -49,15 +54,15 @@ The Father, who is the glorious Father, radiating infinite glory through His Son
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 81.63%
-- BHT Quality Score: 85.36734693877551
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 78
+- BHT Commentary Usage: 65.38%
+- BHT Quality Score: 93.38461538461539
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (11):
-	['can', 'desires', 'enlightenment', 'grow', 'illuminating', 'minds', 'radiating', 'receiving', 'son', 'through', 'understanding']
-- ChatGPT injected words (significant words only) (9):
-	['desires', 'enlightenment', 'grow', 'illuminating', 'minds', 'radiating', 'receiving', 'son', 'understanding']
+- ChatGPT injected words (21):
+	['can', 'continues', 'enlighten', 'faith', 'gifts', 'grant', 'grow', 'guide', 'imparting', 'journey', 'known', 'makes', 'plan', 'possesses', 'profound', 'purposes', 'reveals', 'seen', 'these', 'through', 'understanding']
+- ChatGPT injected words (significant words only) (18):
+	['continues', 'enlighten', 'faith', 'gifts', 'grant', 'grow', 'guide', 'imparting', 'journey', 'known', 'makes', 'plan', 'possesses', 'profound', 'purposes', 'reveals', 'seen', 'understanding']
 
 ### Logs
-- ✅ Ephesians 1:17 bht prompt v5 (83 words, 81.63% quotes)
+- ✅ Ephesians 1:17 bht prompt v5 (78 words, 65.38% quotes)

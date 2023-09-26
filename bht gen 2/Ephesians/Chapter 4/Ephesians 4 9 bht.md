@@ -1,7 +1,7 @@
 # Ephesians 4:9 Commentary Help Text
 
 ## BHT:
-The ascension of Christ, as highlighted in the passage, necessitates a prior descent. This descent refers to Christ's incarnation, where he humbled himself and took on human form. By descending to the lowest parts of the earth, Christ exemplified his profound humility and his willingness to identify with humanity. This descent served as the foundation for his future ascension and return to heaven. The passage emphasizes the divine nature of Christ, as his descent and subsequent ascent reveal his authority over all creation. Through his incarnation and ascension, Christ fulfills his purpose of redeeming and reconciling humanity to God.
+By affirming the ascension of Christ, the mentioned expression implies a prior descent. This descent signifies Christ's incarnation when he took on human form, humbly entering into the lowest parts of the earth through his birth. It is crucial to note that this descent does not refer to the concept of purgatory or hell, but rather to the humble circumstances of Christ's arrival. Hence, the ascension of Christ can only be understood in light of his previous descent.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ The ascension of Christ, as highlighted in the passage, necessitates a prior des
 2. "If ever there was a time when, after appearing to lay aside the brightness of his power, God ascended gloriously, it was when Christ was raised from our lowest condition on earth, and received into heavenly glory."
 3. "To torture them so as to make them mean purgatory or hell, is exceedingly foolish."
 
+### Philip Schaff:
+1. "What is it, what does it imply, but that he also descended." 
+2. "But whither? Paul says, into the lower parts of the earth." 
+3. "The contrast with Ephesians 4:10, and the evident design to show the power of Christ, favors the view, held by ancient expositors and a number of recent commentators, that the Apostle refers to Christ’s descent into Hades."
+
 ### Archibald T. Robertson:
 1. "Paul picks out the verb αναβας (second aorist active participle of αναβαινω, to go up), changes its form to ανεβη (second aorist indicative), and points the article (το) at it."
 2. "If the αναβας is the Ascension of Christ, then the καταβας would be the Descent (Incarnation) to earth."
@@ -49,19 +54,17 @@ The ascension of Christ, as highlighted in the passage, necessitates a prior des
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 60.66%
-- BHT Quality Score: 70.65573770491804
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 80
+- BHT Commentary Usage: 75.44%
+- BHT Quality Score: 94.56140350877192
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (27):
-	['authority', 'creation', 'divine', 'emphasizes', 'exemplified', 'foundation', 'fulfills', 'future', 'highlighted', 'humbled', 'humility', 'identify', 'necessitates', 'over', 'passage', 'prior', 'profound', 'purpose', 'reconciling', 'redeeming', 'refers', 'reveal', 'served', 'subsequent', 'through', 'willingness', 'with']
-- ChatGPT injected words (significant words only) (24):
-	['authority', 'creation', 'divine', 'emphasizes', 'exemplified', 'foundation', 'fulfills', 'future', 'highlighted', 'humbled', 'humility', 'identify', 'necessitates', 'passage', 'prior', 'profound', 'purpose', 'reconciling', 'redeeming', 'refers', 'reveal', 'served', 'subsequent', 'willingness']
+- ChatGPT injected words (16):
+	['affirming', 'arrival', 'birth', 'circumstances', 'concept', 'crucial', 'entering', 'hence', 'humbly', 'light', 'mentioned', 'note', 'prior', 'signifies', 'through', 'understood']
+- ChatGPT injected words (significant words only) (14):
+	['affirming', 'arrival', 'birth', 'circumstances', 'concept', 'crucial', 'entering', 'humbly', 'light', 'mentioned', 'note', 'prior', 'signifies', 'understood']
 
 ### Logs
-- 🔄 Ephesians 4:9 (attempt 1, 126 words, 67.57% quotes, quality score: 51.56756756756757) 
-	- BHT WAS OVER 100 WORDS! 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
+- 🔄 Ephesians 4:9 (attempt 1, 80 words, 81.13% quotes, quality score: 88.86792452830187) 
 	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 4:9 bht prompt v5 (100 words, 60.66% quotes)
+- ✅ Ephesians 4:9 bht prompt v5 (80 words, 75.44% quotes)

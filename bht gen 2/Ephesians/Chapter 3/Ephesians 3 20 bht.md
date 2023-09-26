@@ -1,7 +1,7 @@
 # Ephesians 3:20 Commentary Help Text
 
 ## BHT:
-God is able to do beyond all things and surpass our expectations, going far beyond what we ask or think. The power that is at work within us enables Him to accomplish this. This doxology highlights the limitless power of God and serves as a reminder of His ability to fulfill our prayers and desires. We are encouraged to approach Him with confidence, knowing that He can go above and beyond what we can imagine or conceive in our minds. His power knows no bounds, and He is more than capable of exceeding our hopes and dreams.
+Now unto Him who is able to do beyond all things, far beyond the things which we ask or think, according to the power which is working in us. This doxology celebrates the greatness of God's power, which is essential and extensive. He can do more than anything that may hinder Him. He knows our needs before we ask, and His provisions exceed our requests. Our highest aspirations are within His power to grant. Let us approach Him with boldness, confident that He is able to do more than we can imagine.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ God is able to do beyond all things and surpass our expectations, going far beyo
 2. "Whatever God can do, he unquestionably will do, if he has promised it."
 3. "Exceeding abundantly above all that we ask or think...the infinite goodness of God will exceed all our wishes and all our thoughts."
 
+### Philip Schaff:
+1. "God can do more than all things that can hinder."
+2. "Having exhausted all the forms of prayer, he casts himself on the infinitude of God, in full confidence that He can and will do all that omnipotence itself can effect."
+3. "This power is that of the indwelling Spirit, and it is according to this power that God is able to do His almighty will."
+
 ### Archibald T. Robertson:
 1. "Paul is fully aware of the greatness of the blessings asked for, but the Doxology ascribes to God the power to do them for us."
 2. "Not simply παντα, but υπερ beyond and above all."
@@ -49,19 +54,19 @@ God is able to do beyond all things and surpass our expectations, going far beyo
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 69.7%
-- BHT Quality Score: 82.6969696969697
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 85.0%
+- BHT Quality Score: 72.0
 - Generate Attempts: 3 / 5
-- ChatGPT injected words (22):
-	['ability', 'approach', 'bounds', 'capable', 'confidence', 'desires', 'dreams', 'enables', 'encouraged', 'expectations', 'fulfill', 'going', 'highlights', 'hopes', 'knowing', 'limitless', 'no', 'reminder', 'serves', 'surpass', 'within', 'work']
-- ChatGPT injected words (significant words only) (20):
-	['ability', 'approach', 'bounds', 'capable', 'confidence', 'desires', 'dreams', 'enables', 'encouraged', 'expectations', 'fulfill', 'going', 'highlights', 'hopes', 'knowing', 'limitless', 'reminder', 'serves', 'surpass', 'work']
+- ChatGPT injected words (11):
+	['anything', 'approach', 'aspirations', 'boldness', 'celebrates', 'confident', 'grant', 'let', 'needs', 'requests', 'within']
+- ChatGPT injected words (significant words only) (9):
+	['approach', 'aspirations', 'boldness', 'celebrates', 'confident', 'grant', 'let', 'needs', 'requests']
 
 ### Logs
-- 🔄 Ephesians 3:20 (attempt 1, 94 words, 96.77% quotes, quality score: 59.2258064516129) 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- 🔄 Ephesians 3:20 (attempt 2, 92 words, 65.52% quotes, quality score: 83.51724137931035) 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 3:20 bht prompt v5 (97 words, 69.7% quotes)
+- 🔄 Ephesians 3:20 (attempt 1, 120 words, 80.82% quotes, quality score: 49.17808219178082) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 3:20 (attempt 2, 117 words, 73.91% quotes, quality score: 59.08695652173913) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 3:20 bht prompt v5 (93 words, 85.0% quotes)

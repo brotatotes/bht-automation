@@ -1,7 +1,7 @@
 # Ephesians 4:5 Commentary Help Text
 
 ## BHT:
-Baptism serves as an outward and visible sign of one's faith and incorporation into the body of Christ. It symbolizes the unity among Christians who share the same Lord and Savior. Through baptism, individuals are marked with the name of Christ, visibly demonstrating their belonging to Him. This one baptism, performed in various ways and at different stages of life, unites believers in their commitment to live as members of the Church, following the example of Jesus.
+Once individuals have believed and been baptized into Christ, a visible act of faith, they become united in one body, the Church. This outward baptism serves as a seal of their faith, marking them as members of Christ and demonstrating their commitment to following Him. Through this act, the Church is unified, as all believers partake in the same baptism, regardless of the mode or timing. It is a reminder that we are one in Christ, our one Lord.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Baptism serves as an outward and visible sign of one's faith and incorporation i
 2. "Faith, and baptism, and God the Father, and Christ, ought to unite us, so as almost to become one man."
 3. "Baptism possesses such force as to make us one; and in baptism, the name of the Father, and of the Son, and of the Spirit, is invoked. Will they deny that one Godhead is the foundation of this holy and mysterious unity?"
 
+### Philip Schaff:
+1. "‘One Lord’ is the Personal Christ. The whole Epistle shows that out of Him there is no unity of the Spirit."
+2. "He is not only the one object of faith, but the Lord to whom allegiance is due, and the loyal trust in Him, exercised by all who are Christians, is the ‘one faith.’"
+3. "To this subjective fact of believing in the one Lord, there is added a third: ‘one baptism,’ the external sign and seal of faith, by which, as a badge, the members of Christ are outwardly and visibly stamped with His name."
+
 ### Archibald T. Robertson:
 1. "One Lord (εις Κυριος). The Lord Jesus Christ and he alone (no series of aeons)."
 2. "One faith (μια πιστις). One act of trust in Christ, the same for all (Jew or Gentile), one way of being saved."
@@ -47,15 +52,15 @@ Baptism serves as an outward and visible sign of one's faith and incorporation i
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 78
-- BHT Commentary Usage: 66.67%
-- BHT Quality Score: 94.66666666666669
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 79
+- BHT Commentary Usage: 74.55%
+- BHT Quality Score: 94.45454545454545
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (22):
-	['at', 'believers', 'belonging', 'commitment', 'demonstrating', 'example', 'following', 'him', 'incorporation', 'life', 'live', 'marked', 'savior', 'serves', 'share', 'sign', 'stages', 'symbolizes', 'through', 'unites', 'visible', 'ways']
-- ChatGPT injected words (significant words only) (19):
-	['believers', 'belonging', 'commitment', 'demonstrating', 'example', 'following', 'incorporation', 'life', 'live', 'marked', 'savior', 'serves', 'share', 'sign', 'stages', 'symbolizes', 'unites', 'visible', 'ways']
+- ChatGPT injected words (17):
+	['believers', 'commitment', 'demonstrating', 'following', 'marking', 'mode', 'once', 'our', 'partake', 'regardless', 'reminder', 'serves', 'through', 'timing', 'unified', 'united', 'visible']
+- ChatGPT injected words (significant words only) (14):
+	['believers', 'commitment', 'demonstrating', 'following', 'marking', 'mode', 'partake', 'regardless', 'reminder', 'serves', 'timing', 'unified', 'united', 'visible']
 
 ### Logs
-- ✅ Ephesians 4:5 bht prompt v5 (78 words, 66.67% quotes)
+- ✅ Ephesians 4:5 bht prompt v5 (79 words, 74.55% quotes)

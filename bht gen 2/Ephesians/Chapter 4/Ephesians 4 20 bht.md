@@ -1,7 +1,7 @@
 # Ephesians 4:20 Commentary Help Text
 
 ## BHT:
-Regenerate individuals, having learned Christ, have a different way of life compared to others. Their minds are not empty and vain, but instead filled with the knowledge of God. They understand Christ as the Lord and heir of all things, the Alpha and Omega of the covenant of grace, and as the Saviour of sinners. This knowledge compels them to live differently, denying ungodliness and worldly lusts, and instead leading lives of sobriety, righteousness, and godliness. Sin is not permitted in the Christian life, as the Christian dispensation forbids it.
+Regenerate persons are not like others, they do not walk in vain and empty thoughts, but are filled with God. They have truly learned Christ and know Him as God and Savior. This knowledge of Christ teaches them to live differently from others, to deny ungodliness and to live righteously and godly. The Christian life does not allow for sin, and understanding this truth should shape how we live.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ Regenerate individuals, having learned Christ, have a different way of life comp
 2. "Because the Gentiles walk in darkness, therefore they do not distinguish between right and wrong; but those on whom the truth of God shines ought to live in a different manner."
 3. "He whose life differs not from that of unbelievers, has learned nothing of Christ; for the knowledge of Christ cannot be separated from the mortification of the flesh."
 
+### Philip Schaff:
+1. "But ye, over against the 'Gentiles', whose walk has been described."
+2. "Did not thus learn Christ. The tense is historical, at the time of conversion."
+3. "That different way is detailed in Ephesians 4:22-24."
+
 ### Archibald T. Robertson:
 1. "In sharp contrast to pagan life (ουτως)."
 2. "Second aorist active indicative of μανθανω."
@@ -46,15 +51,15 @@ Regenerate individuals, having learned Christ, have a different way of life comp
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 74.6%
-- BHT Quality Score: 85.39682539682539
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 69
+- BHT Commentary Usage: 86.54%
+- BHT Quality Score: 72.46153846153845
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (17):
-	['compared', 'compels', 'denying', 'forbids', 'godliness', 'having', 'individuals', 'instead', 'leading', 'lives', 'permitted', 'righteousness', 'sinners', 'sobriety', 'them', 'understand', 'way']
-- ChatGPT injected words (significant words only) (16):
-	['compared', 'compels', 'denying', 'forbids', 'godliness', 'having', 'individuals', 'instead', 'leading', 'lives', 'permitted', 'righteousness', 'sinners', 'sobriety', 'understand', 'way']
+- ChatGPT injected words (10):
+	['allow', 'like', 'savior', 'shape', 'should', 'teaches', 'them', 'thoughts', 'understanding', 'we']
+- ChatGPT injected words (significant words only) (7):
+	['allow', 'like', 'savior', 'shape', 'teaches', 'thoughts', 'understanding']
 
 ### Logs
-- ✅ Ephesians 4:20 bht prompt v5 (90 words, 74.6% quotes)
+- ✅ Ephesians 4:20 bht prompt v5 (69 words, 86.54% quotes)

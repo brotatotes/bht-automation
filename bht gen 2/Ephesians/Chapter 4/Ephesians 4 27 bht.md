@@ -1,7 +1,7 @@
 # Ephesians 4:27 Commentary Help Text
 
 ## BHT:
-Be sure not to give any opportunity for the devil to gain a foothold in your life. Avoid delaying or procrastinating when it comes to doing what is right, as this can create a breeding ground for the enemy to sow seeds of doubt and temptation.
+Do not allow any delays or opportunities to give the devil a foothold in your life, as he will eagerly seize upon any chance to exert his influence.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -26,6 +26,10 @@ Be sure not to give any opportunity for the devil to gain a foothold in your lif
 2. "We feel every day how impossible, or, at least, how difficult it is to cure long-continued hatred."
 3. "Before the poison of hatred has found its way into the heart, anger must be thoroughly dislodged."
 
+### Philip Schaff:
+1. "Give place, give free play, room in the heart, to the devil." 
+2. "The clause gives a reason why sinful anger should be avoided: it opens to Satan the heart which has been redeemed from his power by Christ."
+
 ### Archibald T. Robertson:
 1. "Neither give place to the devil."
 2. "Present active imperative in prohibition, either stop doing it or do not have the habit."
@@ -44,15 +48,17 @@ Be sure not to give any opportunity for the devil to gain a foothold in your lif
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 46
-- BHT Commentary Usage: 60.0%
-- BHT Quality Score: 56.0
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (18):
-	['breeding', 'can', 'comes', 'create', 'delaying', 'doubt', 'enemy', 'foothold', 'gain', 'ground', 'life', 'procrastinating', 'right', 'seeds', 'sow', 'sure', 'temptation', 'your']
-- ChatGPT injected words (significant words only) (16):
-	['breeding', 'comes', 'create', 'delaying', 'doubt', 'enemy', 'foothold', 'gain', 'ground', 'life', 'procrastinating', 'right', 'seeds', 'sow', 'sure', 'temptation']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 28
+- BHT Commentary Usage: 61.54%
+- BHT Quality Score: 39.53846153846155
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (12):
+	['allow', 'chance', 'delays', 'eagerly', 'exert', 'foothold', 'influence', 'life', 'opportunities', 'seize', 'upon', 'your']
+- ChatGPT injected words (significant words only) (10):
+	['allow', 'chance', 'delays', 'eagerly', 'exert', 'foothold', 'influence', 'life', 'opportunities', 'seize']
 
 ### Logs
-- ✅ Ephesians 4:27 bht prompt v5 (46 words, 60.0% quotes)
+- 🔄 Ephesians 4:27 (attempt 1, 16 words, 68.75% quotes, quality score: 34.75000000000001) 
+	- BHT WAS UNDER 25 WORDS!
+- ✅ Ephesians 4:27 bht prompt v5 (28 words, 61.54% quotes)

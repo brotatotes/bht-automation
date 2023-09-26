@@ -1,7 +1,7 @@
 # Ephesians 4:6 Commentary Help Text
 
 ## BHT:
-God is the one true God, above all and through all things. He is the Father of all, both angels and souls of men. He governs the world with His providence, extending His care to all His creation. In the context of believers, God is not only their Creator, but also their covenant God and Father. He is the source of all unity among His children, as they all share the same great object of worship. Through His Spirit, God dwells in the hearts of believers, spreading Himself through all members of the church and uniting them as one body.
+The distinct witness to the doctrine of the Holy Trinity is seen in the existence of one God who dwells in believers and is professed in baptism. He is the supreme Father above all, filling all things through the Son and revealed by the indwelling Spirit. This unity is essential, as different pursuits and objects of supreme affection hinder true union. The common worship and acknowledgment of the same great God should be a unifying force among believers, leading them to embrace the oneness that comes from having the same indwelling Spirit.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ God is the one true God, above all and through all things. He is the Father of a
 2. "Although God by his power upholds, and maintains, and rules, all things, yet Paul is not now speaking of the universal, but of the spiritual government which belongs to the church."
 3. "By the Spirit of sanctification, God spreads himself through all the members of the church, embraces all in his government, and dwells in all; but God is not inconsistent with himself, and therefore we cannot but be united to him into one body."
 
+### Philip Schaff:
+1. "The deepest ground of unity is found in the existence of one God, who has revealed Himself in the redemption of His people."
+2. "The context is decisive against any weakening of [God's] Fatherhood into 'All-Father.'"
+3. "The reference to Christians alone in 'all' strengthens both positions [of the relation of God to 'all' and the gift of Christ to 'each']."
+
 ### Archibald T. Robertson:
 1. "Not a separate God for each nation or religion. One God for all men."
 2. "See here the Trinity again (Father, Jesus, Holy Spirit)."
@@ -48,15 +53,17 @@ God is the one true God, above all and through all things. He is the Father of a
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 78.95%
-- BHT Quality Score: 71.05263157894737
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (13):
-	['also', 'care', 'context', 'creation', 'creator', 'extending', 'governs', 'hearts', 'share', 'spreading', 'true', 'uniting', 'world']
-- ChatGPT injected words (significant words only) (12):
-	['care', 'context', 'creation', 'creator', 'extending', 'governs', 'hearts', 'share', 'spreading', 'true', 'uniting', 'world']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 92
+- BHT Commentary Usage: 79.37%
+- BHT Quality Score: 78.63492063492062
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (15):
+	['acknowledgment', 'comes', 'common', 'embrace', 'essential', 'force', 'from', 'having', 'hinder', 'leading', 'oneness', 'seen', 'this', 'true', 'unifying']
+- ChatGPT injected words (significant words only) (13):
+	['acknowledgment', 'comes', 'common', 'embrace', 'essential', 'force', 'having', 'hinder', 'leading', 'oneness', 'seen', 'true', 'unifying']
 
 ### Logs
-- ✅ Ephesians 4:6 bht prompt v5 (100 words, 78.95% quotes)
+- 🔄 Ephesians 4:6 (attempt 1, 90 words, 72.88% quotes, quality score: 87.1186440677966) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 4:6 bht prompt v5 (92 words, 79.37% quotes)

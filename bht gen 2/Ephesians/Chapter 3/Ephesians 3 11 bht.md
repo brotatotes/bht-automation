@@ -1,7 +1,7 @@
 # Ephesians 3:11 Commentary Help Text
 
 ## BHT:
-The knowledge of God's wisdom is imparted according to His eternal purpose, which is made in Jesus Christ. This purpose, which runs through the ages, is unchangeable and must be carried out by Christ Jesus. It is the fixed scheme of salvation, designed and provided by God in Christ, that reveals the great wisdom of God and makes known the mysteries of grace. In this divine purpose, all His promises and blessings of grace are centered in Christ, bringing salvation to His people.
+The purpose of God, which is displayed in the salvation of mankind, is according to His fixed plan. The Gospel, the preaching of it, and the revelation of its mysteries, all serve the divine purpose. God's focus was on Christ, in whom all His promises and blessings of grace were designed and provided for His people.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ The knowledge of God's wisdom is imparted according to His eternal purpose, whic
 2. "He repeats that the decree was eternal and unchangeable, but must be carried into effect by Christ Jesus our Lord, because in him it was made."
 3. "Thus he declares, that the proper time for publishing this decree belongs to the kingdom of Christ."
 
+### Philip Schaff:
+1. "According to the eternal purpose, lit., ‘the purpose of the ages.’ The purpose belongs to the ages, will be retained during the ages, controlling them." 
+2. "'Wrought' (lit., made) has been applied by many to the forming of the purpose (‘constituted,’ E. V., ‘purposed’). But it seems best to refer it to the execution of it, regarded as an accomplished fact." 
+3. "This purpose was wrought in Jesus of Nazareth, the personal Messiah, the Lord of His people. His work and Person are not to be sundered here."
+
 ### Archibald T. Robertson:
 1. "According to the eternal purpose (κατα προθεσιν των αιωνων)."
 2. "God's purpose runs on through the ages."
@@ -43,15 +48,15 @@ The knowledge of God's wisdom is imparted according to His eternal purpose, whic
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 90.0%
-- BHT Quality Score: 76.0
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 57
+- BHT Commentary Usage: 89.74%
+- BHT Quality Score: 57.25641025641025
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (5):
-	['bringing', 'centered', 'imparted', 'makes', 'reveals']
-- ChatGPT injected words (significant words only) (5):
-	['bringing', 'centered', 'imparted', 'makes', 'reveals']
+- ChatGPT injected words (6):
+	['focus', 'mankind', 'revelation', 'serve', 'were', 'whom']
+- ChatGPT injected words (significant words only) (4):
+	['focus', 'mankind', 'revelation', 'serve']
 
 ### Logs
-- ✅ Ephesians 3:11 bht prompt v5 (84 words, 90.0% quotes)
+- ✅ Ephesians 3:11 bht prompt v5 (57 words, 89.74% quotes)

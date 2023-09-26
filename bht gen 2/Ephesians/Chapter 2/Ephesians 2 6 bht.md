@@ -1,7 +1,7 @@
 # Ephesians 2:6 Commentary Help Text
 
 ## BHT:
-In Christ Jesus, believers have the assurance of a spiritual resurrection, a life renewed from death in sin, flowing from the power of God's grace and mercy. Through our union with Christ, we are made to sit with Him in heavenly places, sharing in the honor, pleasure, and safety that it entails. While we may not physically see the resurrection and our heavenly seats yet, Christ has gone before us as our forerunner, preparing a place for us in heaven, ensuring that in due time, believers of all backgrounds will experience their rightful place in God's eternal kingdom.
+In Christ Jesus, through His resurrection and our spiritual union with Him, we are raised from the death of sin and granted a spiritual life by the power of God. Christ has gone ahead to heaven as our forerunner, preparing a place for us, and in Him, we find honor, pleasure, rest, and security. Though we do not physically possess our seats in heaven yet, they are already assigned to us, and we anticipate the future glory that we will share with Him.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ In Christ Jesus, believers have the assurance of a spiritual resurrection, a lif
 2. "It is as if we had been brought from the deepest hell to heaven itself."
 3. "We are thus furnished with the richest consolation. Of everything which we now want, we have a sure pledge and foretaste in the person of Christ."
 
+### Philip Schaff:
+1. "The thought of Ephesians 2:5 is carried out in detail: ‘Together’ is = ‘with Him,’ Christ, whose Resurrection and exaltation have already been set forth as the exhibition of Divine energy in accordance with which God’s power is exerted to usward who believe." 
+2. "The reference, as in Ephesians 2:5, is physical and future, but at the same time spiritual and present In the heavenly places."
+3. "This does not qualify ‘in the heavenly places,’ but should be joined with the verbs. It brings out more fully than ‘together,’ the fact that all these saving acts are in virtue of our mystical union with Christ."
+
 ### Archibald T. Robertson:
 1. "In Christ Jesus. All the preceding turns on this phrase." 
 2. "Made to sit with him. First aorist active indicative of συνκαθιζω, old causative verb, but in N.T. only here and Luke 22:55."
@@ -42,15 +47,15 @@ In Christ Jesus, believers have the assurance of a spiritual resurrection, a lif
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 75.71%
-- BHT Quality Score: 74.28571428571428
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 83
+- BHT Commentary Usage: 82.76%
+- BHT Quality Score: 84.24137931034483
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (23):
-	['assurance', 'backgrounds', 'before', 'ensuring', 'entails', 'eternal', 'experience', 'flowing', 'god', 'gone', 'honor', 'kingdom', 'may', 'physically', 'preparing', 'renewed', 'rightful', 's', 'see', 'sharing', 'through', 'while', 'will']
-- ChatGPT injected words (significant words only) (17):
-	['assurance', 'backgrounds', 'ensuring', 'entails', 'eternal', 'experience', 'flowing', 'god', 'gone', 'honor', 'kingdom', 'physically', 'preparing', 'renewed', 'rightful', 's', 'sharing']
+- ChatGPT injected words (14):
+	['ahead', 'anticipate', 'do', 'find', 'gone', 'granted', 'honor', 'physically', 'possess', 'preparing', 'raised', 'though', 'through', 'will']
+- ChatGPT injected words (significant words only) (10):
+	['ahead', 'anticipate', 'find', 'gone', 'granted', 'honor', 'physically', 'possess', 'preparing', 'raised']
 
 ### Logs
-- ✅ Ephesians 2:6 bht prompt v5 (100 words, 75.71% quotes)
+- ✅ Ephesians 2:6 bht prompt v5 (83 words, 82.76% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 3:13 Commentary Help Text
 
 ## BHT:
-The apostle Paul encourages the readers not to lose heart in the midst of his tribulations, for these trials are ultimately for their spiritual benefit and a source of glory. His sufferings have not been in vain, as they serve as a testimony to the power of the Gospel and the steadfastness of their faith. Therefore, they should take pride in enduring these challenges and continue to hold fast to the teachings of Christ, knowing that their perseverance will be a testament to their faith.
+Paul, as a faithful apostle, experienced numerous tribulations and afflictions, yet he took pride in them as they were not a result of wrongdoing. He encourages the readers to not lose heart over his sufferings since they were endured for the sake of the Gospel, a message he had a deep understanding of and a clear calling to. Rather than being disheartened, they should consider it an honor to persevere and remain steadfast in the face of opposition and the scandal of the cross. Their steadfastness would bring glory to them.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ The apostle Paul encourages the readers not to lose heart in the midst of his tr
 2. "How powerfully is the faith of the people confirmed, when a pastor does not hesitate to seal his doctrine by the surrender of his life!"
 3. "Such lustre was thrown around his instructions, that all the churches among whom he had labored, had good reason to glory, when they beheld their faith ratified by the best of all pledges."
 
+### Philip Schaff:
+1. "I pray God that I faint not." 
+2. "The danger of the weakness was greater for them than for him."
+3. "The reason they should not faint is the character of his tribulations, as the Apostle of the Gentiles."
+
 ### Archibald T. Robertson:
 1. "Paul urges all his apostolic authority to keep the readers from giving in to evil because of his tribulations for them." 
 2. "Your glory. As they could see."
@@ -44,15 +49,15 @@ The apostle Paul encourages the readers not to lose heart in the midst of his tr
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 85
-- BHT Commentary Usage: 63.64%
-- BHT Quality Score: 88.63636363636364
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 63.49%
+- BHT Quality Score: 82.4920634920635
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (25):
-	['been', 'benefit', 'challenges', 'christ', 'continue', 'encourages', 'enduring', 'fast', 'hold', 'knowing', 'midst', 'power', 'pride', 'serve', 'should', 'source', 'steadfastness', 'sufferings', 'take', 'teachings', 'testimony', 'therefore', 'these', 'ultimately', 'vain']
-- ChatGPT injected words (significant words only) (20):
-	['benefit', 'challenges', 'christ', 'continue', 'encourages', 'enduring', 'fast', 'hold', 'knowing', 'midst', 'power', 'pride', 'serve', 'source', 'steadfastness', 'sufferings', 'teachings', 'testimony', 'ultimately', 'vain']
+- ChatGPT injected words (28):
+	['being', 'bring', 'calling', 'consider', 'deep', 'encourages', 'endured', 'experienced', 'face', 'faithful', 'honor', 'it', 'message', 'numerous', 'opposition', 'over', 'persevere', 'pride', 'rather', 'remain', 'sake', 'steadfast', 'steadfastness', 'sufferings', 'took', 'understanding', 'wrongdoing', 'yet']
+- ChatGPT injected words (significant words only) (23):
+	['bring', 'calling', 'consider', 'deep', 'encourages', 'endured', 'experienced', 'face', 'faithful', 'honor', 'message', 'numerous', 'opposition', 'persevere', 'pride', 'remain', 'sake', 'steadfast', 'steadfastness', 'sufferings', 'took', 'understanding', 'wrongdoing']
 
 ### Logs
-- ✅ Ephesians 3:13 bht prompt v5 (85 words, 63.64% quotes)
+- ✅ Ephesians 3:13 bht prompt v5 (91 words, 63.49% quotes)

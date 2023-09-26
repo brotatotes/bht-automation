@@ -1,7 +1,7 @@
 # Ephesians 6:11 Commentary Help Text
 
 ## BHT:
-Believers are encouraged to put on the complete suit of armor that God has provided to stand against and overcome Satan's tactics. This armor, which is furnished by God, is not to be taken lightly and must be worn in its entirety. As believers face their crafty foe, they can confidently engage in the spiritual battle, confounding his schemes and emerging as more than conquerors. It is crucial to put on the full armor of God due to the strength and subtlety of our adversaries, especially during challenging times.
+Put on the complete armour of God, which God himself has provided for us and furnishes us with, in order to stand against our crafty and strong adversary. It is a full suit of armour that we need, not just a piece or two. The repeated call to put it on reminds us of the strength and subtlety of our adversaries and the challenge that lies ahead. With the whole armour of God, we not only stand our ground, but also confound our enemies' schemes and overcome them through the strength and love of Christ.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Believers are encouraged to put on the complete suit of armor that God has provi
 2. "To quicken our vigilance, he reminds us that we must not only engage in open warfare, but that we have a crafty and insidious foe to encounter."
 3. "A state of persecution is compared with wrestling, since many are the arts that the devil makes use of to circumvent and foil them."
 
+### Philip Schaff:
+1. "Put on the whole armour, lit, panoply, a term then applied to the entire equipment, offensive and defensive of heavy armed infantry, the choice troops of those days."
+2. "Of God. Supplied by God, 'altogether of a Divine kind, in contrast to the arms of the opponent.'"
+3. "Against the wiles of the devil; in contrast with 'the whole armor of God.' 'Wiles,' or, stratagems, usually in a bad sense; the plural marking the variety of the attacks."
+
 ### Archibald T. Robertson:
 1. "Put on (ενδυσασθε). Like Ephesians 3:12. See also Ephesians 4:24."
 2. "Our 'panoply.' Polybius gives this list of Thayer. Paul omits the lance (spear). Our museums preserve specimens of this armour as well as the medieval coat-of-mail."
@@ -44,15 +49,15 @@ Believers are encouraged to put on the complete suit of armor that God has provi
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 77.27%
-- BHT Quality Score: 82.72727272727272
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 85.0%
+- BHT Quality Score: 70.0
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (19):
-	['battle', 'can', 'challenging', 'confidently', 'confounding', 'crucial', 'due', 'during', 'emerging', 'encouraged', 'entirety', 'especially', 'full', 'lightly', 'subtlety', 'tactics', 'taken', 'times', 'worn']
-- ChatGPT injected words (significant words only) (15):
-	['battle', 'challenging', 'confidently', 'confounding', 'crucial', 'emerging', 'encouraged', 'entirety', 'especially', 'lightly', 'subtlety', 'tactics', 'taken', 'times', 'worn']
+- ChatGPT injected words (13):
+	['adversary', 'ahead', 'call', 'challenge', 'full', 'just', 'lies', 'love', 'need', 'piece', 'strong', 'subtlety', 'two']
+- ChatGPT injected words (significant words only) (9):
+	['adversary', 'ahead', 'challenge', 'lies', 'love', 'need', 'piece', 'strong', 'subtlety']
 
 ### Logs
-- ✅ Ephesians 6:11 bht prompt v5 (90 words, 77.27% quotes)
+- ✅ Ephesians 6:11 bht prompt v5 (95 words, 85.0% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 1:12 Commentary Help Text
 
 ## BHT:
-As Jewish-Christians, we were those who had before hoped in the Christ, eagerly awaiting His coming as the consolation of Israel. Our hope and trust in the Savior form the foundation of our faith. Through Him, we become vessels of God's mercy, illustrating His glory. Believers are not only elected to salvation but also appointed by God to walk in holiness. Like the apostle Paul and other Jews, we were among those who first believed in Christ before the Gentiles. It is our responsibility to praise and glorify God, recognizing that His grace is the source of everything, not our own efforts.
+Believers who had been hoping in Christ, particularly the Jewish-Christians, anticipated His coming with the expectation of the consolation of Israel. The objection that only a few looked forward to His coming is countered by the broadness of the Apostle Paul's expression. It is important to note the connection between their hope and the Savior, as their foundation for this hope was based on Him. They not only believed in Him but also preached to others, becoming partakers of the same privileges. This aligns with Ephesians, where the believers emphasized their belief and the proclamation of their faith.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ As Jewish-Christians, we were those who had before hoped in the Christ, eagerly 
 2. "The word glory, by way of eminence, denotes, in a peculiar manner, that which shines in the goodness of God."
 3. "There is nothing that is more peculiarly his own, or in which he desires more to be glorified, than goodness."
 
+### Philip Schaff:
+1. "The final aim of the predestination to become God’s heritage is that the subjects (‘we’) should be unto the praise of his glory." 
+2. "As persons are more directly connected with the phrase, they are not only to praise, but themselves to be a praise."
+3. "‘Before’ indicates unmistakably the Jewish Christians, who had the promise before the coming of the Messiah, and hoped accordingly."
+
 ### Archibald T. Robertson:
 1. "Final clause with εις to and the infinitive εινα."
 2. "Articular perfect active participle of προελπιζω, late and rare compound."
@@ -47,25 +52,17 @@ As Jewish-Christians, we were those who had before hoped in the Christ, eagerly 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 104
-- BHT Commentary Usage: 83.1%
-- BHT Quality Score: 62.901408450704224
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (18):
-	['among', 'awaiting', 'believers', 'eagerly', 'efforts', 'everything', 'faith', 'form', 'illustrating', 'it', 'other', 'recognizing', 'responsibility', 'savior', 'source', 'through', 'trust', 'were']
-- ChatGPT injected words (significant words only) (12):
-	['awaiting', 'believers', 'eagerly', 'efforts', 'faith', 'form', 'illustrating', 'recognizing', 'responsibility', 'savior', 'source', 'trust']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 77.14%
+- BHT Quality Score: 72.85714285714285
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (21):
+	['aligns', 'anticipated', 'based', 'becoming', 'belief', 'believers', 'between', 'broadness', 'connection', 'countered', 'emphasized', 'faith', 'hoping', 'important', 'it', 'note', 'particularly', 'proclamation', 'savior', 'this', 'where']
+- ChatGPT injected words (significant words only) (16):
+	['aligns', 'anticipated', 'based', 'belief', 'believers', 'broadness', 'connection', 'countered', 'emphasized', 'faith', 'hoping', 'important', 'note', 'particularly', 'proclamation', 'savior']
 
 ### Logs
-- 🔄 Ephesians 1:12 (attempt 1, 96 words, 93.22% quotes, quality score: 60.77966101694915) 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- 🔄 Ephesians 1:12 (attempt 2, 108 words, 87.67% quotes, quality score: 54.328767123287676) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:12 (attempt 3, 104 words, 83.1% quotes, quality score: 62.901408450704224) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:12 (attempt 4, 104 words, 83.1% quotes, quality score: 62.901408450704224) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:12 (attempt 5, 104 words, 83.1% quotes, quality score: 62.901408450704224) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:12 bht prompt v5 (104 words, 83.1% quotes)
+- 🔄 Ephesians 1:12 (attempt 1, 50 words, 75.0% quotes, quality score: 65.0) 
+	- LIST FORMAT DETECTED!
+- ✅ Ephesians 1:12 bht prompt v5 (100 words, 77.14% quotes)

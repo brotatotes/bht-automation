@@ -1,7 +1,7 @@
 # Ephesians 2:12 Commentary Help Text
 
 ## BHT:
-Despite being constantly under the instruction that reminded them of Christ, they were without any true knowledge or hope in Him. They were separated from the commonwealth of Israel, lacking in both the temporal and spiritual blessings. As a result, they had no promise to hold onto, leaving them without any grounds for hope in their lives.
+These individuals were devoid of any true knowledge or relationship with Christ, leading to their separation from the promised Messiah. Being without God and forsaken, they found themselves in a state of hopelessness, disconnected from the divine promises that offer true assurance and security. It is a remarkable expression of their condition - to be without God in their own world and to lack evidence of His favor or assurance of His love.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -37,6 +37,11 @@ Despite being constantly under the instruction that reminded them of Christ, the
 2. "Take away the covenant of salvation, and there remains no hope."
 3. "From what has been said, the conclusion will be easily drawn, that out of Christ there are none but idols."
 
+### Philip Schaff:
+1. "The fact that this was their condition being made more prominent by the added phrase 'at that time,' which is stronger than 'once.'" 
+2. "The reference is not to a civil constitution, or to citizenship, but rather to the theocratic spiritual privileges which the Jewish people possessed." 
+3. "The Gentiles were not only without the Messianic hope but without any hope."
+
 ### Archibald T. Robertson:
 1. "Separate from Christ (χωρις Χριστου). Ablative case with adverbial preposition χωρις, describing their former condition as heathen."
 2. "Alienated from the commonwealth of Israel (απηλλοτριωμενο της πολιτειας του Ισραηλ). Perfect passive participle of απαλλοτριοω, for which see Colossians 1:21."
@@ -57,15 +62,17 @@ Despite being constantly under the instruction that reminded them of Christ, the
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 57
-- BHT Commentary Usage: 86.67%
-- BHT Quality Score: 60.33333333333333
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (7):
-	['despite', 'grounds', 'hold', 'lacking', 'leaving', 'lives', 'onto']
-- ChatGPT injected words (significant words only) (6):
-	['despite', 'grounds', 'hold', 'lacking', 'leaving', 'lives']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 72
+- BHT Commentary Usage: 73.08%
+- BHT Quality Score: 88.9230769230769
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (15):
+	['devoid', 'disconnected', 'found', 'hopelessness', 'individuals', 'lack', 'leading', 'offer', 'promises', 'relationship', 'remarkable', 'security', 'separation', 'state', 'themselves']
+- ChatGPT injected words (significant words only) (14):
+	['devoid', 'disconnected', 'found', 'hopelessness', 'individuals', 'lack', 'leading', 'offer', 'promises', 'relationship', 'remarkable', 'security', 'separation', 'state']
 
 ### Logs
-- ✅ Ephesians 2:12 bht prompt v5 (57 words, 86.67% quotes)
+- 🔄 Ephesians 2:12 (attempt 1, 75 words, 70.0% quotes, quality score: 95.0) 
+	- LIST FORMAT DETECTED!
+- ✅ Ephesians 2:12 bht prompt v5 (72 words, 73.08% quotes)

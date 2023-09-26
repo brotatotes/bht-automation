@@ -1,7 +1,7 @@
 # Ephesians 6:20 Commentary Help Text
 
 ## BHT:
-The apostle Paul, as an ambassador of Christ, found himself in an unexpected and humbling position – in chains. Ambassadors are typically treated with respect and protected, yet Paul was sentenced to imprisonment for his faith. However, Paul did not let this hinder him from boldly proclaiming the truth of the gospel. He valued the importance of speaking the message of Christ clearly and fearlessly, without relying on clever tactics or false pretenses. Despite his circumstances, Paul recognized the honor and dignity of his role as Christ's representative, willing to suffer for the sake of the gospel.
+Paul, as Christ's ambassador, is a striking contrast to the customary display of pomp that characterizes human ambassadors. The humbled state of Paul, bound in chains, sets him apart and highlights the essence of his role. Unlike worldly ambassadors who rely on grandeur and ostentation, Paul's commitment to representing Christ is characterized by humility and endurance. Although physically restrained, Paul's unwavering mission as an ambassador continues to shine through, demonstrating the true call and dedication of one who represents Christ.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The apostle Paul, as an ambassador of Christ, found himself in an unexpected and
 2. "Fear hinders us from preaching Christ openly and fearlessly, while the absence of all restraint and disguise in confessing Christ is demanded from his ministers."
 3. "Paul does not ask for himself the powers of an acute debater, or, I should rather say, of a dexterous sophist, that he might shield himself from his enemies by false pretences. It is, that I may open my mouth, to make a clear and strong confession; for when the mouth is half shut, the sounds which it utters are doubtful and confused."
 
+### Philip Schaff:
+1. "Even when chained to a Roman soldier, he was still an ambassador of God to proclaim the gospel mystery."
+2. "They ought thus to pray for him, still more in view of his condition."
+3. "That he might expound his message in a manner that became him and his high commission, that his imprisonment might have no dispiriting effect upon him, and that he might not in his addresses compromise the name and dignity of an ambassador for Christ."
+
 ### Archibald T. Robertson:
 1. "Paul is now an old man (πρεσβυτης, Philemon 1:9) and feels the dignity of his position as Christ's ambassador though 'in a chain' (εν αλυσε, old word αλυσις, from α privative and λυω, to loosen)." 
 2. "Paul will wear a chain at the close of his life in Rome (2 Timothy 1:16)."
@@ -44,15 +49,25 @@ The apostle Paul, as an ambassador of Christ, found himself in an unexpected and
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 97
-- BHT Commentary Usage: 55.07%
-- BHT Quality Score: 68.07246376811595
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (33):
-	['circumstances', 'clearly', 'clever', 'despite', 'faith', 'found', 'hinder', 'honor', 'however', 'humbling', 'importance', 'imprisonment', 'let', 'message', 'on', 'pretenses', 'proclaiming', 'protected', 'recognized', 'relying', 'representative', 'respect', 'role', 'sake', 'sentenced', 'speaking', 'suffer', 'tactics', 'treated', 'typically', 'unexpected', 'valued', 'willing']
-- ChatGPT injected words (significant words only) (31):
-	['circumstances', 'clearly', 'clever', 'despite', 'faith', 'found', 'hinder', 'honor', 'humbling', 'importance', 'imprisonment', 'let', 'message', 'pretenses', 'proclaiming', 'protected', 'recognized', 'relying', 'representative', 'respect', 'role', 'sake', 'sentenced', 'speaking', 'suffer', 'tactics', 'treated', 'typically', 'unexpected', 'valued', 'willing']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 83
+- BHT Commentary Usage: 43.33%
+- BHT Quality Score: 70.33333333333334
+- Generate Attempts: 5 / 5
+- ChatGPT injected words (40):
+	['although', 'apart', 'bound', 'call', 'characterized', 'characterizes', 'commitment', 'continues', 'contrast', 'customary', 'dedication', 'demonstrating', 'display', 'endurance', 'essence', 'grandeur', 'highlights', 'human', 'humbled', 'humility', 'mission', 'on', 'one', 'ostentation', 'physically', 'rely', 'representing', 'represents', 'restrained', 'role', 'sets', 'shine', 'state', 'striking', 'through', 'true', 'unlike', 'unwavering', 'who', 'worldly']
+- ChatGPT injected words (significant words only) (34):
+	['apart', 'bound', 'characterized', 'characterizes', 'commitment', 'continues', 'contrast', 'customary', 'dedication', 'demonstrating', 'display', 'endurance', 'essence', 'grandeur', 'highlights', 'human', 'humbled', 'humility', 'mission', 'ostentation', 'physically', 'rely', 'representing', 'represents', 'restrained', 'role', 'sets', 'shine', 'state', 'striking', 'true', 'unlike', 'unwavering', 'worldly']
 
 ### Logs
-- ✅ Ephesians 6:20 bht prompt v5 (97 words, 55.07% quotes)
+- 🔄 Ephesians 6:20 (attempt 1, 79 words, 59.26% quotes, quality score: 88.25925925925927) 
+	- LIST FORMAT DETECTED!
+- 🔄 Ephesians 6:20 (attempt 2, 93 words, 48.39% quotes, quality score: 65.38709677419355) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- 🔄 Ephesians 6:20 (attempt 3, 89 words, 49.18% quotes, quality score: 70.18032786885246) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- 🔄 Ephesians 6:20 (attempt 4, 83 words, 43.33% quotes, quality score: 70.33333333333334) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- 🔄 Ephesians 6:20 (attempt 5, 82 words, 39.34% quotes, quality score: 67.34426229508198) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Ephesians 6:20 bht prompt v5 (83 words, 43.33% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 6:24 Commentary Help Text
 
 ## BHT:
-The apostle wishes for the genuine gospel to remain uncorrupted and for those who have a sincere and pure love for Jesus Christ to receive God's grace. This love is not mixed with any corrupt affections, and it will continue until it brings them to glory. It is through the unadulterated message of the gospel and a steadfast love for Christ that believers can experience the fullness of God's grace and ultimately be united with Him in glory.
+May the incorruptible grace of God be with all who truly love our Lord Jesus Christ. This is not a fleeting or earthly love, but a spiritual and eternal love. The Epistle reminds us that the differences among true Christians are small and do not diminish their love for Christ. It is essential to have sincere love for Jesus, without any hypocrisy or corruption. This genuine love will bring greater blessings than any worldly wealth or fame. May this love for Christ be imperishable and incorruptible, rooted in a pure conscience. Amen.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ The apostle wishes for the genuine gospel to remain uncorrupted and for those wh
 2. "When the heart of man is free from all hypocrisy, it will be free from all corruption."
 3. "The only way of enjoying the light of the Divine countenance is to love sincerely God’s own Son, in whom his love toward us has been declared and confirmed."
 
+### Philip Schaff:
+1. "The best authorities omit the word 'Amen.'"
+2. "The empire of love is wider than all these."
+3. "Mere 'sincerity' is not sufficient; the love must move in a sphere, partake of a character, which is 'perennial, immutable, incorruptible,' and Christ's grace alone can produce such a love."
+
 ### Archibald T. Robertson:
 1.  In uncorruptness  (εν αφθαρσια). A never diminishing love. See 1 Corinthians 15:42 for αφθαρσια. 
 
@@ -46,15 +51,15 @@ The apostle wishes for the genuine gospel to remain uncorrupted and for those wh
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 80
-- BHT Commentary Usage: 77.36%
-- BHT Quality Score: 92.64150943396226
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 92
+- BHT Commentary Usage: 84.62%
+- BHT Quality Score: 73.38461538461539
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (15):
-	['brings', 'experience', 'fullness', 'have', 'message', 'mixed', 'receive', 'remain', 'steadfast', 'through', 'ultimately', 'unadulterated', 'uncorrupted', 'united', 'until']
-- ChatGPT injected words (significant words only) (12):
-	['brings', 'experience', 'fullness', 'message', 'mixed', 'receive', 'remain', 'steadfast', 'ultimately', 'unadulterated', 'uncorrupted', 'united']
+- ChatGPT injected words (12):
+	['blessings', 'bring', 'diminish', 'do', 'essential', 'greater', 'have', 'reminds', 'rooted', 'true', 'truly', 'worldly']
+- ChatGPT injected words (significant words only) (10):
+	['blessings', 'bring', 'diminish', 'essential', 'greater', 'reminds', 'rooted', 'true', 'truly', 'worldly']
 
 ### Logs
-- ✅ Ephesians 6:24 bht prompt v5 (80 words, 77.36% quotes)
+- ✅ Ephesians 6:24 bht prompt v5 (92 words, 84.62% quotes)

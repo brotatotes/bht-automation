@@ -1,7 +1,7 @@
 # Ephesians 4:31 Commentary Help Text
 
 ## BHT:
-Let all bitterness and wrath and anger be put away from you, with all malice. These emotions are interconnected, with bitterness leading to wrath, which then leads to anger. Clamor, evil-speaking, and even evil surmises are the outward manifestations of this deep-seated bitterness, which is rooted in malice. Christians are called to put away all forms of evil, allowing only goodness to manifest in their lives. The removal of malice is crucial in correcting and purifying the heart, enabling a calm and serious disposition among believers.
+Let go of all bitterness, the intense anger rooted in resentment, and the lasting displeasure towards those who are ignorant or misguided. Put aside the initial feelings of anger towards those who have wronged you, and instead, cultivate a spirit of forgiveness and kindness. Rid yourself of all forms of angry outbursts, contentions, and slanderous speech that stem from a bitter, wrathful, and angry disposition.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Let all bitterness and wrath and anger be put away from you, with all malice. Th
 2. "The correction of all the rest will be greatly aided by the removal of malice."
 3. "By this term he expresses that depravity of mind which is opposed to humanity and justice, and which is usually called malignity."
 
+### Philip Schaff:
+1. "The prohibition pictures the disposition of 'the old man'; the command, that of 'the new man'; together they form an appropriate conclusion to the section."
+2. "Let all bitterness, ill-temper of every kind."
+3. "And wrath, and anger; the former denotes the excitement, the passionate display of temper; the latter the settled habit, probably directed in malice against a person. Both are the results of 'bitterness.'"
+
 ### Archibald T. Robertson:
 1. "Clamour (κραυγη). Old word for outcry (Matthew 25:6; Luke 1:42)."
 2. "Be put away (αρθητω). First aorist passive imperative of αιρω, old verb, to pick up and carry away, to make a clean sweep."
@@ -48,15 +53,15 @@ Let all bitterness and wrath and anger be put away from you, with all malice. Th
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 88
-- BHT Commentary Usage: 70.69%
-- BHT Quality Score: 91.3103448275862
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 65
+- BHT Commentary Usage: 66.67%
+- BHT Quality Score: 81.66666666666669
 - Generate Attempts: 1 / 5
 - ChatGPT injected words (21):
-	['allowing', 'believers', 'correcting', 'crucial', 'deep', 'emotions', 'enabling', 'even', 'forms', 'goodness', 'heart', 'interconnected', 'leading', 'leads', 'lives', 'manifestations', 'purifying', 'seated', 'their', 'then', 'these']
-- ChatGPT injected words (significant words only) (17):
-	['allowing', 'believers', 'correcting', 'crucial', 'deep', 'emotions', 'enabling', 'forms', 'goodness', 'heart', 'interconnected', 'leading', 'leads', 'lives', 'manifestations', 'purifying', 'seated']
+	['aside', 'cultivate', 'feelings', 'forgiveness', 'forms', 'go', 'have', 'initial', 'instead', 'intense', 'misguided', 'outbursts', 'resentment', 'rid', 'slanderous', 'speech', 'stem', 'towards', 'who', 'wronged', 'yourself']
+- ChatGPT injected words (significant words only) (16):
+	['aside', 'cultivate', 'feelings', 'forgiveness', 'forms', 'initial', 'instead', 'intense', 'misguided', 'outbursts', 'resentment', 'rid', 'slanderous', 'speech', 'stem', 'wronged']
 
 ### Logs
-- ✅ Ephesians 4:31 bht prompt v5 (88 words, 70.69% quotes)
+- ✅ Ephesians 4:31 bht prompt v5 (65 words, 66.67% quotes)

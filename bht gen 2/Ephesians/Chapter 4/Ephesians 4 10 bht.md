@@ -1,7 +1,7 @@
 # Ephesians 4:10 Commentary Help Text
 
 ## BHT:
-He that descended humbled himself, and is the same that ascended in glorious exaltation. Through his ascension, he went far above the heavens, even to the holiest of all. In his exalted state, he fulfills the prophetic promises and fills the entire church with his Spirit, presence, and divine workings.
+He that descended is the same also that ascended above all the heavens, emphasizes the continuity of the divine Person, the Son of God, who both came down in human form and ascended to heaven. Christ's ascension is described as going far above the heavens, symbolizing His exaltation above all created realms. This exaltation was intended to fulfill the prophecies and typify the high priest's entry into the Holy of Holies. Ultimately, Christ's purpose in ascending was to fill all things, encompassing the entire church with His Spirit, presence, and divine workings.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ He that descended humbled himself, and is the same that ascended in glorious exa
 3. "But Paul reminds us, that, while he is removed from us in bodily presence, he fills all things by the power of his Spirit."
 
 
+### Philip Schaff:
+1. "The two thoughts of descending and ascending are here joined in such a way as to give prominence to the Person of Christ."
+2. "His statement is that Christ was exalted above all such places."
+3. "His purpose of exaltation was to 'penetrate with His grace and glory all regions and all persons within them.'"
+
 ### Archibald T. Robertson:
 1. "The one who came down is himself also the one who ascended."
 2. "Far above all the heavens."
@@ -47,15 +52,15 @@ He that descended humbled himself, and is the same that ascended in glorious exa
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 50
-- BHT Commentary Usage: 81.58%
-- BHT Quality Score: 58.421052631578945
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 70.31%
+- BHT Quality Score: 84.6875
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (8):
-	['entire', 'even', 'fulfills', 'glorious', 'promises', 'prophetic', 'state', 'workings']
-- ChatGPT injected words (significant words only) (7):
-	['entire', 'fulfills', 'glorious', 'promises', 'prophetic', 'state', 'workings']
+- ChatGPT injected words (20):
+	['both', 'continuity', 'created', 'described', 'emphasizes', 'encompassing', 'entire', 'entry', 'form', 'fulfill', 'going', 'holies', 'holy', 'intended', 'prophecies', 'realms', 'symbolizing', 'typify', 'ultimately', 'workings']
+- ChatGPT injected words (significant words only) (19):
+	['continuity', 'created', 'described', 'emphasizes', 'encompassing', 'entire', 'entry', 'form', 'fulfill', 'going', 'holies', 'holy', 'intended', 'prophecies', 'realms', 'symbolizing', 'typify', 'ultimately', 'workings']
 
 ### Logs
-- ✅ Ephesians 4:10 bht prompt v5 (50 words, 81.58% quotes)
+- ✅ Ephesians 4:10 bht prompt v5 (95 words, 70.31% quotes)

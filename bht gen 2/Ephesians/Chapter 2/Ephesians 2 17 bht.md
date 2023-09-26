@@ -1,7 +1,7 @@
 # Ephesians 2:17 Commentary Help Text
 
 ## BHT:
-He came after his resurrection and preached peace to both Jews and Gentiles. The gospel of peace was proclaimed by his ministers and his Spirit. The message of peace was initially preached to the Jews, who were near to God, and later extended to the Gentiles, who were far away from him. By offering reconciliation and eternal peace, the gospel has the power to bring comfort to troubled hearts and assurance to believers.
+He came after his resurrection and proclaimed peace, bringing good news to both Jews and Gentiles. The message of peace is the result of His sacrifice, and it offers comfort and guidance to those who believe. The gospel of peace was first preached to the Jews, both before and after His resurrection, and later extended to the Gentiles. This distinction emphasizes the opportunity for all, whether near or far off, to receive the message of reconciliation and experience peace with God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -18,6 +18,11 @@ He came after his resurrection and preached peace to both Jews and Gentiles. The
 1. "The fruit of this peace has now been offered both to Jews and to Gentiles."
 2. "To save Gentiles as well as Jews was the design of our Savior's coming."
 3. "The gospel is the message of peace, by which God declares himself to be reconciled to us, and makes known his paternal love."
+
+### Philip Schaff:
+1. "And he came and preached (‘brought good tidings of’) peace." 
+2. "The reference in ‘came’ cannot be to His coming in the flesh, since no such preaching took place then, but must be to some coming after His resurrection."
+3. "The repetition of the word ‘peace’ with both classes shows that it has here its complex sense, but with the emphasis resting on ‘peace with God.’"
 
 ### Archibald T. Robertson:
 1. "He gospelized peace" to both Jew and Gentile, "to the far off ones" and "to the nigh ones." 
@@ -38,15 +43,17 @@ He came after his resurrection and preached peace to both Jews and Gentiles. The
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 72.09%
-- BHT Quality Score: 90.90697674418605
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (12):
-	['assurance', 'away', 'believers', 'bring', 'comfort', 'extended', 'hearts', 'initially', 'later', 'offering', 'power', 'troubled']
-- ChatGPT injected words (significant words only) (12):
-	['assurance', 'away', 'believers', 'bring', 'comfort', 'extended', 'hearts', 'initially', 'later', 'offering', 'power', 'troubled']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 81
+- BHT Commentary Usage: 72.55%
+- BHT Quality Score: 96.45098039215686
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (18):
+	['all', 'believe', 'bringing', 'comfort', 'emphasizes', 'experience', 'extended', 'for', 'guidance', 'later', 'news', 'offers', 'opportunity', 'or', 'receive', 'result', 'sacrifice', 'whether']
+- ChatGPT injected words (significant words only) (14):
+	['believe', 'bringing', 'comfort', 'emphasizes', 'experience', 'extended', 'guidance', 'later', 'news', 'offers', 'opportunity', 'receive', 'result', 'sacrifice']
 
 ### Logs
-- ✅ Ephesians 2:17 bht prompt v5 (73 words, 72.09% quotes)
+- 🔄 Ephesians 2:17 (attempt 1, 97 words, 68.85% quotes, quality score: 81.85245901639344) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 2:17 bht prompt v5 (81 words, 72.55% quotes)

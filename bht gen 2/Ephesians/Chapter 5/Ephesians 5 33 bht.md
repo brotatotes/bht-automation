@@ -1,7 +1,7 @@
 # Ephesians 5:33 Commentary Help Text
 
 ## BHT:
-The apostle redirects his focus to the mutual responsibilities of husbands and wives, reiterating their duties based on the example of Christ and the church. Husbands are called to love their wives as they love themselves, recognizing their unity as one flesh. Conversely, wives should respect and honor their husbands, acknowledging their role as the head and the sacrifice they made in leaving their family for the sake of their marital union.
+The apostle reiterates the responsibilities of husbands and wives, reminding them of their mutual obligations. Just as Christ loves the church, husbands are called to love their wives as they love themselves, recognizing the unity they share as one flesh. In turn, wives are encouraged to show reverence to their husbands, acknowledging their role as the head and the sacrifice they made in leaving their parents for the marriage.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -27,6 +27,11 @@ The apostle redirects his focus to the mutual responsibilities of husbands and w
 2. "One peculiarity in this injunction has been usually overlooked. What is instructive on either side is not enforced, but what is necessary to direct and hallow such an instinct is inculcated. The woman loves in deep, undying sympathy; but, to teach her how this fondness should know and fill its appropriate sphere, she is commanded to obey and honor."
 3. "The man, on the other hand, feels that his position is to govern; but, to show him what should be the essence and means of his government, he is enjoined to love."
 
+### Philip Schaff:
+1. "Whether more of the mystery be known or not, the analogy has been sufficiently set forth to enforce this exhortation."
+2. "love her as being part of himself (comp. Ephesians 5:28) thus furnishing a motive corresponding with the previous statements."
+3. "The section may be thus summed up: 'To the husband one command is given, and in this three requirements: Love even unto self-sacrifice, with the consequence and purpose of sanctification (Ephesians 5:25-27), and this with such energy, purity, and constancy, that more is required of the husband than of the wife."
+
 ### Archibald T. Robertson:
 1. "Do ye also severally love" - An unusual idiom. The verb αγαπατω (present active imperative) agrees with εκαστος and so is third singular instead of αγαπατε (second plural) like υμεις. The use of ο καθ' ενα after υμεις = "ye one by one" and then εκαστος takes up (individualizes) the "one" in partitive apposition and in the third person.
 2. "Let the wife see that she fear" - There is no verb in the Greek for "let see" (βλεπετω). For this use of ινα with the subjunctive as a practical imperative without a principal verb (an elliptical imperative) see Mark 5:23; Matthew 20:32; 1 Corinthians 7:29; 2 Corinthians 8:7; Ephesians 4:29; Ephesians 5:33.
@@ -42,17 +47,15 @@ The apostle redirects his focus to the mutual responsibilities of husbands and w
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 72
-- BHT Commentary Usage: 60.87%
-- BHT Quality Score: 82.86956521739131
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (20):
-	['acknowledging', 'based', 'called', 'conversely', 'family', 'focus', 'leaving', 'made', 'marital', 'recognizing', 'redirects', 'reiterating', 'respect', 'responsibilities', 'role', 'sacrifice', 'sake', 'themselves', 'union', 'unity']
-- ChatGPT injected words (significant words only) (18):
-	['acknowledging', 'based', 'called', 'conversely', 'family', 'focus', 'leaving', 'marital', 'recognizing', 'redirects', 'reiterating', 'respect', 'responsibilities', 'role', 'sacrifice', 'sake', 'union', 'unity']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 69
+- BHT Commentary Usage: 65.12%
+- BHT Quality Score: 84.11627906976744
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (18):
+	['acknowledging', 'called', 'encouraged', 'just', 'leaving', 'made', 'marriage', 'obligations', 'parents', 'recognizing', 'reiterates', 'reminding', 'responsibilities', 'role', 'share', 'themselves', 'turn', 'unity']
+- ChatGPT injected words (significant words only) (15):
+	['acknowledging', 'called', 'encouraged', 'leaving', 'marriage', 'obligations', 'parents', 'recognizing', 'reiterates', 'reminding', 'responsibilities', 'role', 'share', 'turn', 'unity']
 
 ### Logs
-- 🔄 Ephesians 5:33 (attempt 1, 100 words, 60.66% quotes, quality score: 70.65573770491804) 
-	- LIST FORMAT DETECTED!
-- ✅ Ephesians 5:33 bht prompt v5 (72 words, 60.87% quotes)
+- ✅ Ephesians 5:33 bht prompt v5 (69 words, 65.12% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 6:9 Commentary Help Text
 
 ## BHT:
-Masters are called to treat their servants with the same love and kindness that they expect from their servants. In doing so, they emulate the example of Christ and fulfill their duty according to the will of God. Masters should refrain from threatening or using harshness towards their servants but instead show forgiveness and understanding, just as their heavenly Master does towards them. They should be mindful that God, who oversees all, sees their actions and has the power to defend the oppressed.
+Show kindness and fairness in your treatment of servants, just as they are also to be mindful of their duty towards you. Let love guide both masters and servants in their actions, as it brings harmony and equality in their relationship. Masters should forsake threatening and instead govern with love, knowing that they too have a Master in heaven. God does not show favoritism, so let respect of persons not be found among you. The principles laid down by Paul apply to all relationships between employers and employees, and our ultimate duty is to Christ in all that we do.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Masters are called to treat their servants with the same love and kindness that 
 2. "Masters and servants are not indeed on the same level; but there is a mutual law which binds them."
 3. "While masters possess authority over their servants, they have themselves the same Master in heaven, to whom they must render an account."
 
+### Philip Schaff:
+1. "The language is general, and expresses what Calvin well calls jus analogum (Eadie).”
+2. “‘St. Paul singles out the prevailing vice and most customary exhibition of bad feeling on the part of the master, and in forbidding this naturally includes every similar form of harshness’ (Ellicott).”
+3. “The general principles underlying this section are applicable to all the relations of employer and employee. Our duties to one another are duties to Christ.”
+
 ### Archibald T. Robertson:
 1. "Letting up on threatening."
 2. "Both their Master and yours."
@@ -48,15 +53,15 @@ Masters are called to treat their servants with the same love and kindness that 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 83
-- BHT Commentary Usage: 68.97%
-- BHT Quality Score: 95.96551724137932
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 75.0%
+- BHT Quality Score: 75.0
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (23):
-	['according', 'be', 'called', 'defend', 'emulate', 'example', 'expect', 'forgiveness', 'fulfill', 'harshness', 'heavenly', 'instead', 'just', 'kindness', 'mindful', 'oppressed', 'oversees', 'refrain', 'sees', 'show', 'towards', 'understanding', 'using']
+- ChatGPT injected words (26):
+	['among', 'apply', 'be', 'between', 'brings', 'employees', 'employers', 'equality', 'fairness', 'favoritism', 'forsake', 'found', 'harmony', 'instead', 'just', 'kindness', 'let', 'mindful', 'relationship', 'relationships', 'show', 'too', 'towards', 'treatment', 'ultimate', 'we']
 - ChatGPT injected words (significant words only) (18):
-	['according', 'called', 'defend', 'emulate', 'example', 'expect', 'forgiveness', 'fulfill', 'harshness', 'heavenly', 'instead', 'kindness', 'mindful', 'oppressed', 'oversees', 'refrain', 'sees', 'understanding']
+	['apply', 'brings', 'employees', 'employers', 'equality', 'fairness', 'favoritism', 'forsake', 'found', 'harmony', 'instead', 'kindness', 'let', 'mindful', 'relationship', 'relationships', 'treatment', 'ultimate']
 
 ### Logs
-- ✅ Ephesians 6:9 bht prompt v5 (83 words, 68.97% quotes)
+- ✅ Ephesians 6:9 bht prompt v5 (100 words, 75.0% quotes)

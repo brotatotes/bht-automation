@@ -1,7 +1,7 @@
 # Ephesians 1:14 Commentary Help Text
 
 ## BHT:
-God's seal of the Holy Spirit is both a pledge and a foretaste of our heavenly inheritance. This seal guarantees that the church, redeemed by Christ's blood, will be fully delivered from sin and sorrow and brought into eternal glory. The indwelling of the Spirit is a constant presence, assuring us of His grace and guaranteeing our perseverance as saints. All of this points to the glorious wisdom, power, and mercy of God, worthy of our praise.
+The Holy Spirit serves as both a pledge and a taste of our future inheritance, confirming our right to it. This sealing reveals the certainty of our status as God's redeemed possession, purchased with the blood of Christ. It is through the Holy Spirit that we experience the ongoing assurance and indwelling of God's grace, ensuring that we will have eternal felicity, free from sin and sorrow. Ultimately, this redemption and the accompanying glory bring about the praise and honor deserving of God's glorious attributes.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ God's seal of the Holy Spirit is both a pledge and a foretaste of our heavenly i
 2. "The significance of a pledge lasts no longer than till both parties have fulfilled the bargain; and, accordingly, he afterwards adds, ye are sealed to the day of redemption, which means the day of judgment."
 3. "The frequent mention of the glory of God ought not to be regarded as superfluous, for what is infinite cannot be too strongly expressed. This is particularly true in commendations of the Divine mercy, for which every godly person will always feel himself unable to find adequate language."
 
+### Philip Schaff:
+1. "Which is an earnest, i.e., the Holy Spirit ‘Earnest’ is a part of the purchase-money paid as a pledge of full payment afterwards."
+2. "Believers obtain the certainty that they are heirs and have an inheritance in eternity, not through an assurance from without, but chiefly through the reality of the possession, not at once in its entire extent, but in an earnest."
+3. "‘All issues to “the praise of His glory,” His grace having now done its work."
+
 ### Archibald T. Robertson:
 1. "God's gift of the Holy Spirit is the pledge and first payment for the final inheritance in Christ." 
 2. "God has purchased us back to himself." 
@@ -44,15 +49,15 @@ God's seal of the Holy Spirit is both a pledge and a foretaste of our heavenly i
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 80.0%
-- BHT Quality Score: 88.99999999999999
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 88
+- BHT Commentary Usage: 70.0%
+- BHT Quality Score: 92.0
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (12):
-	['assuring', 'brought', 'by', 'constant', 'guaranteeing', 'guarantees', 'indwelling', 'points', 'presence', 'redeemed', 'seal', 'worthy']
-- ChatGPT injected words (significant words only) (11):
-	['assuring', 'brought', 'constant', 'guaranteeing', 'guarantees', 'indwelling', 'points', 'presence', 'redeemed', 'seal', 'worthy']
+- ChatGPT injected words (19):
+	['about', 'accompanying', 'attributes', 'bring', 'confirming', 'deserving', 'ensuring', 'experience', 'free', 'future', 'honor', 'indwelling', 'ongoing', 'redeemed', 'reveals', 'serves', 'status', 'taste', 'ultimately']
+- ChatGPT injected words (significant words only) (18):
+	['accompanying', 'attributes', 'bring', 'confirming', 'deserving', 'ensuring', 'experience', 'free', 'future', 'honor', 'indwelling', 'ongoing', 'redeemed', 'reveals', 'serves', 'status', 'taste', 'ultimately']
 
 ### Logs
-- ✅ Ephesians 1:14 bht prompt v5 (79 words, 80.0% quotes)
+- ✅ Ephesians 1:14 bht prompt v5 (88 words, 70.0% quotes)

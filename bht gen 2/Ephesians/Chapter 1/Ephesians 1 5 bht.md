@@ -1,7 +1,7 @@
 # Ephesians 1:5 Commentary Help Text
 
 ## BHT:
-God has predestined us to be adopted as his sons, meaning that he has planned for all who believe in him to become part of his spiritual family. This adoption is not based on our worthiness, but solely on God's grace and love towards us. It is by his free and unchangeable will that he has chosen to bless those who have faith in Christ and make them joint-heirs with him. This was all part of God's divine plan and purpose for our lives.
+God, in His infinite wisdom and grace, has predestined believers to be adopted as His sons. This divine predestination, according to the good pleasure of His will, ensures that those who believe in Christ will partake in the privilege of being God's children and heirs with Christ. It is not by our own merit but solely by the grace of God, who has chosen us beforehand for this glorious purpose.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ God has predestined us to be adopted as his sons, meaning that he has planned fo
 2. "In adopting us, therefore, God does not inquire what we are, and is not reconciled to us by any personal worth. His single motive is the eternal good pleasure, by which he predestinated us."
 3. "The material cause both of eternal election, and of the love which is now revealed, is Christ, the Beloved."
 
+### Philip Schaff:
+1. "The word 'predestine' (fore-ordain) refers to choosing for a preappointed end; the word translated ‘chose’ (Ephesians 1:4) points to the fact that the choice has been made out of a mass." 
+2. "If 'in love' be connected with this verse, it gives special emphasis to the motive of the predestination. These things, at which men cavil, are prompted by love, and will be apprehended only when men respond in love."
+3. "The end of the foreordaining is that we may be placed in the position of sons, enjoy the privileges of sons; comp. Romans 8:15-29. Christ is 'the first-born,' the only begotten Son; we are foreordained unto adoption, to become His brethren."
+
 ### Archibald T. Robertson:
 1. "Having foreordained us...to define or decide beforehand." 
 2. "Unto adoption as sons...see Galatians 4:5; Romans 8:15; Romans 9:4." 
@@ -48,15 +53,15 @@ God has predestined us to be adopted as his sons, meaning that he has planned fo
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 87
-- BHT Commentary Usage: 80.33%
-- BHT Quality Score: 82.67213114754098
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 71
+- BHT Commentary Usage: 76.92%
+- BHT Quality Score: 84.07692307692308
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (16):
-	['adopted', 'based', 'bless', 'faith', 'lives', 'make', 'meaning', 'part', 'plan', 'planned', 'predestined', 'solely', 'them', 'towards', 'unchangeable', 'worthiness']
+- ChatGPT injected words (13):
+	['adopted', 'believers', 'children', 'ensures', 'glorious', 'infinite', 'merit', 'own', 'partake', 'predestined', 'privilege', 'solely', 'wisdom']
 - ChatGPT injected words (significant words only) (12):
-	['adopted', 'based', 'bless', 'faith', 'lives', 'meaning', 'plan', 'planned', 'predestined', 'solely', 'unchangeable', 'worthiness']
+	['adopted', 'believers', 'children', 'ensures', 'glorious', 'infinite', 'merit', 'partake', 'predestined', 'privilege', 'solely', 'wisdom']
 
 ### Logs
-- ✅ Ephesians 1:5 bht prompt v5 (87 words, 80.33% quotes)
+- ✅ Ephesians 1:5 bht prompt v5 (71 words, 76.92% quotes)

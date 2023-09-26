@@ -1,7 +1,7 @@
 # Ephesians 5:32 Commentary Help Text
 
 ## BHT:
-The profound truth of the spiritual union of Christ and the Church, symbolized by the marriage union, is a great mystery beyond human comprehension. It is an emblem of the close affection between Christ and his people, reflecting the intimate communion they share. This union is not merely a human marriage, but a divine relationship of immense significance. It is a representation of God bringing Eve to Adam, illustrating the unity and purpose of their connection. This mystery, concealed and now revealed, reveals the deep connection between Christ and his Church, testifying to an unbreakable bond of love and devotion.
+The deep and profound truth revealed here is the spiritual union of Christ and the Church, which is likened to the close bond of marriage. This mystery, beyond human understanding, is a figure and emblem of the intimate relationship between Christ and his people. Just as a husband cleaves to his wife, so does Christ have a strong and affectionate bond with his Church. The bringing of Eve to Adam by God himself also carries a mysterious significance, as she was made from Adam's rib and presented to him, signifying the union between them.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ The profound truth of the spiritual union of Christ and the Church, symbolized b
 2. "How much more satisfactory would this be than to follow my carnal judgment, in undervaluing what Paul declares to be a deep mystery!"
 3. "The great mystery is, that Christ breathes into the church his own life and power."
 
+### Philip Schaff:
+1. "This mystery is great...the relation of husband and wife constituting them one flesh."
+2. "'I' is emphatic...and points to the use he personally makes of the mystery."
+3. "The mystery of the conjugal relation is great, but in the relation of Christ and His Church is found the archetype and prototype of the relation of husband and wife."
+
 ### Archibald T. Robertson:
 1. "This mystery is great (το μυστηριον τουτο μεγα εστιν)."
 2. "Clearly Paul means to say that the comparison of marriage to the union of Christ and the church is the mystery."
@@ -43,15 +48,15 @@ The profound truth of the spiritual union of Christ and the Church, symbolized b
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 100
-- BHT Commentary Usage: 68.85%
-- BHT Quality Score: 78.85245901639344
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 82.54%
+- BHT Quality Score: 72.46031746031746
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (20):
-	['bond', 'comprehension', 'devotion', 'illustrating', 'immense', 'intimate', 'love', 'merely', 'purpose', 'reflecting', 'relationship', 'representation', 'reveals', 'share', 'significance', 'symbolized', 'testifying', 'their', 'unbreakable', 'unity']
-- ChatGPT injected words (significant words only) (19):
-	['bond', 'comprehension', 'devotion', 'illustrating', 'immense', 'intimate', 'love', 'merely', 'purpose', 'reflecting', 'relationship', 'representation', 'reveals', 'share', 'significance', 'symbolized', 'testifying', 'unbreakable', 'unity']
+- ChatGPT injected words (17):
+	['affectionate', 'also', 'bond', 'carries', 'cleaves', 'does', 'from', 'have', 'here', 'intimate', 'just', 'likened', 'presented', 'relationship', 'significance', 'signifying', 'understanding']
+- ChatGPT injected words (significant words only) (11):
+	['affectionate', 'bond', 'carries', 'cleaves', 'intimate', 'likened', 'presented', 'relationship', 'significance', 'signifying', 'understanding']
 
 ### Logs
-- ✅ Ephesians 5:32 bht prompt v5 (100 words, 68.85% quotes)
+- ✅ Ephesians 5:32 bht prompt v5 (95 words, 82.54% quotes)

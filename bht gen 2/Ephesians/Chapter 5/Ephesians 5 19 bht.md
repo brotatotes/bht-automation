@@ -1,7 +1,7 @@
 # Ephesians 5:19 Commentary Help Text
 
 ## BHT:
-The early Christians would gather together before daylight on a fixed day to recite hymns to Christ, to avoid persecution. This practice was followed by the Savior, the apostles, and the primitive church. It is clear that there were other compositions used in the praise of God, aside from the Psalms of David. When singing hymns, it is important that they come from the heart, not merely on the tongue like hypocrites. These spiritual songs should be sung to the Lord Jesus, who searches the heart.
+The early Christians had the practice of gathering before daylight to worship and recite hymns to Christ, as if he were God. These hymns were spiritual songs and not the drunken songs of heathen feasts. Singing was meant to come from the heart, with the focus being on praising God and not just on the tongue. The singing of psalms, hymns, and spiritual songs was not limited to the Psalms of David, but included other compositions. Singing in worship is a way to express devotion to Jesus, with the understanding that he is Lord and can search the heart.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The early Christians would gather together before daylight on a fixed day to rec
 2. "Let your praises be not merely on the tongue, as hypocrites do, but from the heart."
 3. "The appellation spiritual, given to these songs, is strikingly appropriate; for the songs most frequently used are almost always on trifling subjects, and very far from being chaste."
 
+### Philip Schaff:
+1. "The reciprocal influence on their hearts is meant; and that in social intercourse as well as in their public assemblies."
+2. "There is no warrant for confining public praise to the use of the Old Testament psalms, or of paraphrases of other Scripture passages."
+3. "The view which takes this clause as subordinate to the preceding part of the verse is open to objection. It usually explains 'in your heart' as = heartily, which is incorrect. It is this private singing which best fits us for public praise."
+
 ### Archibald T. Robertson:
 1. "To the Lord (τω Κυριω). The Lord Jesus. In Colossians 3:16 we have τω θεω (to God) with all these varieties of praise, another proof of the deity of Christ."
 2. "See Colossians 3:16 for discussion."
@@ -43,15 +48,21 @@ The early Christians would gather together before daylight on a fixed day to rec
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 84.85%
-- BHT Quality Score: 79.15151515151514
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (12):
-	['aside', 'come', 'early', 'followed', 'gather', 'important', 'like', 'practice', 'savior', 'searches', 'together', 'would']
-- ChatGPT injected words (significant words only) (10):
-	['aside', 'come', 'early', 'followed', 'gather', 'important', 'like', 'practice', 'savior', 'searches']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 99
+- BHT Commentary Usage: 77.97%
+- BHT Quality Score: 73.03389830508473
+- Generate Attempts: 4 / 5
+- ChatGPT injected words (17):
+	['can', 'come', 'devotion', 'early', 'express', 'focus', 'gathering', 'had', 'he', 'included', 'just', 'limited', 'practice', 'search', 'understanding', 'way', 'worship']
+- ChatGPT injected words (significant words only) (13):
+	['come', 'devotion', 'early', 'express', 'focus', 'gathering', 'included', 'limited', 'practice', 'search', 'understanding', 'way', 'worship']
 
 ### Logs
-- ✅ Ephesians 5:19 bht prompt v5 (86 words, 84.85% quotes)
+- 🔄 Ephesians 5:19 (attempt 1, 138 words, 83.75% quotes, quality score: 28.249999999999993) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 5:19 (attempt 2, 101 words, 82.81% quotes, quality score: 66.1875) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 5:19 (attempt 3, 101 words, 82.81% quotes, quality score: 66.1875) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 5:19 bht prompt v5 (99 words, 77.97% quotes)

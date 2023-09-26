@@ -1,7 +1,7 @@
 # Ephesians 2:8 Commentary Help Text
 
 ## BHT:
-Salvation is not earned but rather received by the grace of God. It is not a result of our own merit or works, but solely a gift from God. Faith plays a crucial role in this process, as it is the means by which we receive and experience salvation. However, even faith itself is a gift from God, not something that we can boast about. Our salvation is not something we can achieve on our own; it is entirely initiated and accomplished by God's grace.
+Salvation is a gift of God's grace, freely given to us apart from anything we have done. It is not by our own merit or works, but solely by God's favor and love. Faith is the means through which we receive this gift, but even our faith is a gift from God. Our salvation is not based on our own efforts but on God's unmerited favor and the work of Christ. We are saved by grace alone, and our response should be one of humility and gratitude for this amazing gift.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Salvation is not earned but rather received by the grace of God. It is not a res
 2. "If, on the part of God, it is grace alone, and if we bring nothing but faith, which strips us of all commendation, it follows that salvation does not come from us."
 3. "Faith, then, brings a man empty to God, that he may be filled with the blessings of Christ."
 
+### Philip Schaff:
+1. "‘Ye have been saved, and ye are now in a state of salvation.’"
+2. "Salvation by grace is not arbitrarily attached to faith by the mere sovereign dictate of the Most High, for man’s willing acceptance of salvation is essential to his possession of it."
+3. "The gift of salvation comes from God, by whose grace we have been and are saved."
+
 ### Archibald T. Robertson:
 1. "By the grace" already mentioned in verse Ephesians 2:5 and so with the article.
 2. "Grace" is God's part, "faith" ours.
@@ -49,19 +54,15 @@ Salvation is not earned but rather received by the grace of God. It is not a res
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 86
-- BHT Commentary Usage: 72.55%
-- BHT Quality Score: 91.45098039215686
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (20):
-	['about', 'accomplished', 'achieve', 'can', 'crucial', 'earned', 'entirely', 'experience', 'however', 'initiated', 'our', 'plays', 'process', 'rather', 'receive', 'received', 'result', 'role', 'solely', 'something']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 94
+- BHT Commentary Usage: 75.0%
+- BHT Quality Score: 81.0
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (18):
+	['amazing', 'anything', 'apart', 'based', 'done', 'efforts', 'freely', 'given', 'gratitude', 'humility', 'love', 'one', 'our', 'receive', 'response', 'solely', 'unmerited', 'work']
 - ChatGPT injected words (significant words only) (14):
-	['accomplished', 'achieve', 'crucial', 'earned', 'entirely', 'experience', 'initiated', 'plays', 'process', 'receive', 'received', 'result', 'role', 'solely']
+	['amazing', 'apart', 'based', 'efforts', 'freely', 'given', 'gratitude', 'humility', 'love', 'receive', 'response', 'solely', 'unmerited', 'work']
 
 ### Logs
-- 🔄 Ephesians 2:8 (attempt 1, 105 words, 79.03% quotes, quality score: 65.96774193548387) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 2:8 (attempt 2, 103 words, 78.69% quotes, quality score: 68.31147540983606) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 2:8 bht prompt v5 (86 words, 72.55% quotes)
+- ✅ Ephesians 2:8 bht prompt v5 (94 words, 75.0% quotes)

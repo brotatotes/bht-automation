@@ -1,7 +1,7 @@
 # Ephesians 2:21 Commentary Help Text
 
 ## BHT:
-The Church is a living organism, not just a physical building. It grows and is built by Christ, who is the inclusive Head of the entire structure. Believers are called to be a part of this building, fitting together and growing into a holy temple. Their unity in Christ forms a sacred structure, surpassing any earthly temples of false gods.
+The building mentioned refers to the universal church, a spiritual structure comprising all believers. Christ acts as the master builder, foundation, and cornerstone of this everlasting edifice. The church's unity and growth revolve around Him, as believers become living stones fit together in Him. This growth includes the increase of believers joining the body and the advancement of their spiritual lives through the Word and ordinances. Comparing the church to the temple of Diana, once worshipped by the Ephesians, emphasizes the superiority and surpassing value of the church as the dwelling place of God.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -49,17 +49,17 @@ The Church is a living organism, not just a physical building. It grows and is b
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 60
-- BHT Commentary Usage: 80.43%
-- BHT Quality Score: 69.56521739130434
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 95
+- BHT Commentary Usage: 67.21%
+- BHT Quality Score: 82.21311475409837
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (11):
-	['any', 'earthly', 'entire', 'false', 'forms', 'gods', 'grows', 'just', 'physical', 'surpassing', 'temples']
-- ChatGPT injected words (significant words only) (9):
-	['earthly', 'entire', 'false', 'forms', 'gods', 'grows', 'physical', 'surpassing', 'temples']
+- ChatGPT injected words (24):
+	['acts', 'advancement', 'around', 'become', 'body', 'comparing', 'comprising', 'dwelling', 'emphasizes', 'everlasting', 'fit', 'includes', 'joining', 'lives', 'mentioned', 'once', 'place', 'refers', 'revolve', 'stones', 'superiority', 'surpassing', 'through', 'value']
+- ChatGPT injected words (significant words only) (20):
+	['acts', 'advancement', 'body', 'comparing', 'comprising', 'dwelling', 'emphasizes', 'everlasting', 'fit', 'includes', 'joining', 'lives', 'mentioned', 'place', 'refers', 'revolve', 'stones', 'superiority', 'surpassing', 'value']
 
 ### Logs
-- 🔄 Ephesians 2:21 (attempt 1, 75 words, 74.58% quotes, quality score: 90.42372881355932) 
-	- LIST FORMAT DETECTED!
-- ✅ Ephesians 2:21 bht prompt v5 (60 words, 80.43% quotes)
+- 🔄 Ephesians 2:21 (attempt 1, 101 words, 71.64% quotes, quality score: 77.35820895522387) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 2:21 bht prompt v5 (95 words, 67.21% quotes)

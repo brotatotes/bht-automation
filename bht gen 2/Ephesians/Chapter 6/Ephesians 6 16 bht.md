@@ -1,7 +1,7 @@
 # Ephesians 6:16 Commentary Help Text
 
 ## BHT:
-The shield of faith serves as the ultimate defense, covering all that came before it. Just as a soldier uses a shield to intercept and extinguish the fiery darts of the enemy, faith conquers the temptations that come our way. The fiery darts of the wicked, which are like spiritual attacks and suggestions of evil, can be deflected and quenched by the shield of faith. By exercising a strong and lively faith, holding it up as a shield, we can overcome even the most furious and violent temptations that the devil throws our way.
+Faith is a shield that covers and defends the Christian, protecting them from the attacks of the enemy. It is like a large stone against the door, solid and substantial, able to repel and conquer. Furthermore, Christ Himself is a shield, holding up and opposing all charges and objections of Satan. With faith, we can quench the fiery darts of temptation, preventing their malignant influence. These temptations are like violent and sudden injections from the devil, but with a strong and lively faith, we can overcome.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The shield of faith serves as the ultimate defense, covering all that came befor
 2. "In the spiritual combat, these two hold the highest rank. By faith we repel all the attacks of the devil, and by the word of God the enemy himself is slain."
 3. "Faith will be found capable, not only of blunting their edge, but of quenching their heat."
 
+### Philip Schaff:
+1. "Faith entirely covers and defends the Christian; as God’s gift effecting salvation, bringing about forgiveness of sins in the past, affording for every moment access to God, assuring in advance of eternal life, by securing to us the gift of the Holy Ghost, rendering holy and without blame." 
+2. "In which, when the darts light upon it."
+3. "Satan is throwing many burning darts or javelins at the Christian...the darts were caught on the large shield covered with tough hides, and extinguished by the contact."
+
 ### Archibald T. Robertson:
 1. "The shield of faith... a large stone against the door in Homer, from θυρα, door, large and oblong (Latin scutum), ασπις being smaller and circular, only here in N.T." 
 2. "To quench...old word, to extinguish (Matthew 12:20)."
@@ -44,15 +49,15 @@ The shield of faith serves as the ultimate defense, covering all that came befor
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 75.0%
-- BHT Quality Score: 81.0
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 86
+- BHT Commentary Usage: 86.67%
+- BHT Quality Score: 77.33333333333333
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (18):
-	['came', 'can', 'come', 'covering', 'defense', 'deflected', 'even', 'exercising', 'holding', 'most', 'our', 'overcome', 'quenched', 'serves', 'throws', 'ultimate', 'uses', 'way']
-- ChatGPT injected words (significant words only) (14):
-	['came', 'come', 'covering', 'defense', 'deflected', 'exercising', 'holding', 'overcome', 'quenched', 'serves', 'throws', 'ultimate', 'uses', 'way']
+- ChatGPT injected words (10):
+	['able', 'can', 'conquer', 'furthermore', 'holding', 'opposing', 'overcome', 'preventing', 'protecting', 'them']
+- ChatGPT injected words (significant words only) (8):
+	['able', 'conquer', 'furthermore', 'holding', 'opposing', 'overcome', 'preventing', 'protecting']
 
 ### Logs
-- ✅ Ephesians 6:16 bht prompt v5 (94 words, 75.0% quotes)
+- ✅ Ephesians 6:16 bht prompt v5 (86 words, 86.67% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 1:23 Commentary Help Text
 
 ## BHT:
-The Church is not merely a symbol but a living organism, with Christ as its head. It is the receptacle of His abundant gifts and graces, representing His divine life. Christ fills all things and desires to be united with the Church, finding completion in its members. The Church is the honor and fulfillment of Christ, as it is through the Church that His fullness is revealed and experienced. This unity and completeness of the Church highlight its significance and role in manifesting the glory of Christ in the world.
+The church, as the body of Christ, is a remarkable assembly comprising individuals with diverse gifts and contributions, yet all united under the leadership of Christ. It is in this collective body that Christ finds His fulfillment and completeness, and in turn, He fills and completes the church. Every saint, regardless of their capacity or ability, is filled by Christ who enriches their souls, minds, hearts, and all aspects of their being with joy, knowledge, peace, spiritual desires, submission, and love. Christ, as the fulness of God, encompasses and fills not only the church but also the entirety of creation.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The Church is not merely a symbol but a living organism, with Christ as its head
 2. "What consolation is it for us to learn, that, not until we are along with him, does he possess all his parts, or wish to be regarded as complete!"
 3. "His wish to be filled, and, in some respects, made perfect in us, arises from no want or necessity; for all that is good in ourselves, or in any of the creatures, is the gift of his hand."
 
+### Philip Schaff:
+1. "The relation of Christians to Christ is that of vital union, akin to, yet in reality and intimacy exceeding, that existing between the parts of any living organism, such as a vine and its branches, the head and its members."
+2. "The Church is the veritable mystical Body of Christ, yea the recipient of the plenitudes of Him who filleth all things, whether in heaven or in earth, with all the things, elements and entities, of which they are composed."
+3. "The wider reference well expands Ephesians 1:22: ‘The Head of the Church is at the same time Lord of the universe. While He fills the Church fully with those blessings which have been won for it and are adapted to it, He also fills the universe with all such gifts as are appropriate to its welfare gifts which it is now His exalted prerogative to bestow’."
+
 ### Archibald T. Robertson:
 1. "The fulness of him that filleth all in all."
 2. "All things are summed up in Christ."
@@ -44,18 +49,15 @@ The Church is not merely a symbol but a living organism, with Christ as its head
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 90
-- BHT Commentary Usage: 71.7%
-- BHT Quality Score: 88.30188679245282
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (17):
-	['abundant', 'completeness', 'experienced', 'finding', 'fulfillment', 'highlight', 'its', 'manifesting', 'members', 'representing', 'revealed', 'role', 'significance', 'symbol', 'through', 'unity', 'world']
-- ChatGPT injected words (significant words only) (15):
-	['abundant', 'completeness', 'experienced', 'finding', 'fulfillment', 'highlight', 'manifesting', 'members', 'representing', 'revealed', 'role', 'significance', 'symbol', 'unity', 'world']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 68.66%
+- BHT Quality Score: 78.65671641791045
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (23):
+	['ability', 'aspects', 'being', 'capacity', 'collective', 'completeness', 'completes', 'comprising', 'contributions', 'creation', 'diverse', 'encompasses', 'enriches', 'entirety', 'finds', 'fulfillment', 'individuals', 'leadership', 'only', 'regardless', 'remarkable', 'saint', 'turn']
+- ChatGPT injected words (significant words only) (21):
+	['ability', 'aspects', 'capacity', 'collective', 'completeness', 'completes', 'comprising', 'contributions', 'creation', 'diverse', 'encompasses', 'enriches', 'entirety', 'finds', 'fulfillment', 'individuals', 'leadership', 'regardless', 'remarkable', 'saint', 'turn']
 
 ### Logs
-- 🔄 Ephesians 1:23 (attempt 1, 122 words, 81.25% quotes, quality score: 46.75) 
-	- BHT WAS OVER 100 WORDS! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 1:23 bht prompt v5 (90 words, 71.7% quotes)
+- ✅ Ephesians 1:23 bht prompt v5 (100 words, 68.66% quotes)

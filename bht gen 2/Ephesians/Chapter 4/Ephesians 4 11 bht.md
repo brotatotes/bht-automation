@@ -1,7 +1,7 @@
 # Ephesians 4:11 Commentary Help Text
 
 ## BHT:
-The divine gift of men filling the office is crucial for the unity of faith and guarding against false teachings. The office, separate from that of pastors, teachers, and prophets, emphasizes the importance of preaching. This external ministry of the word is a means through which the Lord governs and sustains His church, fostering its growth and perfection. Those appointed to this office have the responsibility of proclaiming the gospel, ensuring the existence and edification of the church. Its significance lies in the advantages it offers and its role in fulfilling God's purposes.
+The ministry of the Church is a divine gift from God. He has graciously provided various ministers with specific roles and gifts for the extension and edification of the Church. These ministers, including apostles, prophets, evangelists, pastors, and teachers, serve to preach the Gospel, guide believers, and promote unity of faith. While New Testament church polity does not prescribe a specific form, the apostolic order of bishops, presbyters, and deacons, overseen by higher overseers, has historical support. These ministers, equipped with their unique gifts, work together to fulfill their calling, ensuring the well-being and growth of the Church.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ The divine gift of men filling the office is crucial for the unity of faith and 
 2. "The government of the church, by the ministry of the word, is not a contrivance of men, but an appointment made by the Son of God. As his own unalterable law, it demands our assent. They who reject or despise this ministry offer insult and rebellion to Christ its Author."
 3. "The gifts bestowed on individuals are intended, not to be held for their personal and separate interests, but to be employed for the benefit of the whole. Every ground of emulation, and envy, and ambition, being thus removed."
 
+### Philip Schaff:
+1. "Christ gives the Church's ministers; the Church takes those given and sets them in the service of the Church."
+2. "The term was sometimes loosely applied to others, especially Barnabas."
+3. "The Apostle seems to have avoided the use of the technical terms then applied in the churches."
+
 ### Archibald T. Robertson:
 1. "The word ποιμην is from a root meaning to protect." 
 2. "Jesus said the good shepherd lays down his life for the sheep."
@@ -48,18 +53,23 @@ The divine gift of men filling the office is crucial for the unity of faith and 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 65.62%
-- BHT Quality Score: 81.625
-- Generate Attempts: 2 / 5
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 99
+- BHT Commentary Usage: 71.43%
+- BHT Quality Score: 79.57142857142857
+- Generate Attempts: 5 / 5
 - ChatGPT injected words (25):
-	['against', 'crucial', 'emphasizes', 'ensuring', 'false', 'filling', 'fostering', 'fulfilling', 'governs', 'growth', 'guarding', 'importance', 'lies', 'means', 'offers', 'proclaiming', 'purposes', 'responsibility', 'role', 's', 'significance', 'sustains', 'teachings', 'those', 'through']
-- ChatGPT injected words (significant words only) (22):
-	['crucial', 'emphasizes', 'ensuring', 'false', 'filling', 'fostering', 'fulfilling', 'governs', 'growth', 'guarding', 'importance', 'lies', 'means', 'offers', 'proclaiming', 'purposes', 'responsibility', 'role', 's', 'significance', 'sustains', 'teachings']
+	['believers', 'calling', 'does', 'ensuring', 'equipped', 'fulfill', 'graciously', 'growth', 'guide', 'historical', 'including', 'overseen', 'prescribe', 'promote', 'provided', 'roles', 'serve', 'specific', 'support', 'these', 'unique', 'well', 'while', 'with', 'work']
+- ChatGPT injected words (significant words only) (20):
+	['believers', 'calling', 'ensuring', 'equipped', 'fulfill', 'graciously', 'growth', 'guide', 'historical', 'including', 'overseen', 'prescribe', 'promote', 'provided', 'roles', 'serve', 'specific', 'support', 'unique', 'work']
 
 ### Logs
-- 🔄 Ephesians 4:11 (attempt 1, 146 words, 100.0% quotes, quality score: 3.9999999999999964) 
-	- BHT WAS OVER 100 WORDS! 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 4:11 bht prompt v5 (94 words, 65.62% quotes)
+- 🔄 Ephesians 4:11 (attempt 1, 133 words, 59.09% quotes, quality score: 36.090909090909086) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 4:11 (attempt 2, 102 words, 68.0% quotes, quality score: 76.0) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 4:11 (attempt 3, 108 words, 65.33% quotes, quality score: 67.33333333333334) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 4:11 (attempt 4, 112 words, 73.68% quotes, quality score: 64.3157894736842) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 4:11 bht prompt v5 (99 words, 71.43% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 4:28 Commentary Help Text
 
 ## BHT:
-Let the person who used to steal from others cease their dishonest actions and instead engage in honest labor. By working diligently with their own hands, they can not only provide for themselves but also have something to share with those in need. This transformation from a thief to a hardworking individual who gives generously is a clear example of how the gospel calls for a change in our behavior and urges us to prioritize the well-being of others over our own desires.
+Those who once engaged in theft or fraudulent behavior are urged to cease such actions. The transition from a life of dishonesty to one of integrity involves actively participating in productive and honorable work. By toiling diligently with their own hands, individuals not only support themselves but also acquire resources to share with those in need. This passage emphasizes the moral responsibility of Christians to live in a manner that benefits others, rather than exploiting or taking advantage of them. It encourages a shift from self-centeredness to compassion and generosity, cultivating a community characterized by righteousness and mutual care.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -24,6 +24,11 @@ Let the person who used to steal from others cease their dishonest actions and i
 2. "Thou who formerly stolest must not only obtain thy subsistence by lawful and harmless toil, but must give assistance to others."
 3. "No condition, however hard or disagreeable, can entitle any man to do injury to another, or even to refrain from contributing to the necessities of his brethren."
 
+### Philip Schaff:
+1. "One who acts thus, not quite so strong as ‘thief,’ But were there any such among the Ephesian Christians? Possibly there were, comp. 1 Corinthians 5:1; 2 Corinthians 12:21; but more probably the term should be understood in the spirit of Christian ethics, of those who lived by their wits, cheating their neighbors, or in indolence neglected to labor for themselves, becoming a burden on the charity of others. Certainly the context points to such, as included."
+2. "Laziness is but a form of dishonesty; and manual labor is far more honorable than many forms of ‘business,’ so-called."
+3. "The precept of this verse is the very opposite of communism, which encourages men to take as their right, not to give as their privilege. Here is the germ of Christian social science."
+
 ### Archibald T. Robertson:
 1. "Steal no more. Clearly here, cease stealing."
 2. "The good thing" opposed to his stealing and "with his hands" that did the stealing.
@@ -44,15 +49,22 @@ Let the person who used to steal from others cease their dishonest actions and i
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 84
-- BHT Commentary Usage: 68.75%
-- BHT Quality Score: 94.75
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (30):
-	['actions', 'behavior', 'being', 'calls', 'change', 'clear', 'desires', 'diligently', 'dishonest', 'engage', 'example', 'generously', 'gives', 'hardworking', 'how', 'individual', 'instead', 'our', 'over', 'prioritize', 'provide', 'share', 'something', 'their', 'themselves', 'transformation', 'urges', 'us', 'used', 'well']
-- ChatGPT injected words (significant words only) (20):
-	['actions', 'behavior', 'calls', 'change', 'clear', 'desires', 'diligently', 'dishonest', 'engage', 'example', 'generously', 'gives', 'hardworking', 'individual', 'instead', 'prioritize', 'provide', 'share', 'transformation', 'urges']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 53.16%
+- BHT Quality Score: 63.164556962025316
+- Generate Attempts: 4 / 5
+- ChatGPT injected words (38):
+	['acquire', 'actions', 'actively', 'advantage', 'behavior', 'benefits', 'care', 'centeredness', 'characterized', 'community', 'compassion', 'cultivating', 'diligently', 'emphasizes', 'engaged', 'exploiting', 'generosity', 'individuals', 'integrity', 'involves', 'life', 'live', 'moral', 'mutual', 'once', 'participating', 'passage', 'productive', 'resources', 'responsibility', 'righteousness', 'self', 'share', 'shift', 'support', 'toiling', 'transition', 'urged']
+- ChatGPT injected words (significant words only) (37):
+	['acquire', 'actions', 'actively', 'advantage', 'behavior', 'benefits', 'care', 'centeredness', 'characterized', 'community', 'compassion', 'cultivating', 'diligently', 'emphasizes', 'engaged', 'exploiting', 'generosity', 'individuals', 'integrity', 'involves', 'life', 'live', 'moral', 'mutual', 'participating', 'passage', 'productive', 'resources', 'responsibility', 'righteousness', 'self', 'share', 'shift', 'support', 'toiling', 'transition', 'urged']
 
 ### Logs
-- ✅ Ephesians 4:28 bht prompt v5 (84 words, 68.75% quotes)
+- 🔄 Ephesians 4:28 (attempt 1, 101 words, 68.42% quotes, quality score: 77.42105263157896) 
+	- BHT WAS OVER 100 WORDS! 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Ephesians 4:28 (attempt 2, 108 words, 57.5% quotes, quality score: 59.5) 
+	- BHT WAS OVER 100 WORDS!
+- 🔄 Ephesians 4:28 (attempt 3, 98 words, 63.77% quotes, quality score: 75.76811594202898) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 4:28 bht prompt v5 (100 words, 53.16% quotes)

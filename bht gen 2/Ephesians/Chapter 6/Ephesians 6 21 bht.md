@@ -1,7 +1,7 @@
 # Ephesians 6:21 Commentary Help Text
 
 ## BHT:
-Ye also, as well as others, should be aware of the matters concerning me, including the issues and circumstances related to my life and ministry. It is important for you to know my affairs, not only for your understanding and support, but also for the purpose of strengthening your faith and encouraging your hearts.
+Ye also, referring to the recipients of the message, are included in the group that should have knowledge and understanding. The intention is to ensure that they are not excluded, but rather fully informed about the matters at hand.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Ye also, as well as others, should be aware of the matters concerning me, includ
 2. "The holy solicitude which Paul felt about the interests of religion...was thus strikingly evinced."
 3. "Paul acts a different part, and sends in every direction to strengthen the churches which he had founded."
 
+### Philip Schaff:
+1. "With this word of transition the Apostle passes to his brief conclusion."
+2. "The two phrases point respectively to his external circumstances, and to his demeanor therein."
+3. "The beloved brother; a fellow-Christian, probably known to them (Acts 20:4)."
+
 ### Archibald T. Robertson:
 1. "Final clause with ινα and second perfect subjunctive active of οιδα."
 
@@ -45,18 +50,18 @@ Ye also, as well as others, should be aware of the matters concerning me, includ
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 54
-- BHT Commentary Usage: 70.0%
-- BHT Quality Score: 74.0
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 39
+- BHT Commentary Usage: 59.38%
+- BHT Quality Score: 48.375
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (14):
-	['aware', 'circumstances', 'encouraging', 'faith', 'important', 'including', 'issues', 'ministry', 'only', 'related', 'should', 'strengthening', 'support', 'understanding']
-- ChatGPT injected words (significant words only) (12):
-	['aware', 'circumstances', 'encouraging', 'faith', 'important', 'including', 'issues', 'ministry', 'related', 'strengthening', 'support', 'understanding']
+- ChatGPT injected words (16):
+	['at', 'ensure', 'excluded', 'fully', 'group', 'hand', 'included', 'informed', 'intention', 'knowledge', 'message', 'rather', 'recipients', 'referring', 'should', 'understanding']
+- ChatGPT injected words (significant words only) (13):
+	['ensure', 'excluded', 'fully', 'group', 'hand', 'included', 'informed', 'intention', 'knowledge', 'message', 'recipients', 'referring', 'understanding']
 
 ### Logs
-- 🔄 Ephesians 6:21 (attempt 1, 10 words, 66.67% quotes, quality score: 26.66666666666668) 
+- 🔄 Ephesians 6:21 (attempt 1, 10 words, 80.0% quotes, quality score: 19.999999999999993) 
 	- BHT WAS UNDER 25 WORDS! 
 	- LIST FORMAT DETECTED!
-- ✅ Ephesians 6:21 bht prompt v5 (54 words, 70.0% quotes)
+- ✅ Ephesians 6:21 bht prompt v5 (39 words, 59.38% quotes)

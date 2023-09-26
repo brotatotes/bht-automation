@@ -1,7 +1,7 @@
 # Ephesians 6:6 Commentary Help Text
 
 ## BHT:
-When serving our earthly masters, it is common for us to seek their approval and work diligently only when they are watching. However, as followers of Christ, our mindset should be different. We should strive to please God above all else and not be people-pleasers. In doing so, we are called to do the will of God from the depths of our hearts, with sincerity and wholeheartedness. This means faithfully serving our masters even when they are not present, recognizing that our ultimate service is to our unseen but ever-present Master, Christ himself.
+In our daily lives, it is important for us to not just be men-pleasers, seeking to please others only when they are watching us. Instead, as servants of Christ, we should strive to do the will of God from the depths of our hearts. This means giving our best effort in all that we do, whether our masters or authorities are present or not. Our ultimate aim should be to seek to please God, for He is always watching and knows the motives of our hearts.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -17,6 +17,11 @@ When serving our earthly masters, it is common for us to seek their approval and
 
 ### Marvin Vincent:
 1. Eye service - men - pleasers. See on Colossians 3:22.
+
+### Philip Schaff:
+1. "'Eyeservice' is a word coined by the Apostle to express that kind of service which seeks the appearance of fidelity, namely, under the master's eye; hence rendered as 'men-pleasers,' solely to please the master."
+2. "But as servants (bondmen) of Christ (not 'as men-pleasers'); doing the will of God from the heart (Greek, 'soul'), not 'in the way of eye-service.'"
+3. "The last clause, however, defines how 'as servants of Christ' their service is rendered. Some without sufficient reason join 'from the heart' to the next verse."
 
 ### Archibald T. Robertson:
 1. "Better 'slaves of Christ' as Paul rejoiced to call himself."
@@ -35,18 +40,15 @@ When serving our earthly masters, it is common for us to seek their approval and
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 74.63%
-- BHT Quality Score: 80.3731343283582
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (24):
-	['above', 'all', 'approval', 'called', 'common', 'depths', 'diligently', 'else', 'even', 'followers', 'hearts', 'means', 'mindset', 'our', 'people', 'recognizing', 'should', 'sincerity', 'strive', 'this', 'ultimate', 'watching', 'wholeheartedness', 'work']
-- ChatGPT injected words (significant words only) (17):
-	['approval', 'called', 'common', 'depths', 'diligently', 'followers', 'hearts', 'means', 'mindset', 'people', 'recognizing', 'sincerity', 'strive', 'ultimate', 'watching', 'wholeheartedness', 'work']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 87
+- BHT Commentary Usage: 72.41%
+- BHT Quality Score: 90.58620689655172
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (23):
+	['aim', 'all', 'authorities', 'daily', 'depths', 'effort', 'giving', 'hearts', 'important', 'instead', 'just', 'knows', 'lives', 'means', 'motives', 'others', 'our', 'should', 'strive', 'this', 'ultimate', 'watching', 'whether']
+- ChatGPT injected words (significant words only) (16):
+	['aim', 'authorities', 'daily', 'depths', 'effort', 'giving', 'hearts', 'important', 'instead', 'knows', 'lives', 'means', 'motives', 'strive', 'ultimate', 'watching']
 
 ### Logs
-- 🔄 Ephesians 6:6 (attempt 1, 102 words, 100.0% quotes, quality score: 48.0) 
-	- BHT WAS OVER 100 WORDS! 
-	- OVER 90.0% OF BHT WAS FROM QUOTES!
-- ✅ Ephesians 6:6 bht prompt v5 (95 words, 74.63% quotes)
+- ✅ Ephesians 6:6 bht prompt v5 (87 words, 72.41% quotes)

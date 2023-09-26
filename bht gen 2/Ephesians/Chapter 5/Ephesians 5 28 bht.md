@@ -1,7 +1,7 @@
 # Ephesians 5:28 Commentary Help Text
 
 ## BHT:
-A husband should love his wife just as much as he loves himself, taking the same care for her comfort and well-being as he does for his own body. By loving his wife, a husband is actually loving himself, as their interests are intertwined. The kindness and solicitude shown towards a wife will bring happiness and fulfillment, making any effort worth it. Indeed, it is a natural and noble duty for a man to love his wife, for she is as much a part of him as his own body.
+Husbands are instructed to love their wives just as they love themselves, treating them with the same care and consideration they would give to their own bodies. By nurturing and cherishing their wives, husbands are fulfilling their responsibility and nurturing their own well-being. A man's love for his wife is not only a duty but also a source of great happiness and fulfillment, for the love and happiness she imparts to him far exceeds any effort he puts into making her happy.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -26,6 +26,11 @@ A husband should love his wife just as much as he loves himself, taking the same
 2. "The man who does not love his wife is a monster."
 3. "Whoever considers seriously the design of marriage cannot but love his wife."
 
+### Philip Schaff:
+1. "Thus; in this manner, as Christ loved the Church; not to be referred to the following 'as.'"
+2. "Ought husbands also to love their own wives. 'Also' is well supported, and shows that the example of Christ is referred to. 'Own' is emphatic."
+3. "As their own bodies. Not, 'as if they were,' but 'since they are,' the husband being the head of the wife, etc. (Ephesians 5:23)."
+
 ### Archibald T. Robertson:
 1. "And yet some people actually say that Paul in Ephesians 5:1 gives a degrading view of marriage."
 2. "How can one say that after reading Ephesians 5:22-33 where the noblest picture of marriage ever drawn is given?"
@@ -43,15 +48,15 @@ A husband should love his wife just as much as he loves himself, taking the same
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 91
-- BHT Commentary Usage: 78.57%
-- BHT Quality Score: 80.42857142857143
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 84
+- BHT Commentary Usage: 75.0%
+- BHT Quality Score: 91.0
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (18):
-	['any', 'bring', 'effort', 'fulfillment', 'indeed', 'intertwined', 'just', 'loves', 'loving', 'making', 'natural', 'noble', 'part', 'shown', 'taking', 'towards', 'well', 'worth']
-- ChatGPT injected words (significant words only) (12):
-	['bring', 'effort', 'fulfillment', 'intertwined', 'loves', 'loving', 'making', 'natural', 'noble', 'shown', 'taking', 'worth']
+- ChatGPT injected words (22):
+	['any', 'cherishing', 'consideration', 'effort', 'exceeds', 'far', 'fulfilling', 'fulfillment', 'give', 'great', 'instructed', 'into', 'just', 'making', 'nurturing', 'only', 'puts', 'responsibility', 'source', 'them', 'treating', 'would']
+- ChatGPT injected words (significant words only) (15):
+	['cherishing', 'consideration', 'effort', 'exceeds', 'far', 'fulfilling', 'fulfillment', 'great', 'instructed', 'making', 'nurturing', 'puts', 'responsibility', 'source', 'treating']
 
 ### Logs
-- ✅ Ephesians 5:28 bht prompt v5 (91 words, 78.57% quotes)
+- ✅ Ephesians 5:28 bht prompt v5 (84 words, 75.0% quotes)

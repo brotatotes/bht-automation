@@ -1,7 +1,7 @@
 # Ephesians 1:22 Commentary Help Text
 
 ## BHT:
-Christ is described as the head over all things to the Church, which signifies His authority and influence in guiding and governing it. The Church, being His body, is filled by Him, exemplifying the close relationship between Christ and His people. This gift of headship is a valuable and excellent one, bestowed freely by God, and has a profound impact on the Church. The unity and vitality of the Church depend on the intimate connection between Christ as the head and believers as His body, as they receive continual communication and strength from Him.
+Christ is the Head of the Church, possessing unlimited authority over all things. Just as the body is connected to its head, the Church is intimately linked to Christ, receiving guidance, government, life, and influence from Him. This special gift of headship from God has immense value and benefits the Church greatly, ensuring unity and the continuous flow of activity, growth, and strength to every member. This truth is beautifully illustrated in Psalms 8:6, where God puts all things under Christ's feet, reinforcing His supreme reign and the Church's reliance on Him.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Christ is described as the head over all things to the Church, which signifies H
 2. "The metaphor of a head denotes the highest authority."
 3. "The Church is His body, and, consequently, those who refuse to submit to Him are unworthy of its communion; for on Him alone the unity of the Church depends."
 
+### Philip Schaff:
+1. "The unlimited Sovereignty of the exalted Christ is now set forth: ‘all things’ sums up what has been detailed in Ephesians 1:21."
+2. "The passage plainly says that Christ is given to the Church, and the next verse as plainly indicates that He is Head of the Church."
+3. "The preservation of the Church throughout eighteen centuries is the accumulating proof that Christ is Head over all things to that Church."
+
 ### Archibald T. Robertson:
 1. "He put all things in subjection." 
 2. "Gave him to be head." 
@@ -49,17 +54,17 @@ Christ is described as the head over all things to the Church, which signifies H
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 70.69%
-- BHT Quality Score: 85.3103448275862
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 66.67%
+- BHT Quality Score: 83.66666666666669
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (20):
-	['believers', 'bestowed', 'between', 'close', 'connection', 'depend', 'described', 'exemplifying', 'freely', 'governing', 'guiding', 'has', 'impact', 'intimate', 'profound', 'receive', 'relationship', 'signifies', 'they', 'vitality']
-- ChatGPT injected words (significant words only) (17):
-	['believers', 'bestowed', 'close', 'connection', 'depend', 'described', 'exemplifying', 'freely', 'governing', 'guiding', 'impact', 'intimate', 'profound', 'receive', 'relationship', 'signifies', 'vitality']
+- ChatGPT injected words (23):
+	['beautifully', 'benefits', 'connected', 'continuous', 'ensuring', 'flow', 'greatly', 'illustrated', 'immense', 'intimately', 'just', 'linked', 'possessing', 'puts', 'receiving', 'reign', 'reinforcing', 'reliance', 's', 'supreme', 'truth', 'value', 'where']
+- ChatGPT injected words (significant words only) (21):
+	['beautifully', 'benefits', 'connected', 'continuous', 'ensuring', 'flow', 'greatly', 'illustrated', 'immense', 'intimately', 'linked', 'possessing', 'puts', 'receiving', 'reign', 'reinforcing', 'reliance', 's', 'supreme', 'truth', 'value']
 
 ### Logs
-- 🔄 Ephesians 1:22 (attempt 1, 95 words, 71.7% quotes, quality score: 83.30188679245282) 
+- 🔄 Ephesians 1:22 (attempt 1, 95 words, 80.0% quotes, quality score: 74.99999999999999) 
 	- 'VERSE' FOUND IN BHT!
-- ✅ Ephesians 1:22 bht prompt v5 (94 words, 70.69% quotes)
+- ✅ Ephesians 1:22 bht prompt v5 (93 words, 66.67% quotes)

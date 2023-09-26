@@ -1,7 +1,7 @@
 # Ephesians 2:4 Commentary Help Text
 
 ## BHT:
-God, being rich in compassion, demonstrated His great love for us by extending His mercy towards us even when we were dead in our sins. He breathed new life into us through Christ, uniting us with Him and giving us the opportunity to experience true life. This act of mercy and love was not a mere afterthought; it was the very reason why He saved us. God's lavish mercy and inexhaustible love are the riches of His character, and it is through these that He extends salvation to us, removing our misery and granting us eternal life.
+But God, for His great love, being rich in mercy, vivified us together with Christ. This passage highlights the overflowing, abundant mercy of God. Through His great love, He showed us mercy even when we were dead in our sins. In this act of love and mercy, God has brought us to life and united us with Christ, granting us newness and restoration in Him. His love and mercy are the foundation of our salvation, as He extends His compassion and grace to us, offering us new life and a restored relationship with Him through Christ.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ God, being rich in compassion, demonstrated His great love for us by extending H
 2. "The whole of our salvation is here ascribed to the mercy of God. But he presently adds, for his great love wherewith he loved us."
 3. "'Loving with love,' increaseth the emphasis and force of the expression."
 
+### Philip Schaff:
+1. "‘Mercy’ is more general than ‘compassion’ (comp. Romans 9:15); both refer to God’s love toward sinners, as those who are miserable and need help."
+2. "But here the whole phrase qualifies the verbs, ‘quickened,’ etc., assigning the special ground for these actions; hence the reference is to love which has manifested itself, love for persons (‘us’)."
+3. "‘Us’ includes all believers, and is not to be limited to Jewish Christians."
+
 ### Archibald T. Robertson:
 1. "But God: Change in the structure of the sentence here, resuming verse Ephesians 2:1 after the break." 
 2. "Being rich in mercy: More than being merciful." 
@@ -47,15 +52,21 @@ God, being rich in compassion, demonstrated His great love for us by extending H
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 70.15%
-- BHT Quality Score: 81.8507462686567
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (23):
-	['act', 'afterthought', 'character', 'demonstrated', 'eternal', 'experience', 'extending', 'extends', 'giving', 'granting', 'inexhaustible', 'lavish', 'mere', 'new', 'opportunity', 'removing', 'saved', 'sins', 'these', 'through', 'towards', 'true', 'uniting']
-- ChatGPT injected words (significant words only) (20):
-	['act', 'afterthought', 'character', 'demonstrated', 'eternal', 'experience', 'extending', 'extends', 'giving', 'granting', 'inexhaustible', 'lavish', 'mere', 'new', 'opportunity', 'removing', 'saved', 'sins', 'true', 'uniting']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 96
+- BHT Commentary Usage: 70.91%
+- BHT Quality Score: 83.09090909090908
+- Generate Attempts: 4 / 5
+- ChatGPT injected words (17):
+	['act', 'brought', 'extends', 'foundation', 'grace', 'granting', 'highlights', 'new', 'newness', 'offering', 'passage', 'relationship', 'restoration', 'restored', 'showed', 'sins', 'through']
+- ChatGPT injected words (significant words only) (16):
+	['act', 'brought', 'extends', 'foundation', 'grace', 'granting', 'highlights', 'new', 'newness', 'offering', 'passage', 'relationship', 'restoration', 'restored', 'showed', 'sins']
 
 ### Logs
-- ✅ Ephesians 2:4 bht prompt v5 (98 words, 70.15% quotes)
+- 🔄 Ephesians 2:4 (attempt 1, 96 words, 77.19% quotes, quality score: 76.80701754385964) 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Ephesians 2:4 (attempt 2, 94 words, 81.36% quotes, quality score: 74.64406779661016) 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Ephesians 2:4 (attempt 3, 103 words, 74.14% quotes, quality score: 72.86206896551724) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 2:4 bht prompt v5 (96 words, 70.91% quotes)

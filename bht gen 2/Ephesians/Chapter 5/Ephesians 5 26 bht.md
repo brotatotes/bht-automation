@@ -1,7 +1,7 @@
 # Ephesians 5:26 Commentary Help Text
 
 ## BHT:
-Through Christ's sacrifice, believers are delivered and atoned for their sins. Baptism serves as a symbol of sanctification, offering a visible confirmation of the inward cleansing. By being washed in the waters of baptism, we are cleansed from both the guilt and power of sin. This act of baptism connects us to the grace that justifies and presents us as pure in the sight of divine justice. The blood of Christ acts as a fountain, providing the necessary cleansing from all sin. Baptism serves as the ordinary means by which believers receive these blessings, linking them to the redemptive power of Christ's sacrifice and the transformative washing in baptism.
+In His love, God sacrificed Himself to purify and save the church. Baptism serves as a visible confirmation of the inward sanctification that is offered. Through the faithful application of truth to the heart, believers are sanctified, and baptism symbolizes the washing of the soul and union with Christ. The benefits of redemption are connected to the reception of the truth in both the Word and the sacrament of baptism. By His sacrifice, Christ delivers believers from sin, cleanses them with His blood, and justifies them with His righteousness. Baptism, accompanied by the Word, sanctifies and cleanses believers from sin.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -18,6 +18,11 @@ Through Christ's sacrifice, believers are delivered and atoned for their sins. B
 1. "Having mentioned the inward and hidden sanctification, he now adds the outward symbol, by which it is visibly confirmed; as if he had said, that a pledge of that sanctification is held out to us by baptism."
 2. "If the truth — or, which is the same thing, the exhibition of the truth — were not connected with baptism, it would be improper to say that baptism is the washing of the soul."
 3. "The only difference, therefore, between the sacraments of the godly and the contrivances of unbelievers, is found in the Word. By the Word is here meant the promise, which explains the value and use of the signs."
+
+### Philip Schaff:
+1. "Both sanctification and purification are dependent on the atoning death of Christ, the former as an act contemplated by it, the latter as an act included in it."
+2. "The purification of which baptism is the sign and seal has as its essential accompaniment 'the word' of the gospel."
+3. "How then is it true that baptism washes away sin, unites us to Christ, and secures salvation? The answer again is, that this is true of baptism in the same sense that it is true of the word. God is pleased to connect the benefits of redemption with the believing reception of the truth."
 
 ### Archibald T. Robertson:
 1. "Jesus stated this as his longing and his prayer."
@@ -39,25 +44,23 @@ Through Christ's sacrifice, believers are delivered and atoned for their sins. B
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 111
-- BHT Commentary Usage: 70.15%
-- BHT Quality Score: 68.8507462686567
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 100
+- BHT Commentary Usage: 77.19%
+- BHT Quality Score: 72.80701754385964
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (23):
-	['act', 'acts', 'are', 'atoned', 'believers', 'both', 'confirmation', 'connects', 'delivered', 'justifies', 'linking', 'means', 'necessary', 'offering', 'presents', 'providing', 'redemptive', 's', 'serves', 'these', 'transformative', 'washed', 'waters']
-- ChatGPT injected words (significant words only) (20):
-	['act', 'acts', 'atoned', 'believers', 'confirmation', 'connects', 'delivered', 'justifies', 'linking', 'means', 'necessary', 'offering', 'presents', 'providing', 'redemptive', 's', 'serves', 'transformative', 'washed', 'waters']
+- ChatGPT injected words (13):
+	['accompanied', 'believers', 'confirmation', 'delivers', 'justifies', 'love', 'offered', 'sacrament', 'sacrificed', 'sanctifies', 'serves', 'symbolizes', 'union']
+- ChatGPT injected words (significant words only) (13):
+	['accompanied', 'believers', 'confirmation', 'delivers', 'justifies', 'love', 'offered', 'sacrament', 'sacrificed', 'sanctifies', 'serves', 'symbolizes', 'union']
 
 ### Logs
-- 🔄 Ephesians 5:26 (attempt 1, 113 words, 77.61% quotes, quality score: 59.38805970149253) 
+- 🔄 Ephesians 5:26 (attempt 1, 170 words, 76.67% quotes, quality score: 3.333333333333335) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:26 (attempt 2, 111 words, 70.15% quotes, quality score: 68.8507462686567) 
+- 🔄 Ephesians 5:26 (attempt 2, 105 words, 77.59% quotes, quality score: 67.41379310344827) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:26 (attempt 3, 111 words, 70.15% quotes, quality score: 68.8507462686567) 
+- 🔄 Ephesians 5:26 (attempt 3, 102 words, 77.27% quotes, quality score: 70.72727272727272) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:26 (attempt 4, 113 words, 77.61% quotes, quality score: 59.38805970149253) 
+- 🔄 Ephesians 5:26 (attempt 4, 111 words, 73.53% quotes, quality score: 65.4705882352941) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 5:26 (attempt 5, 114 words, 70.77% quotes, quality score: 65.23076923076923) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 5:26 bht prompt v5 (111 words, 70.15% quotes)
+- ✅ Ephesians 5:26 bht prompt v5 (100 words, 77.19% quotes)

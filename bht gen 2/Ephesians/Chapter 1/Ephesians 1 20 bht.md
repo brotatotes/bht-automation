@@ -1,7 +1,7 @@
 # Ephesians 1:20 Commentary Help Text
 
 ## BHT:
-The raising of Christ is not only a guarantee of our future bodily resurrection, but it also has a spiritual power that impacts believers in the present. Just as God exerted His power to raise Jesus from the dead, He also works powerfully in the conversion and faith of believers. This display of power is a reflection of the immeasurable greatness of God's power and the treasures of divine grace available to us. By fixating our gaze on Christ, we can see the work of God's power and the transformation He brings, finding hope and reassurance in the resurrection power that awaits us.
+The power of God was evident in the resurrection of Christ, displaying the same power that will bring about the future resurrection of believers. Christ's resurrection serves as a model for the spiritual resurrection that occurs in the souls of believers. This divine power is at work in the work of faith, grace, and conversion, which is wholly accomplished by God. Christ's exaltation to the right hand of God in the heavenly places is a tangible reality, not a mere spiritual expression. Through contemplating Christ's resurrection, believers can see the immense power of God and the future glory that awaits them.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The raising of Christ is not only a guarantee of our future bodily resurrection,
 2. "Christ alone, therefore, is the mirror in which we can contemplate that which the weakness of the cross hinders from being clearly seen in ourselves."
 3. "We shall find our advantage in directing our views to Christ, that in him, as in a mirror, we may see the glorious treasures of Divine grace, and the immeasurable greatness of that power, which has not yet been manifested in ourselves."
 
+### Philip Schaff:
+1. "Which he wrought, or, ‘hath wrought.’ Good authorities support the latter reading, which presents the matter as an accomplished fact with permanent results."
+2. "In Christ; both as the first-fruits and as the Head of the Church."
+3. "At his right hand in the heavenly places. These local designations are not to be spiritualized or made indefinite. Christ’s present bodily existence is a reality; to explain this away is to adopt the most capricious method of interpretation."
+
 ### Archibald T. Robertson:
 1. "which he has wrought."
 2. "trying to express what surpasses expression or comprehension."
@@ -43,25 +48,25 @@ The raising of Christ is not only a guarantee of our future bodily resurrection,
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 105
-- BHT Commentary Usage: 67.69%
-- BHT Quality Score: 72.69230769230771
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 104
+- BHT Commentary Usage: 74.14%
+- BHT Quality Score: 71.86206896551724
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (23):
-	['also', 'available', 'awaits', 'believers', 'bodily', 'brings', 'display', 'finding', 'fixating', 'future', 'gaze', 'guarantee', 'hope', 'impacts', 'jesus', 'just', 'powerfully', 'present', 'raise', 'reassurance', 'reflection', 'transformation', 'works']
-- ChatGPT injected words (significant words only) (21):
-	['available', 'awaits', 'believers', 'bodily', 'brings', 'display', 'finding', 'fixating', 'future', 'gaze', 'guarantee', 'hope', 'impacts', 'jesus', 'powerfully', 'present', 'raise', 'reassurance', 'reflection', 'transformation', 'works']
+- ChatGPT injected words (20):
+	['about', 'awaits', 'believers', 'bring', 'contemplating', 'displaying', 'evident', 'exaltation', 'future', 'immense', 'mere', 'model', 'occurs', 'same', 'serves', 'souls', 'tangible', 'them', 'through', 'will']
+- ChatGPT injected words (significant words only) (15):
+	['awaits', 'believers', 'bring', 'contemplating', 'displaying', 'evident', 'exaltation', 'future', 'immense', 'mere', 'model', 'occurs', 'serves', 'souls', 'tangible']
 
 ### Logs
-- 🔄 Ephesians 1:20 (attempt 1, 170 words, 65.56% quotes, quality score: 5.555555555555561) 
+- 🔄 Ephesians 1:20 (attempt 1, 155 words, 58.62% quotes, quality score: 13.620689655172423) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 2, 104 words, 66.67% quotes, quality score: 72.66666666666669) 
+- 🔄 Ephesians 1:20 (attempt 2, 116 words, 63.49% quotes, quality score: 57.492063492063494) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 3, 105 words, 67.69% quotes, quality score: 72.69230769230771) 
+- 🔄 Ephesians 1:20 (attempt 3, 113 words, 69.7% quotes, quality score: 66.6969696969697) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 4, 102 words, 64.06% quotes, quality score: 72.0625) 
+- 🔄 Ephesians 1:20 (attempt 4, 106 words, 77.94% quotes, quality score: 66.05882352941175) 
 	- BHT WAS OVER 100 WORDS!
-- 🔄 Ephesians 1:20 (attempt 5, 106 words, 66.18% quotes, quality score: 70.17647058823529) 
+- 🔄 Ephesians 1:20 (attempt 5, 104 words, 74.14% quotes, quality score: 71.86206896551724) 
 	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 1:20 bht prompt v5 (105 words, 67.69% quotes)
+- ✅ Ephesians 1:20 bht prompt v5 (104 words, 74.14% quotes)

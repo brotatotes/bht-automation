@@ -1,7 +1,7 @@
 # Ephesians 4:18 Commentary Help Text
 
 ## BHT:
-Wicked and unconverted individuals have their understanding darkened through ignorance, resulting in a complete lack of knowledge and insight into God's will. They are alienated from the life of God, completely disconnected from the divine and spiritual realm. This is due to the hardness of their hearts, as their callousness and lack of sensitivity creates a void where there can be no sense or life.
+Human understanding is described as being darkened and ignorant, lacking both intellectual and spiritual clarity. This state stems from being separated from the life of God, resulting in a deep-rooted ignorance and a hardened heart. It is a state void of God's light and knowledge of His will, completely alienated from the divine and spiritual life. This ignorance and hardness of heart are intertwined, as a callous and senseless heart cannot truly experience life.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ Wicked and unconverted individuals have their understanding darkened through ign
 2. "There are three kinds of life in this world. The first is animal life, which consists only of motion and the bodily senses, and which we have in common with the brutes; the second is human life, which we have as the children of Adam; and the third is that supernatural life, which believers alone obtain."
 3. "The regeneration of believers is here called, by way of eminence, the life of God, because then does God truly live in us, and we enjoy his life, when he governs us by his Spirit."
 
+### Philip Schaff:
+1. "Being darkened in their understanding. The participle points to a condition which has been effected in the past, and the seat of this darkened condition was the intellectual part of our nature."
+2. "Being alienated from the life of God... ‘The life of God’ means the true spiritual life which belongs to God, and which He bestows on men. The two clauses stand related, the one is the internal condition, the other the external result."
+3. "Because of the ignorance... This is an ‘ignorance’ which is now natural and peculiar to them. It is the ground of the darkening of the understanding... the ignorance peculiar to heathenism was the ground of growing mental obscuration."
+
 ### Archibald T. Robertson:
 1. "Being darkened (εσκοτωμενο οντες)."
 2. "In their understanding (τη διανοια)."
@@ -45,15 +50,18 @@ Wicked and unconverted individuals have their understanding darkened through ign
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 66
-- BHT Commentary Usage: 76.47%
-- BHT Quality Score: 79.52941176470588
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (14):
-	['callousness', 'complete', 'completely', 'creates', 'disconnected', 'due', 'individuals', 'insight', 'into', 'lack', 'realm', 'resulting', 's', 'sensitivity']
-- ChatGPT injected words (significant words only) (12):
-	['callousness', 'complete', 'completely', 'creates', 'disconnected', 'individuals', 'insight', 'lack', 'realm', 'resulting', 's', 'sensitivity']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 76
+- BHT Commentary Usage: 73.47%
+- BHT Quality Score: 92.53061224489797
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (15):
+	['both', 'cannot', 'clarity', 'completely', 'described', 'experience', 'hardened', 'intertwined', 'lacking', 'resulting', 'rooted', 's', 'separated', 'state', 'stems']
+- ChatGPT injected words (significant words only) (13):
+	['clarity', 'completely', 'described', 'experience', 'hardened', 'intertwined', 'lacking', 'resulting', 'rooted', 's', 'separated', 'state', 'stems']
 
 ### Logs
-- ✅ Ephesians 4:18 bht prompt v5 (66 words, 76.47% quotes)
+- 🔄 Ephesians 4:18 (attempt 1, 121 words, 76.19% quotes, quality score: 52.80952380952381) 
+	- BHT WAS OVER 100 WORDS! 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 4:18 bht prompt v5 (76 words, 73.47% quotes)

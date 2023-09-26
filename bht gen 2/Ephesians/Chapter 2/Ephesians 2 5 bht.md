@@ -1,7 +1,7 @@
 # Ephesians 2:5 Commentary Help Text
 
 ## BHT:
-By virtue of our union with Christ, we are made alive with Him. This act of being quickened is by the grace of God, both the beginning and end of our salvation. It serves to humble us and eradicate any spiritual pride, reminding us that it is not our own merits but solely God's grace that saves us.
+By God's grace, we have been brought back to life with Christ, even though we were once dead in our sins. This spiritual resurrection is a result of our union with Him. It is important to recognize that our salvation is entirely based on God's undeserved favor. This truth demolishes any pride or self-righteousness and reminds us that our only boast should be in the grace of God.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -18,6 +18,11 @@ By virtue of our union with Christ, we are made alive with Him. This act of bein
 1. "For when we were yet without strength, in due time Christ died, for the ungodly. — But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us." - Romans 5:6
 2. "Whether the words, by grace ye are saved, have been inserted by another hand, I know not; but, as they are perfectly agreeable to the context, I am quite willing to receive them as written by Paul."
 3. "They show us that he always feels as if he had not sufficiently proclaimed the riches of Divine grace, and accordingly expresses, by a variety of terms, the same truth, that everything connected with our salvation ought to be ascribed to God as its author."
+
+### Philip Schaff:
+1. "Even when we were dead by (or, 'on account of') our trespasses."
+2. "Quickened us together with Christ."
+3. "By grace ye are, or, 'have been,' saved."
 
 ### Archibald T. Robertson:
 1. "Repeats the beginning of verse Ephesians 2:1, but he changes υμας (you Gentiles) to ημας (us Jews)."
@@ -39,15 +44,17 @@ By virtue of our union with Christ, we are made alive with Him. This act of bein
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 59
-- BHT Commentary Usage: 83.72%
-- BHT Quality Score: 65.27906976744187
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (9):
-	['any', 'eradicate', 'humble', 'merits', 'own', 'reminding', 'saves', 'serves', 'solely']
-- ChatGPT injected words (significant words only) (7):
-	['eradicate', 'humble', 'merits', 'reminding', 'saves', 'serves', 'solely']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 71
+- BHT Commentary Usage: 76.36%
+- BHT Quality Score: 84.63636363636363
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (19):
+	['any', 'back', 'based', 'boast', 'brought', 'demolishes', 'entirely', 'favor', 'important', 'once', 'only', 'recognize', 'reminds', 'result', 'righteousness', 'self', 'should', 'though', 'undeserved']
+- ChatGPT injected words (significant words only) (13):
+	['based', 'boast', 'brought', 'demolishes', 'entirely', 'favor', 'important', 'recognize', 'reminds', 'result', 'righteousness', 'self', 'undeserved']
 
 ### Logs
-- ✅ Ephesians 2:5 bht prompt v5 (59 words, 83.72% quotes)
+- 🔄 Ephesians 2:5 (attempt 1, 77 words, 100.0% quotes, quality score: 67.0) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- ✅ Ephesians 2:5 bht prompt v5 (71 words, 76.36% quotes)

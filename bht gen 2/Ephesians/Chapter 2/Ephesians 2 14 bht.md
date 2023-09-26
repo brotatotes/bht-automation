@@ -1,7 +1,7 @@
 # Ephesians 2:14 Commentary Help Text
 
 ## BHT:
-Christ is not just a peace-maker, but he is our peace itself, the very bond and center of our union. He has broken down the middle wall of partition, which was symbolized by the separation between the court of Israel and the court of the Gentiles. This partition represents the ceremonial law that Christ has abolished, bringing Jews and Gentiles together in unity and peace.
+Through Christ, we find peace. He is not just the peacemaker, but the embodiment of peace itself. In his person, the reconciliation between Jew and Gentile was accomplished. The dividing wall, represented by the ceremonial law, was broken down by Christ's work of atonement. The unity he brings goes beyond external reconciliation, creating a profound sense of universal brotherhood. Christ's sacrifice not only reconciles us with God, but also fosters harmony among his followers. With the barriers removed, we can experience the true peace that comes through Christ alone.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ Christ is not just a peace-maker, but he is our peace itself, the very bond and 
 2. "What a beautiful title is this which Christ possesses, — the peace between God and men! Let no one who dwells in Christ entertain a doubt that he is reconciled to God."
 3. "But now, the apostle, says, the enmity is removed, and the wall is broken down. By extending the privilege of adoption beyond the limits of Judea, Christ has now made us all to be brethren."
 
+### Philip Schaff:
+1. "He is our peace, not simply our peacemaker; for in His person, as God man, the reconciliation took place."
+2. "How He is our peace is specified in what follows."
+3. "The 'middle wall,' which resulted from and belonged to this economy, was broken down once for all."
+
 ### Archibald T. Robertson:
 1. "He himself, not just what he did (necessary as that was and is). He is our peace with God and so with each other (Jews and Gentiles)." 
 2. "Both one (τα αμφοτερα εν). 'The both' (Jew and Gentile). Jesus had said 'other sheep I have which are not of this fold' (John 10:16). One (εν) is neuter singular (oneness, unity, identity) as in Galatians 3:28. Race and national distinctions vanish in Christ."
@@ -48,15 +53,19 @@ Christ is not just a peace-maker, but he is our peace itself, the very bond and 
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 66
-- BHT Commentary Usage: 88.64%
-- BHT Quality Score: 67.36363636363636
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (6):
-	['abolished', 'bringing', 'center', 'represents', 'symbolized', 'together']
-- ChatGPT injected words (significant words only) (5):
-	['abolished', 'bringing', 'center', 'represents', 'symbolized']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 72.73%
+- BHT Quality Score: 86.27272727272727
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (20):
+	['accomplished', 'among', 'barriers', 'brings', 'comes', 'creating', 'dividing', 'embodiment', 'experience', 'find', 'followers', 'fosters', 'goes', 'harmony', 'profound', 'reconciles', 's', 'sacrifice', 'true', 'we']
+- ChatGPT injected words (significant words only) (18):
+	['accomplished', 'barriers', 'brings', 'comes', 'creating', 'dividing', 'embodiment', 'experience', 'find', 'followers', 'fosters', 'goes', 'harmony', 'profound', 'reconciles', 's', 'sacrifice', 'true']
 
 ### Logs
-- ✅ Ephesians 2:14 bht prompt v5 (66 words, 88.64% quotes)
+- 🔄 Ephesians 2:14 (attempt 1, 74 words, 79.59% quotes, quality score: 84.40816326530611) 
+	- LIST FORMAT DETECTED!
+- 🔄 Ephesians 2:14 (attempt 2, 103 words, 69.01% quotes, quality score: 76.01408450704226) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Ephesians 2:14 bht prompt v5 (91 words, 72.73% quotes)

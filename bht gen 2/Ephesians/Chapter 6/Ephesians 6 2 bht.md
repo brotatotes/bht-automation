@@ -1,7 +1,7 @@
 # Ephesians 6:2 Commentary Help Text
 
 ## BHT:
-Honor thy father and thy mother, for such is the first commandment with a promise. This commandment combines the authority of revealed and natural law, signifying the importance of honoring parents. The promise associated with this commandment is unique and distinct from others, emphasizing the blessings that come from honoring one's parents. It is a reminder that the Old Testament law remains relevant and holds significance. The promise assures that those who honor their parents will experience longevity in the land given by God. Overall, these promises are intended to encourage and uplift, enhancing our obedience and faithfulness.
+Honor thy father and thy mother, for such is the first commandment with a promise. This commandment underscores the significance of honoring our parents, which encompasses various aspects such as love, reverence, and obedience. It also involves treating them with respect in our thoughts, words, and actions. Moreover, we are called to support and care for our parents, especially in their later years and times of need. This commandment holds a special place as the only one accompanied by a specific promise, illustrating God's intention to bless those who fulfill it faithfully.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -28,6 +28,11 @@ Honor thy father and thy mother, for such is the first commandment with a promis
 2. "He does not merely say, that God has offered a reward to him who obeys his father and mother, but that such an offer is peculiar to this commandment."
 3. "Paul’s assertion still holds true, that no other commandment but that which enjoins the obedience due by children to their parents is distinguished by a promise."
 
+### Philip Schaff:
+1. "'Honor’ includes more than obedience; Luther: ‘serve, love and esteem.’"
+2. "‘Thy’ should be repeated with ‘mother,’ to give the force of the article which occurs twice: both parents standing on an equality with respect to the honor due them."
+3. "The first commandment with (lit, ‘in’) promise. First in order, the first one involving a promise."
+
 ### Archibald T. Robertson:
 1. "Which very" = "for such is."
 2. The first commandment with promise  (εντολη πρωτη εν επαγγελια).
@@ -47,17 +52,17 @@ Honor thy father and thy mother, for such is the first commandment with a promis
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 99
-- BHT Commentary Usage: 66.18%
-- BHT Quality Score: 77.17647058823529
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 93
+- BHT Commentary Usage: 65.22%
+- BHT Quality Score: 82.21739130434783
 - Generate Attempts: 2 / 5
-- ChatGPT injected words (27):
-	['associated', 'assures', 'blessings', 'combines', 'come', 'distinct', 'emphasizing', 'encourage', 'enhancing', 'experience', 'faithfulness', 'given', 'honoring', 'importance', 'longevity', 'one', 'others', 'overall', 'relevant', 'remains', 'reminder', 'significance', 'signifying', 'these', 'those', 'unique', 'uplift']
-- ChatGPT injected words (significant words only) (23):
-	['associated', 'assures', 'blessings', 'combines', 'come', 'distinct', 'emphasizing', 'encourage', 'enhancing', 'experience', 'faithfulness', 'given', 'honoring', 'importance', 'longevity', 'overall', 'relevant', 'remains', 'reminder', 'significance', 'signifying', 'unique', 'uplift']
+- ChatGPT injected words (28):
+	['accompanied', 'actions', 'also', 'aspects', 'bless', 'called', 'care', 'encompasses', 'especially', 'faithfully', 'fulfill', 'honoring', 'illustrating', 'intention', 'involves', 'later', 'moreover', 'need', 'place', 'significance', 'support', 'those', 'thoughts', 'times', 'treating', 'underscores', 'various', 'years']
+- ChatGPT injected words (significant words only) (24):
+	['accompanied', 'actions', 'aspects', 'bless', 'called', 'care', 'encompasses', 'especially', 'faithfully', 'fulfill', 'honoring', 'illustrating', 'intention', 'involves', 'later', 'need', 'place', 'significance', 'support', 'thoughts', 'times', 'treating', 'underscores', 'years']
 
 ### Logs
-- 🔄 Ephesians 6:2 (attempt 1, 105 words, 83.58% quotes, quality score: 61.417910447761194) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 6:2 bht prompt v5 (99 words, 66.18% quotes)
+- 🔄 Ephesians 6:2 (attempt 1, 88 words, 68.75% quotes, quality score: 90.75) 
+	- 'VERSE' FOUND IN BHT!
+- ✅ Ephesians 6:2 bht prompt v5 (93 words, 65.22% quotes)

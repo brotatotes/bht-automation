@@ -1,7 +1,7 @@
 # Ephesians 2:20 Commentary Help Text
 
 ## BHT:
-The church is likened to a building, with the apostles and prophets as its foundation. Their teachings form the basis of the church and sustain the faith of believers. Jesus Christ himself is the chief cornerstone, holding everything together and surpassing all others in importance. This understanding is vital for discerning between a true and false church. By relying solely on the foundation laid by the apostles and prophets, we can be counted among true believers. The authority of our faith rests on listening to the Holy Spirit speaking through the writings of the prophets.
+The image of a building is appropriate, for the church is like a temple that God delights to dwell in. The doctrines taught by the apostles and prophets lay the foundation upon which the church rests. Christ, as the cornerstone, holds together the entire edifice, and it is on Him that the faith and life of every believer depend. The word of God, declared by the apostles and prophets, sustains the faith of all believers, and it is through Christ, the chief cornerstone, that the church is built and stands firm.
 
 ## Choicest Commentary Quotes:
 ### Jamieson-Fausset-Brown:
@@ -24,6 +24,11 @@ The church is likened to a building, with the apostles and prophets as its found
 2. "Let us remember, therefore, that if we wish to be reckoned among believers, we must place our reliance on no other [foundation]".
 3. "The Holy Spirit everywhere declares, that he has spoken to us by the mouth of the prophets, and demands that we shall listen to him in their writings. This is of no small consequence for maintaining the authority of our faith."
 
+### Philip Schaff:
+1. "The figure naturally passes over into that of a house in which God dwells...The participle expresses the notion of a superstructure...in accordance with the mention of 'the foundation.'" 
+2. "The third points to the preaching of Christ by the Apostles, as the foundation, and is now the usual view."
+3. "Christ is thus termed, because 'the historical living Christ, to whom all Christian faith and life refers, through Himself necessarily conditions the existence and permanence of every Christian community, just as the existence and firmness of a building is not possible without the corner-stone which holds together the entire edifice' (Meyer)."
+
 ### Archibald T. Robertson:
 1. "Being built upon (εποικοδομηθεντες)"
 2. "The foundation (επ τω θεμελιω)."
@@ -44,20 +49,15 @@ The church is likened to a building, with the apostles and prophets as its found
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 95
-- BHT Commentary Usage: 77.42%
-- BHT Quality Score: 77.58064516129032
-- Generate Attempts: 3 / 5
-- ChatGPT injected words (20):
-	['can', 'counted', 'discerning', 'everything', 'form', 'holding', 'its', 'likened', 'listening', 'others', 'relying', 'solely', 'speaking', 'surpassing', 'sustain', 'teachings', 'through', 'together', 'understanding', 'vital']
-- ChatGPT injected words (significant words only) (14):
-	['counted', 'discerning', 'form', 'holding', 'likened', 'listening', 'relying', 'solely', 'speaking', 'surpassing', 'sustain', 'teachings', 'understanding', 'vital']
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 91
+- BHT Commentary Usage: 84.91%
+- BHT Quality Score: 74.0943396226415
+- Generate Attempts: 1 / 5
+- ChatGPT injected words (8):
+	['believer', 'delights', 'depend', 'dwell', 'firm', 'lay', 'like', 'stands']
+- ChatGPT injected words (significant words only) (8):
+	['believer', 'delights', 'depend', 'dwell', 'firm', 'lay', 'like', 'stands']
 
 ### Logs
-- 🔄 Ephesians 2:20 (attempt 1, 125 words, 76.39% quotes, quality score: 48.611111111111114) 
-	- BHT WAS OVER 100 WORDS! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Ephesians 2:20 (attempt 2, 102 words, 80.33% quotes, quality score: 67.67213114754098) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Ephesians 2:20 bht prompt v5 (95 words, 77.42% quotes)
+- ✅ Ephesians 2:20 bht prompt v5 (91 words, 84.91% quotes)

@@ -1,7 +1,7 @@
 # Ephesians 5:8 Commentary Help Text
 
 ## BHT:
-You were once totally blind and ignorant, submerged in darkness. However, now you have been enlightened and transformed into light itself. As such, it is imperative that you live accordingly, walking in a manner that reflects your knowledge, as children of light.
+You were once darkness, completely blind and ignorant. But now, you are light itself, enlightened and transformed by the Lord. Therefore, you should walk and live as children of light, according to the knowledge and understanding you have received.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -29,6 +29,11 @@ You were once totally blind and ignorant, submerged in darkness. However, now yo
 2. "Darkness is the name here given to the whole nature of man before regeneration; for, where the brightness of God does not shine, there is nothing but fearful darkness."
 3. "Observe here, we are said to be light in the Lord, because, while we are out of Christ, all is under the dominion of Satan, whom we know to be the Prince of darkness."
 
+### Philip Schaff:
+1. "TO become partakers with those who indulge in these sins would be a relapse."
+2. "But now are ye light in the Lord. More than 'enlightened;' they have themselves become 'light'... in fellowship with the Lord."
+3. "Walk as children of light; let your conduct correspond with what you, by grace, have become."
+
 ### Archibald T. Robertson:
 1.  But now light  (νυν δε φως). Jesus called his disciples the light of the world (Matthew 5:14). 
 
@@ -46,15 +51,15 @@ You were once totally blind and ignorant, submerged in darkness. However, now yo
 ### Generation Details
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
-- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 42
-- BHT Commentary Usage: 80.0%
-- BHT Quality Score: 51.99999999999999
+- Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
+- BHT Word Count: 39
+- BHT Commentary Usage: 83.87%
+- BHT Quality Score: 45.12903225806451
 - Generate Attempts: 1 / 5
-- ChatGPT injected words (11):
-	['accordingly', 'however', 'imperative', 'into', 'it', 'manner', 'reflects', 'submerged', 'such', 'transformed', 'walking']
-- ChatGPT injected words (significant words only) (7):
-	['accordingly', 'imperative', 'manner', 'reflects', 'submerged', 'transformed', 'walking']
+- ChatGPT injected words (5):
+	['according', 'completely', 'received', 'transformed', 'understanding']
+- ChatGPT injected words (significant words only) (5):
+	['according', 'completely', 'received', 'transformed', 'understanding']
 
 ### Logs
-- ✅ Ephesians 5:8 bht prompt v5 (42 words, 80.0% quotes)
+- ✅ Ephesians 5:8 bht prompt v5 (39 words, 83.87% quotes)
