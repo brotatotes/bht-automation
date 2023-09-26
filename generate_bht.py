@@ -12,6 +12,7 @@ import math
 from gensim.utils import tokenize
 import spacy
 from bht import BHT
+from multi_threaded_work_queue import MultiThreadedWorkQueue
 
 
 # GLOBALS
@@ -321,6 +322,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
             for choicest in commentator_choicests.values():
                 choicests_tokens_set |= set(tokenize(choicest.lower()))
 
+            # these should probably be constants or something
             proportion_limits = (0.7, 0.9)
             strict_proportion_limits = (0.5, 0.9)
             target_proportion = 0.9
@@ -426,69 +428,23 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 
 # Get all choicests and generate the bht from scratch.
 
+def generate_bht(verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht):
+    record_gpt_choicest(verse_ref, choicest_prompts, commentators, redo_choicest)
+    record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, redo_bht)
 
-def generate_bht_concurrently(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=1000, redo_choicest=False, redo_bht=False):
-    verse_refs = [verse for verse in verse_refs]
-    verses_done = 0
-    verses_total = len(verse_refs)
+def generate_bhts(verse_refs, choicest_prompts, bht_prompts, commentators, redo_choicest=False, redo_bht=False):
+    work_queue = MultiThreadedWorkQueue()
 
-    lock = threading.Lock()
+    for verse_ref in verse_refs:
+        print(verse_ref)
+        work_queue.add_task(generate_bht, (verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht))
 
-    def generate_bht(verse_refs, choicest_prompts, bht_prompts, commentators, tries=0, try_limit=50, redo_choicest=False, redo_bht=False):
-        nonlocal verses_done
-        nonlocal verses_total
-        nonlocal lock
-
-        if tries >= try_limit:
-            print(f"❌ Failed {try_limit} times. Quitting. ❌")
-            return
-        
-        verse_i = 0
-        
-        try:
-            for i, verse_ref in enumerate(verse_refs):
-                verse_i = i
-                # print(f"Generating BHT for {verse_ref}:")
-                record_gpt_choicest(verse_ref, choicest_prompts, commentators, redo_choicest)
-                record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, redo_bht)
-                # print(f"{verse_ref} BHT Done!")
-                # print()
-                with lock:
-                    verses_done += 1
-                print(f"🚧 COMPLETION: {verses_done} / {verses_total}")
-                tries = 0 # reset tries if there was a successful run.
-
-        except Exception as e:
-            print(f"❗An error occurred: {e}")
-            # print(traceback.format_exc()) # debugging.
-            wait_time = 1 + (2 ** tries) # exponential backoff.
-            print(f"Try # {tries + 1} Retrying in {wait_time} seconds...")
-            time.sleep(wait_time)
-            generate_bht(verse_refs[verse_i:], choicest_prompts, bht_prompts, commentators, tries=tries + 1, try_limit=try_limit, redo_choicest=redo_choicest, redo_bht=redo_bht)
-
-
-    verses_per_thread = math.ceil(len(verse_refs) / 100.0)
-    num_threads = math.ceil(len(verse_refs) / verses_per_thread)
-    threads = []
-    verse_ref_i = 0
-    for i in range(num_threads):
-        verses = verse_refs[verse_ref_i : min(verse_ref_i + verses_per_thread, len(verse_refs))]
-        verse_ref_i += verses_per_thread
-        print(f"Creating thread {i} for: {verses}")
-        thread = threading.Thread(target=generate_bht, args=(verses, choicest_prompts, bht_prompts, commentators, tries, try_limit, redo_choicest, redo_bht))
-        threads.append(thread)
-        # thread.start()
-    
     input("Proceed? ")
 
-    for thread in threads:
-        thread.start()
-
-    for thread in threads:
-        thread.join()
-
-
-
+    work_queue.start()
+    work_queue.wait_for_completion()
+    work_queue.stop()
+        
 
 # MAIN
 
@@ -531,11 +487,11 @@ if __name__ == '__main__':
         # "1 John",
         # "2 John",
         # "3 John",
-        # "Jude",
+        "Jude",
         # "Revelation",
 
         # "Romans 8", 
-        "1 John 1", 
+        # "1 John 1", 
         # "John 3", 
         # "Ephesians 1"
         ]]
@@ -545,10 +501,5 @@ if __name__ == '__main__':
         for verse in book:
             verses.append(verse)
 
-    start_time = time.time()
-
-    generate_bht_concurrently(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
-
-    elapsed_time = time.time() - start_time
-    print(f"That took {elapsed_time} seconds.")
+    generate_bhts(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
     
