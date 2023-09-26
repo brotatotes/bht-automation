@@ -136,7 +136,7 @@ def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt
     model = "gpt-3.5-turbo"
     token_count = sum(len(ENCODING.encode(message["content"])) for message in messages)
     if token_count > 4097:
-        print(f"ℹ️ {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
+        print(f"ℹ️  {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
         model += "-16k"
 
     try:
@@ -146,7 +146,7 @@ def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt
             request_timeout=15,
         )
     except openai.error.InvalidRequestError:
-        print(f"ℹ️ {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
+        print(f"ℹ️  {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
         chat_completion = openai.ChatCompletion.create(
             model="gpt-3.5-turbo-16k", 
             messages=messages,
@@ -270,7 +270,7 @@ def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_ch
     model = "gpt-3.5-turbo"
     token_count = sum(len(ENCODING.encode(message["content"])) for message in messages)
     if token_count > 4097:
-        print(f"ℹ️ {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
+        print(f"ℹ️  {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
         model += "-16k"
 
     try:
@@ -280,7 +280,7 @@ def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_ch
             request_timeout=15
         )
     except openai.error.InvalidRequestError:
-        print(f"ℹ️ {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
+        print(f"ℹ️  {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
         chat_completion = openai.ChatCompletion.create(
             model="gpt-3.5-turbo-16k", 
             messages=messages,
@@ -325,12 +325,13 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
             # these should probably be constants or something
             proportion_limits = (0.5, 0.9)
             strict_proportion_limits = (0.5, 0.9)
-            target_proportion = 0.9
+            target_proportion = 0.7
             word_limits = (25, 100)
-            strict_word_limits = (25, 130)
+            strict_word_limits = (20, 130)
             target_word_count = 80
             min_proportion_limit, max_proportion_limit = proportion_limits
             min_word_limit, max_word_limit = word_limits
+
             extra_messages = []
             attempts_limit = 5
             current_attempt = 0
@@ -436,10 +437,9 @@ def generate_bhts(verse_refs, choicest_prompts, bht_prompts, commentators, redo_
     work_queue = MultiThreadedWorkQueue()
 
     for verse_ref in verse_refs:
-        print(verse_ref)
         work_queue.add_task(generate_bht, (verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht))
 
-    input("Proceed? ")
+    input(f"About to generate BHTs for {len(verse_refs)} verses. OK? ")
 
     work_queue.start()
     work_queue.wait_for_completion()
@@ -455,7 +455,7 @@ if __name__ == '__main__':
         "Albert Barnes",
         "Marvin Vincent",
         "John Calvin",
-        "Philip Schaff",
+        # "Philip Schaff",
         "Archibald T. Robertson",
         "John Gill",
         "John Wesley"
@@ -490,10 +490,10 @@ if __name__ == '__main__':
         # "Jude",
         # "Revelation",
 
-        "Romans 8", 
+        # "Romans 8", 
         # "1 John 1", 
         # "John 3", 
-        # "Ephesians 1",
+        "Ephesians 1",
         # "John 17:3"
         ]]
     

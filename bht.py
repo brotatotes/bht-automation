@@ -37,7 +37,7 @@ class BHT:
         self.not_enough_words = self.word_count < self.min_word_limit
         self.not_enough_from_quotes = self.proportion < self.min_proportion_limit
         self.too_much_from_quotes = self.proportion > self.max_proportion_limit
-        self.commentator_in_tokens = "commentator" in self.tokens_set or "commentators" in self.tokens_set
+        self.commentator_in_tokens = "commentator" in self.tokens_set or "commentators" in self.tokens_set or "commentary" in self.tokens_set
         self.list_detected = re.search(r'(^|\n)\d[\.)] .*', self.text)
 
         self.injected_words = sorted(list(self.tokens_set - choicests_tokens_set))
