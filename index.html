@@ -7,16 +7,21 @@
     <title>bht demo</title>
     <!-- <link rel="stylesheet" href="style.css"> -->
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+        .columns {
+            display: flex;
+        }
+
+        .left-column, .right-column {
+            flex: 1; /* Each column takes up equal width */
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin: 5px;
+        }
+    </style>
   </head>
   <body>
-    <label for="BHT Version">Choose BHT Version:</label>
-    <select name="bht version" id="bht version">
-        <option value="1">1</option>
-        <option value="2">2</option>
-    </select>
-
-    <br/>
-
     <label for="Verse">Choose verse:</label>
 
     <select name="book" id="book">
@@ -53,28 +58,47 @@
 
     <input type="button" value="Go" onclick="go()"/>
 
-    <div id="fileContent"></div>
+    <div class="columns">
+        <div class="left-column" id="left-column"></div>
+        <div class="right-column" id="right-column"></div>
+    </div>
 
     <script>
         function go() {
             const book = document.getElementById("book").value;
             const chapter = document.getElementById("chapter").value;
             const verse = document.getElementById("verse").value;
-            const bhtVersion = document.getElementById("bht version").value;
-            const file_path = `bht gen ${bhtVersion}/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
+            const file_path_1 = `bht gen 1/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
+            const file_path_2 = `bht gen 2/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
             
-            const fileContentDiv = document.getElementById('fileContent');
+            const leftColumnDiv = document.getElementById('left-column');
+            const rightColumnDiv = document.getElementById('right-column');
 
-            fetch(file_path) // Specify the path to your text file
+            fetch(file_path_1) // Specify the path to your text file
                 .then(response => {
                     if (!response.ok) {
-                        fileContentDiv.textContent = `${book} ${chapter}:${verse} for BHT Version ${bhtVersion} could not be found.\nIt might not have been generated yet...`;
+                        leftColumnDiv.innerHTML = "<h1>V1</h1>\n" + `<p>${book} ${chapter}:${verse} for BHT Version 1 could not be found.\nIt might not have been generated yet...</p>`;
                         throw new Error('Network response was not ok');
                     }
                     return response.text();
                 })
                 .then(data => {
-                    fileContentDiv.innerHTML = marked.parse(data);
+                    leftColumnDiv.innerHTML = "<h1>V1</h1>\n" + marked.parse(data);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+
+            fetch(file_path_2) // Specify the path to your text file
+                .then(response => {
+                    if (!response.ok) {
+                        rightColumnDiv.innerHTML = "<h1>V2</h1>\n" + `<p>${book} ${chapter}:${verse} for BHT Version 2 could not be found.\nIt might not have been generated yet...</p>`;
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.text();
+                })
+                .then(data => {
+                    rightColumnDiv.innerHTML = "<h1>V2</h1>\n" + marked.parse(data);
                 })
                 .catch(error => {
                     console.error('Error:', error);
