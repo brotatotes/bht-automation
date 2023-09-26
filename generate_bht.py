@@ -534,8 +534,9 @@ if __name__ == '__main__':
         # "Jude",
         # "Revelation",
 
-        # "Romans 8", "1 John 1", 
-        "John 3", 
+        # "Romans 8", 
+        "1 John 1", 
+        # "John 3", 
         # "Ephesians 1"
         ]]
     
