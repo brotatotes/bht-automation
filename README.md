@@ -25,4 +25,6 @@ This is where the ChatGPT prompts will are used to ask ChatGPT to perform the ta
 ## 3. Run the `bht_automation_test.py` script.
 You may need to sign up at openAI and get an API Key for the global `OPENAI_API_KEY` variable. You'll be asked to add your credit card. Each script run costs some fraction of a cent. In developing this script I've run it many times and I currently owe around 10 cents. 
 
-You may also need to set up python and install the `openai` library. 
+You may also need to set up python and `pip install` the libraries used by the scripts.
+- `pip install [libraries]`
+- `python -m spacy download en`
