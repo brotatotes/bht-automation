@@ -384,6 +384,10 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                         complaints.append(f"Please do not provide any kind of list. Please make sure your response is a short paragraph of sentences.")
                         info_msg.append(f"\n\t- LIST FORMAT DETECTED!")
 
+                    if current_bht.verse_in_tokens:
+                        complaints.append(f"Please do not use the word 'verse' in your response.")
+                        info_msg.append(f"\n\t- 'VERSE' FOUND IN BHT!")
+
                     extra_messages.append({
                         "role": "user",
                         "content": ' '.join(complaints)

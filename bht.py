@@ -38,6 +38,7 @@ class BHT:
         self.not_enough_from_quotes = self.proportion < self.min_proportion_limit
         self.too_much_from_quotes = self.proportion > self.max_proportion_limit
         self.commentator_in_tokens = "commentator" in self.tokens_set or "commentators" in self.tokens_set or "commentary" in self.tokens_set
+        self.verse_in_tokens = "verse" in self.tokens_set
         self.list_detected = re.search(r'(^|\n)\d[\.)] .*', self.text)
 
         self.injected_words = sorted(list(self.tokens_set - choicests_tokens_set))
@@ -52,7 +53,8 @@ class BHT:
             self.not_enough_from_quotes,
             self.too_much_from_quotes,
             self.commentator_in_tokens,
-            self.list_detected
+            self.list_detected,
+            self.verse_in_tokens
         ]
 
     def get_score_tuple(self):
@@ -60,6 +62,7 @@ class BHT:
             not self.list_detected,
             not self.too_much_from_quotes,
             not self.commentator_in_tokens,
+            not self.verse_in_tokens,
             not self.not_enough_words,
             not self.too_many_words,
             not self.not_enough_from_quotes,

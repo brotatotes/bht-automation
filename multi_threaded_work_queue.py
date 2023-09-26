@@ -4,7 +4,7 @@ import traceback
 import time
 
 class MultiThreadedWorkQueue:
-    def __init__(self, num_threads=100, max_retries=10):
+    def __init__(self, num_threads=1000, max_retries=5):
         self.num_threads = num_threads
         self.lock = threading.Lock()
         self.work_queue = queue.Queue()
