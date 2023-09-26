@@ -323,7 +323,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 choicests_tokens_set |= set(tokenize(choicest.lower()))
 
             # these should probably be constants or something
-            proportion_limits = (0.7, 0.9)
+            proportion_limits = (0.5, 0.9)
             strict_proportion_limits = (0.5, 0.9)
             target_proportion = 0.9
             word_limits = (25, 100)
@@ -487,13 +487,14 @@ if __name__ == '__main__':
         # "1 John",
         # "2 John",
         # "3 John",
-        "Jude",
+        # "Jude",
         # "Revelation",
 
-        # "Romans 8", 
+        "Romans 8", 
         # "1 John 1", 
         # "John 3", 
-        # "Ephesians 1"
+        # "Ephesians 1",
+        # "John 17:3"
         ]]
     
     verses = []
