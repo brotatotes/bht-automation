@@ -195,7 +195,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                 
                 commentary_tokens_set = set(tokenize(commentary.lower()))
 
-                commentary_length_limit = 15
+                commentary_length_limit = 25
 
                 extra_messages = []
 
@@ -485,13 +485,13 @@ if __name__ == '__main__':
         # "Matthew",
         # "Mark",
         # "Luke",
-        # "John",
+        "John",
         # "Acts",
         # "Romans",
         # "1 Corinthians",
         # "2 Corinthians",
         # "Galatians",
-        "Ephesians",
+        # "Ephesians",
         # "Philippians",
         # "Colossians",
         # "1 Thessalonians",
