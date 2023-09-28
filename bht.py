@@ -1,6 +1,7 @@
 import re
 from gensim.utils import tokenize
 
+
 class BHT:
     def __init__(self, text):
         self.text = text

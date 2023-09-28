@@ -1,19 +1,19 @@
 # IMPORTS
 
-import openai
-import os
-import tiktoken
-import time
-from bibleref import BibleRange, BibleVerse
-from timeout_decorator import timeout
-import traceback
-import threading
 import math
-from gensim.utils import tokenize
+import os
+import threading
+import time
+import traceback
+
+import openai
 import spacy
+import tiktoken
+from bibleref import BibleRange, BibleVerse
+from gensim.utils import tokenize
+
 from bht import BHT
 from multi_threaded_work_queue import MultiThreadedWorkQueue
-
 
 # GLOBALS
 
@@ -113,8 +113,7 @@ def get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator)
 
 # Generate Choicest Piece
 
-# @timeout(10)
-def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt, extra_messages):
+def ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages):
     prompt_text = get_prompt(CHOICEST_FOLDER_NAME, choicest_prompt)
     messages = []
 
@@ -158,15 +157,15 @@ def ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt
     return chat_completion.choices[0].message["content"]
 
 
-def ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries=0, try_limit=10):
+def ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get choicest. Quitting. ❌")
     
     try:
-        return ask_gpt_choicest_timeout(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
+        return ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
     except TimeoutError:
         print(f"Attempt {tries} timed out. Trying again.")
-        return ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries + 1, try_limit)
+        return ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries + 1, try_limit)
 
 
 def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=False):
@@ -203,7 +202,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                     choicest = f"1. {commentary}"
                 else:
                     while True:
-                        choicest = ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
+                        choicest = ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
                         choicest = choicest.replace('\n\n', '\n')
                         choicest_tokens = list(tokenize(choicest.lower()))
                         choicest_tokens_set = set(choicest_tokens)
@@ -256,8 +255,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
 
 
 # Generate BHT! 
-# @timeout(10)
-def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages):
+def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages):
     if not commentator_choicests:
         print(f"No commentary choicests found for {verse_ref}")
         return ""
@@ -306,15 +304,15 @@ def ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_ch
     return chat_completion.choices[0].message["content"]
 
 
-def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries=0, try_limit=10):
+def ask_gpt_bht_with_retry(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries=0, try_limit=10):
     if tries >= try_limit:
         raise Exception(f"❌ Failed {try_limit} times to get bht. Quitting. ❌")
     
     try:
-        return ask_gpt_bht_timeout(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages)
+        return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages)
     except TimeoutError:
         print(f"Attempt {tries} timed out. Trying again.")
-        return ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries + 1)
+        return ask_gpt_bht_with_retry(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries + 1)
 
 
 def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force_redo=False):
@@ -356,7 +354,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 
             while current_attempt < attempts_limit:
                 current_attempt += 1
-                bht_text = ask_gpt_bht(verse_ref, choicest_prompt, bht_prompt, commentator_choicests, extra_messages)
+                bht_text = ask_gpt_bht_with_retry(verse_ref, choicest_prompt, bht_prompt, commentator_choicests, extra_messages)
 
                 current_bht = BHT(bht_text)
                 current_bht.init_checks(choicests_tokens_set, STOP_WORDS_SET, word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion)
@@ -464,63 +462,4 @@ def generate_bhts(verse_refs, choicest_prompts, bht_prompts, commentators, redo_
     work_queue.start()
     work_queue.wait_for_completion()
     work_queue.stop()
-        
-
-# MAIN
-
-if __name__ == '__main__':
-    COMMENTATORS = [
-        "Henry Alford",
-        "Jamieson-Fausset-Brown",
-        "Albert Barnes",
-        "Marvin Vincent",
-        "John Calvin",
-        "Philip Schaff",
-        "Archibald T. Robertson",
-        "John Gill",
-        "John Wesley"
-        ]
-
-    books = [BibleRange(b) for b in [
-        # "Matthew",
-        # "Mark",
-        # "Luke",
-        "John",
-        # "Acts",
-        # "Romans",
-        # "1 Corinthians",
-        # "2 Corinthians",
-        # "Galatians",
-        # "Ephesians",
-        # "Philippians",
-        # "Colossians",
-        # "1 Thessalonians",
-        # "2 Thessalonians",
-        # "1 Timothy",
-        # "2 Timothy",
-        # "Titus",
-        # "Philemon",
-        # "Hebrews",
-        # "James",
-        # "1 Peter",
-        # "2 Peter",
-        # "1 John",
-        # "2 John",
-        # "3 John",
-        # "Jude",
-        # "Revelation",
-
-        # "Romans 8", 
-        # "1 John 1", 
-        # "John 3", 
-        # "Ephesians 1",
-        # "John 17:3"
-        ]]
-    
-    verses = []
-    for book in books:
-        for verse in book:
-            verses.append(verse)
-
-    generate_bhts(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
     

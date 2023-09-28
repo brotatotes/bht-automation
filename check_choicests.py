@@ -1,4 +1,3 @@
-
 import os
 import re
 import string
@@ -34,8 +33,8 @@ def get_commentary(commentator, book, chapter, verse):
     return file_contents
 
 
-# folder_to_check = "bht gen 1"
-folder_to_check = "gpt output/bht/choicest prompt v2 X bht prompt v5"
+folder_to_check = "bht gen 2"
+# folder_to_check = "gpt output/bht/choicest prompt v2 X bht prompt v5"
 
 verse_count = 0
 missing_commentary_quotes_count = 0
@@ -55,7 +54,7 @@ for book in os.listdir(folder_to_check):
 
         for verse in os.listdir(f"{folder_to_check}/{book}/{chapter}"):
             verse_count += 1
-            print(f"\r{verse_count} / 7957", end="", flush=True)
+            print(f"\r{verse_count}", end="", flush=True)
             if verse.startswith('.'):
                 continue
 
@@ -82,10 +81,10 @@ for book in os.listdir(folder_to_check):
             current_commentator = None
             commentator_quotes = {}
             for line in bht_content.splitlines():
-                if line.startswith("###"):
+                if line.startswith("### "):
                     current_commentator = line[4:-1]
                     continue
-                elif line.startswith("#"):
+                elif line.startswith("# "):
                     current_commentator = None
 
                 if not current_commentator:
@@ -135,6 +134,7 @@ for book in os.listdir(folder_to_check):
 
 
 output_file.write("\n# Summary:\n")
+output_file.write(f"{verse_count} verses checked.")
 output_file.write(f"Missing Commentary Quotes Count: {missing_commentary_quotes_count} (How many commentaries should have quotes but they're missing?)\n")
 output_file.write(f"Corrupted Verses Count: {corrupted_verses_count} (How many verses have quotes with chatGPT injected opinions?)\n")
 output_file.write(f"Corrupted Commentary Quotes Count: {corrupted_commentary_quotes_count} (How many commentaries have quotes with chatGPT injected opinions?)\n")
