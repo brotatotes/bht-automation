@@ -185,7 +185,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                     if choicest_not_empty:
                         msg += f" Choicest already exists. "
 
-                    print(msg)
+                    # print(msg)
                     continue
                 
                 commentary_tokens_set = set(tokenize(commentary.lower()))
