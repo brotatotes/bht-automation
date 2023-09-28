@@ -1,5 +1,6 @@
 # IMPORTS
 
+import datetime
 import math
 import os
 import threading
@@ -427,6 +428,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 
                 out_file.write(f"## Debug Info\n")
                 out_file.write(f"### Generation Details\n")
+                out_file.write(f"- Timestamp: {datetime.datetime.now().strftime('%m-%d-%Y %H:%M:%S')}\n")
                 out_file.write(f"- Choicest Prompt: \"{choicest_prompt}\"\n")
                 out_file.write(f"- BHT Prompt: \"{bht_prompt}\"\n")
                 out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")

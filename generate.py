@@ -1,6 +1,6 @@
 from bibleref import BibleRange, BibleVerse
-
 from bht_generation import generate_bhts
+from timeout_decorator import timeout
 
 if __name__ == '__main__':
     COMMENTATORS = [
@@ -16,33 +16,33 @@ if __name__ == '__main__':
         ]
 
     books = [BibleRange(b) for b in [
-        "Matthew",
-        "Mark",
-        "Luke",
-        "John",
-        "Acts",
+        # "Matthew",
+        # "Mark",
+        # "Luke",
+        # "John",
+        # "Acts",
         "Romans",
-        "1 Corinthians",
-        "2 Corinthians",
-        "Galatians",
-        "Ephesians",
-        "Philippians",
-        "Colossians",
-        "1 Thessalonians",
-        "2 Thessalonians",
-        "1 Timothy",
-        "2 Timothy",
-        "Titus",
-        "Philemon",
-        "Hebrews",
-        "James",
-        "1 Peter",
-        "2 Peter",
-        "1 John",
-        "2 John",
-        "3 John",
-        "Jude",
-        "Revelation",
+        # "1 Corinthians",
+        # "2 Corinthians",
+        # "Galatians",
+        # "Ephesians",
+        # "Philippians",
+        # "Colossians",
+        # "1 Thessalonians",
+        # "2 Thessalonians",
+        # "1 Timothy",
+        # "2 Timothy",
+        # "Titus",
+        # "Philemon",
+        # "Hebrews",
+        # "James",
+        # "1 Peter",
+        # "2 Peter",
+        # "1 John",
+        # "2 John",
+        # "3 John",
+        # "Jude",
+        # "Revelation",
         ]]
     
     verses = []
@@ -50,4 +50,8 @@ if __name__ == '__main__':
         for verse in book:
             verses.append(verse)
 
-    generate_bhts(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
+    @timeout(10800) # 3 hours = 10800 seconds.
+    def generate_bhts_timeout(verses):
+        generate_bhts(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
+
+    generate_bhts_timeout(verses)
