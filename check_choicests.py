@@ -2,18 +2,12 @@ import os
 import re
 import string
 from gensim.utils import tokenize
+from bht_generation import generate_bhts
+from generate import COMMENTATORS
 
-COMMENTATORS = set([
-    "Henry Alford",
-    "Jamieson-Fausset-Brown",
-    "Albert Barnes",
-    "Marvin Vincent",
-    "John Calvin",
-    "Philip Schaff",
-    "Archibald T. Robertson",
-    "John Gill",
-    "John Wesley"
-    ])
+COMMENTATORS = set(COMMENTATORS)
+CHOICEST_PROMPT = "choicest prompt v2"
+BHT_PROMPT = "bht prompt v5"
 
 def get_commentary(commentator, book, chapter, verse):
     file_path = f'commentary/{commentator}/{book}/Chapter {chapter}/Verse {verse}.txt'
@@ -34,12 +28,13 @@ def get_commentary(commentator, book, chapter, verse):
 
 
 # folder_to_check = "bht gen 2"
-folder_to_check = "gpt output/bht/choicest prompt v2 X bht prompt v5"
+folder_to_check = f"gpt output/bht/{CHOICEST_PROMPT} X {BHT_PROMPT}"
 
 verse_count = 0
 missing_commentary_quotes_count = 0
 corrupted_commentary_quotes_count = 0
 corrupted_verses_count = 0
+corrupted_verses = []
 
 output_file = open('check_choicests.md', 'w', encoding="utf-8")
 output_file.write("# Issues Found:\n\n")
@@ -129,6 +124,7 @@ for book in os.listdir(folder_to_check):
 
             if corrupted_verse:
                 corrupted_verses_count += 1
+                corrupted_verses.append(f"{book} {chapter_number}:{verse_number}")
 
 
 result_text = f"""
@@ -143,3 +139,7 @@ output_file.write(result_text)
 output_file.close()
 
 print(result_text)
+
+if corrupted_verses_count > 0:
+    input(f"Retry {corrupted_verses_count} corrupted verses? ")
+    generate_bhts(corrupted_verses, [CHOICEST_PROMPT], [BHT_PROMPT], COMMENTATORS, redo_choicest=True, redo_bht=True)
