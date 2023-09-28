@@ -41,7 +41,7 @@ missing_commentary_quotes_count = 0
 corrupted_commentary_quotes_count = 0
 corrupted_verses_count = 0
 
-output_file = open('check_choicests.md', 'w')
+output_file = open('check_choicests.md', 'w', encoding="utf-8")
 output_file.write("# Issues Found:\n\n")
 
 for book in os.listdir(folder_to_check):
@@ -58,7 +58,7 @@ for book in os.listdir(folder_to_check):
             if verse.startswith('.'):
                 continue
 
-            bht_content = open(f"{folder_to_check}/{book}/{chapter}/{verse}", 'r').read()
+            bht_content = open(f"{folder_to_check}/{book}/{chapter}/{verse}", 'r', encoding="utf-8").read()
             pattern = r'^### .+:$'
             commentators = set([c[4:-1] for c in re.findall(pattern, bht_content, re.MULTILINE)])
             missing_commentators = COMMENTATORS - commentators
@@ -131,11 +131,15 @@ for book in os.listdir(folder_to_check):
                 corrupted_verses_count += 1
 
 
+result_text = f"""
+# Summary:
+{verse_count} verses checked.
+Missing Commentary Quotes Count: {missing_commentary_quotes_count} (How many commentaries should have quotes but they're missing?)
+Corrupted Verses Count: {corrupted_verses_count} (How many verses have quotes with chatGPT injected opinions?)
+Corrupted Commentary Quotes Count: {corrupted_commentary_quotes_count} (How many commentaries have quotes with chatGPT injected opinions?)
+"""
 
-
-output_file.write("\n# Summary:\n")
-output_file.write(f"{verse_count} verses checked.")
-output_file.write(f"Missing Commentary Quotes Count: {missing_commentary_quotes_count} (How many commentaries should have quotes but they're missing?)\n")
-output_file.write(f"Corrupted Verses Count: {corrupted_verses_count} (How many verses have quotes with chatGPT injected opinions?)\n")
-output_file.write(f"Corrupted Commentary Quotes Count: {corrupted_commentary_quotes_count} (How many commentaries have quotes with chatGPT injected opinions?)\n")
+output_file.write(result_text)
 output_file.close()
+
+print(result_text)

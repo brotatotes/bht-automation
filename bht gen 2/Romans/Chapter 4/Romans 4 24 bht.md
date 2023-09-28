@@ -1,7 +1,7 @@
 # Romans 4:24 Commentary Help Text
 
 ## BHT:
-The Resurrection of Jesus holds utmost importance in Paul's gospel, signifying God's power over death and revealing that justification comes through faith, not works. Just as Abraham's belief in God's promise was credited to him as righteousness, we too are justified by our faith in God. The Resurrection serves as a testament to God's omnipotence and grace, and by placing our trust in Him, we receive the imputed righteousness that comes through Christ. The Old Testament scriptures, including the stories of Abraham and David, further exemplify the significance of faith in our justification.
+The Resurrection plays a pivotal role in Paul's gospel, emphasizing the importance of justification through faith rather than works. Abraham's faith serves as an example, with the imputation of righteousness applying to those who believe in a similar way. The Old Testament scriptures hold valuable lessons for believers in the New Testament era, redirecting their focus to having faith in God as the object of their justification. The acknowledgement of faith in the resurrected Jesus carries significant weight, particularly for the Jewish community.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
@@ -10,61 +10,60 @@ The Resurrection of Jesus holds utmost importance in Paul's gospel, signifying G
 3. "I suspect Winer is right in looking for the cause of the absence of the article after prepositions rather in the usage of the particular substantive than in any idiom of general application."
 
 ### Jamieson-Fausset-Brown:
-I apologize for the previous responses. I can craft a hypothetical commentary based on the given Bible verse.
-1. "Belief in the resurrection of Jesus is an essential aspect of faith. It goes beyond mere intellectual acceptance and requires an active trust in God's power to bring forth life from death."
-2. "Abraham serves as a powerful example of faith. His belief that God would raise up a seed to bless all nations demonstrates a trust that surpasses human understanding, and the same level of faith is required in our belief in the resurrection of Jesus."
-3. "The imputation of righteousness is not based on our own works but on our faith in God's power to raise Jesus from the dead. It is a declaration of righteousness that comes from placing our trust in Him who has the authority to conquer death."
+1. "to whom it shall be imputed, if we believe in him that raised up Jesus our Lord from the dead"
+2. "In Him that hath done this, even as Abraham believed that God would raise up a seed in whom all nations should be blessed."
 
 ### Albert Barnes:
 1. "It is recorded for our encouragement and imitation, to show that we may in a similar manner be accepted and saved."
-2. "Abraham showed his faith in God by believing just what God revealed to him."
-3. "The main or leading truths that God has made known to us are, that he has given his Son to die; that he has raised him up; and that through him he is ready to pardon."
+2. "Faith, now, is belief in God just so far as he has revealed his will to us. It is therefore the same in principle, though it may have reference to different objects."
+3. "The main or leading truths that God has made known to us are, that he has given his Son to die; that he has raised him up; and that through him he is ready to pardon. To put confidence in these truths is to believe now."
 
 ### Marvin Vincent:
-1. "It shall be reckoned... points to God's definite purpose."
-2. "Since we are those who believe."
+1. "It shall be reckoned [μελλει λογιζεσθαι] .. Not the future of the verb to reckon, but mellw to intend points to God's definite purpose."
+2. "Who believe. Since we are those who believe."
 
 ### John Calvin:
-1. "Paul introduced them, that he might, according to what the passages may require, describe in various ways the real character of faith."
+1. "Paul introduced [periphrastic expressions], that he might, according to what the passages may require, describe in various ways the real character of faith."
 2. "For it is the ground of our hope as to eternal life."
-3. "When Christ comes forth and presents to us in his own resurrection a sure pledge of life, it then appears evident from what fountain the imputation of righteousness flows."
+3. "But when Christ comes forth and presents to us in his own resurrection a sure pledge of life, it then appears evident from what fountain the imputation of righteousness flows."
 
 ### Philip Schaff:
-1. "The design was not merely to show how Abraham was justified, but also to show how we should be justified."
-2. "The justification of each believer is a single act, but that of believers as a whole is continuous."
-3. "The birth of Isaac was a proof of God’s omnipotence, but Christ’s resurrection is a still higher proof, both of this omnipotence, and, at the same time, of Divine grace."
+1. "The justification of each believer is a single act, but that of believers as a whole is continuous."
+2. "The birth of Isaac was a proof of God's omnipotence, but Christ's resurrection is a still higher proof."
+3. "When the fact of Christ's resurrection is denied or ignored by nominal Christians, their faith is weak in every respect."
 
 ### Archibald T. Robertson:
-1. "The fact of the Resurrection of Jesus is central in Paul's gospel." (Commentary)
-
+1. "The fact of the Resurrection of Jesus is central in Paul's gospel."
 
 ### John Gill:
 1. "What was written in the books of the Old Testament, was not written merely on account of them who are the subjects thereof, but for the use, learning, instruction and profit of saints under the New Testament dispensation."
 2. "Abraham's faith itself could never be reckoned for righteousness to another, nor indeed was it to himself; but such as believe as Abraham did, they have the same righteousness imputed to them as he had."
-3. "The faith of New Testament believers is described as believing in 'God that quickeneth the dead' and believing on him that raised up Jesus our Lord from the dead."
+3. "The faith of New Testament believers...believe on him that raised up Jesus our Lord from the dead."
 
 ### John Wesley:
-1. "To establish us in seeking justification by faith, and not by works; and to afford a full answer to those who say that, 'to be justified by works means only, by Judaism; to be justified by faith means, by embracing Christianity, that is, the system of doctrines so called.'"
-2. "Sure it is that Abraham could not in this sense be justified either by faith or by works; and equally sure that David (taking the words thus) was justified by works, and not by faith."
-3. "God the Father therefore is the proper object of justifying faith."
+1. "To establish us in seeking justification by faith, and not by works."
+2. "God the Father therefore is the proper object of justifying faith."
+3. "And he mentions that part, with regard to Abraham, which would naturally affect the Jews most."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 00:17:41
+- Timestamp: 09-28-2023 11:40:31
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 98
-- BHT Commentary Usage: 77.97%
-- BHT Quality Score: 74.03389830508473
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (16):
-	['credited', 'exemplify', 'further', 'holds', 'importance', 'including', 'over', 'promise', 'receive', 'revealing', 'scriptures', 'significance', 'signifying', 'stories', 'too', 'utmost']
-- ChatGPT injected words (significant words only) (13):
-	['credited', 'exemplify', 'holds', 'importance', 'including', 'promise', 'receive', 'revealing', 'scriptures', 'significance', 'signifying', 'stories', 'utmost']
+- BHT Word Count: 85
+- BHT Commentary Usage: 57.63%
+- BHT Quality Score: 82.6271186440678
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (26):
+	['acknowledgement', 'an', 'applying', 'carries', 'community', 'emphasizing', 'era', 'example', 'focus', 'having', 'hold', 'importance', 'jewish', 'lessons', 'particularly', 'pivotal', 'plays', 'redirecting', 'resurrected', 'role', 'scriptures', 'serves', 'significant', 'valuable', 'way', 'weight']
+- ChatGPT injected words (significant words only) (25):
+	['acknowledgement', 'applying', 'carries', 'community', 'emphasizing', 'era', 'example', 'focus', 'having', 'hold', 'importance', 'jewish', 'lessons', 'particularly', 'pivotal', 'plays', 'redirecting', 'resurrected', 'role', 'scriptures', 'serves', 'significant', 'valuable', 'way', 'weight']
 
 ### Logs
-- 🔄 Romans 4:24 (attempt 1, 132 words, 76.54% quotes, quality score: 41.45679012345678) 
-	- BHT WAS OVER 100 WORDS!
-- ✅ Romans 4:24 bht prompt v5 (98 words, 77.97% quotes)
+- 🔄 Romans 4:24 (attempt 1, 76 words, 70.83% quotes, quality score: 95.16666666666667) 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Romans 4:24 (attempt 2, 95 words, 67.69% quotes, quality score: 82.69230769230771) 
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- ✅ Romans 4:24 bht prompt v5 (85 words, 57.63% quotes)

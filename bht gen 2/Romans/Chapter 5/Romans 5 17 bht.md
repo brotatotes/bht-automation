@@ -1,48 +1,47 @@
 # Romans 5:17 Commentary Help Text
 
 ## BHT:
-The reign of death came through the sin of one person, while the reign of life will come through the one, Jesus Christ. We will reign in life by receiving the abundance of God's grace and the gift of righteousness, which will enable us to live a spiritual and moral life. The concept of reigning signifies the highest development of freedom and the fulfillment of all desires. It represents a state of blessedness, both theocratic and subjective, as we partake in the reign of saints with Christ and experience the highest satisfaction of our souls.
+The distinction between grace and the gift is examined here. Grace is set in contrast to the offense, while the gift is set in contrast to death. The gift referred to is the gift of life, which is given through Jesus Christ. By highlighting this contrast, the passage emphasizes the tremendous value of the gift of life that we receive through Christ's grace and underscores the sharp difference between life and death.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "That which came in by the one sinner, was the reign of DEATH: that which shall come in by the One, Jesus Christ, will be a reigning in LIFE." 
-2. "If by the transgression of the one man death reigned, much more shall they who receive the abundance of the grace and of the gift of righteousness reign in life by means of the one Man Jesus Christ." 
-3. "ζωή is not only corporeal (the resurrection), but also spiritual and moral, as also in θάνατος we must include διὰ τῆς ἁμαρτίας Romans 5:12. βασιλεύσουσιν is brought in by the antithesis: but it is elsewhere used to signify the state of blessedness, partly in an objective theocratic import (of the reign of the saints with Christ), partly in a subjective moral one, because reigning is the highest development of freedom, and the highest satisfaction of all desires."
+1. "The distinction the third, also in kind; that which came in by the one sinner, was the reign of death: that which shall come in by the One, Jesus Christ, will be a reigning in life."
+2. "If by the transgression of the one man death reigned by means of the one man, much more shall they who receive the abundance of the grace and of the gift of righteousness reign in life by means of the one Man Jesus Christ."
+3. "'Antithesis to ὁ θάνατος ἐβας. We should expect ἡ ζωὴ βασιλεύσει, but Paul designedly changes the form of expression that he may bring more prominently forward the idea of free personality."
 
 ### Jamieson-Fausset-Brown:
-1. "We shall reign in life."
-2. "If one man's one offense let loose against us the tyrant power of Death, to hold us as its victims in helpless bondage, 'much more,' when we stand forth enriched with God's 'abounding grace' and in the beauty of a complete absolution from countless offenses, shall we expatiate in a life divinely owned and legally secured, 'reigning' in exultant freedom and unchallenged might, through that other matchless 'One,' Jesus Christ!"
-3. "Right to live"—"Righteous life"—life possessed and enjoyed with the good will, and in conformity with the eternal law, of "Him that sitteth on the Throne"; life therefore in its widest sense—life in the whole man and throughout the whole duration of human existence, the life of blissful and loving relationship to God in soul and body, for ever and ever.
+1. "We have here the two ideas of Romans 5:15; Romans 5:16 sublimely combined into one, as if the subject had grown upon the apostle as he advanced in his comparison of the two cases."
+2. "Here, for the first time in this section, he speaks of that LIFE which springs out of justification, in contrast with the death which springs from sin and follows condemnation."
+3. "It is worthy of note, too, that while he says death 'reigned over' us through Adam, he does not say Life 'reigns over us' through Christ; lest he should seem to invest this new life with the very attribute of death—that of fell and malignant tyranny, of which we were the hapless victims."
 
 ### Albert Barnes:
-1. "If, under the administration of a just and merciful Being, it has occurred, that by the offence of one, death hath exerted so wide a dominion; we have reason much more to expect under that administration, that they who are brought under his plan of saving mercy shall be brought under a dispensation of life."
-2. "The evils which they suffer in consequence of the sin of Adam bear no comparison with the mercies of eternal life that shall flow to them from the work of the Saviour."
-3. "It means that they shall be exalted to a glorious state of happiness in heaven; that they shall be triumphant over all their enemies; shall gain an ultimate victory; and shall partake with the Captain of their salvation in the splendors of his dominion above."
+1. "If, under the administration of a just and merciful Being, it has occurred, that by the offence of one, death hath exerted so wide a dominion; we have reason much more to expect under that administration, that they who are brought under his plan of saving mercy shall be brought under a dispensation of life." 
+2. "The abundant favor; the mercy that shall counterbalance and surpass the evils introduced by the sin of Adam. That favor shall be more than sufficient to counterbalance all those evils."
+3. "This stands opposed to the evils introduced by Adam. As the effect of his sin was to produce condemnation, so here the gift of righteousness refers to the opposite, to pardon, to justification, to acceptance with God."
 
 ### Marvin Vincent:
-1. "If death reigned, there must be a reign of life."
-2. "They which receive... simply the recipients."
-3. "Abundance of grace... the abundance of the grace."
+1. "The effect of the second Adam cannot fall behind that of the first."
+2. "If death reigned, there must be a reign of life."
+3. "Not believingly accept, but simply the recipients."
 
 ### John Calvin:
 1. "The sum of the whole is this — that Christ surpasses Adam; the sin of one is overcome by the righteousness of the other; the curse of one is effaced by the grace of the other; from one, death has proceeded, which is absorbed by the life which the other bestows."
-2. "The other difference is, that the benefit of Christ does not come to all men, while Adam has involved his whole race in condemnation; and the reason of this is indeed evident; for as the curse we derive from Adam is conveyed to us by nature, it is no wonder that it includes the whole mass; but that we may come to a participation of the grace of Christ, we must be ingrafted in him by faith." (85 words)
+2. "The benefit of Christ does not come to all men, while Adam has involved his whole race in condemnation; for as the curse we derive from Adam is conveyed to us by nature, it is no wonder that it includes the whole mass; but that we may come to a participation of the grace of Christ, we must be ingrafted in him by faith." (83 words)
 
 ### Philip Schaff:
-1. "The correspondence between the clauses is in other respects not exact."
-2. "If this was God's way of justice, with much more certainty will His way of grace be."
-3. "The whole clause has a triumphant tone, pointing from present grace to future glory, all mediated through the one, Jesus Christ."
+1. "'In life' is to be taken in its fullest sense; this is the sphere in which those who receive the abundance of the grace shall reign." 
+2. "The whole clause has a triumphant tone, pointing from present grace to future glory, all mediated through the one, Jesus Christ."
+3. "If, as a fact, sin and death were through Adam, then much more certain is it that abundant present grace and triumphant future glory shall be through our one head, Jesus Christ."
 
 ### Archibald T. Robertson:
-Apologies for the mistake. Here are the exact quotes from the commentary:
-1. "Much more (πολλω μαλλον). Argument a fortiori again."
-2. "Condition of first class assumed to be true."
-3. "Note balanced words in the contrast (transgression παραπτωματ, grace χαριτος; death θανατος, life ζωη; the one or Adam του ενος, the one Jesus Christ; reign βασιλευω in both)."
+1. "Much more (πολλω μαλλον)."
+2. "Argument a fortiori again."
+3. "Note balanced words in the contrast (transgression, grace; death, life; the one Adam, the one Jesus Christ; reign in both)."
 
 ### John Gill:
-1. "It was the single sin of Adam, the first sin that was committed by him, which gave death its reigning power over the sons of men."
-2. "In which death is represented as a mighty monarch, a powerful king; and designs not only corporeal death, but also a moral or spiritual death."
-3. "Such persons who have received this abundant grace and free gift shall reign in life by one, Jesus Christ; in corporeal life, they are not now subject to death as a penal evil, as other persons are."
+1. "Adam, say the Jewish doctors, transgressed,על פקודא חד דאורייתא, one commandment of the law."
+2. "in which death is represented as a mighty monarch, a powerful king; and designs not only corporeal death, which has mounted the throne by sin, and is supported in its dominion by an ordinance of heaven; but also a moral or spiritual death, which has seized on all mankind, and reigns in every power and faculty of the soul of man; and likewise an eternal one, which will have power over all those, who have no part in the first resurrection."
+3. "by which "righteousness" is meant, not righteousness or holiness infused into us; but the righteousness of Christ, which is a free grace gift, and is enjoyed in a way of receiving; which denotes the act of faith, and supposes giving; and hence there is no room for boasting, but great reason for thankfulness."
 
 ### John Wesley:
 1. There is a difference between grace and the gift. Grace is opposed to the offence; the gift, to death, being the gift of life.
@@ -50,18 +49,22 @@ Apologies for the mistake. Here are the exact quotes from the commentary:
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 00:17:05
+- Timestamp: 09-28-2023 11:41:40
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 96
-- BHT Commentary Usage: 84.48%
-- BHT Quality Score: 69.51724137931033
-- Generate Attempts: 1 / 5
-- ChatGPT injected words (10):
-	['concept', 'enable', 'experience', 'fulfillment', 'our', 'person', 'receiving', 'represents', 'signifies', 'souls']
-- ChatGPT injected words (significant words only) (9):
-	['concept', 'enable', 'experience', 'fulfillment', 'person', 'receiving', 'represents', 'signifies', 'souls']
+- BHT Word Count: 73
+- BHT Commentary Usage: 65.79%
+- BHT Quality Score: 88.78947368421053
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (13):
+	['emphasizes', 'examined', 'given', 'highlighting', 'offense', 'passage', 'referred', 's', 'set', 'sharp', 'tremendous', 'underscores', 'value']
+- ChatGPT injected words (significant words only) (13):
+	['emphasizes', 'examined', 'given', 'highlighting', 'offense', 'passage', 'referred', 's', 'set', 'sharp', 'tremendous', 'underscores', 'value']
 
 ### Logs
-- ✅ Romans 5:17 bht prompt v5 (96 words, 84.48% quotes)
+- 🔄 Romans 5:17 (attempt 1, 79 words, 74.36% quotes, quality score: 94.64102564102564) 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Romans 5:17 (attempt 2, 90 words, 63.04% quotes, quality score: 83.04347826086958) 
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- ✅ Romans 5:17 bht prompt v5 (73 words, 65.79% quotes)

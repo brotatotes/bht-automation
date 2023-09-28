@@ -125,12 +125,7 @@ def ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_
 
     messages.append({
         "role": "user",
-        "content": "I'll give you the commentary in the following message."
-    })
-
-    messages.append({
-        "role": "user",
-        "content": commentary
+        "content": f'Here is the commentary:\n\n"""\n{commentary}\n"""'
     })
 
     messages.extend(extra_messages)
@@ -183,7 +178,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                 commentary = get_commentary(commentator, verse_ref)
                 no_commentary = not commentary
 
-                if not force_redo and (no_commentary or choicest_not_empty):
+                if no_commentary or (not force_redo and choicest_not_empty):
                     msg = f"✅ {verse_ref} {commentator} {choicest_prompt}"
                     if no_commentary:
                         msg += f" No Commentary found. "
@@ -238,7 +233,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
 
                             if too_many_diffs:
                                 info_msg.append(f"MORE THAN {token_diff_limit} INJECTED WORDS!")
-                                complaints.append(f"Please only copy quotes from the original commentary. Do not add any of your own words.")
+                                complaints.append(f"Please try again using only words from the original commentary. Do not add any of your own words. Do not include any other comments in your response.")
 
                             if too_long:
                                 info_msg.append(f"MORE THAN {word_count_limit} WORDS!")
