@@ -202,7 +202,11 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                 if len(commentary_tokens_set) < commentary_length_limit:
                     choicest = f"1. {commentary}"
                 else:
-                    while True:
+                    max_tries = 5
+                    tries = 0
+                    while tries < max_tries:
+                        tries += 1
+                        
                         choicest = ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
                         choicest = choicest.replace('\n\n', '\n')
                         choicest_tokens = list(tokenize(choicest.lower()))
@@ -215,6 +219,9 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                         diffs = len(choicest_tokens_set - commentary_tokens_set)
                         too_many_diffs = diffs > token_diff_limit
                         too_long = word_count > word_count_limit
+
+                        if tries > max_tries:
+                            raise Exception(f"❌ {verse} {commentator} Failed {max_tries} times to get choicest. Quitting. ❌")
 
                         if not too_many_diffs and not too_long:
                             break

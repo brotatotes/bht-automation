@@ -1,6 +1,5 @@
 from bibleref import BibleRange, BibleVerse
 from bht_generation import generate_bhts
-from timeout_decorator import timeout
 
 if __name__ == '__main__':
     COMMENTATORS = [
@@ -50,7 +49,6 @@ if __name__ == '__main__':
         for verse in book:
             verses.append(verse)
 
-    @timeout(10800) # 3 hours = 10800 seconds.
     def generate_bhts_timeout(verses):
         generate_bhts(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
 

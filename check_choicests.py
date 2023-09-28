@@ -33,8 +33,8 @@ def get_commentary(commentator, book, chapter, verse):
     return file_contents
 
 
-folder_to_check = "bht gen 2"
-# folder_to_check = "gpt output/bht/choicest prompt v2 X bht prompt v5"
+# folder_to_check = "bht gen 2"
+folder_to_check = "gpt output/bht/choicest prompt v2 X bht prompt v5"
 
 verse_count = 0
 missing_commentary_quotes_count = 0

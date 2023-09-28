@@ -4,7 +4,7 @@ import traceback
 import time
 
 class MultiThreadedWorkQueue:
-    def __init__(self, num_threads=1000, max_retries=5):
+    def __init__(self, num_threads=100, max_retries=5):
         self.num_threads = num_threads
         self.lock = threading.Lock()
         self.work_queue = queue.Queue()
@@ -22,7 +22,7 @@ class MultiThreadedWorkQueue:
                 break
             except Exception as e:
                 retries += 1
-                print(f"❗An error occurred: {e}\n\t{args}")
+                print(f"❗{args[0]} An error occurred: {e}")
                 # print(traceback.format_exc()) # debugging.
                 wait_time = 2 ** retries # exponential backoff.
                 print(f"Try # {retries} Retrying in {wait_time} seconds...")
