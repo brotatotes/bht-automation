@@ -1,7 +1,7 @@
 # Matthew 1:15 Commentary Help Text
 
 ## BHT:
-This passage beautifully demonstrates God's faithfulness and provision, especially when confronted with challenges and uncertainties. It encourages us to trust in His care and guidance, fully aware that He will not only meet our needs but also lead us through difficult times. It reminds us to hold steadfast to our faith, seeking guidance from the Lord, and relying on His unwavering support.
+The relevance lies in embracing humility and recognizing our dependence on God. The commentators emphasize the significance of humility, understanding our limitations and the power of God. They highlight the pursuit of wisdom and the necessity of God's guidance in living righteously. It encourages a humble and teachable attitude, acknowledging that true wisdom originates solely from God.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
@@ -10,33 +10,35 @@ This passage beautifully demonstrates God's faithfulness and provision, especial
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 23:19:01
+- Timestamp: 09-28-2023 23:29:55
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 63
-- BHT Commentary Usage: 40.38%
-- BHT Quality Score: 53.38461538461539
+- BHT Word Count: 58
+- BHT Commentary Usage: 27.5%
+- BHT Quality Score: 35.50000000000001
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (52):
-	['also', 'and', 'aware', 'beautifully', 'but', 'care', 'challenges', 'confronted', 'demonstrates', 'difficult', 'encourages', 'especially', 'faith', 'faithfulness', 'from', 'fully', 'god', 'guidance', 'he', 'his', 'hold', 'in', 'it', 'lead', 'lord', 'meet', 'needs', 'not', 'on', 'only', 'our', 'passage', 'provision', 'relying', 'reminds', 's', 'seeking', 'steadfast', 'support', 'that', 'the', 'this', 'through', 'times', 'to', 'trust', 'uncertainties', 'unwavering', 'us', 'when', 'will', 'with']
-- ChatGPT injected words (significant words only) (31):
-	['aware', 'beautifully', 'care', 'challenges', 'confronted', 'demonstrates', 'difficult', 'encourages', 'especially', 'faith', 'faithfulness', 'fully', 'god', 'guidance', 'hold', 'lead', 'lord', 'meet', 'needs', 'passage', 'provision', 'relying', 'reminds', 's', 'seeking', 'steadfast', 'support', 'times', 'trust', 'uncertainties', 'unwavering']
+- ChatGPT injected words (40):
+	['a', 'acknowledging', 'and', 'attitude', 'commentators', 'dependence', 'embracing', 'emphasize', 'encourages', 'from', 'god', 'guidance', 'highlight', 'humble', 'humility', 'in', 'it', 'lies', 'limitations', 'living', 'necessity', 'of', 'on', 'originates', 'our', 'power', 'pursuit', 'recognizing', 'relevance', 'righteously', 's', 'significance', 'solely', 'teachable', 'that', 'the', 'they', 'true', 'understanding', 'wisdom']
+- ChatGPT injected words (significant words only) (29):
+	['acknowledging', 'attitude', 'commentators', 'dependence', 'embracing', 'emphasize', 'encourages', 'god', 'guidance', 'highlight', 'humble', 'humility', 'lies', 'limitations', 'living', 'necessity', 'originates', 'power', 'pursuit', 'recognizing', 'relevance', 'righteously', 's', 'significance', 'solely', 'teachable', 'true', 'understanding', 'wisdom']
 
 ### Logs
-- 🔄 Matthew 1:15 (attempt 1, 68 words, 46.0% quotes, quality score: 64.0) 
+- 🔄 Matthew 1:15 (attempt 1, 85 words, 36.84% quotes, quality score: 61.842105263157904) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'COMMENTATOR(S)' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 1:15 (attempt 2, 68 words, 40.0% quotes, quality score: 58.00000000000001) 
+- 🔄 Matthew 1:15 (attempt 2, 53 words, 32.5% quotes, quality score: 35.5) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'COMMENTATOR(S)' FOUND IN BHT!
-- 🔄 Matthew 1:15 (attempt 3, 63 words, 40.38% quotes, quality score: 53.38461538461539) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Matthew 1:15 (attempt 4, 70 words, 45.45% quotes, quality score: 65.45454545454547) 
+- 🔄 Matthew 1:15 (attempt 3, 64 words, 33.33% quotes, quality score: 47.33333333333334) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT!
-- 🔄 Matthew 1:15 (attempt 5, 67 words, 47.17% quotes, quality score: 64.16981132075472) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR(S)' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- ✅ Matthew 1:15 bht prompt v5 (63 words, 40.38% quotes)
+- 🔄 Matthew 1:15 (attempt 4, 58 words, 27.5% quotes, quality score: 35.50000000000001) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- 🔄 Matthew 1:15 (attempt 5, 54 words, 29.27% quotes, quality score: 33.26829268292684) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- ✅ Matthew 1:15 bht prompt v5 (58 words, 27.5% quotes)

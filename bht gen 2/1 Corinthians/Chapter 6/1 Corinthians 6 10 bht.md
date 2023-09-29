@@ -1,13 +1,13 @@
 # 1 Corinthians 6:10 Commentary Help Text
 
 ## BHT:
-The Bible warns against those who are consumed by greed and resort to theft, fraud, and deceit to satisfy their insatiable desire for worldly gain. Alongside them, the passage condemns revilers who verbally abuse and slander others. It also cautions against extortioners, who unjustly take from others for personal benefit. These vices are seen as disqualifications from inheriting the kingdom. This scripture emphasizes the importance of living uprightly and avoiding sinful behaviors that are contrary to God's will.
+It is remarkable that the apostle always ranks the covetous with the most abandoned classes of people, such as thieves who take away another man's property by fraud or force. These covetous individuals are insatiable in their lust for worldly gain, bent upon increasing their substance at any rate and using deceit. They are greedy and do not use the things of this life as they should, for their own good and that of others. Furthermore, the apostle warns against revilers, those who engage in slanderous speech, and extortioners who exploit others for personal gain.
 
 ## Choicest Commentary Quotes:
 ### Albert Barnes:
-1. "The apostle always ranks 'the covetous' with the most abandoned classes of people."
-2. "Nor revilers."
-3. "Nor extortioners shall inherit."
+1. "It is remarkable that the apostle always ranks 'the covetous' with the most abandoned classes of people."
+2. "Nor revilers - The same word which in 1 Corinthians 5:11, is rendered railer."
+3. "Nor extortioners - See the note at 1 Corinthians 5:11."
 
 ### John Gill:
 1. "Nor thieves,.... Who take away another man's property, secret or openly, by fraud or force."
@@ -17,29 +17,20 @@ The Bible warns against those who are consumed by greed and resort to theft, fra
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 23:19:19
+- Timestamp: 09-28-2023 23:29:04
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 47.62%
-- BHT Quality Score: 76.61904761904762
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (41):
-	['abuse', 'against', 'alongside', 'also', 'avoiding', 'behaviors', 'benefit', 'bible', 'cautions', 'condemns', 'consumed', 'contrary', 'desire', 'disqualifications', 'emphasizes', 'from', 'god', 'greed', 'importance', 'inheriting', 'it', 'kingdom', 'living', 'passage', 'personal', 'resort', 'satisfy', 'scripture', 'seen', 'sinful', 'slander', 'theft', 'them', 'these', 'those', 'unjustly', 'uprightly', 'verbally', 'vices', 'warns', 'will']
-- ChatGPT injected words (significant words only) (33):
-	['abuse', 'alongside', 'avoiding', 'behaviors', 'benefit', 'bible', 'cautions', 'condemns', 'consumed', 'contrary', 'desire', 'disqualifications', 'emphasizes', 'god', 'greed', 'importance', 'inheriting', 'kingdom', 'living', 'passage', 'personal', 'resort', 'satisfy', 'scripture', 'seen', 'sinful', 'slander', 'theft', 'unjustly', 'uprightly', 'verbally', 'vices', 'warns']
+- BHT Word Count: 96
+- BHT Commentary Usage: 88.89%
+- BHT Quality Score: 65.11111111111111
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (13):
+	['against', 'engage', 'exploit', 'furthermore', 'individuals', 'personal', 'slanderous', 'speech', 'such', 'these', 'those', 'using', 'warns']
+- ChatGPT injected words (significant words only) (8):
+	['engage', 'exploit', 'furthermore', 'individuals', 'personal', 'slanderous', 'speech', 'warns']
 
 ### Logs
-- 🔄 1 Corinthians 6:10 (attempt 1, 94 words, 42.03% quotes, quality score: 58.028985507246375) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 1 Corinthians 6:10 (attempt 2, 85 words, 48.44% quotes, quality score: 73.4375) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 1 Corinthians 6:10 (attempt 3, 79 words, 47.62% quotes, quality score: 76.61904761904762) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 1 Corinthians 6:10 (attempt 4, 84 words, 50.0% quotes, quality score: 76.0) 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 1 Corinthians 6:10 (attempt 5, 90 words, 48.57% quotes, quality score: 68.57142857142858) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ 1 Corinthians 6:10 bht prompt v5 (79 words, 47.62% quotes)
+- 🔄 1 Corinthians 6:10 (attempt 1, 109 words, 84.15% quotes, quality score: 56.853658536585364) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ 1 Corinthians 6:10 bht prompt v5 (96 words, 88.89% quotes)

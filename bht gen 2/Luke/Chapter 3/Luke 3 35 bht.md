@@ -1,39 +1,40 @@
 # Luke 3:35 Commentary Help Text
 
 ## BHT:
-These verses, listing the genealogy of a specific individual, underscore the notion of identity through connecting their name to their ancestors. The repetitions of the same with in relation to Saruch and Serug, Ragau and Reu, as well as Phaleg and Peleg, emphasize a sense of continuity and lineage within generations. By highlighting the shared identities, these verses further enrich our comprehension of the individual's history and familial connections.
+The Septuagint offers variations in the names attributed to the characters in question, with Serouch being identified as Serug, Heber as Eber, and Sala as an alternate name. These alternative designations provide valuable insights into the complexities and significance of the genealogical lineage highlighted in this passage. By exploring these alternate names, we gain a deeper understanding of the fluid nature of identity and the nuanced connections within the broader narrative context.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
-1. "Which was the son of Saruch.... the same with Serug." 
-2. "which was the son of Ragau... the same with Reu." 
-3. "which was the son of Phaleg... the same with Peleg."
+1. "The Septuagint call him Serouch, the same with Serug..." 
+2. "the Septuagint reads as here: 'which was the son of Heber', or Eber..."
+3. "...the Septuagint there call him Sala."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 23:19:05
+- Timestamp: 09-28-2023 23:30:04
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 70
-- BHT Commentary Usage: 48.0%
-- BHT Quality Score: 68.0
+- BHT Word Count: 72
+- BHT Commentary Usage: 42.59%
+- BHT Quality Score: 64.5925925925926
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (40):
-	['a', 'ancestors', 'and', 'as', 'by', 'comprehension', 'connecting', 'connections', 'continuity', 'emphasize', 'enrich', 'familial', 'further', 'genealogy', 'generations', 'highlighting', 'history', 'identities', 'identity', 'in', 'individual', 'lineage', 'listing', 'name', 'notion', 'our', 'relation', 'repetitions', 's', 'sense', 'shared', 'specific', 'their', 'these', 'through', 'to', 'underscore', 'verses', 'well', 'within']
-- ChatGPT injected words (significant words only) (26):
-	['ancestors', 'comprehension', 'connecting', 'connections', 'continuity', 'emphasize', 'enrich', 'familial', 'genealogy', 'generations', 'highlighting', 'history', 'identities', 'identity', 'individual', 'lineage', 'listing', 'notion', 'relation', 'repetitions', 's', 'sense', 'shared', 'specific', 'underscore', 'verses']
+- ChatGPT injected words (44):
+	['a', 'alternate', 'alternative', 'an', 'and', 'attributed', 'being', 'broader', 'by', 'characters', 'complexities', 'connections', 'context', 'deeper', 'designations', 'exploring', 'fluid', 'gain', 'genealogical', 'highlighted', 'identified', 'identity', 'in', 'insights', 'into', 'lineage', 'name', 'names', 'narrative', 'nature', 'nuanced', 'offers', 'passage', 'provide', 'question', 'significance', 'these', 'this', 'to', 'understanding', 'valuable', 'variations', 'we', 'within']
+- ChatGPT injected words (significant words only) (31):
+	['alternate', 'alternative', 'attributed', 'broader', 'characters', 'complexities', 'connections', 'context', 'deeper', 'designations', 'exploring', 'fluid', 'gain', 'genealogical', 'highlighted', 'identified', 'identity', 'insights', 'lineage', 'names', 'narrative', 'nature', 'nuanced', 'offers', 'passage', 'provide', 'question', 'significance', 'understanding', 'valuable', 'variations']
 
 ### Logs
-- 🔄 Luke 3:35 (attempt 1, 65 words, 47.83% quotes, quality score: 62.82608695652175) 
+- 🔄 Luke 3:35 (attempt 1, 90 words, 40.98% quotes, quality score: 60.98360655737706) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Luke 3:35 (attempt 2, 75 words, 37.04% quotes, quality score: 62.03703703703704) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Luke 3:35 (attempt 2, 70 words, 48.0% quotes, quality score: 68.0) 
+- 🔄 Luke 3:35 (attempt 3, 72 words, 42.59% quotes, quality score: 64.5925925925926) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Luke 3:35 (attempt 3, 64 words, 35.71% quotes, quality score: 49.714285714285715) 
+- 🔄 Luke 3:35 (attempt 4, 75 words, 38.89% quotes, quality score: 63.888888888888886) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Luke 3:35 (attempt 4, 65 words, 34.88% quotes, quality score: 49.883720930232556) 
+- 🔄 Luke 3:35 (attempt 5, 67 words, 38.78% quotes, quality score: 55.775510204081634) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Luke 3:35 (attempt 5, 69 words, 29.17% quotes, quality score: 48.166666666666664) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Luke 3:35 bht prompt v5 (70 words, 48.0% quotes)
+- ✅ Luke 3:35 bht prompt v5 (72 words, 42.59% quotes)

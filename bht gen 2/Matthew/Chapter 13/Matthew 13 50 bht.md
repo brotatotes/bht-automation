@@ -1,7 +1,7 @@
 # Matthew 13:50 Commentary Help Text
 
 ## BHT:
-This passage echoes the exact words spoken in Matthew 13:42, adding a solemn tone to the conclusion of Jesus' parables. The repetition emphasizes the importance of understanding the severe outcome for those who reject the teachings of Christ. The vivid imagery of being cast into the furnace of fire paints a clear picture of the eternal punishment that awaits the unrighteous. It serves as a stark reminder of the final moments of the Church's existence on earth.
+The repetition of the same language used in Matthew 13:42 gives great solemnity to this passage, highlighting the gravity of the closing period and scene of the Church militant. It serves as a stark reminder of the judgment that awaits those who reject the truth, casting them into the furnace of fire.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -14,30 +14,24 @@ This passage echoes the exact words spoken in Matthew 13:42, adding a solemn ton
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 23:19:06
+- Timestamp: 09-28-2023 23:28:58
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 77
-- BHT Commentary Usage: 36.84%
-- BHT Quality Score: 63.842105263157904
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (45):
-	['a', 'adding', 'as', 'awaits', 'being', 'christ', 'clear', 'conclusion', 'earth', 'echoes', 'emphasizes', 'eternal', 'exact', 'existence', 'final', 'imagery', 'importance', 'it', 'jesus', 'moments', 'on', 'outcome', 'paints', 'passage', 'picture', 'punishment', 'reject', 'reminder', 'repetition', 's', 'serves', 'severe', 'solemn', 'spoken', 'stark', 'teachings', 'that', 'this', 'those', 'tone', 'understanding', 'unrighteous', 'vivid', 'who', 'words']
-- ChatGPT injected words (significant words only) (36):
-	['adding', 'awaits', 'christ', 'clear', 'conclusion', 'earth', 'echoes', 'emphasizes', 'eternal', 'exact', 'existence', 'final', 'imagery', 'importance', 'jesus', 'moments', 'outcome', 'paints', 'passage', 'picture', 'punishment', 'reject', 'reminder', 'repetition', 's', 'serves', 'severe', 'solemn', 'spoken', 'stark', 'teachings', 'tone', 'understanding', 'unrighteous', 'vivid', 'words']
+- BHT Word Count: 51
+- BHT Commentary Usage: 67.5%
+- BHT Quality Score: 68.50000000000001
+- Generate Attempts: 4 / 5
+- ChatGPT injected words (22):
+	['a', 'as', 'awaits', 'casting', 'gives', 'gravity', 'highlighting', 'it', 'judgment', 'passage', 'reject', 'reminder', 'repetition', 'same', 'serves', 'stark', 'that', 'this', 'those', 'truth', 'used', 'who']
+- ChatGPT injected words (significant words only) (13):
+	['awaits', 'casting', 'gives', 'gravity', 'highlighting', 'judgment', 'passage', 'reject', 'reminder', 'repetition', 'serves', 'stark', 'truth']
 
 ### Logs
-- 🔄 Matthew 13:50 (attempt 1, 60 words, 48.94% quotes, quality score: 58.936170212765965) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+- 🔄 Matthew 13:50 (attempt 1, 49 words, 83.78% quotes, quality score: 55.21621621621621) 
+	- LIST FORMAT DETECTED!
+- 🔄 Matthew 13:50 (attempt 2, 73 words, 56.6% quotes, quality score: 79.60377358490567) 
 	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 13:50 (attempt 2, 75 words, 37.04% quotes, quality score: 62.03703703703704) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+- 🔄 Matthew 13:50 (attempt 3, 64 words, 62.5% quotes, quality score: 76.5) 
 	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 13:50 (attempt 3, 70 words, 33.33% quotes, quality score: 53.33333333333334) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Matthew 13:50 (attempt 4, 74 words, 36.21% quotes, quality score: 60.206896551724135) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Matthew 13:50 (attempt 5, 77 words, 36.84% quotes, quality score: 63.842105263157904) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 13:50 bht prompt v5 (77 words, 36.84% quotes)
+- ✅ Matthew 13:50 bht prompt v5 (51 words, 67.5% quotes)
