@@ -2,7 +2,7 @@
 gpt output/
 openai-api-key.txt
 scrape commentary/commentary_output
-check_choicests.md
+check_bhts.md
 generate.py
 
 # Ignore python compiled bytecode files

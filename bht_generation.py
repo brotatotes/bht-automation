@@ -37,7 +37,7 @@ STOP_WORDS_SET = spacy.lang.en.stop_words.STOP_WORDS # Get the list of English s
 
 def get_book_chapter_verse(verse_ref):
     verse_ref = str(verse_ref)
-    if any([b in verse_ref for b in ["Philemon", "2 John", "3 John", "Jude", "Obadiah"]]):
+    if any([b in verse_ref for b in ["Philemon", "2 John", "3 John", "Jude", "Obadiah"]]) and ':' not in verse_ref:
         parts = verse_ref.rsplit(' ', 1)
         verse_ref = parts[0] + " 1:" + parts[1]
     book, chapverse = verse_ref.rsplit(' ', 1)

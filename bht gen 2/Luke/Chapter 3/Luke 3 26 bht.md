@@ -1,41 +1,31 @@
 # Luke 3:26 Commentary Help Text
 
 ## BHT:
-The lineage of rulers is outlined with precise detail, tracing their lineage and the duration of their reign. From Maath, who ruled for nine years, to Mattathias, who governed for twelve years, and finally to Semei, who ruled for eleven years, this passage highlights the succession of leaders and the lengths of their rule. The genealogy of these rulers signifies the historical significance of their reigns and provides a framework for understanding the political landscape of that time.
+Within these verses, we are introduced to various individuals who held leadership positions for different lengths of time. One individual named Aser governed for nine years, while another called Eli Matathias ruled for twelve years. Additionally, there is mention of Judas, also known as Hyrcanus the first, who held power for a longer duration of fourteen years. These leaders, each with their own distinct time in authority, provide us with a glimpse of the diverse and varying periods of leadership within the context of these verses.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
-1. "Which was the son of Maath.... who governed nine years." 
-2. "which was the son of Mattathias.... who governed twelve years."
-3. "which was the son of Semei.... who governed eleven years."
+1. "Surnamed Aser, who governed nine years."
+2. "Called Eli Matathias, who governed twelve years."
+3. "Who, according to the same writer, must be Judas, surnamed Hyrcanus the first, who governed fourteen years."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 14:29:49
+- Timestamp: 09-28-2023 23:18:56
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 78
-- BHT Commentary Usage: 44.9%
-- BHT Quality Score: 72.89795918367348
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (38):
-	['a', 'and', 'detail', 'duration', 'finally', 'for', 'framework', 'from', 'genealogy', 'highlights', 'historical', 'is', 'landscape', 'leaders', 'lengths', 'lineage', 'outlined', 'passage', 'political', 'precise', 'provides', 'reign', 'reigns', 'rule', 'ruled', 'rulers', 'significance', 'signifies', 'succession', 'that', 'their', 'these', 'this', 'time', 'to', 'tracing', 'understanding', 'with']
+- BHT Word Count: 86
+- BHT Commentary Usage: 57.81%
+- BHT Quality Score: 81.8125
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (49):
+	['a', 'additionally', 'also', 'and', 'another', 'are', 'as', 'authority', 'context', 'different', 'distinct', 'diverse', 'duration', 'each', 'for', 'glimpse', 'held', 'in', 'individual', 'individuals', 'introduced', 'is', 'known', 'leaders', 'leadership', 'lengths', 'longer', 'mention', 'named', 'of', 'one', 'own', 'periods', 'positions', 'power', 'provide', 'ruled', 'their', 'there', 'these', 'time', 'us', 'various', 'varying', 'verses', 'we', 'while', 'with', 'within']
 - ChatGPT injected words (significant words only) (27):
-	['detail', 'duration', 'finally', 'framework', 'genealogy', 'highlights', 'historical', 'landscape', 'leaders', 'lengths', 'lineage', 'outlined', 'passage', 'political', 'precise', 'provides', 'reign', 'reigns', 'rule', 'ruled', 'rulers', 'significance', 'signifies', 'succession', 'time', 'tracing', 'understanding']
+	['additionally', 'authority', 'context', 'different', 'distinct', 'diverse', 'duration', 'glimpse', 'held', 'individual', 'individuals', 'introduced', 'known', 'leaders', 'leadership', 'lengths', 'longer', 'mention', 'named', 'periods', 'positions', 'power', 'provide', 'ruled', 'time', 'varying', 'verses']
 
 ### Logs
-- 🔄 Luke 3:26 (attempt 1, 78 words, 44.9% quotes, quality score: 72.89795918367348) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Luke 3:26 (attempt 2, 71 words, 40.82% quotes, quality score: 61.81632653061225) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Luke 3:26 (attempt 3, 77 words, 40.38% quotes, quality score: 67.38461538461539) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Luke 3:26 (attempt 4, 72 words, 33.33% quotes, quality score: 55.33333333333334) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Luke 3:26 (attempt 5, 75 words, 36.84% quotes, quality score: 61.842105263157904) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Luke 3:26 bht prompt v5 (78 words, 44.9% quotes)
+- 🔄 Luke 3:26 (attempt 1, 88 words, 50.0% quotes, quality score: 72.0) 
+	- 'COMMENTATOR(S)' FOUND IN BHT!
+- ✅ Luke 3:26 bht prompt v5 (86 words, 57.81% quotes)

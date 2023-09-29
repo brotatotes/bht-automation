@@ -1,7 +1,7 @@
 # Matthew 1:14 Commentary Help Text
 
 ## BHT:
-This passage reminds us not to be molded by the world's pressures, but to focus on God's truth. The call is for constant renewal and transformation, aligning our minds with God's will rather than conforming to societal patterns. By allowing God's truth to shape our thoughts and actions, we are able to live in accordance with His perfect and pleasing plan.
+The passage illuminates the boundless mercy and grace of God, who generously forgives and restores those who repent. It underscores the transformative power of divine forgiveness, as forgiven individuals not only receive pardon but also are entrusted with the task of proclaiming God's mercy to others. This passage serves as a vivid reminder of God's immeasurable love, His readiness to forgive even the most serious sins, and the life-altering impact that forgiveness can have on a person's journey.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
@@ -10,32 +10,29 @@ This passage reminds us not to be molded by the world's pressures, but to focus 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 14:04:59
+- Timestamp: 09-28-2023 23:19:06
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 65
-- BHT Commentary Usage: 44.9%
-- BHT Quality Score: 59.89795918367348
+- BHT Word Count: 82
+- BHT Commentary Usage: 40.98%
+- BHT Quality Score: 68.98360655737706
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (49):
-	['able', 'accordance', 'actions', 'aligning', 'allowing', 'and', 'are', 'be', 'but', 'by', 'call', 'conforming', 'constant', 'focus', 'for', 'god', 'his', 'in', 'is', 'live', 'minds', 'molded', 'not', 'on', 'our', 'passage', 'patterns', 'perfect', 'plan', 'pleasing', 'pressures', 'rather', 'reminds', 'renewal', 's', 'shape', 'societal', 'than', 'the', 'this', 'thoughts', 'to', 'transformation', 'truth', 'us', 'we', 'will', 'with', 'world']
-- ChatGPT injected words (significant words only) (27):
-	['able', 'accordance', 'actions', 'aligning', 'allowing', 'conforming', 'constant', 'focus', 'god', 'live', 'minds', 'molded', 'passage', 'patterns', 'perfect', 'plan', 'pleasing', 'pressures', 'reminds', 'renewal', 's', 'shape', 'societal', 'thoughts', 'transformation', 'truth', 'world']
+- ChatGPT injected words (61):
+	['a', 'also', 'altering', 'and', 'are', 'as', 'boundless', 'but', 'can', 'divine', 'entrusted', 'even', 'forgive', 'forgiven', 'forgiveness', 'forgives', 'generously', 'god', 'grace', 'have', 'his', 'illuminates', 'immeasurable', 'impact', 'individuals', 'it', 'journey', 'life', 'love', 'mercy', 'most', 'not', 'of', 'on', 'only', 'others', 'pardon', 'passage', 'person', 'power', 'proclaiming', 'readiness', 'receive', 'reminder', 'repent', 'restores', 's', 'serious', 'serves', 'sins', 'task', 'that', 'the', 'this', 'those', 'to', 'transformative', 'underscores', 'vivid', 'who', 'with']
+- ChatGPT injected words (significant words only) (36):
+	['altering', 'boundless', 'divine', 'entrusted', 'forgive', 'forgiven', 'forgiveness', 'forgives', 'generously', 'god', 'grace', 'illuminates', 'immeasurable', 'impact', 'individuals', 'journey', 'life', 'love', 'mercy', 'pardon', 'passage', 'person', 'power', 'proclaiming', 'readiness', 'receive', 'reminder', 'repent', 'restores', 's', 'serves', 'sins', 'task', 'transformative', 'underscores', 'vivid']
 
 ### Logs
-- 🔄 Matthew 1:14 (attempt 1, 96 words, 45.16% quotes, quality score: 59.161290322580655) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 1:14 (attempt 2, 65 words, 44.9% quotes, quality score: 59.89795918367348) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Matthew 1:14 (attempt 3, 73 words, 36.0% quotes, quality score: 59.0) 
+- 🔄 Matthew 1:14 (attempt 1, 81 words, 40.38% quotes, quality score: 69.38461538461539) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
 	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 1:14 (attempt 4, 78 words, 33.96% quotes, quality score: 61.962264150943405) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT!
-- 🔄 Matthew 1:14 (attempt 5, 62 words, 42.55% quotes, quality score: 54.5531914893617) 
+- 🔄 Matthew 1:14 (attempt 2, 71 words, 43.14% quotes, quality score: 64.13725490196079) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 1:14 bht prompt v5 (65 words, 44.9% quotes)
+- 🔄 Matthew 1:14 (attempt 3, 86 words, 36.21% quotes, quality score: 60.206896551724135) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- 🔄 Matthew 1:14 (attempt 4, 82 words, 40.98% quotes, quality score: 68.98360655737706) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- 🔄 Matthew 1:14 (attempt 5, 88 words, 41.54% quotes, quality score: 63.53846153846154) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 1:14 bht prompt v5 (82 words, 40.98% quotes)

@@ -2,9 +2,8 @@ import os
 import re
 import string
 from gensim.utils import tokenize
-from bht_generation import generate_bhts
+from bht_generation import generate_bhts, get_commentary, get_verse_ref, get_book_chapter_verse, STOP_WORDS_SET
 from generate import COMMENTATORS
-from bht_generation import get_commentary, get_verse_ref
 
 COMMENTATORS_SET = set(COMMENTATORS)
 CHOICEST_PROMPT = "choicest prompt v2"
@@ -23,7 +22,7 @@ def get_verses_to_check(folder_to_check):
 
             for verse in os.listdir(f"{folder_to_check}/{book}/{chapter}"):
                 chapter_number, verse_number = int(chapter.split()[1]), int(verse.split()[-2])
-                verses.append((book, chapter_number, verse_number))
+                verses.append(get_verse_ref(book, chapter_number, verse_number))
     
     return verses
 
@@ -41,7 +40,7 @@ def get_commentators_with_commentary(book, chapter, verse, all_commentators):
     for commentator in all_commentators:
         commentary = get_commentary(commentator, get_verse_ref(book, chapter, verse))
         if commentary:
-            commentators_with_commentary.add(commentary)
+            commentators_with_commentary.add(commentator)
 
     return commentators_with_commentary
 
@@ -64,10 +63,10 @@ def parse_choicest_quotes(bht_content):
         if line.startswith("### "):
             current_commentator = line[4:-1]
             continue
-        elif line.startswith("# "):
+        elif line.startswith("# ") or line.startswith("## "):
             current_commentator = None
 
-        if not current_commentator:
+        if not current_commentator or not current_commentator in COMMENTATORS_SET:
             continue
 
         if not current_commentator in commentator_quotes:
@@ -76,6 +75,23 @@ def parse_choicest_quotes(bht_content):
         commentator_quotes[current_commentator].append(line)
 
     return commentator_quotes
+
+
+def parse_bht(bht_content):
+    bht_lines = []
+    found = False
+    for line in bht_content.splitlines():
+        if line.startswith("## BHT:"):
+            found = True
+            continue
+        elif line.startswith("## Choicest Commentary Quotes:"):
+            break
+        elif found:
+            bht_lines.append(line)
+
+    return '\n'.join(bht_lines)
+
+
 
 
 def get_corrupted_commentator_quotes(bht_content, book, chapter, verse):
@@ -100,25 +116,39 @@ def get_corrupted_commentator_quotes(bht_content, book, chapter, verse):
                 break
         
     return corrupted_quotes
-        
 
-def check_all_bht_contents(folder_to_check, output_filename):
-    check_bht_contents(get_verses_to_check(folder_to_check), output_filename)
+
+def check_bht_tokens_proportion(bht_content):
+    choicest_quotes = parse_choicest_quotes(bht_content)
+    bht = parse_bht(bht_content)
+
+    bht_tokens_set = set(tokenize(bht.lower()))
+    quotes_tokens_set = set()
+    for quotes in choicest_quotes.values():
+        for quote in quotes:
+            quotes_tokens_set |= set(tokenize(quote.lower()))
+
+    tokens_not_from_quotes = bht_tokens_set - quotes_tokens_set - STOP_WORDS_SET
+    proportion = 1 - len(tokens_not_from_quotes) / len(bht_tokens_set)
+
+    return proportion
 
 
 def check_bht_contents(verses, output_filename):
     output_file = open(output_filename, 'w', encoding="utf-8")
     output_file.write("# Issues Found:\n\n")
 
-    corrupted_verses = []
+    corrupted_verses = set()
     missing_commentator_count = 0
     phantom_commentator_count = 0
     misquoted_commentator_count = 0
+    low_proportion_bht_count = 0
     verse_i = 0
 
-    for book, chapter, verse in verses:
+    for verse_ref in verses:
+        book, chapter, verse = get_book_chapter_verse(verse_ref)
         verse_i += 1
-        print(f"\r{verse_i} / {len(verses)} {get_verse_ref(book, chapter, verse)}", end="")
+        print(f"\r{verse_i} / {len(verses)} {get_verse_ref(book, chapter, verse)} {' ' * 10}", end="")
         bht_content = get_bht_content(folder_to_check, book, chapter, verse)
         missing_commentators, phantom_commentators = check_commentators(folder_to_check, book, chapter, verse, COMMENTATORS_SET)
 
@@ -145,6 +175,15 @@ def check_bht_contents(verses, output_filename):
         if corrupted_quotes:
             corrupted_verses.append(get_verse_ref(book, chapter, verse))
 
+
+        proportion = check_bht_tokens_proportion(bht_content)
+        if proportion < 0.5:
+            output_file.write(f"## {verse_ref} BHT uses only {proportion} of words from quotes.\n")
+            output_file.write(f"BHT:\n{parse_bht(bht_content)}\n")
+            corrupted_verses.add(get_verse_ref(book, chapter, verse))
+            low_proportion_bht_count += 1
+
+
     result_text = f"""
 # Summary:
 {len(verses)} verses checked.
@@ -152,6 +191,7 @@ Missing Commentator Count: {missing_commentator_count} (How many commentaries sh
 Phantom Commentator Count: {phantom_commentator_count} (How many commentaries have quotes but there's no commentary?)
 Corrupted Verses Count: {len(corrupted_verses)} (How many verses have quotes with chatGPT injected opinions?)
 Misquoted Commentator Count: {misquoted_commentator_count} (How many commentaries have quotes with chatGPT injected opinions?)
+Low Proportion BHT Count: {low_proportion_bht_count} (How many BHTs use <50% words from quotes?)
 """
     
     output_file.write(result_text)
@@ -165,7 +205,7 @@ Misquoted Commentator Count: {misquoted_commentator_count} (How many commentarie
 if __name__ == '__main__':
     # folder_to_check = "bht gen 2"
     folder_to_check = f"gpt output/bht/{CHOICEST_PROMPT} X {BHT_PROMPT}"
-    output_filename = 'check_choicests.md'
+    output_filename = 'check_bhts.md'
 
     verses_to_check = get_verses_to_check(folder_to_check)
 
@@ -173,7 +213,8 @@ if __name__ == '__main__':
         corrupted_verses = check_bht_contents(verses_to_check, output_filename)
 
         if corrupted_verses:
-            input(f"Retry {len(corrupted_verses)} corrupted verses? ")
+            print(corrupted_verses)
+            print(f"Could retry {len(corrupted_verses)} corrupted verses.")
             generate_bhts(corrupted_verses, [CHOICEST_PROMPT], [BHT_PROMPT], COMMENTATORS, redo_choicest=True, redo_bht=True)
 
         verses_to_check = corrupted_verses

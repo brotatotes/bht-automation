@@ -1,7 +1,7 @@
 # Matthew 13:50 Commentary Help Text
 
 ## BHT:
-The language used in this passage mirrors the words used in Matthew 13:42, adding a weighty and solemn tone to the conclusion of the parables. By repeating these words, the passage emphasizes the severity of the judgment being portrayed, as the wicked are thrown into the fiery furnace. This powerful image serves as a reminder of the eternal consequences for those who reject God's truth. Furthermore, this passage holds historical significance, representing the final stage and culmination of the Church's earthly journey. It prompts reflection on the end times and urges believers to strive for faithfulness amidst the challenges of the Church militant.
+This passage echoes the exact words spoken in Matthew 13:42, adding a solemn tone to the conclusion of Jesus' parables. The repetition emphasizes the importance of understanding the severe outcome for those who reject the teachings of Christ. The vivid imagery of being cast into the furnace of fire paints a clear picture of the eternal punishment that awaits the unrighteous. It serves as a stark reminder of the final moments of the Church's existence on earth.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
@@ -14,37 +14,30 @@ The language used in this passage mirrors the words used in Matthew 13:42, addin
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 15:21:07
+- Timestamp: 09-28-2023 23:19:06
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 104
-- BHT Commentary Usage: 36.62%
-- BHT Quality Score: 42.61971830985915
+- BHT Word Count: 77
+- BHT Commentary Usage: 36.84%
+- BHT Quality Score: 63.842105263157904
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (57):
-	['a', 'adding', 'amidst', 'are', 'as', 'being', 'believers', 'by', 'challenges', 'conclusion', 'consequences', 'culmination', 'earthly', 'emphasizes', 'end', 'eternal', 'faithfulness', 'fiery', 'final', 'furthermore', 'god', 'holds', 'image', 'it', 'journey', 'judgment', 'mirrors', 'on', 'passage', 'portrayed', 'powerful', 'prompts', 'reflection', 'reject', 'reminder', 'repeating', 'representing', 's', 'serves', 'severity', 'significance', 'solemn', 'stage', 'strive', 'these', 'this', 'those', 'thrown', 'times', 'tone', 'truth', 'urges', 'used', 'weighty', 'who', 'wicked', 'words']
-- ChatGPT injected words (significant words only) (45):
-	['adding', 'amidst', 'believers', 'challenges', 'conclusion', 'consequences', 'culmination', 'earthly', 'emphasizes', 'end', 'eternal', 'faithfulness', 'fiery', 'final', 'furthermore', 'god', 'holds', 'image', 'journey', 'judgment', 'mirrors', 'passage', 'portrayed', 'powerful', 'prompts', 'reflection', 'reject', 'reminder', 'repeating', 'representing', 's', 'serves', 'severity', 'significance', 'solemn', 'stage', 'strive', 'thrown', 'times', 'tone', 'truth', 'urges', 'weighty', 'wicked', 'words']
+- ChatGPT injected words (45):
+	['a', 'adding', 'as', 'awaits', 'being', 'christ', 'clear', 'conclusion', 'earth', 'echoes', 'emphasizes', 'eternal', 'exact', 'existence', 'final', 'imagery', 'importance', 'it', 'jesus', 'moments', 'on', 'outcome', 'paints', 'passage', 'picture', 'punishment', 'reject', 'reminder', 'repetition', 's', 'serves', 'severe', 'solemn', 'spoken', 'stark', 'teachings', 'that', 'this', 'those', 'tone', 'understanding', 'unrighteous', 'vivid', 'who', 'words']
+- ChatGPT injected words (significant words only) (36):
+	['adding', 'awaits', 'christ', 'clear', 'conclusion', 'earth', 'echoes', 'emphasizes', 'eternal', 'exact', 'existence', 'final', 'imagery', 'importance', 'jesus', 'moments', 'outcome', 'paints', 'passage', 'picture', 'punishment', 'reject', 'reminder', 'repetition', 's', 'serves', 'severe', 'solemn', 'spoken', 'stark', 'teachings', 'tone', 'understanding', 'unrighteous', 'vivid', 'words']
 
 ### Logs
-- 🔄 Matthew 13:50 (attempt 1, 138 words, 35.37% quotes, quality score: 7.365853658536587) 
-	- BHT WAS OVER 100 WORDS! 
+- 🔄 Matthew 13:50 (attempt 1, 60 words, 48.94% quotes, quality score: 58.936170212765965) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- LIST FORMAT DETECTED! 
 	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 13:50 (attempt 2, 104 words, 36.62% quotes, quality score: 42.61971830985915) 
-	- BHT WAS OVER 100 WORDS! 
+- 🔄 Matthew 13:50 (attempt 2, 75 words, 37.04% quotes, quality score: 62.03703703703704) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
+	- 'VERSE' FOUND IN BHT!
+- 🔄 Matthew 13:50 (attempt 3, 70 words, 33.33% quotes, quality score: 53.33333333333334) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Matthew 13:50 (attempt 3, 105 words, 36.99% quotes, quality score: 41.98630136986302) 
-	- BHT WAS OVER 100 WORDS! 
+- 🔄 Matthew 13:50 (attempt 4, 74 words, 36.21% quotes, quality score: 60.206896551724135) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Matthew 13:50 (attempt 4, 105 words, 39.19% quotes, quality score: 44.18918918918919) 
-	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 13:50 (attempt 5, 107 words, 33.77% quotes, quality score: 36.76623376623377) 
-	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Matthew 13:50 bht prompt v5 (104 words, 36.62% quotes)
+- 🔄 Matthew 13:50 (attempt 5, 77 words, 36.84% quotes, quality score: 63.842105263157904) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Matthew 13:50 bht prompt v5 (77 words, 36.84% quotes)

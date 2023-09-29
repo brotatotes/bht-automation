@@ -1,17 +1,16 @@
 # Acts 22:7 Commentary Help Text
 
 ## BHT:
-In retelling his encounter on the road to Damascus, Paul recalls how the voice from heaven had deeply impressed him, reproducing the exact call he heard. Both he and his companions fell to the ground, overwhelmed by the moment's gravity. The voice questioned Paul, highlighting the personal nature of his persecution. This encounter marked a pivotal moment in Paul's life, catalyzing his transformation and his subsequent devotion to Christ. It exemplifies the divine intervention that can redirect our paths and lead to profound change when we encounter the truth of the Gospel.
+When Saul heard the voice from heaven, he fell to the ground along with those who were with him. The voice addressed Saul by repeating his name twice, emphasizing the personal nature of the encounter. The question asked to Saul, Why persecutest thou me? echoed in his mind and left a lasting impact. This powerful experience was imprinted in his memory, as Paul later recounted the same call before Agrippa and Bernice. The repetition of Saul's name and the piercing question demonstrated the significance of this encounter and its transformational effect on his life.
 
 ## Choicest Commentary Quotes:
 ### Philip Schaff:
-1. "The voice from heaven had so imprinted itself on the memory of Paul that he reproduces the call to him as he first heard it." 
-2. "Here, and again in Paul's own account before Agrippa and Bernice at Cæsarea, the language 'Hebrew' is specially noticed."
-3. "Also in the narrative of chap. 9, the Aramaic (Hebrew) form of Saul, 'Saoul,' is found."
+1. "Saul, Saul. Here, and again in Paul’s own account before Agrippa and Bernice at Cæsarea, the language ‘Hebrew’ is specially noticed."
+2. "The voice from heaven had so imprinted itself on the memory of Paul that he reproduces the call to him as he first heard it."
 
 ### Archibald T. Robertson:
-1. "I fell... unto the ground." 
-2. "A voice saying, 'Why persecuted thou me?'"
+1. "I fell (επεσα). Second aorist active indicative with -α rather than επεσον, the usual form of πιπτω."
+2. "Saul's name repeated each time... Same question also in each report: 'Why persecuted thou me?' (Τ με διωκεισ?). These piercing words stuck in Paul's mind."
 
 ### John Gill:
 1. And I fell unto the ground,.... And so did those that were with him, Acts 26:14.And heard a voice, saying unto me, Saul, Saul, why persecutest thou me? Acts 26:14- :.
@@ -19,31 +18,20 @@ In retelling his encounter on the road to Damascus, Paul recalls how the voice f
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 15:02:51
+- Timestamp: 09-28-2023 23:19:02
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 94
-- BHT Commentary Usage: 45.45%
-- BHT Quality Score: 61.45454545454547
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (45):
-	['both', 'by', 'can', 'catalyzing', 'change', 'christ', 'companions', 'damascus', 'deeply', 'devotion', 'divine', 'encounter', 'exact', 'exemplifies', 'gospel', 'gravity', 'highlighting', 'his', 'how', 'impressed', 'intervention', 'lead', 'life', 'marked', 'moment', 'nature', 'our', 'overwhelmed', 'paths', 'persecution', 'personal', 'pivotal', 'profound', 'questioned', 'recalls', 'redirect', 'reproducing', 'retelling', 'road', 'subsequent', 'this', 'transformation', 'truth', 'we', 'when']
-- ChatGPT injected words (significant words only) (36):
-	['catalyzing', 'change', 'christ', 'companions', 'damascus', 'deeply', 'devotion', 'divine', 'encounter', 'exact', 'exemplifies', 'gospel', 'gravity', 'highlighting', 'impressed', 'intervention', 'lead', 'life', 'marked', 'moment', 'nature', 'overwhelmed', 'paths', 'persecution', 'personal', 'pivotal', 'profound', 'questioned', 'recalls', 'redirect', 'reproducing', 'retelling', 'road', 'subsequent', 'transformation', 'truth']
+- BHT Word Count: 95
+- BHT Commentary Usage: 67.16%
+- BHT Quality Score: 82.16417910447761
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (30):
+	['addressed', 'along', 'asked', 'by', 'demonstrated', 'echoed', 'effect', 'emphasizing', 'encounter', 'experience', 'his', 'impact', 'its', 'lasting', 'later', 'left', 'life', 'nature', 'personal', 'powerful', 'recounted', 'repeating', 'repetition', 'significance', 'this', 'transformational', 'twice', 'was', 'when', 'who']
+- ChatGPT injected words (significant words only) (22):
+	['addressed', 'asked', 'demonstrated', 'echoed', 'effect', 'emphasizing', 'encounter', 'experience', 'impact', 'lasting', 'later', 'left', 'life', 'nature', 'personal', 'powerful', 'recounted', 'repeating', 'repetition', 'significance', 'transformational', 'twice']
 
 ### Logs
-- 🔄 Acts 22:7 (attempt 1, 114 words, 56.94% quotes, quality score: 52.94444444444444) 
-	- BHT WAS OVER 100 WORDS!
-- 🔄 Acts 22:7 (attempt 2, 105 words, 44.29% quotes, quality score: 49.28571428571429) 
-	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Acts 22:7 (attempt 3, 105 words, 46.48% quotes, quality score: 51.47887323943663) 
-	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Acts 22:7 (attempt 4, 94 words, 45.45% quotes, quality score: 61.45454545454547) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- 🔄 Acts 22:7 (attempt 5, 113 words, 46.05% quotes, quality score: 43.05263157894737) 
-	- BHT WAS OVER 100 WORDS! 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Acts 22:7 bht prompt v5 (94 words, 45.45% quotes)
+- 🔄 Acts 22:7 (attempt 1, 91 words, 100.0% quotes, quality score: 59.0) 
+	- OVER 90.0% OF BHT WAS FROM QUOTES!
+- ✅ Acts 22:7 bht prompt v5 (95 words, 67.16% quotes)

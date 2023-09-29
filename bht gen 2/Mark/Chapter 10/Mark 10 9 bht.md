@@ -1,7 +1,7 @@
 # Mark 10:9 Commentary Help Text
 
 ## BHT:
-According to the commentators, this verse emphasizes the significance of unity in marriage. The phrase What therefore God hath joined together suggests that God has intentionally united a husband and wife as a married couple. The commentators emphasize the importance of viewing the two individuals as one entity, highlighting the inseparable bond that marriage creates. This verse serves as a reminder that marriage is a sacred union established by God, and it encourages couples to prioritize unity and togetherness in their relationship.
+Marriage is a divine union that God has joined together, and it should not be treated lightly. When two individuals come together in marriage, they become one both spiritually and emotionally. This unity is meant to be cherished and respected, as it is not easily dissolved. God's intention for marriage is to create an unbreakable bond, a oneness that should be honored and upheld throughout a lifetime.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
@@ -13,38 +13,25 @@ According to the commentators, this verse emphasizes the significance of unity i
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 12:02:19
+- Timestamp: 09-28-2023 23:18:59
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 82
-- BHT Commentary Usage: 39.29%
-- BHT Quality Score: 67.28571428571429
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (46):
-	['a', 'according', 'and', 'bond', 'by', 'commentators', 'couple', 'couples', 'creates', 'emphasize', 'emphasizes', 'encourages', 'entity', 'established', 'has', 'highlighting', 'husband', 'importance', 'in', 'individuals', 'inseparable', 'intentionally', 'is', 'it', 'marriage', 'married', 'of', 'phrase', 'prioritize', 'relationship', 'reminder', 'sacred', 'serves', 'significance', 'suggests', 'that', 'their', 'this', 'to', 'togetherness', 'union', 'united', 'unity', 'verse', 'viewing', 'wife']
-- ChatGPT injected words (significant words only) (34):
-	['according', 'bond', 'commentators', 'couple', 'couples', 'creates', 'emphasize', 'emphasizes', 'encourages', 'entity', 'established', 'highlighting', 'husband', 'importance', 'individuals', 'inseparable', 'intentionally', 'marriage', 'married', 'phrase', 'prioritize', 'relationship', 'reminder', 'sacred', 'serves', 'significance', 'suggests', 'togetherness', 'union', 'united', 'unity', 'verse', 'viewing', 'wife']
+- BHT Word Count: 68
+- BHT Commentary Usage: 51.02%
+- BHT Quality Score: 69.02040816326532
+- Generate Attempts: 4 / 5
+- ChatGPT injected words (43):
+	['a', 'an', 'and', 'be', 'become', 'bond', 'both', 'cherished', 'come', 'create', 'dissolved', 'divine', 'easily', 'emotionally', 'for', 'has', 'honored', 'in', 'individuals', 'intention', 'is', 'it', 'lifetime', 'lightly', 'marriage', 'meant', 'not', 'oneness', 'respected', 's', 'should', 'spiritually', 'that', 'they', 'this', 'throughout', 'to', 'treated', 'unbreakable', 'union', 'unity', 'upheld', 'when']
+- ChatGPT injected words (significant words only) (24):
+	['bond', 'cherished', 'come', 'create', 'dissolved', 'divine', 'easily', 'emotionally', 'honored', 'individuals', 'intention', 'lifetime', 'lightly', 'marriage', 'meant', 'oneness', 'respected', 's', 'spiritually', 'treated', 'unbreakable', 'union', 'unity', 'upheld']
 
 ### Logs
-- 🔄 Mark 10:9 (attempt 1, 82 words, 39.29% quotes, quality score: 67.28571428571429) 
+- 🔄 Mark 10:9 (attempt 1, 74 words, 45.45% quotes, quality score: 69.45454545454547) 
 	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- 🔄 Mark 10:9 (attempt 2, 90 words, 46.67% quotes, quality score: 66.66666666666667) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Mark 10:9 (attempt 3, 69 words, 42.0% quotes, quality score: 61.00000000000001) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Mark 10:9 (attempt 4, 77 words, 40.0% quotes, quality score: 67.0) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Mark 10:9 (attempt 5, 76 words, 38.6% quotes, quality score: 64.59649122807018) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- ✅ Mark 10:9 bht prompt v5 (82 words, 39.29% quotes)
+- 🔄 Mark 10:9 (attempt 2, 71 words, 38.18% quotes, quality score: 59.18181818181819) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- 🔄 Mark 10:9 (attempt 3, 74 words, 38.89% quotes, quality score: 62.888888888888886) 
+	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
+- ✅ Mark 10:9 bht prompt v5 (68 words, 51.02% quotes)

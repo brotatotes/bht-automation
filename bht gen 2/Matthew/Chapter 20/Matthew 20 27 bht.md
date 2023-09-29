@@ -1,43 +1,31 @@
 # Matthew 20:27 Commentary Help Text
 
 ## BHT:
-The importance of servant leadership is emphasized in this teaching. The example of the Apostle Paul demonstrates the significance of becoming a servant to all. Similarly, the Jewish tradition recognizes the value of humbling oneself to serve others, promising freedom in the future for those who adopt this mindset. This passage underscores the idea that true leadership stems from a heart of selflessness and humility, rather than seeking positions of power or authority.
+To become a chief among others, one must be a servant to all, as exemplified by Jesus in the Gospel of Mark. Paul, although free, humbled himself to be a servant to gain people for Christ, showcasing true leadership. The Jewish belief that serving others in this world leads to freedom in the world to come further supports this idea. Embracing the role of a servant not only demonstrates true leadership but also promises eternal rewards.
 
 ## Choicest Commentary Quotes:
 ### John Gill:
-1. "And whosoever will be chief among you,....let him be your servant"
-2. "This was verified in the Apostle Paul, who became a servant to all men"
-3. "The Jews have a saying somewhat like this, that everyone that makes himself as a servant...shall be made free in the world to come."
+1. "And whosoever will be chief among you, let him be your servant; or, as in Mark, shall be servant of all: not only a minister, but a servant; not a servant of some only, but of all."
+2. "This was verified in the Apostle Paul, who became a servant to all men, though he was free, that he might gain some to Christ; and by so doing was the chief, though he reckoned himself the least of the apostles, yea, less than the least of all saints."
+3. "The Jews have a saying somewhat like this, that everyone that makes himself as a servant, for the words of the law in this world, shall be made free in the world to come."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 09-28-2023 14:19:07
+- Timestamp: 09-28-2023 23:19:01
 - Choicest Prompt: "choicest prompt v2"
 - BHT Prompt: "bht prompt v5"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 73
-- BHT Commentary Usage: 40.74%
-- BHT Quality Score: 63.74074074074075
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (42):
-	['adopt', 'authority', 'becoming', 'demonstrates', 'emphasized', 'example', 'for', 'freedom', 'from', 'future', 'heart', 'humbling', 'humility', 'idea', 'importance', 'is', 'jewish', 'leadership', 'mindset', 'of', 'oneself', 'or', 'others', 'passage', 'positions', 'power', 'promising', 'rather', 'recognizes', 'seeking', 'selflessness', 'serve', 'significance', 'similarly', 'stems', 'teaching', 'than', 'those', 'tradition', 'true', 'underscores', 'value']
-- ChatGPT injected words (significant words only) (32):
-	['adopt', 'authority', 'demonstrates', 'emphasized', 'example', 'freedom', 'future', 'heart', 'humbling', 'humility', 'idea', 'importance', 'jewish', 'leadership', 'mindset', 'oneself', 'passage', 'positions', 'power', 'promising', 'recognizes', 'seeking', 'selflessness', 'serve', 'significance', 'similarly', 'stems', 'teaching', 'tradition', 'true', 'underscores', 'value']
+- BHT Word Count: 76
+- BHT Commentary Usage: 61.11%
+- BHT Quality Score: 87.11111111111111
+- Generate Attempts: 2 / 5
+- ChatGPT injected words (28):
+	['also', 'although', 'become', 'belief', 'demonstrates', 'embracing', 'eternal', 'exemplified', 'freedom', 'further', 'gospel', 'humbled', 'idea', 'jesus', 'jewish', 'leadership', 'leads', 'must', 'one', 'others', 'people', 'promises', 'rewards', 'role', 'serving', 'showcasing', 'supports', 'true']
+- ChatGPT injected words (significant words only) (21):
+	['belief', 'demonstrates', 'embracing', 'eternal', 'exemplified', 'freedom', 'gospel', 'humbled', 'idea', 'jesus', 'jewish', 'leadership', 'leads', 'people', 'promises', 'rewards', 'role', 'serving', 'showcasing', 'supports', 'true']
 
 ### Logs
-- 🔄 Matthew 20:27 (attempt 1, 78 words, 55.36% quotes, quality score: 83.35714285714286) 
-	- 'COMMENTATOR(S)' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 20:27 (attempt 2, 65 words, 45.1% quotes, quality score: 60.09803921568627) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT!
-- 🔄 Matthew 20:27 (attempt 3, 73 words, 45.28% quotes, quality score: 68.28301886792454) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'COMMENTATOR(S)' FOUND IN BHT!
-- 🔄 Matthew 20:27 (attempt 4, 66 words, 49.06% quotes, quality score: 65.05660377358491) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES! 
-	- 'VERSE' FOUND IN BHT!
-- 🔄 Matthew 20:27 (attempt 5, 73 words, 40.74% quotes, quality score: 63.74074074074075) 
-	- LESS THAN 50.0% OF BHT WAS FROM QUOTES!
-- ✅ Matthew 20:27 bht prompt v5 (73 words, 40.74% quotes)
+- 🔄 Matthew 20:27 (attempt 1, 111 words, 57.35% quotes, quality score: 56.35294117647059) 
+	- BHT WAS OVER 100 WORDS!
+- ✅ Matthew 20:27 bht prompt v5 (76 words, 61.11% quotes)
