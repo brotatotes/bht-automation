@@ -189,9 +189,9 @@ def check_bht_contents(verses, output_filename):
 {len(verses)} verses checked.
 Missing Commentator Count: {missing_commentator_count} (How many commentaries should have quotes but they're missing?)
 Phantom Commentator Count: {phantom_commentator_count} (How many commentaries have quotes but there's no commentary?)
-Corrupted Verses Count: {len(corrupted_verses)} (How many verses have quotes with chatGPT injected opinions?)
 Misquoted Commentator Count: {misquoted_commentator_count} (How many commentaries have quotes with chatGPT injected opinions?)
 Low Proportion BHT Count: {low_proportion_bht_count} (How many BHTs use <50% words from quotes?)
+Corrupted Verses Count: {len(corrupted_verses)} (All verses with any of the issues above.)
 """
     
     output_file.write(result_text)
@@ -203,8 +203,8 @@ Low Proportion BHT Count: {low_proportion_bht_count} (How many BHTs use <50% wor
 
 
 if __name__ == '__main__':
-    # folder_to_check = "bht gen 2"
-    folder_to_check = f"gpt output/bht/{CHOICEST_PROMPT} X {BHT_PROMPT}"
+    folder_to_check = "bht gen 2"
+    # folder_to_check = f"gpt output/bht/{CHOICEST_PROMPT} X {BHT_PROMPT}"
     output_filename = 'check_bhts.md'
 
     verses_to_check = get_verses_to_check(folder_to_check)
