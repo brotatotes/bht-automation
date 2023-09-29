@@ -44,6 +44,9 @@ def get_book_chapter_verse(verse_ref):
     chapter, verse = chapverse.split(':')
     return book, chapter, verse
 
+def get_verse_ref(book, chapter, verse):
+    return f"{book} {chapter}:{verse}"
+
 def get_commentary(commentator, verse_ref):
     book, chapter, verse = get_book_chapter_verse(verse_ref)
     file_path = f'{WORKING_DIRECTORY}/{COMMENTARY_FOLDER}/{commentator}/{book}/Chapter {chapter}/Verse {verse}.txt'
