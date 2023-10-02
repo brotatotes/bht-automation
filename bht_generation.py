@@ -30,7 +30,6 @@ OPENAI_API_KEY = open('openai-api-key.txt', 'r').read().strip()
 
 openai.api_key = OPENAI_API_KEY
 ENCODING = tiktoken.encoding_for_model("gpt-3.5-turbo")
-nlp = spacy.load("en_core_web_sm") # Load the spaCy English language model
 STOP_WORDS_SET = spacy.lang.en.stop_words.STOP_WORDS # Get the list of English stopwords
 
 # HELPER FUNCTIONS

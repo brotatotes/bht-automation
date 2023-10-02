@@ -4,6 +4,7 @@ import string
 from gensim.utils import tokenize
 from bht_generation import generate_bhts, get_commentary, get_verse_ref, get_book_chapter_verse, STOP_WORDS_SET
 from generate import COMMENTATORS
+from check_semantics import calculate_similarity_bert, calculate_similarity_sklearn
 
 COMMENTATORS_SET = set(COMMENTATORS)
 CHOICEST_PROMPT = "choicest prompt v2"
@@ -144,6 +145,7 @@ def check_bht_contents(verses, output_filename):
     misquoted_commentator_count = 0
     low_proportion_bht_count = 0
     verse_i = 0
+    similarity = {}
 
     for verse_ref in verses:
         book, chapter, verse = get_book_chapter_verse(verse_ref)
@@ -183,7 +185,9 @@ def check_bht_contents(verses, output_filename):
             corrupted_verses.add(get_verse_ref(book, chapter, verse))
             low_proportion_bht_count += 1
 
+        similarity[verse_ref] = calculate_similarity_sklearn(parse_bht(bht_content), '\n\n'.join('\n'.join(l) for l in parse_choicest_quotes(bht_content).values()))
 
+    similarity_string = '\n'.join(str(a) for a in sorted(similarity.items(), key=lambda x: x[1]))
     result_text = f"""
 # Summary:
 {len(verses)} verses checked.
@@ -192,6 +196,7 @@ Phantom Commentator Count: {phantom_commentator_count} (How many commentaries ha
 Misquoted Commentator Count: {misquoted_commentator_count} (How many commentaries have quotes with chatGPT injected opinions?)
 Low Proportion BHT Count: {low_proportion_bht_count} (How many BHTs use <50% words from quotes?)
 Corrupted Verses Count: {len(corrupted_verses)} (All verses with any of the issues above.)
+Similarity: {similarity_string}
 """
     
     output_file.write(result_text)
