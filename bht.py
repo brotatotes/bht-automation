@@ -6,8 +6,7 @@ class BHT:
     def __init__(self, text):
         self.text = text
         self.text = self.text.replace("\"", "") # Remove quotation marks.
-        # self.text = re.sub(r'^[^a-zA-Z]*', '', self.text) # Remove non-letter characters from beginning.
-
+        
         self.tokens = list(tokenize(self.text.lower()))
         self.tokens_set = set(self.tokens)
         self.word_count = len(self.tokens)

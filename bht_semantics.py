@@ -4,7 +4,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 import torch, spacy
 
 # Load spaCy model
-nlp = spacy.load("en_core_web_sm")  
+nlp = spacy.load("en_core_web_sm")
+STOP_WORDS_SET = spacy.lang.en.stop_words.STOP_WORDS # Get the list of English stopwords
 
 def calculate_similarity_bert(short_text, long_text):
     # Load pretrained BERT model and tokenizer
@@ -53,7 +54,6 @@ def calculate_similarity_roberta(short_text, long_text):
 
 def calculate_similarity_sklearn(short_text, long_text):  
     return cosine_similarity(nlp(long_text).vector.reshape(1, -1), nlp(short_text).vector.reshape(1, -1))[0][0]
-
 
 
 if __name__ == '__main__':
