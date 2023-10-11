@@ -49,5 +49,8 @@ if __name__ == '__main__':
         for verse in book:
             verses.append(verse)
 
+    verses = ["Ephesians 1:22", "2 Peter 1:19"]
 
-    generate_bhts(verses, ["choicest prompt v2"], ["bht prompt v5"], COMMENTATORS)
+    # generate_bhts(verses, ["choicest prompt v2", "choicest prompt v3"], ["bht prompt v5"], COMMENTATORS)
+
+    generate_bhts(verses, ["choicest prompt gpt-prompt-engineering"], ["bht prompt gpt-prompt-engineering"], COMMENTATORS)

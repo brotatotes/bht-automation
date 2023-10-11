@@ -15,6 +15,7 @@ from gensim.utils import tokenize
 
 from bht import BHT
 from multi_threaded_work_queue import MultiThreadedWorkQueue
+from bht_semantics import STOP_WORDS_SET
 
 # GLOBALS
 
