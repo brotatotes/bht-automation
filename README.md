@@ -22,7 +22,7 @@ gpt prompts -> choicest -> choicest prompt.txt
 
 This is where the ChatGPT prompts will are used to ask ChatGPT to perform the task.
 
-## 3. Run the `bht_automation_test.py` script.
+## 3. Run the `src/generate.py` script.
 You may need to sign up at openAI and get an API Key for the global `OPENAI_API_KEY` variable. You'll be asked to add your credit card. Each script run costs some fraction of a cent. In developing this script I've run it many times and I currently owe around 10 cents. 
 
 You may also need to set up python and `pip install` the libraries used by the scripts.

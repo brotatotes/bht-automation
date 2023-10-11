@@ -13,9 +13,9 @@ import tiktoken
 from bibleref import BibleRange, BibleVerse
 from gensim.utils import tokenize
 
-from bht import BHT
-from multi_threaded_work_queue import MultiThreadedWorkQueue
-from bht_semantics import STOP_WORDS_SET
+from components.bht import BHT
+from components.multi_threaded_work_queue import MultiThreadedWorkQueue
+from lib.bht_semantics import STOP_WORDS_SET
 
 # GLOBALS
 
@@ -337,9 +337,6 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 continue
 
             commentator_choicests = get_commentary_choicests(verse_ref, choicest_prompt, commentators)
-            choicests_tokens_set = set()
-            for choicest in commentator_choicests.values():
-                choicests_tokens_set |= set(tokenize(choicest.lower()))
 
             # these should probably be constants or something
             proportion_limits = (0.5, 0.9)
@@ -361,8 +358,8 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
                 current_attempt += 1
                 bht_text = ask_gpt_bht_with_retry(verse_ref, choicest_prompt, bht_prompt, commentator_choicests, extra_messages)
 
-                current_bht = BHT(bht_text)
-                current_bht.init_checks(choicests_tokens_set, STOP_WORDS_SET, word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion)
+                current_bht = BHT(bht_text, commentator_choicests)
+                current_bht.run_generation_time_checks(STOP_WORDS_SET, word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion)
 
                 # Keep track of best BHT we've seen across all attempts.
                 if current_bht > best_bht:
@@ -422,7 +419,7 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
 
             with open(out_path, 'w', encoding='utf-8') as out_file:
                 out_file.write(f"# {verse_ref} Commentary Help Text\n\n")
-                out_file.write(f"## BHT:\n{best_bht.text}\n\n")
+                out_file.write(f"## BHT:\n{best_bht.bht}\n\n")
 
                 out_file.write(f"## Choicest Commentary Quotes:\n")
                 for commentator, choicest in get_commentary_choicests(verse_ref, choicest_prompt, commentators).items():

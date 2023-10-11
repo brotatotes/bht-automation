@@ -3,23 +3,29 @@ from gensim.utils import tokenize
 
 
 class BHT:
-    def __init__(self, text):
-        self.text = text
-        self.text = self.text.replace("\"", "") # Remove quotation marks.
+    def __init__(self, bht_text, choicest_quotes):
+        self.bht = bht_text
+        self.bht = self.bht.replace("\"", "") # Remove quotation marks.
+
+        self.choicest_quotes = choicest_quotes
         
-        self.tokens = list(tokenize(self.text.lower()))
+        self.tokens = list(tokenize(self.bht.lower()))
         self.tokens_set = set(self.tokens)
         self.word_count = len(self.tokens)
         self.checked = False
 
-    def init_checks(self, choicests_tokens_set, stop_words_set, word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion):
+    def run_generation_time_checks(self, stop_words_set, word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion):
         if self.checked:
             return
+        
+        self.choicests_tokens_set = set()
+        for choicest in self.choicest_quotes.values():
+            self.choicests_tokens_set |= set(tokenize(choicest.lower()))
         
         self.target_word_count = target_word_count
         self.target_proportion = target_proportion
 
-        tokens_not_from_choicests = len(self.tokens_set - choicests_tokens_set - stop_words_set)
+        tokens_not_from_choicests = len(self.tokens_set - self.choicests_tokens_set - stop_words_set)
         self.proportion = 1 - tokens_not_from_choicests / len(self.tokens_set)
         self.proportion_percentage = round(self.proportion * 100, 2)
 
@@ -39,14 +45,14 @@ class BHT:
         self.too_much_from_quotes = self.proportion > self.max_proportion_limit
         self.commentator_in_tokens = "commentator" in self.tokens_set or "commentators" in self.tokens_set or "commentary" in self.tokens_set
         self.verse_in_tokens = "verse" in self.tokens_set
-        self.list_detected = re.search(r'(^|\n)\d[\.)] .*', self.text)
+        self.list_detected = re.search(r'(^|\n)\d[\.)] .*', self.bht)
 
-        self.injected_words = sorted(list(self.tokens_set - choicests_tokens_set))
-        self.injected_significant_words = sorted(list(self.tokens_set - choicests_tokens_set - stop_words_set))
+        self.injected_words = sorted(list(self.tokens_set - self.choicests_tokens_set))
+        self.injected_significant_words = sorted(list(self.tokens_set - self.choicests_tokens_set - stop_words_set))
 
         self.checked = True
 
-    def check_results(self):
+    def get_generation_time_checks(self):
         return [
             self.too_many_words,
             self.not_enough_words,
@@ -72,7 +78,7 @@ class BHT:
         )
 
     def passes_checks(self):
-        return not any(self.check_results())
+        return not any(self.get_generation_time_checks())
     
     # Define custom comparison methods
     def __lt__(self, other):
