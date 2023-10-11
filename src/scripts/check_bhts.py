@@ -1,4 +1,4 @@
-from bht_analysis import *
+from ..lib.bht_analysis import *
 
 CHOICEST_PROMPT = "choicest prompt v2"
 BHT_PROMPT = "bht prompt v5"
