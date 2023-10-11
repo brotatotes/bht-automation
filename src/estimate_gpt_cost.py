@@ -109,8 +109,9 @@ print(table_book)
 # print(table_book_chapter)
 
 
-outfilename = "cost-estimates.txt"
+outfilename = "scripts output/cost-estimates.txt"
 print(f"Writing to file: {outfilename}")
+os.makedirs("scripts output", exist_ok=True)
 with open(outfilename, 'w') as outfile:
     outfile.write(table_commentator)
     outfile.write('\n')

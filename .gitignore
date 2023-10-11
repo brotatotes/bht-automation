@@ -2,8 +2,8 @@
 gpt output/
 openai-api-key.txt
 scrape commentary/commentary_output
-check_bhts.md
-generate.py
+scripts output/
+src/tensorflow_cache/
 
 # Ignore python compiled bytecode files
 __pycache__/

@@ -1,11 +1,23 @@
 from transformers import BertTokenizer, BertModel
 from transformers import RobertaTokenizer, RobertaModel
 from sklearn.metrics.pairwise import cosine_similarity
-import torch, spacy
+import tensorflow as tf
+import tensorflow_hub as hub
+import torch
+import spacy
+import numpy as np
+
 
 # Load spaCy model
+print("Preparing spacy model...", flush=True)
 nlp = spacy.load("en_core_web_sm")
 STOP_WORDS_SET = spacy.lang.en.stop_words.STOP_WORDS # Get the list of English stopwords
+print("Done.", flush=True)
+
+# Load the Universal Sentence Encoder model
+print("Preparing Universal Sentence Encoder model...", flush=True)
+USE_MODEL = hub.load("src/tensorflow_cache/universal-sentence-encoder_4/")
+print("Done.", flush=True)
 
 def calculate_similarity_bert(short_text, long_text):
     # Load pretrained BERT model and tokenizer
@@ -54,6 +66,17 @@ def calculate_similarity_roberta(short_text, long_text):
 
 def calculate_similarity_sklearn(short_text, long_text):  
     return cosine_similarity(nlp(long_text).vector.reshape(1, -1), nlp(short_text).vector.reshape(1, -1))[0][0]
+
+
+def calculate_similarity_tensorflow(text1, text2):
+    # Encode the texts into fixed-dimensional vectors
+    embedding1 = USE_MODEL([text1])
+    embedding2 = USE_MODEL([text2])
+
+    # Compute the cosine similarity between the encoded vectors
+    similarity_score = cosine_similarity(np.array(embedding1), np.array(embedding2))
+
+    return similarity_score[0][0]
 
 
 if __name__ == '__main__':
@@ -107,3 +130,4 @@ Marriage is a divine union that God has joined together, and it should not be tr
     print("sklearn", calculate_similarity_sklearn(doc_summary1, doc_original), calculate_similarity_sklearn(doc_summary2, doc_original))
     print("bert", calculate_similarity_bert(doc_summary1, doc_original), calculate_similarity_bert(doc_summary2, doc_original))
     print("roberta", calculate_similarity_roberta(doc_summary1, doc_original), calculate_similarity_roberta(doc_summary2, doc_original))
+    print("tensorflow", calculate_similarity_tensorflow(doc_summary1, doc_original), calculate_similarity_tensorflow(doc_summary2, doc_original))

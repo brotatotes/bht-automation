@@ -1,12 +1,13 @@
-from ..lib.bht_analysis import *
+from bht.bht_analysis import *
 
 CHOICEST_PROMPT = "choicest prompt v2"
 BHT_PROMPT = "bht prompt v5"
 
 # folder_to_check = "bht gen 1"
-# folder_to_check = "bht gen 2"
-folder_to_check = f"gpt output/bht/{CHOICEST_PROMPT} X {BHT_PROMPT}"
-output_filename = f'check_bhts {folder_to_check}.md'
+folder_to_check = "bht gen 2"
+# folder_to_check = f"gpt output/bht/{CHOICEST_PROMPT} X {BHT_PROMPT}"
+output_filename = f'scripts output/check_bhts {folder_to_check.replace("/", "-")}.md'
+os.makedirs("scripts output", exist_ok=True)
 
 verses_to_check = get_verses_to_check(folder_to_check)
 

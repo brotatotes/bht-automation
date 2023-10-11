@@ -13,9 +13,9 @@ import tiktoken
 from bibleref import BibleRange, BibleVerse
 from gensim.utils import tokenize
 
-from components.bht import BHT
-from components.multi_threaded_work_queue import MultiThreadedWorkQueue
-from lib.bht_semantics import STOP_WORDS_SET
+from bht.bht import BHT
+from bht.multi_threaded_work_queue import MultiThreadedWorkQueue
+from bht.bht_semantics import STOP_WORDS_SET
 
 # GLOBALS
 
