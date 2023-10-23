@@ -112,6 +112,15 @@ def get_bht_output_path(choicest_prompt, bht_prompt, book, chapter, verse):
 def get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator):
     return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
 
+def get_commentator_tier(commentator):
+    if commentator in ("Henry Alford", "Jamieson-Fausset-Brown", "Marvin Vincent", "Archibald T. Robertson"):
+        return 1
+    elif commentator in ("Albert Barnes", "Philip Schaff"):
+        return 2
+    elif commentator in ("John Wesley", "John Gill", "John Calvin"):
+        return 3
+    else:
+        raise Exception(f"No tier defined for commentator: {commentator}")
 
 
 # Generate Choicest Piece
@@ -127,7 +136,7 @@ def ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_
 
     messages.append({
         "role": "user",
-        "content": f'Here is the commentary:\n\n"""\n{commentary}\n"""'
+        "content": f'[Commentary]\n{commentary}\n'
     })
 
     messages.extend(extra_messages)
@@ -211,7 +220,7 @@ def record_gpt_choicest(verse_ref, choicest_prompts, commentators, force_redo=Fa
                         word_count = len(choicest_tokens)
 
                         token_diff_limit = 2
-                        word_count_limit = 150
+                        word_count_limit = 200
 
                         diffs = len(choicest_tokens_set - commentary_tokens_set)
                         too_many_diffs = diffs > token_diff_limit
@@ -273,23 +282,27 @@ def ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests,
         "content": prompt_text
     })
 
-    messages.append({
-        "role": "user",
-        "content": f"I'll give you {len(commentator_choicests)} messages. Each will contain quotes from a commentator."
-    })
+    tiers = {}
+    for i in range(1, 4):
+        tiers[i] = []
 
     for commentator, choicest in commentator_choicests.items():
-        messages.append({
-            "role": "user",
-            "content": f"{choicest}"
-        })
+        tier = get_commentator_tier(commentator)
+        tiers[tier].append(choicest)
+
+    join_commentary = lambda choicests: '\n'.join(choicests)
+
+    messages.append({
+        "role": "user",
+        "content": f"[First tier commentary]\n{join_commentary(tiers[1])}\n\n[Second tier commentary]\n{join_commentary(tiers[2])}\n\n[Third tier commentary]\n{join_commentary(tiers[3])}\n\n"
+    })
 
     messages.extend(extra_messages)
 
     model = "gpt-3.5-turbo"
     token_count = sum(len(ENCODING.encode(message["content"])) for message in messages)
     if token_count > 4097:
-        print(f"ℹ️  {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
+        print(f"ℹ️  {verse_ref} Too many tokens. Using 16k Context instead.")
         model += "-16k"
 
     try:
@@ -342,8 +355,8 @@ def record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, force
             proportion_limits = (0.5, 0.9)
             strict_proportion_limits = (0.5, 0.9)
             target_proportion = 0.7
-            word_limits = (25, 100)
-            strict_word_limits = (20, 130)
+            word_limits = (50, 100)
+            strict_word_limits = (25, 130)
             target_word_count = 80
             min_proportion_limit, max_proportion_limit = proportion_limits
             min_word_limit, max_word_limit = word_limits

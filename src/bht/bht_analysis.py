@@ -4,6 +4,7 @@ import string
 from gensim.utils import tokenize
 from bht.bht_generation import generate_bhts, get_commentary, get_verse_ref, get_book_chapter_verse
 from bht.bht_semantics import calculate_similarity_bert, calculate_similarity_sklearn, calculate_similarity_tensorflow, STOP_WORDS_SET, nlp
+from bht.bht_readability import calculate_flesch_kincaid_ease, calculate_flesch_kincaid_grade, calculate_automated_readability_index, calculate_dale_chall_readability, calculate_gunning_fog
 
 import nltk
 from nltk.stem import WordNetLemmatizer
@@ -85,7 +86,11 @@ def parse_choicest_quotes(bht_content):
         if not current_commentator in commentator_quotes:
             commentator_quotes[current_commentator] = []
 
-        commentator_quotes[current_commentator].append(line)
+        quote = re.sub(r'^\d. *', '', line)
+        quote = re.sub(r'^"', '', quote)
+        quote = re.sub(r'"$', '', quote)
+
+        commentator_quotes[current_commentator].append(quote)
 
     return commentator_quotes
 
@@ -158,6 +163,9 @@ def compute_token_similarity(text1, text2):
     tokens1 = tokenize_using_lemmatization(text1) - stop_words
     tokens2 = tokenize_using_lemmatization(text2) - stop_words
 
+    if len(tokens1) + len(tokens2) == 0:
+        return 0
+
     similarity = len(tokens1 & tokens2) / len(tokens1 | tokens2)
     
     return similarity
@@ -173,23 +181,24 @@ def compute_combined_similarity(text1, text2):
     return token_similarity * 0.5 + semantic_similarity * 0.5
 
 
-def compute_similarity(bht, choicest_quotes):
+def compute_similarity_score(bht, choicest_quotes):
     choicest_quotes_comparisons = []
     best_scores = []
-    for i, bht_sentence in enumerate(nlp(bht).sents):
-        # compute similarity score with product.
-        
+    for i, bht_sentence in enumerate(nlp(bht).sents):        
         best_score = 0
         for commentator in choicest_quotes:
             for j, quote in enumerate(choicest_quotes[commentator]):
                 if not quote:
                     continue
-
-                score = compute_combined_similarity(bht_sentence, quote)
+                
+                bht_sentence, quote = str(bht_sentence), str(quote)
+                semantic_similarity = compute_semantic_similarity(bht_sentence, quote)
+                token_similarity = compute_token_similarity(bht_sentence, quote)
+                score = token_similarity * 0.2 + semantic_similarity * 0.8
                 if score > best_score:
                     best_score = score
 
-                choicest_quotes_comparisons.append((i, bht_sentence, commentator, j, quote, score))
+                choicest_quotes_comparisons.append((i + 1, commentator, j + 1, token_similarity, semantic_similarity))
         
         best_scores.append(best_score)
 
@@ -206,7 +215,75 @@ def compute_similarity(bht, choicest_quotes):
         # print(f"Quote: {quote}")
         # print()
 
-    return sum(best_scores) / len(best_scores)
+    return choicest_quotes_comparisons
+
+
+def avg(nums):
+    if not nums:
+        return 0
+    
+    return sum(nums) / len(nums)
+
+
+def get_similarity_scores():
+    similarity_scores = {}
+    with open('scripts output/V2 quote similarity scores.txt', 'r') as file:
+        lines = file.readlines()
+        rows = lines[1:]
+        for row in rows:
+            row = row.strip().split('|')
+            book, chapter, verse, bht_i, commentator, q_i, token_similarity, semantic_similarity = row
+            verse_ref = get_verse_ref(book, chapter, verse)
+            
+            if verse_ref not in similarity_scores:
+                similarity_scores[verse_ref] = {}
+
+            if commentator not in similarity_scores[verse_ref]:
+                similarity_scores[verse_ref][commentator] = []    
+
+            similarity_scores[verse_ref][commentator].append(2 * float(semantic_similarity) + float(token_similarity))
+
+    overall_similarity_scores = {}
+    for verse_ref in similarity_scores:
+        tier1 = []
+        tier2 = []
+        tier3 = []
+
+        quote_availability_score = 0
+
+        for commentator in similarity_scores[verse_ref]:
+            scores = similarity_scores[verse_ref][commentator]
+            score = avg(scores)
+
+            if commentator in ("Henry Alford", "Jamieson-Fausset-Brown", "Marvin Vincent", "Archibald T. Robertson"):
+                tier1.append(score)
+                quote_availability_score += 3
+            elif commentator in ("Albert Barnes", "Philip Schaff"):
+                tier2.append(score)
+                quote_availability_score += 2
+            elif commentator in ("John Wesley", "John Gill", "John Calvin"):
+                tier3.append(score)
+                quote_availability_score += 1
+            else:
+                raise Exception("Uncategorized Commentator.")
+
+        tier_weight = 0
+        if tier1:
+            tier_weight += 3
+        if tier2: 
+            tier_weight += 2
+        if tier3:
+            tier_weight += 1
+
+        overall_score = (avg(tier1) * 3 + avg(tier2) * 2 + avg(tier3)) 
+        if tier_weight != 0:
+            overall_score /= tier_weight
+
+        overall_similarity_scores[verse_ref] = (overall_score, quote_availability_score / 19, avg(tier1), avg(tier2), avg(tier3))
+
+    return overall_similarity_scores
+
+
 
 
 def check_bht_contents(folder_to_check, verses, output_filename):
@@ -219,7 +296,9 @@ def check_bht_contents(folder_to_check, verses, output_filename):
     misquoted_commentator_count = 0
     low_proportion_bht_count = 0
     verse_i = 0
-    overall_similarity = {}
+    similarity_scores = {}
+    choicest_quotes_scores = {}
+    readability_scores = {}
 
     for verse_ref in verses:
         book, chapter, verse = get_book_chapter_verse(verse_ref)
@@ -260,9 +339,18 @@ def check_bht_contents(folder_to_check, verses, output_filename):
             corrupted_verses.add(get_verse_ref(book, chapter, verse))
             low_proportion_bht_count += 1
 
-        overall_similarity[verse_ref] = compute_similarity(bht, choicest_quotes)
+        # choicest_quotes_scores[verse_ref] = compute_similarity(bht, choicest_quotes)
+        
+        readability_scores[verse_ref] = [
+            calculate_flesch_kincaid_ease(bht),
+            calculate_flesch_kincaid_grade(bht),
+            calculate_automated_readability_index(bht),
+            calculate_gunning_fog(bht),
+            calculate_dale_chall_readability(bht)
+        ]
 
-    similarity_string = '\n'.join(str(a) for a in sorted(overall_similarity.items(), key=lambda x: x[1]))
+    similarity_scores = get_similarity_scores()
+
     result_text = f"""
 # Summary:
 {len(verses)} verses checked.
@@ -271,11 +359,41 @@ Phantom Commentator Count: {phantom_commentator_count} (How many commentaries ha
 Misquoted Commentator Count: {misquoted_commentator_count} (How many commentaries have quotes with chatGPT injected opinions?)
 Low Proportion BHT Count: {low_proportion_bht_count} (How many BHTs use <50% words from quotes?)
 Corrupted Verses Count: {len(corrupted_verses)} (All verses with any of the issues above.)
-Similarity:
-{similarity_string}
+
 """
     
     output_file.write(result_text)
+
+    # output_file.write("## Similarity Scores (Legacy):\n")
+    # output_file.write("Verse Ref|Similarity Score\n")
+    # for a in sorted(similarity_scores.items(), key=lambda x: x[0]):
+    #     verse_ref, score = a
+    #     output_file.write(f'{verse_ref}|{score}\n')
+
+    output_file.write("## Similarity Scores:\n")
+    output_file.write("Book|Chapter|Verse|VerseID|Similarity Score|Quote Availability Score|tier1|tier2|tier3\n")
+    for a in sorted(similarity_scores.items(), key=lambda x: x[0]):
+        book, chapter, verse = get_book_chapter_verse(a[0])
+        sim_score, avail_score, t1, t2, t3 = a[1]
+        output_file.write(f'{book}|{chapter}|{verse}|{book} {chapter}:{verse}|{sim_score}|{avail_score}|{t1}|{t2}|{t3}\n')
+
+    # output_file.write("## Choicest Quotes Scores:\n")
+    # output_file.write("Book|Chapter|Verse|BHT Sentence Number|Commentator|Quote Number|Token Similarity|Semantic Similarity\n")
+    # for verse_ref, quotes_scores in choicest_quotes_scores.items():
+    #     for quote_score in quotes_scores:
+    #         i, commentator, j, token_simlarity, semantic_similarity = quote_score
+    #         book, chapter, verse = get_book_chapter_verse(verse_ref)
+    #         output_file.write(f"{book}|{chapter}|{verse}|{i}|{commentator}|{j}|{token_simlarity}|{semantic_similarity}\n")
+
+    # output_file.write("## Readability Scores:\n")
+    # output_file.write("Book|Chapter|Verse|Flesch Kincaid Ease|Flesch Kincaid Grade|Automated Readability Index|Gunning Fog|Dale Chall Readability\n")
+    # for verse_ref in readability_scores:
+    #     book, chapter, verse = get_book_chapter_verse(verse_ref)
+    #     fke, fkg, ari, gf, dcr = readability_scores[verse_ref]
+    #     output_file.write(f"{book}|{chapter}|{verse}|{fke}|{fkg}|{ari}|{gf}|{dcr}\n")
+
+
+
     output_file.close()
 
     print(result_text)
