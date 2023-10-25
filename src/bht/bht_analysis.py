@@ -10,7 +10,7 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
 LEMMATIZER = WordNetLemmatizer()
-LEMMATIZER.lemmatize("test")
+LEMMATIZER.lemmatize("init")
 
 def get_verses_to_check(folder_to_check):
     verses = []

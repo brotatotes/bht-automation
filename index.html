@@ -83,7 +83,7 @@
                     return response.text();
                 })
                 .then(data => {
-                    leftColumnDiv.innerHTML = "<h1>V1</h1>\n" + marked.parse(data);
+                    leftColumnDiv.innerHTML = "<h1>V2</h1>\n" + marked.parse(data);
                 })
                 .catch(error => {
                     console.error('Error:', error);
@@ -98,7 +98,7 @@
                     return response.text();
                 })
                 .then(data => {
-                    rightColumnDiv.innerHTML = "<h1>V2</h1>\n" + marked.parse(data);
+                    rightColumnDiv.innerHTML = "<h1>V2.5</h1>\n" + marked.parse(data);
                 })
                 .catch(error => {
                     console.error('Error:', error);
