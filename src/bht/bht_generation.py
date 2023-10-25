@@ -390,7 +390,7 @@ class BHTGenerator:
                 os.makedirs(os.path.dirname(out_path), exist_ok=True)
 
                 debug_logs.append(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes)")
-                debug_logs.append(f"quality score: {current_bht.quality_score}, V2 normalized quality score: {current_bht.v2_normalized_quality_score}, commentator tiers 1-3: {(current_bht.t1_percent)}%, {(current_bht.t2_percent)}%, {(current_bht.t3_percent)}%)")
+                debug_logs.append(f"quality score: {best_bht.quality_score}, V2 normalized quality score: {best_bht.v2_normalized_quality_score}, commentator tiers 1-3: {(best_bht.t1_percent)}%, {(best_bht.t2_percent)}%, {(best_bht.t3_percent)}%)")
 
                 with open(out_path, 'w', encoding='utf-8') as out_file:
                     out_file.write(f"# {verse_ref} Commentary Help Text\n\n")
