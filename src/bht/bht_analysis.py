@@ -2,26 +2,15 @@ import os
 import re
 import string
 from gensim.utils import tokenize
-from bht.bht_generation import generate_bhts, get_commentary, get_verse_ref, get_book_chapter_verse
-from bht.bht_semantics import calculate_similarity_bert, calculate_similarity_sklearn, calculate_similarity_tensorflow, STOP_WORDS_SET, nlp
+from bht.bht_common import *
+from bht.bht_semantics import BHTSemantics
 from bht.bht_readability import calculate_flesch_kincaid_ease, calculate_flesch_kincaid_grade, calculate_automated_readability_index, calculate_dale_chall_readability, calculate_gunning_fog
 
-import nltk
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
-COMMENTATORS = [
-    "Henry Alford",
-    "Jamieson-Fausset-Brown",
-    "Albert Barnes",
-    "Marvin Vincent",
-    "John Calvin",
-    "Philip Schaff",
-    "Archibald T. Robertson",
-    "John Gill",
-    "John Wesley"
-    ]
-COMMENTATORS_SET = set(COMMENTATORS)
+LEMMATIZER = WordNetLemmatizer()
+LEMMATIZER.lemmatize("test")
 
 def get_verses_to_check(folder_to_check):
     verses = []
@@ -40,11 +29,10 @@ def get_verses_to_check(folder_to_check):
     
     return verses
 
-
 # TODO: Make this class make sense.
 class BHTAnalyzer:
     def __init__(self):
-        pass
+        self.bht_semantics = BHTSemantics()
 
     def get_bht_content(self, folder_to_check, book, chapter, verse):
         return open(f"{folder_to_check}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md", 'r', encoding="utf-8").read()
@@ -144,7 +132,7 @@ class BHTAnalyzer:
             for quote in quotes:
                 quotes_tokens_set |= set(tokenize(quote.lower()))
 
-        tokens_not_from_quotes = bht_tokens_set - quotes_tokens_set - STOP_WORDS_SET
+        tokens_not_from_quotes = bht_tokens_set - quotes_tokens_set - self.bht_semantics.get_stop_words()
         proportion = 1 - len(tokens_not_from_quotes) / len(bht_tokens_set)
 
         return proportion
@@ -157,10 +145,9 @@ class BHTAnalyzer:
         return set([line.strip() for line in open('src/stopwords.txt', 'r')])
 
     def tokenize_using_lemmatization(self, text):
-        lemmatizer = WordNetLemmatizer()
         translator = str.maketrans('', '', string.punctuation)
         words = word_tokenize(text.lower().translate(translator))
-        return set([lemmatizer.lemmatize(word) for word in words])
+        return set([LEMMATIZER.lemmatize(word) for word in words])
 
     def compute_token_similarity(self, text1, text2):
         stop_words = self.get_stop_words()
@@ -175,7 +162,7 @@ class BHTAnalyzer:
         return similarity
 
     def compute_semantic_similarity(self, text1, text2):
-        return calculate_similarity_tensorflow(text1, text2)
+        return self.bht_semantics.calculate_similarity_tensorflow(text1, text2)
 
     def compute_combined_similarity(self, text1, text2):
         text1, text2 = str(text1), str(text2)
@@ -183,13 +170,77 @@ class BHTAnalyzer:
         semantic_similarity = self.compute_semantic_similarity(text1, text2)
 
         return token_similarity * 0.5 + semantic_similarity * 0.5
+    
+    def aggregate_quality_score(self, similarity_scores):
+        tier1 = []
+        tier2 = []
+        tier3 = []
 
+        quote_availability_score = 0
 
-    def compute_similarity_score(self, bht, choicest_quotes):
+        for commentator in similarity_scores:
+            scores = similarity_scores[commentator]
+            score = self.avg(scores)
+
+            if commentator in ("Henry Alford", "Jamieson-Fausset-Brown", "Marvin Vincent", "Archibald T. Robertson"):
+                tier1.append(score)
+                quote_availability_score += 3
+            elif commentator in ("Albert Barnes", "Philip Schaff"):
+                tier2.append(score)
+                quote_availability_score += 2
+            elif commentator in ("John Wesley", "John Gill", "John Calvin"):
+                tier3.append(score)
+                quote_availability_score += 1
+            else:
+                raise Exception("Uncategorized Commentator.")
+            
+        quote_availability_score /= 19
+
+        tier_weight = 0
+        if tier1:
+            tier_weight += 3
+        if tier2: 
+            tier_weight += 2
+        if tier3:
+            tier_weight += 1
+
+        t1_avg = self.avg(tier1)
+        t2_avg = self.avg(tier2)
+        t3_avg = self.avg(tier3)
+
+        final_sim_score = (t1_avg * 3 + t2_avg * 2 + t3_avg)
+        if tier_weight != 0:
+            final_sim_score /= tier_weight
+
+        return final_sim_score, quote_availability_score, t1_avg, t2_avg, t3_avg
+    
+    
+    def compute_quality_score(self, verse_ref, bht, choicest_quotes):
+        aggregated_sim_scores_by_commentator = {}
+
+        sim_scores = self.compute_similarity_scores(verse_ref, bht, choicest_quotes)
+        for bht_sentence, commentator, quote_number, token_similarity, semantic_similarity in sim_scores:
+            if commentator not in aggregated_sim_scores_by_commentator:
+                aggregated_sim_scores_by_commentator[commentator] = []
+
+            aggregated_sim_scores_by_commentator[commentator].append(2 * float(semantic_similarity) + float(token_similarity))
+
+        final_sim_score, quote_availability_score, t1_avg, t2_avg, t3_avg = self.aggregate_quality_score(aggregated_sim_scores_by_commentator)
+
+        return 2 * final_sim_score + quote_availability_score, t1_avg, t2_avg, t3_avg
+
+    # Based on V2 scores. Comparable to V2 Normalized scores.
+    def normalize_quality_score(self, q_score):
+        low = 0.2602646291
+        high = 3.268045236
+
+        return 100 * (q_score - low) / (high - low)
+
+    def compute_similarity_scores(self, verse_ref, bht, choicest_quotes):
         choicest_quotes_comparisons = []
-        best_scores = []
-        for i, bht_sentence in enumerate(nlp(bht).sents):        
-            best_score = 0
+        # best_scores = []
+        for i, bht_sentence in enumerate(self.bht_semantics.get_nlp()(bht).sents):        
+            # best_score = 0
             for commentator in choicest_quotes:
                 for j, quote in enumerate(choicest_quotes[commentator]):
                     if not quote:
@@ -198,13 +249,15 @@ class BHTAnalyzer:
                     bht_sentence, quote = str(bht_sentence), str(quote)
                     semantic_similarity = self.compute_semantic_similarity(bht_sentence, quote)
                     token_similarity = self.compute_token_similarity(bht_sentence, quote)
-                    score = token_similarity * 0.2 + semantic_similarity * 0.8
-                    if score > best_score:
-                        best_score = score
+                    # score = token_similarity * 0.2 + semantic_similarity * 0.8
+                    # if score > best_score:
+                    #     best_score = score
+
+                    # print(verse_ref, i, j, semantic_similarity, token_similarity)
 
                     choicest_quotes_comparisons.append((i + 1, commentator, j + 1, token_similarity, semantic_similarity))
             
-            best_scores.append(best_score)
+            # best_scores.append(best_score)
 
 
         # can use this to get footnotes!!!    
@@ -249,41 +302,7 @@ class BHTAnalyzer:
 
         overall_similarity_scores = {}
         for verse_ref in similarity_scores:
-            tier1 = []
-            tier2 = []
-            tier3 = []
-
-            quote_availability_score = 0
-
-            for commentator in similarity_scores[verse_ref]:
-                scores = similarity_scores[verse_ref][commentator]
-                score = self.avg(scores)
-
-                if commentator in ("Henry Alford", "Jamieson-Fausset-Brown", "Marvin Vincent", "Archibald T. Robertson"):
-                    tier1.append(score)
-                    quote_availability_score += 3
-                elif commentator in ("Albert Barnes", "Philip Schaff"):
-                    tier2.append(score)
-                    quote_availability_score += 2
-                elif commentator in ("John Wesley", "John Gill", "John Calvin"):
-                    tier3.append(score)
-                    quote_availability_score += 1
-                else:
-                    raise Exception("Uncategorized Commentator.")
-
-            tier_weight = 0
-            if tier1:
-                tier_weight += 3
-            if tier2: 
-                tier_weight += 2
-            if tier3:
-                tier_weight += 1
-
-            overall_score = (self.avg(tier1) * 3 + self.avg(tier2) * 2 + self.avg(tier3)) 
-            if tier_weight != 0:
-                overall_score /= tier_weight
-
-            overall_similarity_scores[verse_ref] = (overall_score, quote_availability_score / 19, avg(tier1), avg(tier2), avg(tier3))
+            overall_similarity_scores[verse_ref] = self.aggregate_quality_score(similarity_scores[verse_ref])
 
         return overall_similarity_scores
 
@@ -356,15 +375,15 @@ class BHTAnalyzer:
         similarity_scores = self.get_similarity_scores()
 
         result_text = f"""
-    # Summary:
-    {len(verses)} verses checked.
-    Missing Commentator Count: {missing_commentator_count} (How many commentaries should have quotes but they're missing?)
-    Phantom Commentator Count: {phantom_commentator_count} (How many commentaries have quotes but there's no commentary?)
-    Misquoted Commentator Count: {misquoted_commentator_count} (How many commentaries have quotes with chatGPT injected opinions?)
-    Low Proportion BHT Count: {low_proportion_bht_count} (How many BHTs use <50% words from quotes?)
-    Corrupted Verses Count: {len(corrupted_verses)} (All verses with any of the issues above.)
+# Summary:
+{len(verses)} verses checked.
+Missing Commentator Count: {missing_commentator_count} (How many commentaries should have quotes but they're missing?)
+Phantom Commentator Count: {phantom_commentator_count} (How many commentaries have quotes but there's no commentary?)
+Misquoted Commentator Count: {misquoted_commentator_count} (How many commentaries have quotes with chatGPT injected opinions?)
+Low Proportion BHT Count: {low_proportion_bht_count} (How many BHTs use <50% words from quotes?)
+Corrupted Verses Count: {len(corrupted_verses)} (All verses with any of the issues above.)
 
-    """
+"""
         
         output_file.write(result_text)
 

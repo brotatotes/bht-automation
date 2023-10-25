@@ -1,54 +1,16 @@
-from bibleref import BibleRange, BibleVerse
-from bht.bht_generation import generate_bhts
-
-commentators = [
-    "Henry Alford",
-    "Jamieson-Fausset-Brown",
-    "Albert Barnes",
-    "Marvin Vincent",
-    "John Calvin",
-    "Philip Schaff",
-    "Archibald T. Robertson",
-    "John Gill",
-    "John Wesley"
-    ]
-
-books = [BibleRange(b) for b in [
-        "Matthew",
-        "Mark",
-        "Luke",
-        "John",
-        "Acts",
-        "Romans",
-        "1 Corinthians",
-        "2 Corinthians",
-        "Galatians",
-        "Ephesians",
-        "Philippians",
-        "Colossians",
-        "1 Thessalonians",
-        "2 Thessalonians",
-        "1 Timothy",
-        "2 Timothy",
-        "Titus",
-        "Philemon",
-        "Hebrews",
-        "James",
-        "1 Peter",
-        "2 Peter",
-        "1 John",
-        "2 John",
-        "3 John",
-        "Jude",
-        "Revelation",
-        ]]
+from bht.bht_generation import BHTGenerator
+from bht.bht_common import COMMENTATORS, BOOKS
 
 if __name__ == '__main__':
     verses = []
-    for book in books:
+    for book in BOOKS:
         for verse in book:
             verses.append(verse)
 
-    verses = ["Ephesians 1:22", "2 Peter 1:19"]
+    verses =  ["Romans 6:7", "John 5:22", "Ephesians 1:22", "Ephesians 6:13", "Galatians 5:22", "John 10:27", "Romans 6:21", "Revelation 3:3"]
 
-    generate_bhts(verses, ["choicest prompt v1.1"], ["bht prompt v1.0"], commentators, redo_bht=True)
+    # verses = ["Romans 6:7", "Ephesians 1:22", "Romans 6:21"]
+
+    bht_generator = BHTGenerator()
+
+    bht_generator.generate_bhts(verses, ["choicest prompt v0.4"], ["bht prompt v1.0"], COMMENTATORS)
