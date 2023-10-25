@@ -51,4 +51,4 @@ if __name__ == '__main__':
 
     verses = ["Ephesians 1:22", "2 Peter 1:19"]
 
-    generate_bhts(verses, ["choicest prompt v1.1"], ["bht prompt v1.0"], commentators)
+    generate_bhts(verses, ["choicest prompt v1.1"], ["bht prompt v1.0"], commentators, redo_bht=True)

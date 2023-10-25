@@ -12,7 +12,8 @@ os.makedirs("scripts output", exist_ok=True)
 verses_to_check = get_verses_to_check(folder_to_check)
 
 while verses_to_check:
-    corrupted_verses = check_bht_contents(folder_to_check, verses_to_check, output_filename)
+    bht_analyzer = BHTAnalyzer()
+    corrupted_verses = bht_analyzer.check_bht_contents(folder_to_check, verses_to_check, output_filename)
 
     if corrupted_verses:
         print(corrupted_verses)
