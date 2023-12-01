@@ -1,4 +1,3 @@
-import os
 import re
 import string
 from gensim.utils import tokenize
@@ -9,25 +8,10 @@ from bht.bht_readability import calculate_flesch_kincaid_ease, calculate_flesch_
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
+import requests
+
 LEMMATIZER = WordNetLemmatizer()
 LEMMATIZER.lemmatize("init")
-
-def get_verses_to_check(folder_to_check):
-    verses = []
-
-    for book in os.listdir(folder_to_check):
-        if book.startswith('.'):
-            continue
-
-        for chapter in os.listdir(f"{folder_to_check}/{book}"):
-            if chapter.startswith('.'):
-                continue
-
-            for verse in os.listdir(f"{folder_to_check}/{book}/{chapter}"):
-                chapter_number, verse_number = int(chapter.split()[1]), int(verse.split()[-2])
-                verses.append(get_verse_ref(book, chapter_number, verse_number))
-    
-    return verses
 
 # TODO: Make this class make sense.
 class BHTAnalyzer:
@@ -36,6 +20,14 @@ class BHTAnalyzer:
 
     def get_bht_content(self, folder_to_check, book, chapter, verse):
         return open(f"{folder_to_check}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md", 'r', encoding="utf-8").read()
+    
+    def get_bht_and_quotes(self, bht_folder, verse_ref):
+        book, chapter, verse = get_book_chapter_verse(verse_ref)
+        bht_content = self.get_bht_content(bht_folder, book, chapter, verse)
+        bht = self.parse_bht(bht_content)
+        quotes = self.parse_choicest_quotes(bht_content)
+
+        return bht, quotes
 
     def get_commentators_used(self, bht_content):
         pattern = r'^### .+:$'
@@ -50,6 +42,15 @@ class BHTAnalyzer:
                 commentators_with_commentary.add(commentator)
 
         return commentators_with_commentary
+
+    def get_commentators_and_commentary(self, book, chapter, verse, all_commentators):
+        commentaries = {}
+        for commentator in all_commentators:
+            commentary = get_commentary(commentator, get_verse_ref(book, chapter, verse))
+            if commentary:
+                commentaries[commentator] = commentary
+
+        return commentaries
 
 
     def check_commentators(self, bht_content, book, chapter, verse, all_commentators):
@@ -228,6 +229,7 @@ class BHTAnalyzer:
         final_sim_score, quote_availability_score, t1_avg, t2_avg, t3_avg = self.aggregate_quality_score(aggregated_sim_scores_by_commentator)
 
         return 2 * final_sim_score + quote_availability_score, t1_avg, t2_avg, t3_avg
+    
 
     # Based on V2 scores. Comparable to V2 Normalized scores.
     def normalize_quality_score(self, q_score):
@@ -235,7 +237,25 @@ class BHTAnalyzer:
         high = 3.268045236
 
         return 100 * (q_score - low) / (high - low)
+    
+    def get_footnotes(self, verse_ref, bht, choicest_quotes):
+        similarity_scores = self.compute_similarity_scores(verse_ref, bht, choicest_quotes)
+        footnotes = {}
 
+        for bht_sentence, commentator, quote_number, token_sim, semantic_sim in similarity_scores:
+            score = 2 * semantic_sim + token_sim
+            if score >= 1:
+                if bht_sentence not in footnotes:
+                    footnotes[bht_sentence] = []
+
+                footnotes[bht_sentence].append((commentator, quote_number, score))
+
+        for footnote_list in footnotes.values():
+            footnote_list.sort(key=lambda o: o[2])
+
+        return footnotes
+
+    # returns list of object: [BHT Sentence Number, Commentator, Choicest Quote Number, Token Similarity, Semantic Similarity]
     def compute_similarity_scores(self, verse_ref, bht, choicest_quotes):
         choicest_quotes_comparisons = []
         # best_scores = []
@@ -307,9 +327,49 @@ class BHTAnalyzer:
         return overall_similarity_scores
 
 
+    def post(self, json_data):
+        response = requests.post('https://bible-go-internal.vercel.app/api/commentaries', json=json_data)
+        if response.status_code == 200:
+            print('POST request was successful!')
+            return True
+        else:
+            print(f'POST request failed with status code {response.status_code}')
+            return False
+        
+        
+    def generate_json_data(self, folder_name, book, chapter, verse, bht, commentaries):
+        json_data = {
+            "book": book,
+            "chapter": chapter,
+            "verse": verse,
+            "bht": bht,
+            "bhtUpdateDescription": folder_name
+        }
+
+        for commentator, commentary in commentaries.items():
+            json_data[self.get_commentatory_shorthand_name(commentator)] = commentary
+
+        return json_data
+
+        
+    
+    def get_commentatory_shorthand_name(self, commentator):
+        shorthand_names = {
+            "Henry Alford": "alford",
+            "Jamieson-Fausset-Brown": "jfb",
+            "Albert Barnes": "barnes",
+            "Marvin Vincent": "vws",
+            "John Calvin": "calvin",
+            "Philip Schaff": "schaff",
+            "Archibald T. Robertson": "rwp",
+            "John Gill": "gill",
+            "John Wesley": "wesley"
+        }
+
+        return shorthand_names[commentator]
 
 
-    def check_bht_contents(self, folder_to_check, verses, output_filename):
+    def check_bht_contents(self, folder_name, verses, output_filename):
         output_file = open(output_filename, 'w', encoding="utf-8")
         output_file.write("# Issues Found:\n\n")
 
@@ -326,11 +386,19 @@ class BHTAnalyzer:
         for verse_ref in verses:
             book, chapter, verse = get_book_chapter_verse(verse_ref)
             verse_i += 1
-            print(f"\r{verse_i} / {len(verses)} {get_verse_ref(book, chapter, verse)} {' ' * 10}", end="")
-            bht_content = self.get_bht_content(folder_to_check, book, chapter, verse)
+            print(f"{verse_i} / {len(verses)} {get_verse_ref(book, chapter, verse)}")
+            bht_content = self.get_bht_content(folder_name, book, chapter, verse)
             bht = self.parse_bht(bht_content)
             choicest_quotes = self.parse_choicest_quotes(bht_content)
             missing_commentators, phantom_commentators = self.check_commentators(bht_content, book, chapter, verse, COMMENTATORS_SET)
+            commentaries = self.get_commentators_and_commentary(book, chapter, verse, COMMENTATORS_SET)
+
+            json_data = self.generate_json_data(folder_name, book, chapter, verse, bht, commentaries)
+
+            # if not self.post(json_data):
+            #     input("Something failed. Take a look!")
+
+            # continue
 
             for missing_commentator in missing_commentators:
                 output_file.write(f"## {missing_commentator} for {book} {chapter}:{verse} has commentary but is missing!\n\n")
@@ -372,7 +440,7 @@ class BHTAnalyzer:
                 calculate_dale_chall_readability(bht)
             ]
 
-        similarity_scores = self.get_similarity_scores()
+        # similarity_scores = self.get_similarity_scores()
 
         result_text = f"""
 # Summary:
@@ -393,12 +461,12 @@ Corrupted Verses Count: {len(corrupted_verses)} (All verses with any of the issu
         #     verse_ref, score = a
         #     output_file.write(f'{verse_ref}|{score}\n')
 
-        output_file.write("## Similarity Scores:\n")
-        output_file.write("Book|Chapter|Verse|VerseID|Similarity Score|Quote Availability Score|tier1|tier2|tier3\n")
-        for a in sorted(similarity_scores.items(), key=lambda x: x[0]):
-            book, chapter, verse = get_book_chapter_verse(a[0])
-            sim_score, avail_score, t1, t2, t3 = a[1]
-            output_file.write(f'{book}|{chapter}|{verse}|{book} {chapter}:{verse}|{sim_score}|{avail_score}|{t1}|{t2}|{t3}\n')
+        # output_file.write("## Similarity Scores:\n")
+        # output_file.write("Book|Chapter|Verse|VerseID|Similarity Score|Quote Availability Score|tier1|tier2|tier3\n")
+        # for a in sorted(similarity_scores.items(), key=lambda x: x[0]):
+        #     book, chapter, verse = get_book_chapter_verse(a[0])
+        #     sim_score, avail_score, t1, t2, t3 = a[1]
+        #     output_file.write(f'{book}|{chapter}|{verse}|{book} {chapter}:{verse}|{sim_score}|{avail_score}|{t1}|{t2}|{t3}\n')
 
         # output_file.write("## Choicest Quotes Scores:\n")
         # output_file.write("Book|Chapter|Verse|BHT Sentence Number|Commentator|Quote Number|Token Similarity|Semantic Similarity\n")

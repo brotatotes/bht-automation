@@ -1,4 +1,5 @@
-from bht.bht_analysis import BHTAnalyzer, get_verses_to_check, COMMENTATORS
+from bht.bht_analysis import BHTAnalyzer, COMMENTATORS
+from bht.bht_common import get_verses_from_folder
 from bht.bht_generation import BHTGenerator
 import os
 
@@ -11,7 +12,7 @@ folder_to_check = "bht gen 2"
 output_filename = f'scripts output/analyze_bhts {folder_to_check.replace("/", "-")}.md'
 os.makedirs("scripts output", exist_ok=True)
 
-verses_to_check = get_verses_to_check(folder_to_check)
+verses_to_check = get_verses_from_folder(folder_to_check)
 
 while verses_to_check:
     bht_analyzer = BHTAnalyzer()

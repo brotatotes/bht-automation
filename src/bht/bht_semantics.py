@@ -1,11 +1,17 @@
 from transformers import BertTokenizer, BertModel
 from transformers import RobertaTokenizer, RobertaModel
 from sklearn.metrics.pairwise import cosine_similarity
+from gensim.utils import tokenize
+from stanza.server import CoreNLPClient
+from nltk import sent_tokenize, word_tokenize, pos_tag
+import stanza
 import tensorflow as tf
 import tensorflow_hub as hub
 import torch
 import spacy
 import numpy as np
+import re
+import nltk
 
 SPACY_LOADED = False
 USE_LOADED = False
@@ -125,6 +131,8 @@ class BHTSemantics:
 
 if __name__ == '__main__':
     # Process original content and summary
+    print(get_clauses("All the elements - the physical works of God - the winds and waves - the seas and rivers - all are under him, and all are to be made tributary to the welfare of the church."))
+
     doc_original = """
 1. "[Christ is] Head over all things to the Church, which same is His BODY, the fulness of Him who filleth all things." 
 2. "The meaning being, that the church, being the Body of Christ, is dwelt in and filled by God: it is His πλήρωμα in an especial manner His fulness abides in it, and is exemplified by it." 

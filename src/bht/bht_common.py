@@ -100,3 +100,22 @@ def get_prompt(prompt_folder, prompt_name):
             raise Exception(f'Prompt entry was blank for {prompt_name}.')
 
         return file_contents
+
+
+def get_verses_from_folder(folder_path):
+    verses = []
+
+    for book in os.listdir(folder_path):
+        if book.startswith('.'):
+            continue
+
+        for chapter in os.listdir(f"{folder_path}/{book}"):
+            if chapter.startswith('.'):
+                continue
+
+            for verse in os.listdir(f"{folder_path}/{book}/{chapter}"):
+                chapter_number, verse_number = int(chapter.split()[1]), int(verse.split()[-2])
+                verses.append(get_verse_ref(book, chapter_number, verse_number))
+
+    return verses
+
