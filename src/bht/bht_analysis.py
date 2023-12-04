@@ -82,6 +82,10 @@ class BHTAnalyzer:
             quote = re.sub(r'^\d. *', '', line)
             quote = re.sub(r'^"', '', quote)
             quote = re.sub(r'"$', '', quote)
+            quote = quote.strip()
+
+            if not quote:
+                continue
 
             commentator_quotes[current_commentator].append(quote)
 
@@ -238,22 +242,95 @@ class BHTAnalyzer:
 
         return 100 * (q_score - low) / (high - low)
     
-    def get_footnotes(self, verse_ref, bht, choicest_quotes):
+    def get_footnotes(self, verse_ref, bht, choicest_quotes, top_n = 30):
         similarity_scores = self.compute_similarity_scores(verse_ref, bht, choicest_quotes)
         footnotes = {}
+        quote_locations = {}
 
-        for bht_sentence, commentator, quote_number, token_sim, semantic_sim in similarity_scores:
+        book, chapter, verse = get_book_chapter_verse(verse_ref)
+        commentaries = self.get_commentators_and_commentary(book, chapter, verse, COMMENTATORS_SET)
+
+        for bht_sentence_index, commentator, quote_number, token_sim, semantic_sim in similarity_scores:
             score = 2 * semantic_sim + token_sim
             if score >= 1:
-                if bht_sentence not in footnotes:
-                    footnotes[bht_sentence] = []
+                if bht_sentence_index not in footnotes:
+                    footnotes[bht_sentence_index] = []
 
-                footnotes[bht_sentence].append((commentator, quote_number, score))
+                commentary = commentaries[commentator]
+                quote = choicest_quotes[commentator][quote_number-1]
+                if (commentator, quote_number) not in quote_locations:
+                    quote_locations[(commentator, quote_number)] = self.find_quote_in_commentary(quote, commentary)
 
-        for footnote_list in footnotes.values():
-            footnote_list.sort(key=lambda o: o[2])
+                location = quote_locations[(commentator, quote_number)]
+                footnotes[bht_sentence_index].append((commentator, quote_number, score, location))
+
+        for key, footnote_list in footnotes.items():
+            # Sort footnotes from best to worst by bht sentence and only include the `top_n` best.
+            footnotes[key] = sorted(footnote_list, key=lambda o: -o[2])[:top_n]
 
         return footnotes
+
+    # existing bug: If there are word insertions / deletions in either quotes 
+    # or commentary and they differ in that way, quote will not be able to be found.
+    # Example: 1 Peter 1:2 JFB Quote 3. Result: -1.
+    def find_quote_in_commentary(self, quote, commentary):
+        commentary = commentary.lower()
+        quote_tokens = list(tokenize(quote.lower()))
+        commentary_tokens = list(tokenize(commentary))
+        tokenized_commentary_string = ' '.join(commentary_tokens)        
+        # print(tokenized_commentary_string)
+        # print(quote_tokens)
+
+        q = 0 # quote tokens index
+        t = quote_tokens[q].lower().strip()
+        c = tokenized_commentary_string.count(t)
+        last_start = 0
+        while c != 1:
+            # print(last_start, q, t, c)
+
+            q += 1
+
+            if c < 1 or q >= len(quote_tokens):
+                last_start += 1
+
+                if last_start >= len(quote_tokens):
+                    return -1
+
+                q = last_start
+                t = quote_tokens[q].lower().strip()
+            elif c > 1:
+                t += ' ' + quote_tokens[q].lower().strip()
+
+            c = tokenized_commentary_string.count(t)
+
+        loc_in_tokenized_commentary_string = tokenized_commentary_string.find(t)
+        
+        # Need to build mapping between tokenized string and original commentary to know where original location is
+        index_in_tokenized_string = 0
+        index_in_original = 0
+        for i, c_token in enumerate(commentary_tokens):
+            loc_in_tokenized_string = tokenized_commentary_string.find(c_token, index_in_tokenized_string)
+            index_in_tokenized_string = loc_in_tokenized_string + len(c_token)
+
+            loc_in_original = commentary.find(c_token, index_in_original)
+            index_in_original = loc_in_original + len(c_token)
+
+            if loc_in_tokenized_string == loc_in_tokenized_commentary_string:
+                return loc_in_original
+
+        return -1
+            
+            
+            
+
+                
+
+
+        # print(list(quote_tokens))
+
+        # print(list(commentary_tokens))
+
+
 
     # returns list of object: [BHT Sentence Number, Commentator, Choicest Quote Number, Token Similarity, Semantic Similarity]
     def compute_similarity_scores(self, verse_ref, bht, choicest_quotes):
@@ -347,27 +424,10 @@ class BHTAnalyzer:
         }
 
         for commentator, commentary in commentaries.items():
-            json_data[self.get_commentatory_shorthand_name(commentator)] = commentary
+            json_data[get_commentatory_shorthand_name(commentator)] = commentary
 
         return json_data
-
-        
     
-    def get_commentatory_shorthand_name(self, commentator):
-        shorthand_names = {
-            "Henry Alford": "alford",
-            "Jamieson-Fausset-Brown": "jfb",
-            "Albert Barnes": "barnes",
-            "Marvin Vincent": "vws",
-            "John Calvin": "calvin",
-            "Philip Schaff": "schaff",
-            "Archibald T. Robertson": "rwp",
-            "John Gill": "gill",
-            "John Wesley": "wesley"
-        }
-
-        return shorthand_names[commentator]
-
 
     def check_bht_contents(self, folder_name, verses, output_filename):
         output_file = open(output_filename, 'w', encoding="utf-8")

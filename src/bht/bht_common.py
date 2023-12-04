@@ -119,3 +119,25 @@ def get_verses_from_folder(folder_path):
 
     return verses
 
+def get_commentatory_shorthand_name(commentator):
+    shorthand_names = {
+        "Henry Alford": "alford",
+        "Jamieson-Fausset-Brown": "jfb",
+        "Albert Barnes": "barnes",
+        "Marvin Vincent": "vws",
+        "John Calvin": "calvin",
+        "Philip Schaff": "schaff",
+        "Archibald T. Robertson": "rwp",
+        "John Gill": "gill",
+        "John Wesley": "wesley"
+    }
+
+    return shorthand_names[commentator]
+
+def find_all_in_string(substring, input_string):
+    indices = [i for i in range(len(input_string)) if input_string.startswith(substring, i)]
+    return indices
+
+def find_all_in_list(item, item_list):
+    indices = [i for i in range(len(item_list)) if item_list[i] == item]
+    return indices

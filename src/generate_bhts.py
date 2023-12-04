@@ -11,6 +11,8 @@ if __name__ == '__main__':
 
     # verses = ["Romans 6:7", "Ephesians 1:22", "Romans 6:21"]
 
+    verses = ["Romans 8:6"]
+
     bht_generator = BHTGenerator()
 
     bht_generator.generate_bhts(verses, ["choicest prompt v0.4"], ["bht prompt v1.0"], COMMENTATORS)

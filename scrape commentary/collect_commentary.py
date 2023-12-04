@@ -70,7 +70,7 @@ def record_commentary(commentator_name):
                 print(f"Skipping folder because it already exists: {folder_path}")
                 continue
 
-            # Now process the all verses on a chapter webpage.
+            # Now process all verses on a chapter webpage.
             response = requests.get(chapter_url, headers=generate_headers())
             chapter_html = BeautifulSoup(response.content, 'html.parser')
             verses_element = chapter_html.find("div", class_="commentaries-entries")
@@ -115,4 +115,4 @@ def get_all_commentary():
 
 
 if __name__ == '__main__':
-    record_commentary("John Wesley")
+    record_commentary("Henry Alford")
