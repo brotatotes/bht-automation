@@ -5,7 +5,7 @@ import time
 import os
 
 STUDYLIGHT_URL = "https://studylight.org"
-COMMENTARY_FOLDER = "commentary_output"
+COMMENTARY_FOLDER = "scripts output/scrape commentary/commentary_output"
 
 STUDYLIGHT_NT_VERSE_PARTITIONED_COMMENTARIES = {
     "Henry Alford" : "https://studylight.org/commentaries/eng/hac.html",
@@ -94,7 +94,11 @@ def record_commentary(commentator_name):
                         if commentator_name == "John Wesley" and "emphasis bold" in str(commentary_piece):
                             continue
                             
-                        verse_file.write(commentary_piece.get_text() + '\n')
+                        # don't include html tags
+                        # verse_file.write(commentary_piece.get_text() + '\n') 
+
+                        # include html tags
+                        verse_file.write(str(commentary_piece) + '\n') 
                     verse_file.close()
 
                 # break # test one verse only.
@@ -115,4 +119,5 @@ def get_all_commentary():
 
 
 if __name__ == '__main__':
-    record_commentary("Henry Alford")
+    # record_commentary("Henry Alford")
+    get_all_commentary()

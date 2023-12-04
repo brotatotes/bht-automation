@@ -10,11 +10,9 @@ import time
 # Then this script should be deleted
 
 if __name__ == '__main__':
-    # print(get_clauses("In order to encourage Gaius to continue showing kindness to the same individuals, the apostle highlights how they had spoken highly of his previous acts of love in front of the church."))
+    
 
-    # print(get_clauses("He eats cheese, but he won't eat ice cream"))
-
-    # print(get_clauses("This all encompassing experience wore off for a moment and in that moment, my awareness came gasping to the surface of the hallucination and I was able to consider momentarily that I had killed myself by taking an outrageous dose of an online drug and this was the most pathetic death experience of all time."))
+    
 
     start_time = time.time()
 
@@ -40,6 +38,8 @@ if __name__ == '__main__':
             print(f"BHT Sentence: {bht_sentence_index}")
             for footnote in footnotes_obj.footnotes[bht_sentence_index]:
                 print(f"\t{footnote.to_json()}")
+
+        input()
 
         footnotes_by_verse[verse_ref] = footnotes_obj
 

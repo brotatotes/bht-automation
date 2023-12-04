@@ -276,7 +276,8 @@ class BHTAnalyzer:
     def find_quote_in_commentary(self, quote, commentary):
         commentary = commentary.lower()
         quote_tokens = list(tokenize(quote.lower()))
-        commentary_tokens = list(tokenize(commentary))
+        commentary_untagged = re.sub(r'<.*?>', ' ', commentary)
+        commentary_tokens = list(tokenize(commentary_untagged))
         tokenized_commentary_string = ' '.join(commentary_tokens)        
         # print(tokenized_commentary_string)
         # print(quote_tokens)
@@ -319,17 +320,6 @@ class BHTAnalyzer:
                 return loc_in_original
 
         return -1
-            
-            
-            
-
-                
-
-
-        # print(list(quote_tokens))
-
-        # print(list(commentary_tokens))
-
 
 
     # returns list of object: [BHT Sentence Number, Commentator, Choicest Quote Number, Token Similarity, Semantic Similarity]
@@ -407,7 +397,6 @@ class BHTAnalyzer:
     def post(self, json_data):
         response = requests.post('https://bible-go-internal.vercel.app/api/commentaries', json=json_data)
         if response.status_code == 200:
-            print('POST request was successful!')
             return True
         else:
             print(f'POST request failed with status code {response.status_code}')
@@ -427,6 +416,25 @@ class BHTAnalyzer:
             json_data[get_commentatory_shorthand_name(commentator)] = commentary
 
         return json_data
+    
+
+    def post_all_commentary_json(self, folder_name):
+        verses = get_verses_from_folder(folder_name)
+
+        for i, verse_ref in enumerate(verses):
+            book, chapter, verse = get_book_chapter_verse(verse_ref)
+            bht_content = self.get_bht_content(folder_name, book, chapter, verse)
+            bht = self.parse_bht(bht_content)
+            commentaries = self.get_commentators_and_commentary(book, chapter, verse, COMMENTATORS_SET)
+
+            json_data = self.generate_json_data(folder_name, book, chapter, verse, bht, commentaries)
+
+            succeeded = self.post(json_data)
+
+            if not succeeded:
+                input("Something failed. Take a look!")
+
+            print(f"{i+1} / {len(verses)} {get_verse_ref(book, chapter, verse)} {succeeded}")
     
 
     def check_bht_contents(self, folder_name, verses, output_filename):
@@ -452,13 +460,6 @@ class BHTAnalyzer:
             choicest_quotes = self.parse_choicest_quotes(bht_content)
             missing_commentators, phantom_commentators = self.check_commentators(bht_content, book, chapter, verse, COMMENTATORS_SET)
             commentaries = self.get_commentators_and_commentary(book, chapter, verse, COMMENTATORS_SET)
-
-            json_data = self.generate_json_data(folder_name, book, chapter, verse, bht, commentaries)
-
-            # if not self.post(json_data):
-            #     input("Something failed. Take a look!")
-
-            # continue
 
             for missing_commentator in missing_commentators:
                 output_file.write(f"## {missing_commentator} for {book} {chapter}:{verse} has commentary but is missing!\n\n")
