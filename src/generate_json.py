@@ -11,9 +11,6 @@ import time
 
 if __name__ == '__main__':
     
-
-    
-
     start_time = time.time()
 
     bht_folder = "bht gen 2"
@@ -38,8 +35,6 @@ if __name__ == '__main__':
             print(f"BHT Sentence: {bht_sentence_index}")
             for footnote in footnotes_obj.footnotes[bht_sentence_index]:
                 print(f"\t{footnote.to_json()}")
-
-        input()
 
         footnotes_by_verse[verse_ref] = footnotes_obj
 

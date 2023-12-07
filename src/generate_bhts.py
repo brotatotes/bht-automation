@@ -15,4 +15,4 @@ if __name__ == '__main__':
 
     bht_generator = BHTGenerator()
 
-    bht_generator.generate_bhts(verses, ["choicest prompt v0.4"], ["bht prompt v1.0"], COMMENTATORS)
+    bht_generator.generate_bhts(verses, ["choicest prompt v0.4"], ["bht prompt v1.1"], COMMENTATORS)
