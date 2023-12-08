@@ -1,5 +1,6 @@
 from bibleref import BibleRange, BibleVerse
 import os
+import re
 
 # GLOBALS
 
@@ -141,3 +142,10 @@ def find_all_in_string(substring, input_string):
 def find_all_in_list(item, item_list):
     indices = [i for i in range(len(item_list)) if item_list[i] == item]
     return indices
+
+def remove_html_tags(html_text):
+    if not html_text:
+        return ''
+    text = re.sub(r'<.*?>', '', html_text)
+    text = re.sub(r' +', ' ', text)
+    return text

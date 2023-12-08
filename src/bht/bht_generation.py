@@ -14,7 +14,7 @@ import tiktoken
 from bibleref import BibleRange, BibleVerse
 from gensim.utils import tokenize
 
-from bht.bht import BHT
+from bht.bht import BHT, BHTGeneration
 from bht.multi_threaded_work_queue import MultiThreadedWorkQueue
 from bht.bht_semantics import BHTSemantics
 from bht.bht_common import *
@@ -50,9 +50,11 @@ class BHTGenerator:
 
         return commentator_choicests
 
+    def get_bht_json_path(self, choicest_prompt, bht_prompt, book, chapter, verse):
+        return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/json/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.json'
 
-    def get_bht_output_path(self, choicest_prompt, bht_prompt, book, chapter, verse):
-        return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
+    def get_bht_md_path(self, choicest_prompt, bht_prompt, book, chapter, verse):
+        return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{BHT_FOLDER_NAME}/md/{choicest_prompt} X {bht_prompt}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md'
 
     def get_choicest_output_path(self, choicest_prompt, book, chapter, verse, commentator):
         return f'{WORKING_DIRECTORY}/{OUTPUT_FOLDER}/{CHOICEST_FOLDER_NAME}/{choicest_prompt}/{book}/Chapter {chapter}/Verse {verse}/{commentator}.txt'
@@ -81,16 +83,18 @@ class BHTGenerator:
 
         messages.append({
             "role": "user",
-            "content": f'[Commentary]\n{commentary}\n'
+            "content": f'[Verse]\n{verse_ref}\n\n[Commentary]\n{commentary}\n'
         })
 
         messages.extend(extra_messages)
 
         model = "gpt-3.5-turbo"
-        token_count = sum(len(self.ENCODING.encode(message["content"])) for message in messages)
-        if token_count > 4097:
-            print(f"ℹ️  {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
-            model += "-16k"
+
+        ### gpt-3.5-turbo now supports 16k
+        # token_count = sum(len(self.ENCODING.encode(message["content"])) for message in messages)
+        # if token_count > 4097:
+        #     print(f"ℹ️  {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
+        #     model += "-16k"
 
         try:
             chat_completion = openai.ChatCompletion.create(
@@ -131,7 +135,7 @@ class BHTGenerator:
                     out_path = self.get_choicest_output_path(choicest_prompt, book, chapter, verse, commentator)
 
                     choicest_not_empty = (os.path.exists(out_path) and not not open(out_path, 'r', encoding='utf-8').read().strip())
-                    commentary = get_commentary(commentator, verse_ref)
+                    commentary = remove_html_tags(get_commentary(commentator, verse_ref))
                     no_commentary = not commentary
 
                     if no_commentary or (not force_redo and choicest_not_empty):
@@ -239,22 +243,25 @@ class BHTGenerator:
 
         messages.append({
             "role": "user",
-            "content": f"[First tier commentary]\n{join_commentary(tiers[1])}\n\n[Second tier commentary]\n{join_commentary(tiers[2])}\n\n[Third tier commentary]\n{join_commentary(tiers[3])}\n\n"
+            "content": f"[Verse]\n{verse_ref}\n\n[First tier commentary]\n{join_commentary(tiers[1])}\n\n[Second tier commentary]\n{join_commentary(tiers[2])}\n\n[Third tier commentary]\n{join_commentary(tiers[3])}\n\n"
         })
 
         messages.extend(extra_messages)
 
         model = "gpt-3.5-turbo"
-        token_count = sum(len(self.ENCODING.encode(message["content"])) for message in messages)
-        if token_count > 4097:
-            print(f"ℹ️  {verse_ref} Too many tokens. Using 16k Context instead.")
-            model += "-16k"
+
+        ### gpt-3.5-turbo now supports 16k
+        # token_count = sum(len(self.ENCODING.encode(message["content"])) for message in messages)
+        # if token_count > 4097:
+        #     print(f"ℹ️  {verse_ref} Too many tokens. Using 16k Context instead.")
+        #     model += "-16k"
 
         try:
             chat_completion = openai.ChatCompletion.create(
                 model=model, 
                 messages=messages,
-                request_timeout=15
+                request_timeout=15,
+                temperature=0.2
             )
         except openai.error.InvalidRequestError:
             print(f"ℹ️  {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
@@ -284,11 +291,12 @@ class BHTGenerator:
                 debug_logs = []
                 book, chapter, verse = get_book_chapter_verse(verse_ref)
 
-                out_path = self.get_bht_output_path(choicest_prompt, bht_prompt, book, chapter, verse)
+                out_path_md = self.get_bht_md_path(choicest_prompt, bht_prompt, book, chapter, verse)
+                out_path_json = self.get_bht_json_path(choicest_prompt, bht_prompt, book, chapter, verse)
 
                 # print(f"🟧 {verse_ref} {bht_prompt}")
 
-                if not force_redo and os.path.exists(out_path) and not not open(out_path, 'r', encoding='utf-8').read().strip():
+                if not force_redo and os.path.exists(out_path_json) and not not open(out_path_json, 'r', encoding='utf-8').read().strip()and os.path.exists(out_path_md) and not not open(out_path_md, 'r', encoding='utf-8').read().strip():
                     msg = f"✅ {verse_ref} {bht_prompt} File already populated."
                     debug_logs.append(msg)
                     print(msg)
@@ -301,16 +309,17 @@ class BHTGenerator:
                 strict_proportion_limits = (0.5, 0.9)
                 target_proportion = 0.7
                 word_limits = (50, 100)
-                strict_word_limits = (25, 130)
+                strict_word_limits = (40, 130)
                 target_word_count = 80
                 min_proportion_limit, max_proportion_limit = proportion_limits
                 min_word_limit, max_word_limit = word_limits
 
                 extra_messages = []
-                attempts_limit = 10
+                attempts_limit = 5
                 current_attempt = 0
 
                 best_bht = None
+                bht_attempts = []
 
                 while current_attempt < attempts_limit:
                     current_attempt += 1
@@ -326,8 +335,10 @@ class BHTGenerator:
                             quote = re.sub(r'"$', '', quote)
                             choicest_quotes[commentator].append(quote)
 
-                    current_bht = BHT(verse_ref, bht_text, choicest_quotes)
+                    current_bht = BHT(verse_ref, bht_text, choicest_quotes, current_attempt)
                     current_bht.run_generation_time_checks(self.bht_semantics.get_stop_words(), word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion)
+
+                    bht_attempts.append(current_bht)
 
                     # Keep track of best BHT we've seen across all attempts.
                     if current_bht > best_bht:
@@ -358,24 +369,28 @@ class BHTGenerator:
                         #     info_msg.append(f"\n\t- LESS THAN {min_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
 
                         elif current_bht.too_much_from_quotes:
-                            complaints.append(f"Please make sure you are not just copying the quotes.")
+                            complaints.append(f"Please make sure you are not just completely copying the quotes.")
                             info_msg.append(f"\n\t- OVER {max_proportion_limit * 100}% OF BHT WAS FROM QUOTES!")
 
                         if current_bht.commentator_in_tokens:
-                            complaints.append(f"Please do not use the word 'commentator' in your response.")
-                            info_msg.append(f"\n\t- 'COMMENTATOR(S)' FOUND IN BHT!")
+                            complaints.append(f"Please do not use the word 'commentator' or 'commentary' in your response.")
+                            info_msg.append(f"\n\t- 'COMMENTATOR/COMMENTARY' FOUND IN BHT!")
 
                         if current_bht.list_detected:
                             complaints.append(f"Please do not provide any kind of list. Please make sure your response is a short paragraph of sentences.")
                             info_msg.append(f"\n\t- LIST FORMAT DETECTED!")
 
-                        if current_bht.verse_in_tokens:
-                            complaints.append(f"Please do not use the word 'verse' in your response.")
-                            info_msg.append(f"\n\t- 'VERSE' FOUND IN BHT!")
+                        if current_bht.verse_ref_in_bht:
+                            complaints.append(f"Please do not state the Bible verse reference in your response.")
+                            info_msg.append(f"\n\t- VERSE_REF FOUND IN BHT!")
 
                         if current_bht.passage_in_tokens:
                             complaints.append(f"Please do not use the word 'passage' in your response.")
                             info_msg.append(f"\n\t- 'PASSAGE' FOUND IN BHT!")
+
+                        if current_bht.verse_in_tokens:
+                            complaints.append(f"Please do not use the word 'verse' in your response.")
+                            info_msg.append(f"\n\t- 'VERSE' FOUND IN BHT!")
 
                         extra_messages.append({
                             "role": "user",
@@ -387,12 +402,15 @@ class BHTGenerator:
                         debug_logs.append(msg)
                         print(msg)
 
-                os.makedirs(os.path.dirname(out_path), exist_ok=True)
+                os.makedirs(os.path.dirname(out_path_md), exist_ok=True)
 
                 debug_logs.append(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes)")
                 debug_logs.append(f"quality score: {best_bht.quality_score}, V2 normalized quality score: {best_bht.v2_normalized_quality_score}, commentator tiers 1-3: {(best_bht.t1_percent)}%, {(best_bht.t2_percent)}%, {(best_bht.t3_percent)}%)")
 
-                with open(out_path, 'w', encoding='utf-8') as out_file:
+                generation_timestamp_string = datetime.datetime.now().strftime('%m-%d-%Y %H:%M:%S')
+
+                # write md file
+                with open(out_path_md, 'w', encoding='utf-8') as out_file:
                     out_file.write(f"# {verse_ref} Commentary Help Text\n\n")
                     out_file.write(f"## BHT:\n{best_bht.bht}\n\n")
 
@@ -404,7 +422,7 @@ class BHTGenerator:
 
                     out_file.write(f"## Debug Info\n")
                     out_file.write(f"### Generation Details\n")
-                    out_file.write(f"- Timestamp: {datetime.datetime.now().strftime('%m-%d-%Y %H:%M:%S')}\n")
+                    out_file.write(f"- Timestamp: {generation_timestamp_string}\n")
                     out_file.write(f"- Choicest Prompt: \"{choicest_prompt}\"\n")
                     out_file.write(f"- BHT Prompt: \"{bht_prompt}\"\n")
                     out_file.write(f"- Commentators: \"{', '.join(commentators)}\"\n")
@@ -417,6 +435,14 @@ class BHTGenerator:
                     out_file.write('\n')
                     out_file.write(f"### Logs\n")
                     out_file.write('- ' + '\n- '.join(debug_logs))
+
+                # write json file
+                single_bht_generation = BHTGeneration(generation_timestamp_string, best_bht, choicest_prompt, bht_prompt, commentators, bht_attempts, attempts_limit)
+
+                os.makedirs(os.path.dirname(out_path_json), exist_ok=True)
+
+                with open(out_path_json, 'w', encoding='utf-8') as out_file:
+                    out_file.write(single_bht_generation.to_json())
                 
                 print(f"✅ {verse_ref} {bht_prompt} ({best_bht.word_count} words, {best_bht.proportion_percentage}% quotes, quality score: {best_bht.quality_score})")
 

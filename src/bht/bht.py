@@ -5,14 +5,41 @@ from bht.bht_analysis import BHTAnalyzer
 from bht.bht_common import get_book_chapter_verse, get_commentatory_shorthand_name
 from bht.bht_semantics import NLP
 
+class BHTGeneration:
+    def __init__(self, timestamp_string, bht, choicest_prompt_version, bht_prompt_version, commentators, bht_attempts, attempts_limit):
+        self.timestamp_string = timestamp_string
+        self.bht = bht
+        self.choicest_prompt_version = choicest_prompt_version
+        self.bht_prompt_version = bht_prompt_version
+        self.commentators = commentators
+        self.bht_attempts = bht_attempts
+        self.attempts_limit = attempts_limit
+
+    def to_json(self):
+        data = {
+            "timestamp": self.timestamp_string,
+            "verseRef": self.bht.verse_ref,
+            "bestBHT": eval(self.bht.to_json()),
+            "choicestQuotes": self.bht.choicest_quotes,
+            "choicestPrompt": self.choicest_prompt_version,
+            "bhtPrompt": self.bht_prompt_version,
+            "commentators": self.commentators,
+            "bhtAttemptsLimit": self.attempts_limit,
+            "bhtAttemptsCount": len(self.bht_attempts),
+            "bhtAttempts": [eval(b.to_json()) for b in self.bht_attempts],
+        }
+
+        return json.dumps(data, indent=4)
+
 class BHT:
-    def __init__(self, verse_ref, bht_text, choicest_quotes):
+    def __init__(self, verse_ref, bht_text, choicest_quotes, generation_attempt = -1):
         self.verse_ref = verse_ref
 
         self.bht = bht_text
         self.bht = self.bht.replace("\"", "") # Remove quotation marks.
 
         self.choicest_quotes = choicest_quotes
+        self.generation_attempt = generation_attempt
         
         self.tokens = list(tokenize(self.bht.lower()))
         self.tokens_set = set(self.tokens)
@@ -22,6 +49,9 @@ class BHT:
         self.quality_score = None
 
         self.checked = False
+
+        # self.footnotes = self.bht_analyzer.get_footnotes(self.verse_ref, self.bht, self.choicest_quotes)
+
 
     def run_generation_time_checks(self, stop_words_set, word_limits, proportion_limits, strict_word_limits, strict_proportion_limits, target_word_count, target_proportion):
         if self.checked:
@@ -55,8 +85,9 @@ class BHT:
 
         excluded_words_set = set(["commentator", "commentators", "verse", "passage"])
 
-        self.commentator_in_tokens = "commentator" in self.tokens_set or "commentators" in self.tokens_set or "commentary" in self.tokens_set
+        self.commentator_in_tokens = "commentator" in self.tokens_set or "commentators" in self.tokens_set or "commentary" in self.tokens_set or "commentaries" in self.tokens_set
         self.verse_in_tokens = "verse" in self.tokens_set
+        self.verse_ref_in_bht = self.verse_ref in self.bht
         self.passage_in_tokens = "passage" in self.tokens_set
         self.excluded_word_in_tokens = len(self.tokens_set | excluded_words_set) > 0
         self.list_detected = re.search(r'(^|\n)\d[\.)] .*', self.bht)
@@ -89,8 +120,9 @@ class BHT:
             # self.not_enough_from_quotes,
             self.too_much_from_quotes,
             # self.excluded_word_in_tokens,
-            self.verse_in_tokens,
             self.commentator_in_tokens,
+            self.verse_ref_in_bht,
+            self.verse_in_tokens,
             self.passage_in_tokens,
             self.list_detected,
         ]
@@ -100,23 +132,24 @@ class BHT:
 
     def get_score_tuple(self):
         return (
-            not self.list_detected,
-            not self.too_much_from_quotes,
+            not self.list_detected,            
             # not self.excluded_word_in_tokens,
-            not self.passage_in_tokens, 
-            not self.verse_in_tokens,
             not self.commentator_in_tokens,
+            not self.passage_in_tokens, 
+            not self.verse_ref_in_bht,
+            not self.verse_in_tokens,
+            not self.too_much_from_quotes,
             not self.outside_strict_word_limits, 
             not self.outside_strict_proportion_limits,
-            not self.not_enough_words,
-            not self.too_many_words,
+            # not self.not_enough_words,
+            # not self.too_many_words,
             # not self.not_enough_from_quotes,
             # self.content_score
             self.quality_score,
         )
 
     def passes_checks(self):
-        return not any(self.get_generation_time_checks()) and self.quality_score > 2.3
+        return not any(self.get_generation_time_checks()) and self.quality_score >= 2
     
     def generate_footnotes(self):
         self.footnotes = self.bht_analyzer.get_footnotes(self.verse_ref, self.bht, self.choicest_quotes)
@@ -151,11 +184,18 @@ class BHT:
     def to_json(self):
         return json.dumps({
             "bht": self.bht,
-            "quotes": self.choicest_quotes
-        })
+            "wordCount": self.word_count,
+            "quoteTokenProportion": self.proportion_percentage,
+            "qualityScore": self.quality_score,
+            "qualityScoreNormalizedComparedToV2BHTs": self.v2_normalized_quality_score,
+            "commentatorTierSimilarities": [self.t1_percent, self.t2_percent, self.t3_percent],
+            "generationAttempt": self.generation_attempt,
+            # "injectedWords": self.injected_words,
+            # "injectedSignificantWords": self.injected_significant_words
+        }, indent=4)
 
 
-class BHTGen:
+class BHTVersion:
     def __init__(self, version_number, all_bht_objects):
         self.version_number = version_number # int
         self.all_bht_objects = all_bht_objects # list of BHTWithFootnotes
@@ -166,7 +206,7 @@ class BHTGen:
             "bhts": [eval(bht.to_json()) for bht in self.all_bht_objects]
         }
 
-        return json.dumps(data)
+        return json.dumps(data, indent=4)
 
 
 class BHTWithFootnotes:
@@ -187,7 +227,7 @@ class BHTWithFootnotes:
             "footnotes": eval(self.footnotes.to_json())
         }
 
-        return json.dumps(data)
+        return json.dumps(data, indent=4)
 
 
 class Footnotes:
@@ -212,7 +252,7 @@ class Footnotes:
             "footnotes": footnotes,
         }
 
-        return json.dumps(footnotes)
+        return json.dumps(footnotes, indent=4)
 
 
 class Footnote:
@@ -233,7 +273,7 @@ class Footnote:
             "indexLocation": self.location
         }
 
-        return json.dumps(data)
+        return json.dumps(data, indent=4)
 
 
 # class ChoicestQuotesFromCommentator:
@@ -261,7 +301,7 @@ class ChoicestQuotesForVerse:
             self.choicest_quotes[get_commentatory_shorthand_name(k)] = v
 
     def to_json(self):
-        return json.dumps(self.choicest_quotes)
+        return json.dumps(self.choicest_quotes, indent=4)
 
 
 if __name__ == '__main__':

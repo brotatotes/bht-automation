@@ -1,7 +1,7 @@
 from bht.bht_analysis import BHTAnalyzer
 from bht.bht_common import get_verses_from_folder
 from bht.bht_semantics import NLP, nltk
-from bht.bht import Footnotes, BHTWithFootnotes, BHTGen, ChoicestQuotesForVerse
+from bht.bht import Footnotes, BHTWithFootnotes, BHTVersion, ChoicestQuotesForVerse
 import json
 import time
 
@@ -38,7 +38,7 @@ if __name__ == '__main__':
 
         footnotes_by_verse[verse_ref] = footnotes_obj
 
-    bht_gen = BHTGen(float(bht_folder.split()[-1]), all_bht_objs)
+    bht_gen = BHTVersion(float(bht_folder.split()[-1]), all_bht_objs)
 
     with open(f'scripts output/footnotes-{bht_folder}.json', 'w') as f:
         f.write(bht_gen.to_json())

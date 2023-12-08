@@ -242,7 +242,7 @@ class BHTAnalyzer:
 
         return 100 * (q_score - low) / (high - low)
     
-    def get_footnotes(self, verse_ref, bht, choicest_quotes, top_n = 30):
+    def get_footnotes(self, verse_ref, bht, choicest_quotes, top_n = 100):
         similarity_scores = self.compute_similarity_scores(verse_ref, bht, choicest_quotes)
         footnotes = {}
         quote_locations = {}

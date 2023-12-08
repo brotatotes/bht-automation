@@ -11,6 +11,7 @@ class MultiThreadedWorkQueue:
         self.threads = []
         self.max_retries = max_retries
         self.queue_size = 0
+        self.global_wait_time = 0
 
     def do_work(self, func, args):
         retries = 0
@@ -19,14 +20,19 @@ class MultiThreadedWorkQueue:
             try:
                 func(*args)
                 successful = True
+                with self.lock: 
+                    self.global_wait_time = max(0, self.global_wait_time - 1)
                 break
             except Exception as e:
                 retries += 1
+                with self.lock:
+                    self.global_wait_time += 1
                 print(f"❗{args[0]} An error occurred: {e}")
-                # print(traceback.format_exc()) # debugging.
-                wait_time = 2 ** retries # exponential backoff.
-                print(f"Try # {retries} Retrying in {wait_time} seconds...")
-                time.sleep(wait_time)
+                print(traceback.format_exc()) # debugging.
+                # wait_time = 2 ** retries # exponential backoff.
+                print(f"Try # {retries} Retrying in {self.global_wait_time} seconds...")
+                time.sleep(self.global_wait_time)
+
 
         if not successful:
             print(f"❌ Failed {retries} times. Adding to end of queue to try again later. ❌\n\t{args}")
@@ -66,4 +72,4 @@ class MultiThreadedWorkQueue:
     def stop(self):
         for thread in self.threads:
             thread.join()
-        print(f"All tasks completed! That took {self.completion_time} seconds.")
+        print(f"All tasks completed! That took {self.completion_time / 60} minutes.")
