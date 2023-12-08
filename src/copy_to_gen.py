@@ -1,9 +1,9 @@
 import shutil, os
 
-CHOICEST_PROMPT = "choicest prompt v2"
-BHT_PROMPT = "bht prompt v5"
-source_folder = f"gpt output/bht/{CHOICEST_PROMPT} X {BHT_PROMPT}"
-dest_folder = f"bht gen 2"
+CHOICEST_PROMPT = "choicest prompt v0.4"
+BHT_PROMPT = "bht prompt v1.2"
+source_folder = f"gpt output/bht/md/{CHOICEST_PROMPT} X {BHT_PROMPT}"
+dest_folder = f"bht gen 2.5"
 
 for root, dirs, files in os.walk(source_folder):
     for file_name in files:
