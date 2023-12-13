@@ -72,7 +72,7 @@ class BHTGenerator:
 
     # Generate Choicest Piece
 
-    def ask_gpt_choicest(self, commentator, commentary, verse_ref, choicest_prompt, extra_messages):
+    def ask_gpt_choicest(self, commentator, commentary, verse_ref, choicest_prompt, extra_messages, debug):
         prompt_text = get_prompt(CHOICEST_FOLDER_NAME, choicest_prompt)
         messages = []
 
@@ -96,6 +96,14 @@ class BHTGenerator:
         #     print(f"ℹ️  {verse_ref} {commentator} Too many tokens. Using 16k Context instead.")
         #     model += "-16k"
 
+        if debug:
+            for msg in messages:
+                print(msg['role'])
+                print(msg['content'])
+                print()
+            print('-------------------------')
+            input()
+
         try:
             chat_completion = openai.ChatCompletion.create(
                 model=model, 
@@ -113,18 +121,18 @@ class BHTGenerator:
         return chat_completion.choices[0].message["content"]
 
 
-    def ask_gpt_choicest_with_retry(self, commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries=0, try_limit=10):
+    def ask_gpt_choicest_with_retry(self, commentator, commentary, verse_ref, choicest_prompt, extra_messages, debug, tries=0, try_limit=10):
         if tries >= try_limit:
             raise Exception(f"❌ Failed {try_limit} times to get choicest. Quitting. ❌")
         
         try:
-            return self.ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
+            return self.ask_gpt_choicest(commentator, commentary, verse_ref, choicest_prompt, extra_messages, debug)
         except TimeoutError:
             print(f"Attempt {tries} timed out. Trying again.")
-            return self.ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages, tries + 1, try_limit)
+            return self.ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages, debug, tries + 1, try_limit)
 
 
-    def record_gpt_choicest(self, verse_ref, choicest_prompts, commentators, force_redo=False):
+    def record_gpt_choicest(self, verse_ref, choicest_prompts, commentators, force_redo=False, debug=False):
         for commentator in commentators:        
                 for choicest_prompt in choicest_prompts:
 
@@ -162,7 +170,7 @@ class BHTGenerator:
                         while tries < max_tries:
                             tries += 1
                             
-                            choicest = self.ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages)
+                            choicest = self.ask_gpt_choicest_with_retry(commentator, commentary, verse_ref, choicest_prompt, extra_messages, debug)
                             choicest = choicest.replace('\n\n', '\n')
                             choicest_tokens = list(tokenize(choicest.lower()))
                             choicest_tokens_set = set(choicest_tokens)
@@ -218,7 +226,7 @@ class BHTGenerator:
 
 
     # Generate BHT! 
-    def ask_gpt_bht(self, verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages):
+    def ask_gpt_bht(self, verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, debug):
         if not commentator_choicests:
             print(f"No commentary choicests found for {verse_ref}")
             return ""
@@ -239,7 +247,7 @@ class BHTGenerator:
             tier = self.get_commentator_tier(commentator)
             tiers[tier].append(choicest)
 
-        join_commentary = lambda choicests: '\n'.join(choicests)
+        join_commentary = lambda choicests: re.sub(r'^\d. ', '- ', '\n'.join(choicests), flags=re.MULTILINE)
 
         messages.append({
             "role": "user",
@@ -255,13 +263,21 @@ class BHTGenerator:
         # if token_count > 4097:
         #     print(f"ℹ️  {verse_ref} Too many tokens. Using 16k Context instead.")
         #     model += "-16k"
+        
+        if debug:
+            for msg in messages:
+                print(msg['role'])
+                print(msg['content'])
+                print()
+            print('-------------------------')
+            input()
 
         try:
             chat_completion = openai.ChatCompletion.create(
                 model=model, 
                 messages=messages,
                 request_timeout=15,
-                temperature=0.2
+                temperature=1
             )
         except openai.error.InvalidRequestError:
             print(f"ℹ️  {verse_ref} {commentator} Something went wrong. Trying 16k Context.")
@@ -274,18 +290,18 @@ class BHTGenerator:
         return chat_completion.choices[0].message["content"]
 
 
-    def ask_gpt_bht_with_retry(self, verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries=0, try_limit=10):
+    def ask_gpt_bht_with_retry(self, verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, debug, tries=0, try_limit=10):
         if tries >= try_limit:
             raise Exception(f"❌ Failed {try_limit} times to get bht. Quitting. ❌")
         
         try:
-            return self.ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages)
+            return self.ask_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, debug)
         except TimeoutError:
             print(f"Attempt {tries} timed out. Trying again.")
-            return self.ask_gpt_bht_with_retry(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, extra_messages, tries + 1)
+            return self.ask_gpt_bht_with_retry(verse_ref, choicest_prompts, bht_prompts, commentator_choicests, debug, extra_messages, tries + 1)
 
 
-    def record_gpt_bht(self, verse_ref, choicest_prompts, bht_prompts, commentators, force_redo=False):
+    def record_gpt_bht(self, verse_ref, choicest_prompts, bht_prompts, commentators, force_redo=False, debug=False):
         for choicest_prompt in choicest_prompts:
             for bht_prompt in bht_prompts:
                 debug_logs = []
@@ -308,9 +324,11 @@ class BHTGenerator:
                 proportion_limits = (0.5, 0.9)
                 strict_proportion_limits = (0.5, 0.9)
                 target_proportion = 0.7
-                word_limits = (50, 100)
-                strict_word_limits = (40, 130)
-                target_word_count = 80
+                # word_limits = (50, 100)
+                # strict_word_limits = (40, 130)
+                word_limits = (30, 70)
+                strict_word_limits = (20, 80)
+                target_word_count = 50
                 min_proportion_limit, max_proportion_limit = proportion_limits
                 min_word_limit, max_word_limit = word_limits
 
@@ -323,7 +341,7 @@ class BHTGenerator:
 
                 while current_attempt < attempts_limit:
                     current_attempt += 1
-                    bht_text = self.ask_gpt_bht_with_retry(verse_ref, choicest_prompt, bht_prompt, commentator_choicests, extra_messages)
+                    bht_text = self.ask_gpt_bht_with_retry(verse_ref, choicest_prompt, bht_prompt, commentator_choicests, extra_messages, debug)
 
                     choicest_quotes = {}
                     for commentator in commentator_choicests:
@@ -359,7 +377,7 @@ class BHTGenerator:
 
                         if current_bht.too_many_words:
                             complaints.append(f"Please limit your response to {max_word_limit} words.")
-                            info_msg.append(f"\n\t- BHT WAS OVER 100 WORDS!")
+                            info_msg.append(f"\n\t- BHT WAS OVER {max_word_limit} WORDS!")
                         elif current_bht.not_enough_words:
                             complaints.append(f"Please make sure your response is at least {min_word_limit} words.")
                             info_msg.append(f"\n\t- BHT WAS UNDER {min_word_limit} WORDS!")
@@ -392,10 +410,13 @@ class BHTGenerator:
                             complaints.append(f"Please do not use the word 'verse' in your response.")
                             info_msg.append(f"\n\t- 'VERSE' FOUND IN BHT!")
 
-                        extra_messages.append({
-                            "role": "user",
-                            "content": ' '.join(complaints)
-                        })
+                        if complaints:
+                            extra_messages.append({
+                                "role": "user",
+                                "content": ' '.join(complaints)
+                            })
+                        else:
+                            extra_messages = []
                         
                         msg = ' '.join(info_msg)
                         debug_logs.append(f"Attempt {current_attempt} BHT: {current_bht.bht}")
@@ -451,17 +472,19 @@ class BHTGenerator:
 
     # Get all choicests and generate the bht from scratch.
 
-    def generate_bht(self, verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht):
-        self.record_gpt_choicest(verse_ref, choicest_prompts, commentators, redo_choicest)
-        self.record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, redo_bht)
+    def generate_bht(self, verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht, debug):
+        self.record_gpt_choicest(verse_ref, choicest_prompts, commentators, redo_choicest, debug)
+        self.record_gpt_bht(verse_ref, choicest_prompts, bht_prompts, commentators, redo_bht, debug)
 
-    def generate_bhts(self, verse_refs, choicest_prompts, bht_prompts, commentators, redo_choicest=False, redo_bht=False):
+    def generate_bhts(self, verse_refs, choicest_prompts, bht_prompts, commentators, redo_choicest=False, redo_bht=False, debug=False):
         work_queue = MultiThreadedWorkQueue()
 
         for verse_ref in verse_refs:
-            work_queue.add_task(self.generate_bht, (verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht))
+            work_queue.add_task(self.generate_bht, (verse_ref, choicest_prompts, bht_prompts, commentators, redo_choicest, redo_bht, debug))
 
-        input(f"About to generate BHTs for {len(verse_refs)} verses. OK? ")
+        # input(f"About to generate BHTs for {len(verse_refs)} verses. OK? ")
+        print(f"About to generate BHTs for {len(verse_refs)} verses...")
+        time.sleep(3)
 
         work_queue.start()
         work_queue.wait_for_completion()

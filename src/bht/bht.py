@@ -33,7 +33,7 @@ class BHTGeneration:
 
 class BHT:
     def __init__(self, verse_ref, bht_text, choicest_quotes, generation_attempt = -1):
-        self.verse_ref = verse_ref
+        self.verse_ref = str(verse_ref)
 
         self.bht = bht_text
         self.bht = self.bht.replace("\"", "") # Remove quotation marks.
@@ -87,7 +87,7 @@ class BHT:
 
         self.commentator_in_tokens = "commentator" in self.tokens_set or "commentators" in self.tokens_set or "commentary" in self.tokens_set or "commentaries" in self.tokens_set
         self.verse_in_tokens = "verse" in self.tokens_set
-        self.verse_ref_in_bht = self.verse_ref in self.bht
+        self.verse_ref_in_bht = self.verse_ref in self.bht or (get_book_chapter_verse(self.verse_ref)[0]) in self.bht
         self.passage_in_tokens = "passage" in self.tokens_set
         self.excluded_word_in_tokens = len(self.tokens_set | excluded_words_set) > 0
         self.list_detected = re.search(r'(^|\n)\d[\.)] .*', self.bht)

@@ -131,7 +131,6 @@ class BHTSemantics:
 
 if __name__ == '__main__':
     # Process original content and summary
-    print(get_clauses("All the elements - the physical works of God - the winds and waves - the seas and rivers - all are under him, and all are to be made tributary to the welfare of the church."))
 
     doc_original = """
 1. "[Christ is] Head over all things to the Church, which same is His BODY, the fulness of Him who filleth all things." 
@@ -185,3 +184,5 @@ Marriage is a divine union that God has joined together, and it should not be tr
     print("bert", bht_semantics.calculate_similarity_bert(doc_summary1, doc_original), bht_semantics.calculate_similarity_bert(doc_summary2, doc_original))
     print("roberta", bht_semantics.calculate_similarity_roberta(doc_summary1, doc_original), bht_semantics.calculate_similarity_roberta(doc_summary2, doc_original))
     print("tensorflow", bht_semantics.calculate_similarity_tensorflow(doc_summary1, doc_original), bht_semantics.calculate_similarity_tensorflow(doc_summary2, doc_original))
+
+    

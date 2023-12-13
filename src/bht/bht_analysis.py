@@ -18,6 +18,11 @@ class BHTAnalyzer:
     def __init__(self):
         self.bht_semantics = BHTSemantics()
 
+    def get_score_details(self, folder, verse_ref):
+        bht, quotes = self.get_bht_and_quotes(folder, verse_ref)
+        score, t1, t2, t3 = self.compute_quality_score(verse_ref, bht, quotes)
+        return score, t1, t2, t3
+
     def get_bht_content(self, folder_to_check, book, chapter, verse):
         return open(f"{folder_to_check}/{book}/Chapter {chapter}/{book} {chapter} {verse} bht.md", 'r', encoding="utf-8").read()
     
@@ -218,6 +223,14 @@ class BHTAnalyzer:
             final_sim_score /= tier_weight
 
         return final_sim_score, quote_availability_score, t1_avg, t2_avg, t3_avg
+
+        # t1_med = self.med(tier1)
+        # t2_med = self.med(tier2)
+        # t3_med = self.med(tier3)
+
+        # final_sim_score = (t1_med * 3 + t2_med * 2 + t3_med) / tier_weight
+
+        # return final_sim_score, quote_availability_score, t1_med, t2_med, t3_med
     
     
     def compute_quality_score(self, verse_ref, bht, choicest_quotes):
@@ -367,6 +380,12 @@ class BHTAnalyzer:
             return 0
         
         return sum(nums) / len(nums)
+    
+    def med(self, nums):
+        if not nums:
+            return 0
+        
+        return nums[len(nums) // 2]
 
 
     def get_similarity_scores(self):
@@ -385,7 +404,8 @@ class BHTAnalyzer:
                 if commentator not in similarity_scores[verse_ref]:
                     similarity_scores[verse_ref][commentator] = []    
 
-                similarity_scores[verse_ref][commentator].append(2 * float(semantic_similarity) + float(token_similarity))
+                # similarity_scores[verse_ref][commentator].append(2 * float(semantic_similarity) + float(token_similarity))
+                similarity_scores[verse_ref][commentator].append(0.9 * float(semantic_similarity) + 0.1 * float(token_similarity))
 
         overall_similarity_scores = {}
         for verse_ref in similarity_scores:
