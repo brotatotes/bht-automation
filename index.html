@@ -69,7 +69,7 @@
             const chapter = document.getElementById("chapter").value;
             const verse = document.getElementById("verse").value;
             const file_path_1 = `bht gen 2/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
-            const file_path_2 = `bht gen 2.5/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
+            const file_path_2 = `bht gen 3/${book}/Chapter ${chapter}/${book} ${chapter} ${verse} bht.md`;
             
             const leftColumnDiv = document.getElementById('left-column');
             const rightColumnDiv = document.getElementById('right-column');
@@ -92,13 +92,13 @@
             fetch(file_path_2) // Specify the path to your text file
                 .then(response => {
                     if (!response.ok) {
-                        rightColumnDiv.innerHTML = "<h1>V2.5</h1>\n" + `<p>${book} ${chapter}:${verse} for BHT Version 2.5 could not be found.\nIt might not have been generated yet...</p>`;
+                        rightColumnDiv.innerHTML = "<h1>V3</h1>\n" + `<p>${book} ${chapter}:${verse} for BHT Version 3 could not be found.\nIt might not have been generated yet...</p>`;
                         throw new Error('Network response was not ok');
                     }
                     return response.text();
                 })
                 .then(data => {
-                    rightColumnDiv.innerHTML = "<h1>V2.5</h1>\n" + marked.parse(data);
+                    rightColumnDiv.innerHTML = "<h1>V3</h1>\n" + marked.parse(data);
                 })
                 .catch(error => {
                     console.error('Error:', error);

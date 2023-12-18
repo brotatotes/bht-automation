@@ -1,6 +1,5 @@
 from textstat import flesch_reading_ease, flesch_kincaid_grade, gunning_fog, automated_readability_index, dale_chall_readability_score
 
-from readability import Readability
 
 def calculate_flesch_kincaid_grade(text):
     return flesch_kincaid_grade(text)
@@ -37,9 +36,6 @@ def display_readability_metrics(text):
 
     print()
 
-    # r = Readability(text)
-    # flesch = r.flesch()
-    # print("flesch:", flesch.score, flesch.ease, flesch.grade_levels)
 
 # Example usage:
 if __name__ == "__main__":

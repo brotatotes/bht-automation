@@ -242,6 +242,7 @@ class BHTAnalyzer:
                 aggregated_sim_scores_by_commentator[commentator] = []
 
             aggregated_sim_scores_by_commentator[commentator].append(2 * float(semantic_similarity) + float(token_similarity))
+            # aggregated_sim_scores_by_commentator[commentator].append(0.9 * float(semantic_similarity) + 0.1 * float(token_similarity))
 
         final_sim_score, quote_availability_score, t1_avg, t2_avg, t3_avg = self.aggregate_quality_score(aggregated_sim_scores_by_commentator)
 
@@ -404,8 +405,8 @@ class BHTAnalyzer:
                 if commentator not in similarity_scores[verse_ref]:
                     similarity_scores[verse_ref][commentator] = []    
 
-                # similarity_scores[verse_ref][commentator].append(2 * float(semantic_similarity) + float(token_similarity))
-                similarity_scores[verse_ref][commentator].append(0.9 * float(semantic_similarity) + 0.1 * float(token_similarity))
+                similarity_scores[verse_ref][commentator].append(2 * float(semantic_similarity) + float(token_similarity))
+                # similarity_scores[verse_ref][commentator].append(0.9 * float(semantic_similarity) + 0.1 * float(token_similarity))
 
         overall_similarity_scores = {}
         for verse_ref in similarity_scores:

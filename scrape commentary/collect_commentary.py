@@ -8,7 +8,7 @@ STUDYLIGHT_URL = "https://studylight.org"
 COMMENTARY_FOLDER = "scripts output/scrape commentary/commentary_output"
 
 STUDYLIGHT_NT_VERSE_PARTITIONED_COMMENTARIES = {
-    "Henry Alford" : "https://studylight.org/commentaries/eng/hac.html",
+    "Henry Alford (Greek)" : "https://studylight.org/commentaries/eng/hac.html",
     "Jamieson-Fausset-Brown" : "https://studylight.org/commentaries/eng/jfb.html",
     "Albert Barnes" : "https://studylight.org/commentaries/eng/bnb.html",
     "Marvin Vincent" : "https://studylight.org/commentaries/eng/vnt.html",

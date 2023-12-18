@@ -6,12 +6,14 @@ from bht.bht_common import *
 from bht.bht_analysis import BHTAnalyzer
 from bht.bht_generation import BHTGenerator
 from bht.multi_threaded_work_queue import MultiThreadedWorkQueue
+from bibleref import BibleRange
+
 
 # params
 choicest_prompt = "choicest prompt v0.4"
-bht_prompt = "bht prompt v1.3"
+bht_prompt = "bht prompt v0.7"
 REGENERATE_BHTS = True
-RECOMPUTE_V2_SCORES = True
+RECOMPUTE_V2_SCORES = False
 n = 200
 
 
@@ -113,6 +115,11 @@ for group in groups:
         # verse_ref, score = random.choice(group)
         verses.append(verse_ref)
         verses_and_scores.append((verse_ref, score))
+
+# inject custom test set
+verses = [str(v) for v in BibleRange("Matthew 22:1-14")]
+verses_and_scores = [(v, scores[v]) for v in verses]
+
 
 print(f"Selected {len(verses)} verses.")
 time.sleep(1)

@@ -1,7 +1,7 @@
 import shutil, os
 
 CHOICEST_PROMPT = "choicest prompt v0.4"
-BHT_PROMPT = "bht prompt v1.2"
+BHT_PROMPT = "bht prompt v0.7"
 source_folder = f"gpt output/bht/md/{CHOICEST_PROMPT} X {BHT_PROMPT}"
 dest_folder = f"bht gen 2.5"
 
