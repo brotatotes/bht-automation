@@ -1,57 +1,55 @@
 # Mark 14:48 Commentary Help Text
 
 ## BHT:
-Jesus refers to himself as a robber or thief when he confronts the crowd who came to arrest him. This incident is mentioned only in Mark's Gospel. During this time, highway robbers, like Barabbas, were seen as heroes. It is ironic that Jesus ends up being crucified between two robbers, occupying the very place that Barabbas would have been.
+Jesus' question highlights the irony of the situation, comparing himself to a thief. In those times, robbers like Barabbas were often revered as heroes. The incident is only recorded by Mark, and there have been speculations about who the thief could have been, ranging from Mark himself, John, James the Just, Lazarus, and even St. Paul.
 
 ## Choicest Commentary Quotes:
 ### Marvin Vincent:
-1. "A thief. Rev., better, robber." 
+1. "A thief. Rev., better, robber."
 2. "The incident is related by Mark only."
 3. "Conjecture has named Mark himself, John, James the Just, Lazarus, the brother of Martha and Mary, and St. Paul!"
 
 ### Archibald T. Robertson:
-1. "Highway robbers like Barabbas were common and were often regarded as heroes."
+1. "Highway robbers like Barabbas were common and were often regarded as heroes." 
 2. "Jesus will be crucified between two robbers in the very place that Barabbas would have occupied."
 
 ### John Gill:
-1. "Are ye come out as against a thief, with swords and with staves, to take me?"
-2. "To the chief priests, and captains of the temple, and the elders, that came with the band and officers."
+1. "Are ye come out as against a thief, with swords and with staves, to take me?" 
+2. "To the chief priests, and captains of the temple, and the elders."
 3. "The Persic version reads, 'to the multitude'."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-13-2023 01:39:23
+- Timestamp: 12-18-2023 19:29:02
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 60
-- BHT Commentary Usage: 50.98%
-- BHT Quality Score: 1.805291255280885
+- BHT Word Count: 56
+- BHT Commentary Usage: 50.0%
+- BHT Quality Score: 1.733089264504369
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (51):
-	['a', 'arrest', 'as', 'barabbas', 'been', 'being', 'between', 'came', 'confronts', 'crowd', 'crucified', 'during', 'ends', 'gospel', 'have', 'he', 'heroes', 'highway', 'him', 'himself', 'in', 'incident', 'ironic', 'is', 'it', 'jesus', 'like', 'mark', 'mentioned', 'occupying', 'only', 'or', 'place', 'refers', 'robber', 'robbers', 's', 'seen', 'that', 'the', 'thief', 'this', 'time', 'to', 'two', 'up', 'very', 'were', 'when', 'who', 'would']
-- ChatGPT injected words (significant words only) (25):
-	['arrest', 'barabbas', 'came', 'confronts', 'crowd', 'crucified', 'ends', 'gospel', 'heroes', 'highway', 'incident', 'ironic', 'jesus', 'like', 'mark', 'mentioned', 'occupying', 'place', 'refers', 'robber', 'robbers', 's', 'seen', 'thief', 'time']
+- ChatGPT injected words (46):
+	['a', 'about', 'and', 'as', 'barabbas', 'been', 'by', 'comparing', 'could', 'even', 'from', 'have', 'heroes', 'highlights', 'himself', 'in', 'incident', 'irony', 'is', 'james', 'jesus', 'john', 'just', 'lazarus', 'like', 'mark', 'of', 'often', 'only', 'paul', 'question', 'ranging', 'recorded', 'revered', 'robbers', 'situation', 'speculations', 'st', 'the', 'there', 'thief', 'those', 'times', 'to', 'were', 'who']
+- ChatGPT injected words (significant words only) (23):
+	['barabbas', 'comparing', 'heroes', 'highlights', 'incident', 'irony', 'james', 'jesus', 'john', 'lazarus', 'like', 'mark', 'paul', 'question', 'ranging', 'recorded', 'revered', 'robbers', 'situation', 'speculations', 'st', 'thief', 'times']
 
 ### Logs
-- Attempt 1 BHT: In Mark 14:48, we see that Jesus refers to himself as a robber or thief when he asks the crowd, Are ye come out as against a thief, with swords and with staves, to take me? This specific incident is mentioned by Mark only. It is interesting to note that at that time, highway robbers like Barabbas were seen as heroes. In a twist of fate, Jesus will be crucified between two robbers in the place where Barabbas would have been.
-- 🔄 Mark 14:48 (attempt 1, 80 words, 56.45% quotes quality score: 1.767567344902141, V2 normalized quality score: 50.11, commentator tiers 1-3: 74.21%, 0.0%, 25.79%) 
+- Attempt 1 BHT: Jesus' question to those who came to arrest him, Are ye come out as against a thief, with swords and with staves, to take me? highlights the irony of the situation. He points out the absurdity of the excessive force used against him, comparing himself to a thief or robber. In those times, highway robbers like Barabbas were often revered as heroes, and Jesus himself will be crucified between two robbers in the very place that Barabbas would have occupied. The incident is only recorded by Mark, and there have been speculations about who the thief could have been, ranging from Mark himself, John, James the Just, Lazarus, and even St. Paul.
+- 🔄 Mark 14:48 (attempt 1, 112 words, 51.28% quotes quality score: 1.5473784947224565, V2 normalized quality score: 42.79, commentator tiers 1-3: 66.92%, 0.0%, 33.08%) 
 	- BHT WAS OVER 70 WORDS! 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 2 BHT: Jesus refers to himself as a robber or thief when he confronts the crowd who came to arrest him. This incident is mentioned only in Mark's Gospel. During this time, highway robbers, like Barabbas, were seen as heroes. It is ironic that Jesus ends up being crucified between two robbers, occupying the very place that Barabbas would have been.
-- 🔄 Mark 14:48 (attempt 2, 60 words, 50.98% quotes quality score: 1.805291255280885, V2 normalized quality score: 51.37, commentator tiers 1-3: 76.98%, 0.0%, 23.02%) 
+- Attempt 2 BHT: Jesus' question highlights the irony of the situation, comparing himself to a thief. In those times, robbers like Barabbas were often revered as heroes. The incident is only recorded by Mark, and there have been speculations about who the thief could have been, ranging from Mark himself, John, James the Just, Lazarus, and even St. Paul.
+- 🔄 Mark 14:48 (attempt 2, 56 words, 50.0% quotes quality score: 1.733089264504369, V2 normalized quality score: 48.97, commentator tiers 1-3: 74.34%, 0.0%, 25.66%) 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 3 BHT: Jesus, in a moment of confrontation, identifies himself as a robber or thief when he questions why the crowd has come against him with swords and staves. This incident is specifically described in the Gospel of Mark. It is worth noting that during that era, highway robbers like Barabbas were often celebrated as heroes. The irony lies in the fact that Jesus is ultimately crucified alongside two robbers, occupying the position that Barabbas would have held.
-- 🔄 Mark 14:48 (attempt 3, 76 words, 42.37% quotes quality score: 1.6817117618071713, V2 normalized quality score: 47.26, commentator tiers 1-3: 73.08%, 0.0%, 26.92%) 
-	- BHT WAS OVER 70 WORDS! 
+- Attempt 3 BHT: Jesus' question highlights the irony of the situation, comparing himself to a thief. In those times, robbers like Barabbas were often revered as heroes. The incident is only recorded by Mark, and there have been speculations about who the thief could have been, ranging from Mark himself, John, James the Just, Lazarus, and even St. Paul.
+- 🔄 Mark 14:48 (attempt 3, 56 words, 50.0% quotes quality score: 1.733089264504369, V2 normalized quality score: 48.97, commentator tiers 1-3: 74.34%, 0.0%, 25.66%) 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 4 BHT: During a moment of confrontation, Jesus refers to himself as a robber or thief when questioning the use of force against him. This incident is unique to the Gospel of Mark. Interestingly, in that time, highway robbers like Barabbas were revered as heroes. The irony is evident as Jesus is ultimately crucified between two robbers, occupying the very place where Barabbas would have stood.
-- 🔄 Mark 14:48 (attempt 4, 64 words, 44.0% quotes quality score: 1.717063735033406, V2 normalized quality score: 48.43, commentator tiers 1-3: 76.18%, 0.0%, 23.82%) 
+- Attempt 4 BHT: Jesus' question highlights the irony of the situation, comparing himself to a thief. In those times, robbers like Barabbas were often revered as heroes. The incident is only recorded by Mark, and there have been speculations about who the thief could have been, ranging from Mark himself, John, James the Just, Lazarus, and even St. Paul.
+- 🔄 Mark 14:48 (attempt 4, 56 words, 50.0% quotes quality score: 1.733089264504369, V2 normalized quality score: 48.97, commentator tiers 1-3: 74.34%, 0.0%, 25.66%) 
 	- VERSE_REF FOUND IN BHT!
-- Attempt 5 BHT: In a surprising twist, Jesus refers to himself as a robber or thief during a confrontational moment, questioning the crowd's use of force against him. This incident is exclusively mentioned in the Gospel of Mark. It is intriguing to consider that during that period, highway robbers, including Barabbas, were esteemed as heroic figures. It is worth noting the irony that Jesus will eventually be crucified between two robbers, occupying the spot intended for Barabbas.
-- 🔄 Mark 14:48 (attempt 5, 75 words, 36.84% quotes quality score: 1.6123984843251389, V2 normalized quality score: 44.95, commentator tiers 1-3: 76.61%, 0.0%, 23.39%) 
-	- BHT WAS OVER 70 WORDS! 
+- Attempt 5 BHT: Jesus' question highlights the irony of the situation as he compares himself to a thief. In the context of that time, robbers like Barabbas were regarded as heroes. Mark is the only gospel that records this incident, and there have been various speculations about the identity of the thief, including Mark himself, John, James the Just, Lazarus, and even St. Paul.
+- 🔄 Mark 14:48 (attempt 5, 61 words, 44.68% quotes quality score: 1.6905495029912916, V2 normalized quality score: 47.55, commentator tiers 1-3: 75.68%, 0.0%, 24.32%) 
 	- VERSE_REF FOUND IN BHT!
-- ✅ Mark 14:48 bht prompt v0.7 (60 words, 50.98% quotes)
-- quality score: 1.805291255280885, V2 normalized quality score: 51.37, commentator tiers 1-3: 76.98%, 0.0%, 23.02%)
+- ✅ Mark 14:48 bht prompt v0.7 (56 words, 50.0% quotes)
+- quality score: 1.733089264504369, V2 normalized quality score: 48.97, commentator tiers 1-3: 74.34%, 0.0%, 25.66%)

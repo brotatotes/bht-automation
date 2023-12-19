@@ -1,46 +1,48 @@
 # Colossians 2:12 Commentary Help Text
 
 ## BHT:
-Baptism symbolizes the burial of the old life and the resurrection to new life in Christ. Through faith, believers put their trust in God's power and are spiritually raised. While the details of baptism may vary, the spiritual truth it represents remains unchanged. It signifies the fellowship with Christ and the transition from the death of sin to the life of religion. Ultimately, baptism is a powerful picture of the change brought about by faith in the heart.
+Baptism is regarded as the burial of the former life, symbolized through immersion. By participating in this act, we declare faith in Christ's death for the forgiveness of our sins. The power of God displayed in Christ's resurrection is a pledge of our spiritual resurrection. While baptism methods may vary, the truths it represents remain constant. Through faith in God's power, we are united with Christ's resurrection and enter into new life.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "the process itself of baptism is regarded as the burial of the former life: originally, perhaps, owing to the practice of immersion."
+1. "The process itself of baptism is regarded as the burial of the former life: originally, perhaps, owing to the practice of immersion, which would most naturally give rise to the idea."
 2. "The things represented by both figures belong to the essentials of the Christian life: the minor details of the sacrament which corresponded to them, may in different ages or climates be varied; but the spiritual figures remain."
-3. "Surely it is dogmatically exact to say that Faith is the hand by which we lay hold on Christ the Ark of our refuge."
+3. "The power of God in raising the dead to life is one and the same in our Lord and in us—the physical power exerted in Him is not only a pledge of the same physical power to be exerted in us, but a condition and assurance of a spiritual power already exerted in us, whereby we are in spirit risen with Christ, the physical resurrection being included and taken for granted in that other and greater one."
 
 ### Jamieson-Fausset-Brown:
-1. "Baptism is regarded as the burial of the old carnal life, to which the act of immersion symbolically corresponds;...to insist on literal immersion in all cases would be mere legal ceremonialism." 
-2. "Faith in God's mighty operation in raising again Jesus is saving faith...the same mighty power of God is exercised in raising one spiritually dead to the life of faith."
-3. "As His literal resurrection is the ground of the power put forth in our spiritual resurrection now, so it is a pledge of our literal resurrection hereafter."
+1. "Baptism is regarded as the burial of the old carnal life, to which the act of immersion symbolically corresponds; and in warm climates where immersion is safe, it is the mode most accordant with the significance of the ordinance."
+2. "Faith in God's mighty operation in raising again Jesus, is saving faith; and it is wrought in the soul by His same 'mighty working' whereby He 'raised Jesus from the dead.'"
+3. "His literal resurrection is the ground of the power put forth in our spiritual resurrection now, so it is a pledge of our literal resurrection hereafter."
 
 ### Albert Barnes:
-1. "Buried with him in baptism..."
-2. "Ye are risen with him - From the death of sin to the life of religion..."
-3. "Through the faith of the operation of God - By a firm belief on the agency of God in raising him up..."
+1. "Buried with him in baptism."
+2. "Ye are risen with him from the death of sin to the life of religion."
+3. "The resurrection of Christ is often represented as the foundation of all our hopes."
 
 ### Marvin Vincent:
-1. "Ye were raised with Him...the raising is not the resurrection to eternal life at Christ's second coming, but the moral resurrection to a new life." 
-2. "The emphasis which is laid on faith in the resurrection."
-3. "vers. 11, 12 should be compared with Romans 6:2-6."
+1. "The raising is not the resurrection to eternal life at Christ's second coming, but the moral resurrection to a new life."
+2. "This corresponds with the drift of the entire passage, with the figurative sense of buried."
+3. "Not the faith which God works, but your faith in God's working: faith in God's energy as displayed in Christ's resurrection."
 
 ### John Calvin:
-1. "Christ, says he, accomplishes in us spiritual circumcision, not through means of that ancient sign, which was in force under Moses, but by baptism."
+1. "He expressly declares that we obtain this by means of baptism, that it may be the more clearly apparent that there is no advantage from circumcision under the reign of Christ."
 2. "By baptism, therefore, we are buried with Christ, because Christ does at the same time accomplish efficaciously that mortification, which he there represents, that the reality may be conjoined with the sign."
-3. "He adds, by faith, for unquestionably it is by it that we receive what is presented to us in baptism. But what faith ? That of his efficacy or operation, by which he means, that faith is founded upon the power of God."
+3. "He takes this, however, for granted, that, inasmuch as it is impossible that believers should be severed from their head, the same power of God, which shewed itself in Christ, is diffused among them all in common."
 
 ### Philip Schaff:
-1. "The fellowship with Christ finds its sign and seal in the rite of baptism, which, as then administered, had its external resemblance to the burial and resurrection of Christ."
+1. "The fellowship with Christ finds its sign and seal in the rite of baptism, which, as then administered, had its external resemblance to the burial and resurrection of Christ." 
+2. "The baptism signified and sealed a fellowship with the resurrection of Christ."
+3. "Only through faith in such a God as able and willing to raise us up spiritually can we partake in this new life."
 
 ### Archibald T. Robertson:
 1. "For all who in the rite of baptism are plunged under the water, thereby declare that they put faith in the expiatory death of Christ for the pardon of their past sins." 
-2. "In the symbol of baptism the resurrection to new life in Christ is pictured with an allusion to Christ's own resurrection and to our final resurrection." 
-3. "Baptism gives a picture of the change already wrought in the heart 'through faith'."
+2. "In the symbol of baptism the resurrection to new life in Christ is pictured with an allusion to Christ's own resurrection and to our final resurrection."
+3. "God had power to raise Christ from the dead and he has power (energy) to give us new life in Christ by faith."
 
 ### John Gill:
-1. "Christ having died for their sins, was laid in the grave, where he continued for a while, and then rose again; and as they were crucified with him, they were also buried with him, as their head and representative; and all their sins too, which he left behind him in the grave, signified by his grave clothes there; and baptism being performed by immersion, when the person baptized is covered with water, and as it were buried in it, is a very significant emblem of all this."
+1. "Christ having died for their sins, was laid in the grave, where he continued for a while, and then rose again; and as they were crucified with him, they were also buried with him, as their head and representative; and all their sins too, which he left behind him in the grave, signified by his grave clothes there."
 2. "This shows now, that baptism was performed by dipping, or covering the whole body in water, for no other form of administration of baptism, as sprinkling, or pouring water on the face, can represent a burial, or be called one."
-3. "it is through faith that saints see themselves buried and risen with Christ, to which the ordinance of baptism is greatly assisting, where there is true faith; for otherwise, without faith, this ordinance will be of no use to any such end and purpose; and it is not any faith that will avail, but that which is of God's operation; faith is not naturally in men, all men have it not; and those that have it, have it not of themselves, it is the gift of God; it is what be works in them, and by his power performs"
+3. "That in baptism saints are risen with Christ, as well as in it buried with him: and this through the faith of the operation of God; that is, it is through faith that saints see themselves buried and risen with Christ."
 
 ### John Wesley:
 1. "The ancient manner of baptizing by immersion is as manifestly alluded to here, as the other manner of baptizing by sprinkling or pouring of water is." 
@@ -50,25 +52,25 @@ Baptism symbolizes the burial of the old life and the resurrection to new life i
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-13-2023 01:40:21
+- Timestamp: 12-18-2023 19:29:24
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 79
-- BHT Commentary Usage: 33.96%
-- BHT Quality Score: 2.4535252944483252
+- BHT Word Count: 76
+- BHT Commentary Usage: 40.0%
+- BHT Quality Score: 2.5131019644822334
 - Generate Attempts: 3 / 5
-- ChatGPT injected words (53):
-	['a', 'about', 'and', 'are', 'baptism', 'believers', 'brought', 'burial', 'by', 'change', 'christ', 'death', 'details', 'faith', 'fellowship', 'from', 'god', 'heart', 'in', 'is', 'it', 'life', 'may', 'new', 'of', 'old', 'picture', 'power', 'powerful', 'put', 'raised', 'religion', 'remains', 'represents', 'resurrection', 's', 'signifies', 'sin', 'spiritual', 'spiritually', 'symbolizes', 'the', 'their', 'through', 'to', 'transition', 'trust', 'truth', 'ultimately', 'unchanged', 'vary', 'while', 'with']
-- ChatGPT injected words (significant words only) (35):
-	['baptism', 'believers', 'brought', 'burial', 'change', 'christ', 'death', 'details', 'faith', 'fellowship', 'god', 'heart', 'life', 'new', 'old', 'picture', 'power', 'powerful', 'raised', 'religion', 'remains', 'represents', 'resurrection', 's', 'signifies', 'sin', 'spiritual', 'spiritually', 'symbolizes', 'transition', 'trust', 'truth', 'ultimately', 'unchanged', 'vary']
+- ChatGPT injected words (50):
+	['a', 'act', 'and', 'are', 'as', 'baptism', 'burial', 'by', 'christ', 'constant', 'death', 'declare', 'displayed', 'enter', 'faith', 'for', 'forgiveness', 'former', 'god', 'immersion', 'in', 'into', 'is', 'it', 'life', 'may', 'methods', 'new', 'of', 'our', 'participating', 'pledge', 'power', 'regarded', 'remain', 'represents', 'resurrection', 's', 'sins', 'spiritual', 'symbolized', 'the', 'this', 'through', 'truths', 'united', 'vary', 'we', 'while', 'with']
+- ChatGPT injected words (significant words only) (30):
+	['act', 'baptism', 'burial', 'christ', 'constant', 'death', 'declare', 'displayed', 'enter', 'faith', 'forgiveness', 'god', 'immersion', 'life', 'methods', 'new', 'participating', 'pledge', 'power', 'regarded', 'remain', 'represents', 'resurrection', 's', 'sins', 'spiritual', 'symbolized', 'truths', 'united', 'vary']
 
 ### Logs
-- Attempt 1 BHT: Through the act of baptism, the former life is symbolically buried, paralleling the burial of Christ. Though the details of the sacrament may vary, the spiritual figures remain the same. Faith is the means by which believers lay hold of Christ, and by trusting in God's power to raise Jesus, believers are spiritually raised to new life. The emphasis on faith in the resurrection is important, as baptism serves as a picture of the change already brought about in the heart through faith. The rite of baptism signifies the fellowship with Christ and the transition from the death of sin to the life of religion. Baptism, performed through immersion, represents the burial and resurrection of Christ, along with the burial of sins. It is crucial to recognize that faith in the operation of God is the foundation upon which baptism is received.
-- 🔄 Colossians 2:12 (attempt 1, 143 words, 32.47% quotes quality score: 2.6303026962989495, V2 normalized quality score: 78.8, commentator tiers 1-3: 33.12%, 36.19%, 30.7%) 
+- Attempt 1 BHT: Baptism is often regarded as the burial of the former life, symbolically represented through immersion. The power of God displayed in raising Jesus from the dead serves as a pledge of our spiritual resurrection and a condition for the spiritual power already at work within us. Through baptism, we declare our faith in the expiatory death of Christ for the forgiveness of our sins. This act symbolizes our fellowship with Christ's resurrection and our final resurrection. It is through faith in God's power that we participate in this new life. While the mode of baptism may vary, the spiritual figures and truths it represents remain constant.
+- 🔄 Colossians 2:12 (attempt 1, 108 words, 37.5% quotes quality score: 2.498341034145306, V2 normalized quality score: 74.41, commentator tiers 1-3: 35.61%, 35.23%, 29.16%) 
 	- BHT WAS OVER 70 WORDS!
-- Attempt 2 BHT: Through baptism, the former life is symbolically buried, paralleling Christ's burial. The minor details of the sacrament may vary, but the spiritual figures remain. Faith is the means by which believers lay hold of Christ, and by trusting in God's power to raise Jesus, believers are spiritually raised. Baptism represents the fellowship with Christ and the transition from the death of sin to the life of religion. Crucially, faith in God's operation is the foundation of receiving baptism.
-- 🔄 Colossians 2:12 (attempt 2, 81 words, 28.85% quotes quality score: 2.4627574773344643, V2 normalized quality score: 73.23, commentator tiers 1-3: 32.64%, 36.13%, 31.23%) 
+- Attempt 2 BHT: Baptism is seen as the burial of the old carnal life, symbolized by immersion. God's power in raising Jesus from the dead assures our spiritual resurrection, while baptism signifies our fellowship with Christ's resurrection and our future resurrection. By putting faith in the expiatory death of Christ, believers declare their forgiveness of sins. Though baptism methods may differ, the spiritual truths it represents remain constant. It is through faith in God's power that we enter into new life.
+- 🔄 Colossians 2:12 (attempt 2, 81 words, 33.93% quotes quality score: 2.470756760481043, V2 normalized quality score: 73.49, commentator tiers 1-3: 35.11%, 35.95%, 28.94%) 
 	- BHT WAS OVER 70 WORDS!
-- ✅ Colossians 2:12 bht prompt v0.7 (79 words, 33.96% quotes)
-- quality score: 2.4535252944483252, V2 normalized quality score: 72.92, commentator tiers 1-3: 33.79%, 36.04%, 30.17%)
+- ✅ Colossians 2:12 bht prompt v0.7 (76 words, 40.0% quotes)
+- quality score: 2.5131019644822334, V2 normalized quality score: 74.9, commentator tiers 1-3: 35.53%, 35.73%, 28.75%)

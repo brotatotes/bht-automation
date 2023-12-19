@@ -1,18 +1,18 @@
 # 1 Corinthians 10:3 Commentary Help Text
 
 ## BHT:
-The Apostle Paul's testimony underscores the significance of Christian sacraments as more than mere signs or remembrances, but essential for membership in Christ. The manna, a miraculous provision from God, held a spiritual meaning and foreshadowed Christ's role as the true bread from heaven. Just as the manna was not mere physical food, the sacraments go beyond surface rituals, pointing to the deeper spiritual realities and benefits in our relationship with Christ.
+The manna and miraculous stream symbolize the body and blood of Christ in the sacrament. This highlights the importance and necessity of the sacraments for membership in Christ, refuting those who diminish their significance. The manna, called 'spiritual meat,' was given by God's power, serving as a sacramental seal for believers. It typifies Christ as the true bread from heaven. The sacraments are not empty symbols, but a means by which God imparts the reality of Christ to us.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "The whole passage is a standing testimony, incidentally, but most providentially, given by the great Apostle to the importance of the Christian sacraments, as necessary to membership of Christ, and not mere signs or remembrances: and an inspired protest against those who, whether as individuals or sects, would lower their dignity, or deny their necessity."
-2. "The manna is thus called, from its being no mere physical production, but miraculously given by God the work of His Spirit."
-3. "We can scarcely avoid recognizing in these words a tacit reference to our Lord’s discourse, or at all events to the substanee of it, John 6:31-58."
+1. "The two elements in this Christian sacrament were anticipated in their ease by the manna and the miraculous stream from the rock: these elements, in their case, as well as ours, symbolizing THE BODY AND BLOOD OF CHRIST."
+2. "The whole passage is a standing testimony, incidentally, but most providentially, given by the great Apostle to the importance of the Christian Sacraments as necessary to membership of Christ, and not mere signs or remembrances."
+3. "An inspired protest against those who, whether as individuals or sects, would lower their dignity, or deny their necessity."
 
 ### Jamieson-Fausset-Brown:
-1. "an inspired protest against those who lower their dignity, or deny their necessity" [ALFORD].
-2. "He does not mean by 'the same' that the Israelites and we Christians have the 'same' sacrament; but that believing and unbelieving Israelites alike had 'the same' spiritual privilege of the manna."
-3. "Not that the Israelites clearly understood the signification; but believers among them would feel that in the type something more was meant; and their implicit and reverent, though indistinct, faith was counted to them for justification, of which the manna was a kind of sacramental seal."
+1. "An inspired protest against those who lower their dignity, or deny their necessity." 
+2. "It was 'spiritual meat' or food; because given by the power of God's spirit, not by human labor."
+3. "Believers among them would feel that in the type something more was meant; and their implicit and reverent, though indistinct, faith was counted to them for justification, of which the manna was a kind of sacramental seal."
 
 ### Albert Barnes:
 1. "The word 'spiritual' here is evidently used to denote that which was given by the Spirit, or by God; that which was the result of his miraculous gift, and which was not produced in the ordinary way."
@@ -24,9 +24,9 @@ The Apostle Paul's testimony underscores the significance of Christian sacrament
 
 
 ### John Calvin:
-1. "A sign, it is true, is a sign, and retains its essence, but, as Papists act a ridiculous part, who dream of transformations, (I know not of what sort), so it is not for us to separate between the reality and the emblem which God has conjoined."
-2. "Thus there is a difference between us and them only in degree, or, (as they commonly say), of 'more and less,' for we receive more fully what they received in a smaller measure. It is not as if they had had bare emblems, while we enjoy the reality."
-3. "What does he mean to say here, but that the ancient people of God were honored with the same benefits with us, and were partakers of the same sacraments, that we might not, from confiding in any peculiar privilege, imagine that we would be exempted from the punishment which they endured?"
+1. "It is not bare emblems that are presented to us in the Sacraments, but that the thing represented is at the same time truly imparted, for God is not a deceiver to feed us with empty fancies."
+2. "Thus there is a difference between us and them only in degree, or, of 'more and less,' for we receive more fully what they received in a smaller measure. It is not as if they had had bare emblems, while we enjoy the reality."
+3. "He chose rather those that were more obscure, because they served more as a contrast between us and them."
 
 ### Philip Schaff:
 1. 1 Corinthians 10:3. and did all eat the same spiritual meat the manna which, by a mysterious arrangement of heaven, fed them all their journey through.
@@ -35,41 +35,43 @@ The Apostle Paul's testimony underscores the significance of Christian sacrament
 
 
 ### Archibald T. Robertson:
-1. "The reference is to the manna (Exodus 16:13) which is termed 'spiritual' by reason of its supernatural character."
-2. "Βρωμα is food, not just flesh."
-3. "Jesus called himself the true bread from heaven (John 6:35) which the manna typified."
+1. "The same spiritual meat."
+2. "The reference is to the manna which is termed 'spiritual' by reason of its supernatural character."
+3. "Jesus called himself the true bread from heaven which the manna typified."
 
 ### John Gill:
-1. "it had a mystical and spiritual meaning in it; it was not the true bread, but was typical of Christ, who is so."
-2. "it resembled Christ in its original; it was prepared of God, as Christ is, as his salvation prepared before the face of all his people."
-3. "so Christ, and the fulness of grace that is in him, are the food and supply of the spiritual Israel, and church of God, whilst they are passing through this world to the heavenly glory."
+1. "the manna...had a mystical and spiritual meaning in it; it was not the true bread, but was typical of Christ, who is so"
+2. "it resembled Christ in its original...it came down from heaven, as Christ, the true bread of life did"
+3. "all the saints have an equal share and interest in Christ, in his blood, righteousness, and sacrifice; as they have the same like precious faith, they have the same object of it"
 
 ### John Wesley:
-1. "And all ate the same manna, termed spiritual meat, as it was typical, of Christ and his spiritual benefits."
-2. "And all ate the same manna, termed spiritual meat, as it was typical, of the sacred bread which we eat at his table."
-3. "And all ate the same manna, termed spiritual meat, as it was typical, of Christ and his spiritual benefits."
+1. "And all ate the same manna, termed spiritual meat..." 
+2. "It was typical, 1. Of Christ and his spiritual benefits: 2. Of the sacred bread which we eat at his table."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-13-2023 01:40:07
+- Timestamp: 12-18-2023 19:29:22
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 74
-- BHT Commentary Usage: 36.36%
-- BHT Quality Score: 2.3128216337993797
-- Generate Attempts: 2 / 5
-- ChatGPT injected words (55):
-	['a', 'and', 'apostle', 'as', 'benefits', 'beyond', 'bread', 'but', 'christ', 'christian', 'deeper', 'essential', 'food', 'for', 'foreshadowed', 'from', 'go', 'god', 'heaven', 'held', 'in', 'just', 'manna', 'meaning', 'membership', 'mere', 'miraculous', 'more', 'not', 'of', 'or', 'our', 'paul', 'physical', 'pointing', 'provision', 'realities', 'relationship', 'remembrances', 'rituals', 'role', 's', 'sacraments', 'significance', 'signs', 'spiritual', 'surface', 'testimony', 'than', 'the', 'to', 'true', 'underscores', 'was', 'with']
+- BHT Word Count: 80
+- BHT Commentary Usage: 38.6%
+- BHT Quality Score: 2.207009818995229
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (57):
+	['a', 'and', 'are', 'as', 'believers', 'blood', 'body', 'bread', 'but', 'by', 'called', 'christ', 'diminish', 'empty', 'for', 'from', 'given', 'god', 'heaven', 'highlights', 'imparts', 'importance', 'in', 'it', 'manna', 'means', 'meat', 'membership', 'miraculous', 'necessity', 'not', 'of', 'power', 'reality', 'refuting', 's', 'sacrament', 'sacramental', 'sacraments', 'seal', 'serving', 'significance', 'spiritual', 'stream', 'symbolize', 'symbols', 'the', 'their', 'this', 'those', 'to', 'true', 'typifies', 'us', 'was', 'which', 'who']
 - ChatGPT injected words (significant words only) (35):
-	['apostle', 'benefits', 'bread', 'christ', 'christian', 'deeper', 'essential', 'food', 'foreshadowed', 'god', 'heaven', 'held', 'manna', 'meaning', 'membership', 'mere', 'miraculous', 'paul', 'physical', 'pointing', 'provision', 'realities', 'relationship', 'remembrances', 'rituals', 'role', 's', 'sacraments', 'significance', 'signs', 'spiritual', 'surface', 'testimony', 'true', 'underscores']
+	['believers', 'blood', 'body', 'bread', 'called', 'christ', 'diminish', 'given', 'god', 'heaven', 'highlights', 'imparts', 'importance', 'manna', 'means', 'meat', 'membership', 'miraculous', 'necessity', 'power', 'reality', 'refuting', 's', 'sacrament', 'sacramental', 'sacraments', 'seal', 'serving', 'significance', 'spiritual', 'stream', 'symbolize', 'symbols', 'true', 'typifies']
 
 ### Logs
-- Attempt 1 BHT: In 1 Corinthians 10:3, the Apostle Paul emphasizes the importance and necessity of the Christian sacraments, such as the Lord's Supper, which are not mere signs or remembrances, but essential to our participation in Christ. The manna mentioned in this verse is not just a physical provision, but a miraculous gift from God, a work of His Spirit. This reference to the manna also echoes Jesus' discourse in John 6, where He identifies Himself as the true bread from heaven. The term spiritual is used to describe the manna because it came from heaven and had a supernatural character. It represented something more than physical sustenance; it pointed to a deeper spiritual reality, just as the sacraments do for us as believers today.
-- 🔄 1 Corinthians 10:3 (attempt 1, 121 words, 40.24% quotes quality score: 2.3293519630110318, V2 normalized quality score: 68.79, commentator tiers 1-3: 38.18%, 27.14%, 34.69%) 
+- Attempt 1 BHT: The verse refers to the manna and the miraculous stream from the rock, which were symbols of the body and blood of Christ, anticipating the Christian sacrament. This passage emphasizes the importance and necessity of the sacraments as a means of membership in Christ, and is a protest against those who lower their significance or deny their necessity. The manna, called spiritual meat, was given by the power of God's spirit, serving as a sacramental seal of justification for believers. Moreover, the manna typified Christ as the true bread from heaven. It is not mere emblems that are presented in the sacraments, for God imparts the reality to us. Thus, the difference between us and the Israelites lies in the degree of reception, rather than a distinction between emblems and reality.
+- 🔄 1 Corinthians 10:3 (attempt 1, 132 words, 36.59% quotes quality score: 2.1964524218616313, V2 normalized quality score: 64.37, commentator tiers 1-3: 39.48%, 24.97%, 35.55%) 
 	- BHT WAS OVER 70 WORDS! 
-	- VERSE_REF FOUND IN BHT! 
+	- 'PASSAGE' FOUND IN BHT! 
 	- 'VERSE' FOUND IN BHT!
-- ✅ 1 Corinthians 10:3 bht prompt v0.7 (74 words, 36.36% quotes)
-- quality score: 2.3128216337993797, V2 normalized quality score: 68.24, commentator tiers 1-3: 36.77%, 24.72%, 38.5%)
+- Attempt 2 BHT: The manna and miraculous stream from the rock symbolize the body and blood of Christ in the Christian sacrament. This emphasizes the importance and necessity of the sacraments for membership in Christ. By calling the manna 'spiritual meat,' it signifies that it was given by God's power. The manna serves as a sacramental seal for believers, just as Christ is the true bread from heaven. Ultimately, the sacraments are not empty emblems, but a means through which God imparts the reality of Christ to us.
+- 🔄 1 Corinthians 10:3 (attempt 2, 86 words, 39.66% quotes quality score: 2.2688662842947016, V2 normalized quality score: 66.78, commentator tiers 1-3: 39.06%, 25.18%, 35.76%) 
+	- BHT WAS OVER 70 WORDS!
+- ✅ 1 Corinthians 10:3 bht prompt v0.7 (80 words, 38.6% quotes)
+- quality score: 2.207009818995229, V2 normalized quality score: 64.72, commentator tiers 1-3: 39.44%, 24.49%, 36.07%)

@@ -1,13 +1,13 @@
 # 1 Corinthians 11:14 Commentary Help Text
 
 ## BHT:
-Men should be uncovered while women should be covered, as nature itself suggests. The prevailing custom of men not having long hair reflects a universally recognized sense of propriety. Men with long hair appear unmanly and expose themselves to ridicule and contempt. It is important to prioritize nature's indications and not be influenced by the customs of other nations.
+It is clear that man was designed to be uncovered, while woman was meant to be covered, as nature's suggestion and the distinctions between the sexes imply. The presence of long hair on women further reinforces the practice of covering them. Although there are exceptions, such as the Nazarite vow, it is crucial to consider both custom and nature when discussing the proprieties of clothing the body.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "This plainly declares that man was intended to be uncovered, woman, covered."
-2. "When therefore we deal with the proprieties of the artificial state, of clothing the body, we must be regulated by nature’s suggestion: that which she has indicated to be left uncovered, we must so leave: that which she has covered, when we clothe the body, we must cover likewise."
-3. "The Apostle (see above) makes no allusion to the customs of nations in the matter, nor is even the mention of them relevant."
+1. "This plainly declares that man was intended to be uncovered,—woman, covered."
+2. "When therefore we deal with the proprieties of the artificial state, of clothing the body, we must be regulated by nature's suggestion."
+3. "That which she has covered, when we clothe the body, we must cover likewise."
 
 ### Jamieson-Fausset-Brown:
 1. "The fact that nature has provided woman, and not man, with long hair, proves that man was designed to be uncovered, and woman covered."
@@ -15,8 +15,8 @@ Men should be uncovered while women should be covered, as nature itself suggests
 3. "Compare as to Absalom, 2 Samuel 14:26; Acts 18:18."
 
 ### Albert Barnes:
-1. "The word nature (φύσις phusis) denotes evidently that sense of propriety which all men have, and which is expressed in any prevailing or universal custom."
-2. "A few, and only a few, have regarded it as comely for a man to wear his hair long."
+1. "Nature, as arranged by God, has demanded it."
+2. "Nature, in all nations, has prompted to the same course."
 3. "It is improper and disgraceful. It is doing that which almost universal custom has said appropriately belongs to the female sex."
 
 ### Marvin Vincent:
@@ -28,13 +28,11 @@ Men should be uncovered while women should be covered, as nature itself suggests
 2. "The Roman satirist lashes the effeminacy of some men in his day who wore their hair long (Juv., Sat. ii. 96)."
 
 ### Archibald T. Robertson:
-1. "Nature itself (η φυσις αυτη). He reenforces the appeal to custom by the appeal to nature..."
-2. "Φυσις, from old verb φυω, to produce, like our word nature (Latin natura), is difficult to define."
-3. "Here it means native sense of propriety (cf. Romans 2:14) in addition to mere custom..."
+1. "He reenforces the appeal to custom by the appeal to nature in a question that expects the affirmative answer (ουδε)."
 
 ### John Gill:
-1. "Doth not even nature itself teach you... that if a man have long hair it is a shame unto him." 
-2. "He looks unmanly and womanish, and exposes himself to ridicule and contempt." 
+1. "Doth not even nature itself teach you... that if a man have long hair it is a shame unto him; he looks unmanly and womanish, and exposes himself to ridicule and contempt."
+2. "By nature is either meant, the law and light of nature, reason in man, common sense, or rather custom, which is second nature."
 3. "The usages of these people might direct and inform them in this matter."
 
 ### John Wesley:
@@ -44,34 +42,27 @@ Men should be uncovered while women should be covered, as nature itself suggests
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-13-2023 01:40:28
+- Timestamp: 12-18-2023 19:29:08
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 60
-- BHT Commentary Usage: 37.78%
-- BHT Quality Score: 2.062849211329676
-- Generate Attempts: 5 / 5
-- ChatGPT injected words (45):
-	['a', 'and', 'appear', 'as', 'be', 'by', 'contempt', 'covered', 'custom', 'customs', 'expose', 'hair', 'having', 'important', 'indications', 'influenced', 'is', 'it', 'itself', 'long', 'men', 'nations', 'nature', 'not', 'of', 'other', 'prevailing', 'prioritize', 'propriety', 'recognized', 'reflects', 'ridicule', 's', 'sense', 'should', 'suggests', 'the', 'themselves', 'to', 'uncovered', 'universally', 'unmanly', 'while', 'with', 'women']
-- ChatGPT injected words (significant words only) (28):
-	['appear', 'contempt', 'covered', 'custom', 'customs', 'expose', 'hair', 'having', 'important', 'indications', 'influenced', 'long', 'men', 'nations', 'nature', 'prevailing', 'prioritize', 'propriety', 'recognized', 'reflects', 'ridicule', 's', 'sense', 'suggests', 'uncovered', 'universally', 'unmanly', 'women']
+- BHT Word Count: 68
+- BHT Commentary Usage: 41.18%
+- BHT Quality Score: 2.019366056588947
+- Generate Attempts: 3 / 5
+- ChatGPT injected words (51):
+	['although', 'and', 'are', 'as', 'be', 'between', 'body', 'both', 'clear', 'clothing', 'consider', 'covered', 'covering', 'crucial', 'custom', 'designed', 'discussing', 'distinctions', 'exceptions', 'further', 'hair', 'imply', 'is', 'it', 'long', 'man', 'meant', 'nature', 'nazarite', 'of', 'on', 'practice', 'presence', 'proprieties', 'reinforces', 's', 'sexes', 'such', 'suggestion', 'that', 'the', 'them', 'there', 'to', 'uncovered', 'vow', 'was', 'when', 'while', 'woman', 'women']
+- ChatGPT injected words (significant words only) (30):
+	['body', 'clear', 'clothing', 'consider', 'covered', 'covering', 'crucial', 'custom', 'designed', 'discussing', 'distinctions', 'exceptions', 'hair', 'imply', 'long', 'man', 'meant', 'nature', 'nazarite', 'practice', 'presence', 'proprieties', 'reinforces', 's', 'sexes', 'suggestion', 'uncovered', 'vow', 'woman', 'women']
 
 ### Logs
-- Attempt 1 BHT: According to the first-tier commentary, the verse suggests that men should be uncovered and women should be covered. The author emphasizes the importance of following nature's indications - if something is meant to be uncovered, it should be left as such, and if it is meant to be covered, it should be covered. The commentary clarifies that the mention of customs of other nations is not relevant in this matter. Additionally, the fact that nature has provided women, and not men, with long hair implies that men should be uncovered and women covered. The second-tier commentary supports this view, explaining that the prevailing custom of men not wearing their hair long reflects the sense of propriety universally recognized. Lastly, the third-tier commentary states that men with long hair appear unmanly, womanish, and expose themselves to ridicule and contempt.
-- 🔄 1 Corinthians 11:14 (attempt 1, 141 words, 31.51% quotes quality score: 2.0167884087425203, V2 normalized quality score: 58.4, commentator tiers 1-3: 31.53%, 34.18%, 34.29%) 
+- Attempt 1 BHT: In 1 Corinthians 11:14, it is clear that man was intended to be uncovered while woman was meant to be covered. This is in line with nature and the distinctions between the sexes. The fact that women are naturally provided with long hair further supports the idea that man was designed to be uncovered and woman covered. However, there are exceptions to this rule, such as the Nazarite who wore long hair lawfully as part of a vow sanctioned by God. Ultimately, it is important to consider both custom and nature when discussing the proprieties of clothing the body.
+- 🔄 1 Corinthians 11:14 (attempt 1, 97 words, 41.27% quotes quality score: 2.0652089072484934, V2 normalized quality score: 60.01, commentator tiers 1-3: 37.74%, 30.06%, 32.2%) 
 	- BHT WAS OVER 70 WORDS! 
-	- 'COMMENTATOR/COMMENTARY' FOUND IN BHT! 
-	- 'VERSE' FOUND IN BHT!
-- Attempt 2 BHT: This passage suggests that men should be uncovered and women should be covered, following the indications of nature. The prevailing custom of men not wearing long hair is seen as universally recognized sense of propriety. It is emphasized that men with long hair appear unmanly, womanish, and expose themselves to ridicule and contempt. The customs of other nations are not relevant in this matter.
-- 🔄 1 Corinthians 11:14 (attempt 2, 64 words, 36.17% quotes quality score: 2.028566378403954, V2 normalized quality score: 58.79, commentator tiers 1-3: 28.19%, 34.94%, 36.86%) 
-	- 'PASSAGE' FOUND IN BHT!
-- Attempt 3 BHT: It is evident from the given insights that there is a clear distinction - men should remain uncovered while women ought to be covered. Nature itself indicates which parts of the body should be left uncovered or covered. Men with long hair are considered dishonorable, appearing unmanly and exposing themselves to ridicule. The prevailing custom among men reflects a universally recognized sense of propriety. It is important to prioritize nature's suggestions and not be swayed by the customs of other nations.
-- 🔄 1 Corinthians 11:14 (attempt 3, 81 words, 37.7% quotes quality score: 1.8259301270999644, V2 normalized quality score: 52.05, commentator tiers 1-3: 33.19%, 33.46%, 33.35%) 
-	- BHT WAS OVER 70 WORDS!
-- Attempt 4 BHT: This passage highlights the distinction between men being uncovered and women being covered. It stresses the importance of adhering to nature's indications regarding covering or uncovering specific parts of the body. Men with long hair are considered dishonorable, as it goes against the prevailing custom that reflects a universally recognized sense of propriety. It is crucial to prioritize nature's guidance rather than being influenced by the customs of other nations.
-- 🔄 1 Corinthians 11:14 (attempt 4, 72 words, 36.84% quotes quality score: 1.8297862790960395, V2 normalized quality score: 52.18, commentator tiers 1-3: 34.41%, 33.22%, 32.37%) 
+	- VERSE_REF FOUND IN BHT!
+- Attempt 2 BHT: In considering the proprieties of clothing the body, it is evident that man was meant to be uncovered while woman was intended to be covered, as stated in 1 Corinthians 11:14. This is in accordance with nature's suggestion and the distinctions between the sexes. The fact that women are naturally provided with long hair further supports the practice of covering women. While there are exceptions, such as the Nazarite vow, it is important to consider both custom and nature in these matters.
+- 🔄 1 Corinthians 11:14 (attempt 2, 81 words, 37.5% quotes quality score: 1.9381140630682552, V2 normalized quality score: 55.78, commentator tiers 1-3: 38.43%, 29.59%, 31.98%) 
 	- BHT WAS OVER 70 WORDS! 
-	- 'PASSAGE' FOUND IN BHT!
-- ✅ 1 Corinthians 11:14 bht prompt v0.7 (60 words, 37.78% quotes)
-- quality score: 2.062849211329676, V2 normalized quality score: 59.93, commentator tiers 1-3: 27.08%, 35.19%, 37.73%)
+	- VERSE_REF FOUND IN BHT!
+- ✅ 1 Corinthians 11:14 bht prompt v0.7 (68 words, 41.18% quotes)
+- quality score: 2.019366056588947, V2 normalized quality score: 58.49, commentator tiers 1-3: 40.2%, 26.24%, 33.56%)

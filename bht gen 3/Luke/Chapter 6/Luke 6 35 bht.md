@@ -1,18 +1,16 @@
 # Luke 6:35 Commentary Help Text
 
 ## BHT:
-We are called to be like the sons of God, partakers of the glory of the Messiah's Kingdom, by refusing no one and without anxiety. Jesus teaches us to never despair, but to help the apparently hopeless cases, not worrying about getting anything back. God the Father is kind towards the unkind and wicked, and as His children, we too must show kindness to our enemies, doing good and lending without expecting anything in return.
+We are encouraged to do good to others, even when it seems hopeless. As children of God, we should imitate His kindness and generosity towards those who may not deserve it. Jesus reminds us not to be discouraged if we don't receive anything in return, but to help those in desperate situations. Our focus should be on showing love and kindness, without expecting personal gain. This includes extending our benevolence to both friends and enemies, just as God does.
 
 ## Choicest Commentary Quotes:
 ### Henry Alford:
-1. "causing no one to despair, i.e. refusing no one" 
-2. "not despairing, i.e. without anxiety about the result"
-3. "sons of God' in the sense of partakers of the glory of the Messiah’s Kingdom"
+1. "The original word is a difficult one... This meaning of the word is unexampled, though agreeing with the context."
 
 ### Marvin Vincent:
-1. "Hoping for nothing again [μηδεν απελπιζοντες]. A later Greek word, only here in New Testament, and meaning originally to give up in despair, a sense which is adopted by some high authorities, and by Rev., never despairing."
-2. "Thus Isaiah 29:19, 'The poor among men [οι απηλπισμενοι των ανθρωπων] shall rejoice.'"
-3. "Children of the Highest [υιοι υψιστου]. Rev., rightly, sons. Compare Matthew 5:45, Matthew 5:48."
+1. "do good as those who consider nothing as lost."
+2. "sons."
+3. "Kind"
 
 ### John Calvin:
 1. "Christ only exhorts us to perform our duties freely, and tells us that mercenary acts are of no account in the sight of God."
@@ -20,45 +18,47 @@ We are called to be like the sons of God, partakers of the glory of the Messiah'
 3. "When believers lend, they ought to go beyond heathens; or, in other words, they ought to exercise pure liberality."
 
 ### Archibald T. Robertson:
-1. "Never despairing... Jesus means that we are not to despair about getting the money back. We are to help the apparently hopeless cases."
-2. "By 'never despairing' or 'giving up nothing in despair' Jesus means that we are not to despair about getting the money back. We are to help the apparently hopeless cases."
+1. "By 'never despairing' or 'giving up nothing in despair' Jesus means that we are not to despair about getting the money back. We are to help the apparently hopeless cases." 
+2. "Sons of the Most High." 
 3. "God the Father is kind towards the unkind and wicked."
 
 ### John Gill:
-1. "But love ye your enemies, and do good and lend; not to your friends only, but to your enemies; hoping for nothing again." 
-2. "That ye may not cause any to despair... that ye may not cut off... the hope of men... that ye do not deceive the hope of any." 
-3. "He is kind to the unthankful and to the evil... for he is gracious, and does good, even to the ungodly."
+1. "But love ye your enemies,...."
+2. "and do good and lend; not to your friends only, but to your enemies;"
+3. "for he is kind to the unthankful and to the evil."
 
 
 ## Debug Info
 ### Generation Details
-- Timestamp: 12-13-2023 01:39:46
+- Timestamp: 12-18-2023 19:29:12
 - Choicest Prompt: "choicest prompt v0.4"
 - BHT Prompt: "bht prompt v0.7"
 - Commentators: "Henry Alford, Jamieson-Fausset-Brown, Albert Barnes, Marvin Vincent, John Calvin, Philip Schaff, Archibald T. Robertson, John Gill, John Wesley"
-- BHT Word Count: 76
-- BHT Commentary Usage: 47.46%
-- BHT Quality Score: 1.9405720724880462
+- BHT Word Count: 80
+- BHT Commentary Usage: 51.61%
+- BHT Quality Score: 1.271033443240815
 - Generate Attempts: 5 / 5
-- ChatGPT injected words (59):
-	['about', 'and', 'anxiety', 'anything', 'apparently', 'are', 'as', 'back', 'be', 'but', 'by', 'called', 'cases', 'children', 'despair', 'doing', 'enemies', 'expecting', 'father', 'getting', 'glory', 'god', 'good', 'help', 'his', 'hopeless', 'in', 'is', 'jesus', 'kind', 'kindness', 'kingdom', 'lending', 'like', 'messiah', 'must', 'never', 'no', 'not', 'of', 'one', 'our', 'partakers', 'refusing', 'return', 's', 'show', 'sons', 'teaches', 'the', 'to', 'too', 'towards', 'unkind', 'us', 'we', 'wicked', 'without', 'worrying']
-- ChatGPT injected words (significant words only) (31):
-	['anxiety', 'apparently', 'called', 'cases', 'children', 'despair', 'enemies', 'expecting', 'father', 'getting', 'glory', 'god', 'good', 'help', 'hopeless', 'jesus', 'kind', 'kindness', 'kingdom', 'lending', 'like', 'messiah', 'partakers', 'refusing', 'return', 's', 'sons', 'teaches', 'unkind', 'wicked', 'worrying']
+- ChatGPT injected words (62):
+	['and', 'anything', 'are', 'as', 'be', 'benevolence', 'both', 'but', 'children', 'deserve', 'desperate', 'discouraged', 'do', 'does', 'don', 'encouraged', 'enemies', 'even', 'expecting', 'extending', 'focus', 'friends', 'gain', 'generosity', 'god', 'good', 'help', 'his', 'hopeless', 'if', 'imitate', 'in', 'includes', 'it', 'jesus', 'just', 'kindness', 'love', 'may', 'not', 'of', 'on', 'others', 'our', 'personal', 'receive', 'reminds', 'return', 'seems', 'should', 'showing', 'situations', 't', 'this', 'those', 'to', 'towards', 'us', 'we', 'when', 'who', 'without']
+- ChatGPT injected words (significant words only) (30):
+	['benevolence', 'children', 'deserve', 'desperate', 'discouraged', 'don', 'encouraged', 'enemies', 'expecting', 'extending', 'focus', 'friends', 'gain', 'generosity', 'god', 'good', 'help', 'hopeless', 'imitate', 'includes', 'jesus', 'kindness', 'love', 'personal', 'receive', 'reminds', 'return', 'showing', 'situations', 't']
 
 ### Logs
-- Attempt 1 BHT: We are called to be like the sons of God, partakers of the glory of the Messiah's Kingdom, by refusing no one and without anxiety about the result. Jesus teaches us to never despair, but to help the apparently hopeless cases, not worrying about getting anything back. God the Father is kind towards the unkind and wicked, and as His children, we too must show kindness to our enemies, doing good and lending without expecting anything in return. Our duty is to assist others without any regard to our own advantage, looking only to the necessities of each person, just as God is gracious and does good even to the ungodly.
-- 🔄 Luke 6:35 (attempt 1, 112 words, 46.75% quotes quality score: 1.8691898687473945, V2 normalized quality score: 53.49, commentator tiers 1-3: 48.23%, 0.0%, 51.77%) 
+- Attempt 1 BHT: In this verse, Jesus exhorts believers to reflect the kindness and mercy of God the Father by never despairing and giving up on those seemingly hopeless cases. He calls us to do good without considering any loss, showing love and kindness even to our enemies. Jesus reminds us that God is kind to the unthankful and evil, and we should imitate His character by going beyond what is expected, exercising pure liberality and helping others without seeking any personal gain.
+- 🔄 Luke 6:35 (attempt 1, 80 words, 41.94% quotes quality score: 1.3927860268466778, V2 normalized quality score: 37.65, commentator tiers 1-3: 35.02%, 0.0%, 64.98%) 
+	- BHT WAS OVER 70 WORDS! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 2 BHT: Jesus commands believers to imitate the kindness of God the Father and not despair or give up on seemingly hopeless cases. He instructs us to do good to everyone, even enemies, and to extend help without expecting anything in return. We are called to go beyond what is expected, demonstrating pure liberality and showing love to the unthankful and wicked, just as God does.
+- 🔄 Luke 6:35 (attempt 2, 64 words, 49.06% quotes quality score: 1.3599725842053074, V2 normalized quality score: 36.56, commentator tiers 1-3: 38.15%, 0.0%, 61.85%)
+- Attempt 3 BHT: In this verse, we are urged to do good to others even when it seems hopeless or we may not receive anything in return. We are instructed to be like children of God, who is kind and generous to those who may not deserve it. Jesus reminds us not to become discouraged if we do not get repaid, but to help those who are in desperate situations. The focus is on showing love and kindness, without expecting any personal gain or advantage. We are called to extend our benevolence to both friends and enemies, just as God is kind to the ungrateful and wicked.
+- 🔄 Luke 6:35 (attempt 3, 104 words, 49.28% quotes quality score: 1.378432400057511, V2 normalized quality score: 37.18, commentator tiers 1-3: 36.74%, 0.0%, 63.26%) 
+	- BHT WAS OVER 70 WORDS! 
+	- 'VERSE' FOUND IN BHT!
+- Attempt 4 BHT: We are encouraged to do good to others, even when it seems hopeless. As children of God, we should imitate His kindness and generosity towards those who may not deserve it. Jesus reminds us not to be discouraged if we don't receive anything in return, but to help those in desperate situations. Our focus should be on showing love and kindness, without expecting personal gain. This includes extending our benevolence to both friends and enemies, just as God does.
+- 🔄 Luke 6:35 (attempt 4, 80 words, 51.61% quotes quality score: 1.271033443240815, V2 normalized quality score: 33.61, commentator tiers 1-3: 32.88%, 0.0%, 67.12%) 
 	- BHT WAS OVER 70 WORDS!
-- Attempt 2 BHT: We are called to be like the sons of God, partakers of the glory of the Messiah's Kingdom, by refusing no one and without anxiety. Jesus teaches us to never despair, but to help the apparently hopeless cases, not worrying about getting anything back. God the Father is kind towards the unkind and wicked, and as His children, we too must show kindness to our enemies, doing good and lending without expecting anything in return.
-- 🔄 Luke 6:35 (attempt 2, 76 words, 47.46% quotes quality score: 1.9405720724880462, V2 normalized quality score: 55.87, commentator tiers 1-3: 53.65%, 0.0%, 46.35%) 
+- Attempt 5 BHT: We are called to emulate the kindness of God, showing love and mercy to both friends and enemies. Even in seemingly hopeless situations, we are urged to do good without expecting anything in return. The focus is on selfless acts of kindness, reflecting God's character. We should not be discouraged if we are not repaid, as our ultimate goal is to demonstrate the unconditional love that God extends to all, including the ungrateful and wicked.
+- 🔄 Luke 6:35 (attempt 5, 76 words, 40.74% quotes quality score: 1.2683589707611962, V2 normalized quality score: 33.52, commentator tiers 1-3: 35.65%, 0.0%, 64.35%) 
 	- BHT WAS OVER 70 WORDS!
-- Attempt 3 BHT: We are to imitate the kindness and generosity of God by refusing no one and without anxiety. Jesus teaches us to never despair, but to help the apparently hopeless cases, not worrying about getting anything back. As children of God, we are called to show kindness to even our enemies, doing good and lending without expecting anything in return. Our duty is to assist others without regard to our own advantage, just as God is gracious to the ungodly.
-- 🔄 Luke 6:35 (attempt 3, 79 words, 49.09% quotes quality score: 1.8215113615265925, V2 normalized quality score: 51.91, commentator tiers 1-3: 46.54%, 0.0%, 53.46%) 
-	- BHT WAS OVER 70 WORDS!
-- Attempt 4 BHT: We are called to imitate God's kindness by refusing no one and without anxiety. Jesus teaches us to never despair, but to help the apparently hopeless cases, not worrying about getting anything back. As children of God, we are to show kindness to our enemies, doing good and lending without expecting anything in return. Our duty is to assist others without regard to our own advantage, mirroring God's graciousness even to the ungodly.
-- 🔄 Luke 6:35 (attempt 4, 75 words, 47.27% quotes quality score: 1.7970049553111442, V2 normalized quality score: 51.09, commentator tiers 1-3: 46.75%, 0.0%, 53.25%) 
-	- BHT WAS OVER 70 WORDS!
-- Attempt 5 BHT: We are called to imitate God by refusing no one and without anxiety. Jesus teaches us to never despair, but to help the apparently hopeless, not expecting anything in return. As children of God, we show kindness to enemies, doing good and lending without selfish motives. Our duty is to assist others selflessly, reflecting God's graciousness even to the ungodly.
-- 🔄 Luke 6:35 (attempt 5, 61 words, 46.0% quotes quality score: 1.7453505700389647, V2 normalized quality score: 49.37, commentator tiers 1-3: 48.9%, 0.0%, 51.1%)
-- ✅ Luke 6:35 bht prompt v0.7 (76 words, 47.46% quotes)
-- quality score: 1.9405720724880462, V2 normalized quality score: 55.87, commentator tiers 1-3: 53.65%, 0.0%, 46.35%)
+- ✅ Luke 6:35 bht prompt v0.7 (80 words, 51.61% quotes)
+- quality score: 1.271033443240815, V2 normalized quality score: 33.61, commentator tiers 1-3: 32.88%, 0.0%, 67.12%)
